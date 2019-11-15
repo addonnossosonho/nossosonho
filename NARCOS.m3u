@@ -1,0 +1,91 @@
+#EXTM3U size="Medium"
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos1.jpg" group-title="Narcos", "01x01 - A Chegada"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST01EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos1.jpg" group-title="Narcos", "01x02 - A Espada De Simón Bolívar"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST01EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos1.jpg" group-title="Narcos", "01x03 - Os Homens De Sempre"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST01EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos1.jpg" group-title="Narcos", "01x04 - O Palácio Em Chamas"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST01EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos1.jpg" group-title="Narcos", "01x05 - Haverá Um Futuro"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST01EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos1.jpg" group-title="Narcos", "01x06 - Explosivos"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST01EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos1.jpg" group-title="Narcos", "01x07 - Chorarás Lágrimas De Sangue"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST01EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos1.jpg" group-title="Narcos", "01x08 - La Gran Mentira"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST01EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos1.jpg" group-title="Narcos", "01x09 - La Catedral"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST01EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos1.jpg" group-title="Narcos", "01x10 - Decolando"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST01EP10.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos2.jpg" group-title="Narcos", "02x01 - Livre"
+http://cdnfe3.azureedge.net/RCServer11/ondemand/NRCST02EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos2.jpg" group-title="Narcos", "02x02 - Cambalache"
+http://cdnfe3.azureedge.net/RCServer11/ondemand/NRCST02EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos2.jpg" group-title="Narcos", "02x03 - Parceiro de Madrid"
+http://cdnfe3.azureedge.net/RCServer11/ondemand/NRCST02EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos2.jpg" group-title="Narcos", "02x04 - Os Bons, os Maus e os Mortos"
+http://cdnfe3.azureedge.net/RCServer11/ondemand/NRCST02EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos2.jpg" group-title="Narcos", "02x05 - Inimigos do Meu Inimigo"
+http://cdnfe3.azureedge.net/RCServer11/ondemand/NRCST02EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos2.jpg" group-title="Narcos", "02x06 - Los Pepes"
+http://cdnfe3.azureedge.net/RCServer11/ondemand/NRCST02EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos2.jpg" group-title="Narcos", "02x07 - Deutschland 93"
+http://cdnfe3.azureedge.net/RCServer11/ondemand/NRCST02EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos2.jpg" group-title="Narcos", "02x08 - Saída de El Patrón"
+http://cdnfe3.azureedge.net/RCServer11/ondemand/NRCST02EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos2.jpg" group-title="Narcos", "02x09 - Nossa Fazenda"
+http://cdnfe3.azureedge.net/RCServer11/ondemand/NRCST02EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Narcos2.jpg" group-title="Narcos", "02x10 - Al Fin Cayóǃ"
+http://cdnfe3.azureedge.net/RCServer11/ondemand/NRCST02EP10.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Narcos3.jpg" group-title="Narcos", "03x01 - Jogada de Mestre"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST03EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Narcos3.jpg" group-title="Narcos", "03x02 - A KGB de Cáli"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST03EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Narcos3.jpg" group-title="Narcos", "03x03 - A Trilha do Dinheiro"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST03EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Narcos3.jpg" group-title="Narcos", "03x04 - Xeque-Mate"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST03EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Narcos3.jpg" group-title="Narcos", "03x05 - Manutenção, Reparo e Operações"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST03EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Narcos3.jpg" group-title="Narcos", "03x06 - Os Melhores Planos"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST03EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Narcos3.jpg" group-title="Narcos", "03x07 - Sem Saída"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST03EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Narcos3.jpg" group-title="Narcos", "03x08 - Convivência"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST03EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Narcos3.jpg" group-title="Narcos", "03x09 - Todos os Homens do Presidente"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST03EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Narcos3.jpg" group-title="Narcos", "03x10 - De Volta a Cáli"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/NRCST03EP10.mp4
