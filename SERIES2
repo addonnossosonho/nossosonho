@@ -1696,7 +1696,7 @@ Em seis episódios, a série traz imagens exclusivas, entrevistas com testemunha
 <link>http://cdnfe2.azureedge.net/RCServer12/ondemand/OVNSINVSTCSCRTAT01EP03.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-03</link>
 <link>http://cdnfe2.azureedge.net/RCServer12/ondemand/OVNSINVSTCSCRTAT01EP04.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-04</link>
 <link>http://cdnfe2.azureedge.net/RCServer12/ondemand/OVNSINVSTCSCRTAT01EP05.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-05</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SNnjr92Rtf17J9HBy8HgmgCwBIAQjG8n/view$$lsname=[COLOR orange]HD[/COLOR] - EP 6</link>
+<link>http://cdnfe2.azureedge.net/RCServer12/ondemand/OVNSINVSTCSCRTAT01EP06.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-06</link>
 <info>Em seis episódios, a série traz imagens exclusivas, entrevistas com testemunhas oculares e ex-agentes militares, e avanços importantes sobre o conhecimento da tecnologia por trás desses intrigantes fenômenos.</info>
 <genre>FICÇÃO</genre>
 </item>
@@ -1771,6 +1771,16 @@ Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SuperNatural.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/ji6ehQWPo00KScXhdmub8wQA6H.jpg</fanart>
 <info>Os irmãos Dean e Sam vasculham o país em busca de atividades paranormais, brigando com demônios, fantasmas e monstros no caminho.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Jornada nas Estrelas (1966)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2wbC7fxiOJqzTb6HPr4N6bsjLF.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/STARTREK.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/lVNUYvjVRfbf0p7peJh5JhyBIir.jpg</fanart>
+<info>O imperturbável Cap. James T. Kirk leva a icônica e intergalática tripulação da USS Enterprise nesta série pioneira sobre a exploração espacial.</info>
 </channel>
 </channels>
 
