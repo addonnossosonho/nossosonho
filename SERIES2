@@ -512,6 +512,16 @@ A busca de uma mulher para descobrir o desaparecimento misterioso do marido a le
 <info>A busca de uma mulher para descobrir o desaparecimento misterioso do marido a leva para o Congo, onde ela é forçada a procurar a verdade sobre o que aconteceu com o homem que amava.</info>
 </item>
 
+<channels>
+<channel>
+<name>[COLOR lime]Arquivo X (1993)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZYGaiCW6zVyDZaadmZMjQd7vVK.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ARQUIVOX.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/5Ycqqaf27bNWyxm7XRc9gRVniYe.jpg</fanart>
+<info>Dana Scully (Gillian Anderson) e Fox Mulder (David Duchovny), dois agentes do FBI investigam casos não solucionados, estranhos e inexplicáveis que envolvem fenômenos paranormais.</info>
+</channel>
+</channels>
+
 <channels></channels>
 <channel>
 <name>[COLOR lime]Arqueiro (2012)[/COLOR]</name>
