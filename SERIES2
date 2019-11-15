@@ -744,16 +744,6 @@ Inspirada nos quadrinhos do Arqueiro Verde, esta série acompanha as aventuras d
 
 <channels>
 <channel>
-<name>[COLOR lime]Billions (2016)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Irjj4IvzkJ189czasJIRt5BUbN.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Billions.m3u</externallink>
-<fanart>https://image.tmdb.org/t/p/original/6f3s7NbujF9NGBIdBQhRJcZAbFy.jpg</fanart>
-<info>Situada nos bastidores de Wall Street, a história acompanha a relação entre Chuck Rhoades, um Procurador de Justiça com temperamento agressivo, com Bobby Axelrod, um dos homens mais ricos do país.  Bobby é casado com Lara, uma ex-enfermeira de origem humilde; e o braço direito do milionário é Mike Wagner, mais conhecido como Wags. Já Rhoades é casado com Wendy, uma psiquiatra que atua como conselheira das figuras mais importantes e influentes do mundo financeiro.</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
 <name>[COLOR lime]Batman (1966)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZEJuuDh0Zpi5ELM3Zev0GBhQ3R.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BATMAN.m3u</externallink>
@@ -796,6 +786,16 @@ Kate Kane, uma jovem lésbica, decide utilizar suas altas habilidades de combate
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR lime]Bates Motel (2013)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOB0F1rZVmknJT06EXEdnGYnxlZ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BATESMOTEL.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/s3pypVJf05ELPCUA6jSW381nLwm.jpg</fanart>
+<info>Após a morte do pai, Norman Bates e sua mãe abrem um hotel. Mas o estado mental de Norman os leva por um caminho sombrio e violento.</info>
+</channel>
+</channels>
+
 <channels></channels>
 <channel>
 <name>[COLOR lime]BEN HUR[/COLOR]</name>
@@ -816,11 +816,11 @@ A história de um homem injustamente condenado que luta pela sua sobrevivência 
 
 <channels>
 <channel>
-<name>[COLOR lime]Bates Motel (2013)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOB0F1rZVmknJT06EXEdnGYnxlZ.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BATESMOTEL.m3u</externallink>
-<fanart>https://image.tmdb.org/t/p/original/s3pypVJf05ELPCUA6jSW381nLwm.jpg</fanart>
-<info>Após a morte do pai, Norman Bates e sua mãe abrem um hotel. Mas o estado mental de Norman os leva por um caminho sombrio e violento.</info>
+<name>[COLOR lime]Better Call Saul (2015)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6tpspJMOauCQqud0KOcwNSq3F3.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BETTERCALLSAUL.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/6PoleZEAOHkRXjruYeuAE1zhb9x.jpg</fanart>
+<info>Nesta comédia de humor negro derivada da premiada série Breaking Bad, Jimmy McGill, um advogado ambicioso mas quase sem clientes, decide subir na vida e se transforma em Saul Goodman, o advogado capaz de tirar Walter White de mil enrascadas com a lei, com manobras nem sempre legais.</info>
 </channel>
 </channels>
 
@@ -831,6 +831,16 @@ A história de um homem injustamente condenado que luta pela sua sobrevivência 
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BIGBANGTHEORY.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/ag0xJcZYNmi3SdiI9zGaJNCciaP.jpg</fanart>
 <info>Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de física, mas não parecem saber como se relacionar com mulheres. Seus únicos amigos são Howard e Rajesh, mas tudo pode mudar quando conhecem a nova vizinha, a bela Penny, que logo encanta Leonard.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Billions (2016)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Irjj4IvzkJ189czasJIRt5BUbN.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Billions.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/6f3s7NbujF9NGBIdBQhRJcZAbFy.jpg</fanart>
+<info>Situada nos bastidores de Wall Street, a história acompanha a relação entre Chuck Rhoades, um Procurador de Justiça com temperamento agressivo, com Bobby Axelrod, um dos homens mais ricos do país.  Bobby é casado com Lara, uma ex-enfermeira de origem humilde; e o braço direito do milionário é Mike Wagner, mais conhecido como Wags. Já Rhoades é casado com Wendy, uma psiquiatra que atua como conselheira das figuras mais importantes e influentes do mundo financeiro.</info>
 </channel>
 </channels>
 
