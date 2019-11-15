@@ -1116,6 +1116,16 @@ Uma equipe inexperiente de submarinos tem que sobreviver a uma missão secreta e
 
 <channels>
 <channel>
+<name>[COLOR lime]Fear the Walking Dead (2015)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhEsZO98QBVkD7ylylMDwxI8UoM.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/FEARTHEWALKINGDEAD.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/nUXzdD2Jo3wV9Q7mIZjK46Yyty4.jpg</fanart>
+<info>Ambientada em Los Angeles, a série mostra o começo do apocalipse zumbi e a temível desintegração da sociedade pelos olhos de uma família disfuncional, que precisa se unir para tentar sobreviver ao caos do fim dos tempos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Game of Thrones (2011)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE9Acg2kt641lEpkJ4AUC7u5MJM.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/GameofThrones.m3u</externallink>
