@@ -1136,6 +1136,16 @@ Uma equipe inexperiente de submarinos tem que sobreviver a uma missão secreta e
 
 <channels>
 <channel>
+<name>[COLOR lime]Gotham (2014)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y0tpbWVOA8dAYKAd3BqLfNace1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/GOTHAM.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/bRFmBU0VPr9s1oeJHuS5Zb5nZQS.jpg</fanart>
+<info>O Comissário Gordon é um dos maiores inimigos do submundo do crime e um homem cuja reputação é sinônimo da lei e da ordem. Mas o que sabemos sobre a história de Gordon, desde um jovem detetive até virar comissário de polícia? Como ele fez para percorrer as múltiplas camadas de corrupção que secretamente comandam Gotham City, o local de desova dos maiores criminosos do mundo? E quais as circunstâncias em que estes criminosos foram criados? Gotham é uma “origin story” dos super-vilões e vigilantes, revelando um capítulo totalmente novo e nunca contado, seguindo a ascensão de um policial numa cidade perigosamente corrupta e à beira do mal, narrando o nascimento de um dos heróis mais populares do nosso tempo. Crescido nos subúrbios da cidade, Gordon romantizava a cidade como uma metrópole glamorosa e excitante, onde seu pai serviu como um bem-sucedido promotor. Agora, como detetive na polícia de Gotham e noivo da jovem Barbara Kean, ele está vivendo um sonho: restaurar sua cidade.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Grey's Anatomy (2005)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqgIOObafPJitt8JNh1LuO2fvqu.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/GreysAnatomy.m3u</externallink>
