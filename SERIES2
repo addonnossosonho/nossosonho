@@ -1240,6 +1240,16 @@ Hope Mikaelson, descendente da linhagem mais poderosa de vampiros, lobisomens e 
 <info>Hope Mikaelson, descendente da linhagem mais poderosa de vampiros, lobisomens e bruxas, frequenta a Escola Salvatore para Jovens e Superdotados, um refúgio onde ela pode aprender a controlar suas habilidades e impulsos sobrenaturais.</info>
 </item>
 
+<channels>
+<channel>
+<name>[COLOR lime]Lost (2004)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eFhWKobURE7RXN10Z712YhNYqk.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/lost.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/pILqOtqvuOxWBQcIipTbZc9ZSIk.jpg</fanart>
+<info>Em Lost você acompanha a vida dos sobreviventes de um acidente aéreo numa misteriosa ilha tropical, após o avião que viajava de Sydney, Austrália para Los Angeles, Estados Unidos cair em algum lugar do Oceano Pacífico.  A série tem um estilo único que segue dois tipos de histórias não ligadas entre si: primeiro, a luta dos 48 sobreviventes do desastre a trabalhar em conjunto para se manterem vivos. No entanto, a sua sobrevivência é ameaçada por vários mistérios, incluindo uma escotilha metálica enterrada no solo, uma criatura que vagueia pela selva e os habitantes da ilha conhecidos como "Os Outros", e em segundo, a série mostra também a vida dos personagens principais, antes do desastre, através de retrospectivas pessoais, os chamados flashbacks.</info>
+</channel>
+</channels>
+
 <channels></channels>
 <channel>
 <name>[COLOR lime]Lúcifer (2016)[/COLOR]</name>
