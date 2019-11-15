@@ -744,6 +744,16 @@ Inspirada nos quadrinhos do Arqueiro Verde, esta série acompanha as aventuras d
 
 <channels>
 <channel>
+<name>[COLOR lime]Billions (2016)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Irjj4IvzkJ189czasJIRt5BUbN.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Billions.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/6f3s7NbujF9NGBIdBQhRJcZAbFy.jpg</fanart>
+<info>Situada nos bastidores de Wall Street, a história acompanha a relação entre Chuck Rhoades, um Procurador de Justiça com temperamento agressivo, com Bobby Axelrod, um dos homens mais ricos do país.  Bobby é casado com Lara, uma ex-enfermeira de origem humilde; e o braço direito do milionário é Mike Wagner, mais conhecido como Wags. Já Rhoades é casado com Wendy, uma psiquiatra que atua como conselheira das figuras mais importantes e influentes do mundo financeiro.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Batman (1966)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZEJuuDh0Zpi5ELM3Zev0GBhQ3R.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BATMAN.m3u</externallink>
