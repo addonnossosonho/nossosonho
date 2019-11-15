@@ -816,6 +816,16 @@ A história de um homem injustamente condenado que luta pela sua sobrevivência 
 
 <channels>
 <channel>
+<name>[COLOR lime]Bates Motel (2013)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOB0F1rZVmknJT06EXEdnGYnxlZ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BATESMOTEL.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/s3pypVJf05ELPCUA6jSW381nLwm.jpg</fanart>
+<info>Após a morte do pai, Norman Bates e sua mãe abrem um hotel. Mas o estado mental de Norman os leva por um caminho sombrio e violento.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Big Bang: A Teoria (2007)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXLGUSXp3ZLkjwX0x45NXCagiNH.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BIGBANGTHEORY.m3u</externallink>
@@ -1497,6 +1507,26 @@ Um agente da Unidade de Crimes em Série do FBI desenvolve avançadas técnicas 
 <genre>POLICIAL</genre>
 </item>
 <item>
+
+<channels>
+<channel>
+<name>[COLOR lime]Narcos (2015)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjsZL1XeCEdmBasrmfCDeEV8gKR.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/NARCOS.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/bT7pArYmcE91iCTec5H7pjrVbSu.jpg</fanart>
+<info>A notória série sobre o tráfico é baseada na história real de violência e poder dos cartéis colombianos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Narcos: Mexico (2018)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXwMx8OvRFMfI1RmkbJm6Bq1jVg.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/NarcosMexico.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/uKSqHgZL2wevp87wAoGDKRDXxNR.jpg</fanart>
+<info>Assista ao nascimento da guerra ao tráfico no México dos anos 80 na nova saga de "Narcos" e descubra a verdadeira história da ascensão do Cartel de Guadalajara.</info>
+</channel>
+</channels>
 
 <channels>
 <channel>
