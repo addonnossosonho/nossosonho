@@ -1680,6 +1680,16 @@ Karin (Rafaela Mandelli), Luna (Juliana Schalch) e Magali (Michelle Batista) sã
 
 <channels>
 <channel>
+<name>[COLOR lime]Orange Is the New Black (2013)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7JbiWSRBljHHUZYGUWSD9PNv3v.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/OrangeIstheNewBlack.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/tQfQjGwtXyczTCt0hGU0UnqA3NW.jpg</fanart>
+<info>Uma jovem de classe alta acaba em uma penitenciária feminina por causa de um crime do passado nesta série vencedora do Emmy, da criadora de “Weeds”.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Os Simpsons (1989)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fSGtPOp3MlFfynLEjYjlOfenbk.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/OsSimpsons.m3u</externallink>
