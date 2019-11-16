@@ -1022,6 +1022,16 @@ Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futur
 
 <channels>
 <channel>
+<name>[COLOR lime]Castle (2009)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRFXgsfG8mngYxLegtu7noLdL2v.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Castle.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/3Dnlx6hM2Q4JknynCezyMMSoJv9.jpg</fanart>
+<info>Conheça Richard Castle: ele é um bem sucedido escritor de mistério de assassinatos, que acabou de matar o seu personagem principal. No entanto, parece que um de seus fãs gostou de seus livros um pouco demais quando um assassino copiador começa a matar pessoas ao redor, como descrito nos livros de Castle. Depois de ter sido interrogado pela polícia, Richard junta forças com a detetive Kate Beckett para resolver este caso. Os dois se tornam parceiros e começam a trabalhar juntos para resolver outros assassinatos em Nova York, juntamente com outros detetives Tony Esposito, Kevin Ryan e Capitão Roy Montgomery. Eles também trabalham com a médica-legista Lanie Parish. A família de Richard inclui sua mãe Martha Rodgers, que era uma diva da Broadway e sua filha Alexis.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]CHERNOBYL (2019)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/chernobyl.m3u</externallink>
@@ -1837,6 +1847,17 @@ Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes
 
 <channels>
 <channel>
+<name>[COLOR lime]Sherlock (2010)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9zGxLHGyQB10cMDZNY5ZcGKhZi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Sherlock.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/sIe7NGxaGaVe3zfQbuKRMyjl1lA.jpg</fanart>
+<info>Baseada nos livros de Sir Arthur Conan Doyle, Sherlock conta as aventuras do detetive particular Sherlock Holmes (Benedict Cumberbatch) e seu fiel escudeiro, Dr. John Watson (Martin Freeman), na Inglaterra dos dias de hoje.</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
 <name>[COLOR lime]Sex Education (2019)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzmDLYIokc7DkmDTBw1S4WTRVzj.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SEXEDUCATION.m3u</externallink>
@@ -1867,7 +1888,27 @@ Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes
 
 <channels>
 <channel>
-<name>[COLOR lime]Jornada nas Estrelas (1966)[/COLOR]</name>
+<name>[COLOR lime]Sons of Anarchy (2010)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfTur3Wdh4kiUbKF6rkm9XuVuG.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SonsofAnarchy.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/qNhc71BxQaB792TNOlxA76qCWxu.jpg</fanart>
+<info>Depois de tomar o controle da cidade, um clube de motoqueiros enfrenta problemas com rivais, grupos racistas e a lei.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Spartacus (2010)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6KrMYFWokJWc8PaczYSe6uhel4.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Spartacus.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/hXA66w15UN9wMGXeTVFQFJEj32Y.jpg</fanart>
+<info>Traído pelos romanos, forçado à escravidão e renascido como gladiador. A clássica história do mais famoso rebelde da república volta à vida, nessa nova série de ação e visual impactante, Spartacus: Blood and Sand (Sangue e Areia). Tirado de sua terra natal e arrancado do convívio da mulher que ama, Spartacus é condenado a viver no mundo brutal da arena, onde o sangue e a morte são os principais entretenimento do povo. Mas nem todas as batalhas são lutadas sobre a areia. Traições, corrupção e a abundância de prazeres sensuais vão constantemente testar Spartacus. Para sobreviver, ele deve ser mais do que um homem; mais do que gladiador; ele deve ser uma lenda.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Star Trek - Jornada nas Estrelas (1966)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2wbC7fxiOJqzTb6HPr4N6bsjLF.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/STARTREK.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/lVNUYvjVRfbf0p7peJh5JhyBIir.jpg</fanart>
@@ -1942,6 +1983,16 @@ Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TheGoodDoctor.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/mZjZgY6ObiKtVuKVDrnS9VnuNlE.jpg</fanart>
 <info>Um jovem médico com autismo começa a trabalhar em um famoso hospital. Além dos desafios da profissão, ele terá também que provar sua capacidade a seus colegas e superiores.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]The Pacífic (2010)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xV7FKNqOwnO3aJSiRM8WCrwdRS8.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ThePacific.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/jPT0fSpq1VPgqFbOgQgrG88u6ao.jpg</fanart>
+<info>"O Pacífico" é a aguardada sequência do épico “Band of Brothers” de Tom Hanks e Steven Spielberg. Diferentemente de sua série de origem que foi focada apenas nas incursões do Exército dos Estados Unidos, The Pacific abordará também atuação das forças européias em operações de guerra no Pacifico. O enredo relata as histórias de três fuzileiros: Robert Leckie, John Basilone e Eugene Sledge, que lutaram contra o ataque japonês no Pacífico durante a Segunda Guerra Mundial. A base do enredo foi o livro de memórias de Eugene Sledge, “With the Old Breed“.</info>
 </channel>
 </channels>
 
@@ -2065,5 +2116,35 @@ Uma visão atualizada do mundo, onde justiceiros mascarados transitam constantem
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/VAIQUECOLA.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/9UXpeKei466CCcNAl3d2XrBTjzO.jpg</fanart>
 <info>O malandro Valdomiro Lacerda (Paulo Gustavo) se envolve em uma falcatrua e, para fugir da polícia, acaba indo parar na Pensão da Jô (Catarina Abdalla), no Méier. Enquanto tenta se acostumar ao subúrbio, Valdo tem que lidar com as provocações do criado insolente Ferdinando (Marcus Majella), com o assédio da fogosa Terezinha (Cacau Protásio), com as esquisitices do misterioso Wilson (Fernando Caruso) e com as confusões do jovem casal Jéssica (Samantha Schmutz) e Máicol (Emiliano D'Avila), que ganha ares de triângulo amoroso com a proximidade da sensual Velna (Fiorella Mattheis).</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]The Vampire Diaries (2009)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtjrOwIQKvmh2FChp9ZUtsKAj3C.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TheVampireDiaries.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/3O4r2guye3WwLBNPTfpfecU1FBn.jpg</fanart>
+<info>Elena tenta sobreviver entre os seres sobrenaturais que vivem em segredo. Ela se apaixona pelo misterioso Stefan, mas o retorno do seu irmão, Damon, ameaça essa paixão.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Vikings (2013)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBDlsOhNOV1MkNii81aT14EYQ4S.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Vikings.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/gdmCzOBE5Ff0FSKKHiUdL2Tb7HU.jpg</fanart>
+<info>Ragnar Lothbrok, um jovem que se considera descendente de Odin, é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico. Mas para conseguir conquistá-las ele precisa convencer Earl Haraldson, o líder de seu povo, a permitir que ele e seus guerreiros viagem em direção à Inglaterra.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Z Nation (2014)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/26mjHEqg1Aox9H5Le6xfYKbn1S4.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ZNation.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/pYErfWWb52zq9QQFoZ0Qeoo5Yz.jpg</fanart>
+<info>Um grupo embarca em uma perigosa jornada pelo país para levar o único sobrevivente de uma epidemia zumbi a um centro de pesquisas.</info>
 </channel>
 </channels>
