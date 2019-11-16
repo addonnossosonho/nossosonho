@@ -1,9 +1,9 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]TV ONLINE[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia601508.us.archive.org/14/items/tvonline_201910/TVONLINE.png?fakeurl=1&type=.jpg</thumbnail>
+<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/TVONLINE.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/cniptv.m3u</externallink>
-<fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
+<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- SKY GRATIS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
@@ -15,7 +15,7 @@
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]CANAIS 24HS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia601508.us.archive.org/14/items/tvonline_201910/TVONLINE.png?fakeurl=1&type=.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/canais24hs</externallink>
-<fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
+<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- FILMES, DESENHOS E SERIES 24HS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
@@ -25,9 +25,9 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia601508.us.archive.org/14/items/tvonline_201910/TVONLINE.png?fakeurl=1&type=.jpg</thumbnail>
+<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/SERIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SERIES2</externallink>
-<fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
+<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- SKY GRATIS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
@@ -37,9 +37,9 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]A FAZENDA 11 24H AO VIVO[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://multicanais.com/wp-content/uploads/2019/09/A-fazenda-Ao-Vivo-Online-HD.png</thumbnail>
+<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AFAZENDA11.m3u</externallink>
-<fanart>https://segredosdomundo.r7.com/wp-content/uploads/2019/09/assistir-a-fazenda-online-24-horas-por-dia-e-possivel.jpeg</fanart>
+<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- Assistir A Fazenda online, 24 horas por dia, é possível! -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
@@ -49,9 +49,9 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801409.us.archive.org/35/items/COLECOESDEFILMES/FILMES.png</thumbnail>
+<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Filmes</externallink>
-<fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
+<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- OS MELHORES LANÇAMENTOS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
@@ -61,9 +61,9 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SUCESSOS DE BILHETERIA[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia601409.us.archive.org/35/items/COLECOESDEFILMES/SUCESSOSDEBILHETERIA.png</thumbnail>
+<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/SUCESSOSDEBILHETERIA.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ClassicosdoCinema</externallink>
-<fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
+<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- OS MELHORES CLASSICOS DE TODOS OS TEMPOS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
@@ -74,9 +74,9 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FILMES INFANTIS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia601409.us.archive.org/35/items/COLECOESDEFILMES/FILMESINFANTIS.png</thumbnail>
+<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/FILMESINFANTIS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/FILMES%20INFANTIS</externallink>
-<fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
+<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- TUDO PARA CRIANÇADA -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
@@ -86,9 +86,9 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]DESENHOS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801409.us.archive.org/35/items/COLECOESDEFILMES/DESENHOS.png</thumbnail>
+<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/DESENHOS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/DESENHOS</externallink>
-<fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
+<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- TUDO PARA CRIANÇADA -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
@@ -98,9 +98,9 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]RADIOS ONLINE[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801409.us.archive.org/35/items/COLECOESDEFILMES/RADIOSONLINE.png</thumbnail>
+<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/RADIOSONLINE.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/RADIOS</externallink>
-<fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
+<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- RADIOS ONLINE -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
@@ -110,9 +110,9 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SHOWS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801409.us.archive.org/35/items/COLECOESDEFILMES/RADIOSONLINE.png</thumbnail>
+<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SHOWS</externallink>
-<fanart>https://ia801506.us.archive.org/14/items/icon_20191013/fanart.jpg</fanart>
+<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- RADIOS ONLINE -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
