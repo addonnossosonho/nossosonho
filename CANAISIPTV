@@ -1,103 +1,1225 @@
-<channels>
-<channel>
-<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR silver]|[/COLOR] [COLOR orange]SERV 1[/COLOR][COLOR lime] ON[/COLOR][COLOR silver]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
-<thumbnail>https://ia801402.us.archive.org/20/items/lancae/TV.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/TV%20SERV%201</externallink>
-<fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - TV AO VIVO  by EQUIPE CHUVINHO- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-
-
-<channels>
-<channel>
-<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR silver]|[/COLOR] [COLOR orange]SERV 2[/COLOR][COLOR lime] ON[/COLOR][COLOR silver]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
-<thumbnail>https://ia801402.us.archive.org/20/items/lancae/TV.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/TV%20SERV%202</externallink>
-<fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - TV AO VIVO by EQUIPE CHUVINHO- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-
-
-<channels>
-<channel>
-<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR silver]|[/COLOR] [COLOR orange]SERV 3[/COLOR][COLOR lime] ON[/COLOR][COLOR silver]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
-<thumbnail>https://ia801402.us.archive.org/20/items/lancae/TV.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/TV%20SERV%203</externallink>
-<fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - TV AO VIVO by EQUIPE CHUVINHO- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-
-
-
-<channels>
-<channel>
-<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR silver]|[/COLOR] [COLOR orange]SERV 4[/COLOR][COLOR lime] ON[/COLOR][COLOR red][/COLOR][COLOR silver]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
-<thumbnail>https://ia801402.us.archive.org/20/items/lancae/TV.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/TV%20SERV%204</externallink>
-<fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - TV AO VIVO by EQUIPE CHUVINHO- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-
-<channels>
-<channel>
-<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR silver]|[/COLOR] [COLOR orange]SERV 5[/COLOR][COLOR lime] ON[/COLOR][COLOR red][/COLOR][COLOR silver]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
-<thumbnail>https://ia801402.us.archive.org/20/items/lancae/TV.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/TV%20SERV%205</externallink>
-<fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - TV AO VIVO by EQUIPE CHUVINHO- [COLOR deeppink]|[/COLOR]</info>
-
-
-
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR silver]|[/COLOR] [COLOR orange]SERV TESTE[/COLOR][COLOR lime]ON[/COLOR][COLOR red]OFF[/COLOR][COLOR silver]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
-<thumbnail>https://ia801402.us.archive.org/20/items/lancae/TV.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/TV%20SER%20TEST</externallink>
-<fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - TV AO VIVO by EQUIPE CHUVINHO- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-
-
-<channels>
-<channel>
-<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR silver]|[/COLOR] [COLOR orange]SERV TESTE 2[/COLOR][COLOR lime]ON[/COLOR][COLOR red]OFF[/COLOR][COLOR silver]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
-<thumbnail>https://ia801402.us.archive.org/20/items/lancae/TV.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/TV%20SER%20TEST%202</externallink>
-<fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - TV AO VIVO by EQUIPE CHUVINHO- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
+#EXTM3U
+#EXTINF:-1,Amor.Sem.Pecado.2015.720p.Dublado-WOLVERDONFILMES.COM
+http://s.tvmaster.net:80/movie/1234567/1234567/35110.mkv
+#EXTINF:-1,Bem Vindo Aos 40 (www.ThePirateFilmes.com)
+http://s.tvmaster.net:80/movie/1234567/1234567/35111.mp4
+#EXTINF:-1,Corrida Mortal 2 2010 (ThePiateFilmes.com)
+http://s.tvmaster.net:80/movie/1234567/1234567/35112.mp4
+#EXTINF:-1,Corrida Mortal 3 (ThePirateFilmes)
+http://s.tvmaster.net:80/movie/1234567/1234567/35113.mp4
+#EXTINF:-1,Destino Especial 1080p (2016) Dual Áudio BluRay 5.1 -- By - Lucas Firmo
+http://s.tvmaster.net:80/movie/1234567/1234567/35114.mkv
+#EXTINF:-1,Doce Tentação (2014) BRrip 1080p Dublado - AndreTPF
+http://s.tvmaster.net:80/movie/1234567/1234567/35115.mp4
+#EXTINF:-1,Duas.Irmãs.2015.1080p.Dublado-WOLVERDONFILMES.COM
+http://s.tvmaster.net:80/movie/1234567/1234567/35116.mkv
+#EXTINF:-1,Faroeste Caboclo
+http://s.tvmaster.net:80/movie/1234567/1234567/35117.mkv
+#EXTINF:-1,Invasao de Privacidade 1993 Dublado SEM CORTES - WWW.MEGAFILMEBLURAY.COM
+http://s.tvmaster.net:80/movie/1234567/1234567/35118.avi
+#EXTINF:-1,Mundo Cão 1080p (2016) Nacional BluRay 5.1 -- By - Lucas Firmo
+http://s.tvmaster.net:80/movie/1234567/1234567/35119.mkv
+#EXTINF:-1,O Senhor das Ruas 2013 720p Bluray Dublado - WWW.THEPIRATEFILMES.COM
+http://s.tvmaster.net:80/movie/1234567/1234567/35120.mp4
+#EXTINF:-1,O Último dos Moicanos (1992) BRrip Blu-Ray 1080p Dublado - Dat2015
+http://s.tvmaster.net:80/movie/1234567/1234567/35121.mp4
+#EXTINF:-1,Por um Punhado de Dólares (1964) BRrip Blu-Ray 720p Dublado -Dat2015
+http://s.tvmaster.net:80/movie/1234567/1234567/35122.mp4
+#EXTINF:-1,Preso.no.Tempo
+http://s.tvmaster.net:80/movie/1234567/1234567/35123.mkv
+#EXTINF:-1,Quarto de Guerra (2015) 5.1 CH Dublado 1080p (By-LuanHarper)
+http://s.tvmaster.net:80/movie/1234567/1234567/35124.mp4
+#EXTINF:-1,Relatos.Selvagens.2015.BDRip.XviD.DUAL-OSR
+http://s.tvmaster.net:80/movie/1234567/1234567/35125.avi
+#EXTINF:-1,Resident.Evil.2.Apocalips
+http://s.tvmaster.net:80/movie/1234567/1234567/35126.mp4
+#EXTINF:-1,Resident.Evil.3.A.Extinca
+http://s.tvmaster.net:80/movie/1234567/1234567/35127.mp4
+#EXTINF:-1,Resident.Evil.4.Reco
+http://s.tvmaster.net:80/movie/1234567/1234567/35128.mp4
+#EXTINF:-1,Resident.Evil.5.Retribuicao
+http://s.tvmaster.net:80/movie/1234567/1234567/35129.mp4
+#EXTINF:-1,Resident.Evil.O.Hospede.Maldito
+http://s.tvmaster.net:80/movie/1234567/1234567/35130.mp4
+#EXTINF:-1,Show de Vizinha 720p - Filmes Beta
+http://s.tvmaster.net:80/movie/1234567/1234567/35131.mp4
+#EXTINF:-1,Thor (2011) BluRay 1080p Dubldo D4V1
+http://s.tvmaster.net:80/movie/1234567/1234567/35133.mkv
+#EXTINF:-1,Thor.O.Mundo.Sombrio.2013.720p.BluRay.5.1.x264.DUAL-WWW.BLUDVCOM
+http://s.tvmaster.net:80/movie/1234567/1234567/35134.mkv
+#EXTINF:-1,TOC.Transtornada.Obsessiva.Compulsiva
+http://s.tvmaster.net:80/movie/1234567/1234567/35132.avi
+#EXTINF:-1,Trovão Tropical (2008) - Dublado 720p.By-LuanHarper
+http://s.tvmaster.net:80/movie/1234567/1234567/35135.mp4
+#EXTINF:-1,Zombeavers.Terror.no.Lago.2015.BDRip.XviD.Dual.Audio-P4ULO
+http://s.tvmaster.net:80/movie/1234567/1234567/35136.avi
+#EXTINF:-1,Batman vs Superman - A Origem da Justiça
+http://s.tvmaster.net:80/movie/1234567/1234567/35209.mp4
+#EXTINF:-1,Até o Último Homem
+http://s.tvmaster.net:80/movie/1234567/1234567/35208.mp4
+#EXTINF:-1,Atomica - Ameacao Oculta
+http://s.tvmaster.net:80/movie/1234567/1234567/35207.mp4
+#EXTINF:-1,Ataque a Bushwick
+http://s.tvmaster.net:80/movie/1234567/1234567/35206.mp4
+#EXTINF:-1,Assassinato no Expresso Oriente
+http://s.tvmaster.net:80/movie/1234567/1234567/35205.mp4
+#EXTINF:-1,Assassin's Creed
+http://s.tvmaster.net:80/movie/1234567/1234567/35204.mp4
+#EXTINF:-1,As Apimentadas - Desafio Final
+http://s.tvmaster.net:80/movie/1234567/1234567/35203.mp4
+#EXTINF:-1,Aplicativo da Morte
+http://s.tvmaster.net:80/movie/1234567/1234567/35202.mp4
+#EXTINF:-1,Antes do Adeus
+http://s.tvmaster.net:80/movie/1234567/1234567/35200.mp4
+#EXTINF:-1,Annabelle 2 - A Criacao do Mal
+http://s.tvmaster.net:80/movie/1234567/1234567/35199.mp4
+#EXTINF:-1,Aniquilação
+http://s.tvmaster.net:80/movie/1234567/1234567/35198.mp4
+#EXTINF:-1,Amityville - O Despertar
+http://s.tvmaster.net:80/movie/1234567/1234567/35197.mp4
+#EXTINF:-1,Alvo Triplo
+http://s.tvmaster.net:80/movie/1234567/1234567/35196.mp4
+#EXTINF:-1,Abandonados
+http://s.tvmaster.net:80/movie/1234567/1234567/35195.mp4
+#EXTINF:-1,A.Barraca.Do.Beijo.2018.720p.WEB-DL.5.1.x264.DUAL-WWW.BLUDV.COM
+http://s.tvmaster.net:80/movie/1234567/1234567/35193.mkv
+#EXTINF:-1,A Última Premonição
+http://s.tvmaster.net:80/movie/1234567/1234567/35192.mkv
+#EXTINF:-1,A Vila
+http://s.tvmaster.net:80/movie/1234567/1234567/35191.mp4
+#EXTINF:-1,A Vigilante do Amanhã
+http://s.tvmaster.net:80/movie/1234567/1234567/35190.mp4
+#EXTINF:-1,A Ultima Ressaca do Ano
+http://s.tvmaster.net:80/movie/1234567/1234567/35189.mp4
+#EXTINF:-1,A.Onda.Perfeita.2018.720p.BluRay.x264.DUAL-WWW.BLUDV.COM
+http://s.tvmaster.net:80/movie/1234567/1234567/35194.mp4
+#EXTINF:-1,A Transfiguracao
+http://s.tvmaster.net:80/movie/1234567/1234567/35188.mp4
+#EXTINF:-1,A Torre Negra
+http://s.tvmaster.net:80/movie/1234567/1234567/35187.mp4
+#EXTINF:-1,A Reparticao do Tempo
+http://s.tvmaster.net:80/movie/1234567/1234567/35186.mp4
+#EXTINF:-1,A Paixão de Cristo
+http://s.tvmaster.net:80/movie/1234567/1234567/35184.mp4
+#EXTINF:-1,A Múmia
+http://s.tvmaster.net:80/movie/1234567/1234567/35183.mp4
+#EXTINF:-1,A Morte te da Parabens
+http://s.tvmaster.net:80/movie/1234567/1234567/35182.mp4
+#EXTINF:-1,A Menina Indigo
+http://s.tvmaster.net:80/movie/1234567/1234567/35181.mkv
+#EXTINF:-1,A Maldicao da Casa Winchester
+http://s.tvmaster.net:80/movie/1234567/1234567/35180.mkv
+#EXTINF:-1,A Inundação
+http://s.tvmaster.net:80/movie/1234567/1234567/35179.mp4
+#EXTINF:-1,A Guerra dos Sexos
+http://s.tvmaster.net:80/movie/1234567/1234567/35178.mp4
+#EXTINF:-1,A Grande Muralha
+http://s.tvmaster.net:80/movie/1234567/1234567/35177.mp4
+#EXTINF:-1,A Escolha Perfeita
+http://s.tvmaster.net:80/movie/1234567/1234567/35176.mp4
+#EXTINF:-1,6 Dias
+http://s.tvmaster.net:80/movie/1234567/1234567/35163.mp4
+#EXTINF:-1,60 Minutos para Morrer
+http://s.tvmaster.net:80/movie/1234567/1234567/35164.mp4
+#EXTINF:-1,7 Minutos
+http://s.tvmaster.net:80/movie/1234567/1234567/35165.mp4
+#EXTINF:-1,A Bruxa
+http://s.tvmaster.net:80/movie/1234567/1234567/35166.mp4
+#EXTINF:-1,A Casa Caiu - Um Cassino na Vizinhanca
+http://s.tvmaster.net:80/movie/1234567/1234567/35168.mp4
+#EXTINF:-1,A Comedia Divina
+http://s.tvmaster.net:80/movie/1234567/1234567/35169.mp4
+#EXTINF:-1,A Criada
+http://s.tvmaster.net:80/movie/1234567/1234567/35170.mp4
+#EXTINF:-1,A Dama do Espelho - O Ritual das Trevas
+http://s.tvmaster.net:80/movie/1234567/1234567/35171.mp4
+#EXTINF:-1,A Descoberta
+http://s.tvmaster.net:80/movie/1234567/1234567/35172.mp4
+#EXTINF:-1,A Escalada
+http://s.tvmaster.net:80/movie/1234567/1234567/35175.mp4
+#EXTINF:-1,A Era da Escuridao
+http://s.tvmaster.net:80/movie/1234567/1234567/35174.mp4
+#EXTINF:-1,A Deusa da Vinganca
+http://s.tvmaster.net:80/movie/1234567/1234567/35173.mp4
+#EXTINF:-1,A Caminho da Fe 2
+http://s.tvmaster.net:80/movie/1234567/1234567/35167.mp4
+#EXTINF:-1,30 Dias de Noite 
+http://s.tvmaster.net:80/movie/1234567/1234567/35162.mp4
+#EXTINF:-1,12 Rounds - Cacada Mortal
+http://s.tvmaster.net:80/movie/1234567/1234567/35161.mp4
+#EXTINF:-1,Mazzaropi - nadando em dinheiro
+http://s.tvmaster.net:80/movie/1234567/1234567/35160.mp4
+#EXTINF:-1,Mazzaropi - Casinha Pequenina
+http://s.tvmaster.net:80/movie/1234567/1234567/35158.mp4
+#EXTINF:-1,Mazzaropi - Candinho
+http://s.tvmaster.net:80/movie/1234567/1234567/35157.mp4
+#EXTINF:-1,Indiana Jones e o Templo da Perdição
+http://s.tvmaster.net:80/movie/1234567/1234567/35155.mp4
+#EXTINF:-1,Indiana Jones e a Última Cruzada
+http://s.tvmaster.net:80/movie/1234567/1234567/35154.mp4
+#EXTINF:-1,Indiana Jones e Os Caçadores da Arca Perdida
+http://s.tvmaster.net:80/movie/1234567/1234567/35153.mp4
+#EXTINF:-1,Indiana Jones E O Reino da Caveira de Cristal
+http://s.tvmaster.net:80/movie/1234567/1234567/35152.mp4
+#EXTINF:-1,Falcão Negro Em Perigo
+http://s.tvmaster.net:80/movie/1234567/1234567/35151.mp4
+#EXTINF:-1,Falcão - O Campeão dos Campeões
+http://s.tvmaster.net:80/movie/1234567/1234567/35150.mp4
+#EXTINF:-1,Diablo
+http://s.tvmaster.net:80/movie/1234567/1234567/35149.mp4
+#EXTINF:-1,Dead 7
+http://s.tvmaster.net:80/movie/1234567/1234567/35148.mp4
+#EXTINF:-1,American Pie o Reencontro
+http://s.tvmaster.net:80/movie/1234567/1234567/35146.mp4
+#EXTINF:-1,Mazzaropi - A Carrocinha
+http://s.tvmaster.net:80/movie/1234567/1234567/35156.mp4
+#EXTINF:-1,Coracao Valente
+http://s.tvmaster.net:80/movie/1234567/1234567/35147.mp4
+#EXTINF:-1,A Fronteira
+http://s.tvmaster.net:80/movie/1234567/1234567/35137.mp4
+#EXTINF:-1,A Salvação
+http://s.tvmaster.net:80/movie/1234567/1234567/35138.mp4
+#EXTINF:-1,American Pie A Segunda Vez e ainda Melhor
+http://s.tvmaster.net:80/movie/1234567/1234567/35139.mp4
+#EXTINF:-1,American Pie Caindo em Tentacao
+http://s.tvmaster.net:80/movie/1234567/1234567/35140.mp4
+#EXTINF:-1,American Pie O Casamento
+http://s.tvmaster.net:80/movie/1234567/1234567/35141.mp4
+#EXTINF:-1,American Pie O Livro do Amor
+http://s.tvmaster.net:80/movie/1234567/1234567/35142.mp4
+#EXTINF:-1,American Pie Tocando a Maior Zona
+http://s.tvmaster.net:80/movie/1234567/1234567/35144.mp4
+#EXTINF:-1,American Pie a Primeira vez e Inesquecivel
+http://s.tvmaster.net:80/movie/1234567/1234567/35145.mp4
+#EXTINF:-1,Mazzaropi - O Jeca Contra o Capeta
+http://s.tvmaster.net:80/movie/1234567/1234567/35159.mp4
+#EXTINF:-1,A Qualquer Custo
+http://s.tvmaster.net:80/movie/1234567/1234567/35185.mp4
+#EXTINF:-1,xXx.Reativado
+http://s.tvmaster.net:80/movie/1234567/1234567/35220.mp4
+#EXTINF:-1,Zona Fria
+http://s.tvmaster.net:80/movie/1234567/1234567/35219.mp4
+#EXTINF:-1,Cacador de Demonios
+http://s.tvmaster.net:80/movie/1234567/1234567/35218.mp4
+#EXTINF:-1,Busca Explosiva 5
+http://s.tvmaster.net:80/movie/1234567/1234567/35217.mp4
+#EXTINF:-1,Boyka - O Imbatível
+http://s.tvmaster.net:80/movie/1234567/1234567/35215.mp4
+#EXTINF:-1,Baywatch S.O.S Malibu
+http://s.tvmaster.net:80/movie/1234567/1234567/35210.mp4
+#EXTINF:-1,Bem Vindo a Meia Noite
+http://s.tvmaster.net:80/movie/1234567/1234567/35211.mp4
+#EXTINF:-1,Bingo - O Rei das Manhas
+http://s.tvmaster.net:80/movie/1234567/1234567/35212.mp4
+#EXTINF:-1,Blade Runner 2049
+http://s.tvmaster.net:80/movie/1234567/1234567/35213.mp4
+#EXTINF:-1,Boneco de Neve
+http://s.tvmaster.net:80/movie/1234567/1234567/35214.mp4
+#EXTINF:-1,Bright
+http://s.tvmaster.net:80/movie/1234567/1234567/35216.mp4
+#EXTINF:-1,A&E FHD $
+http://s.tvmaster.net:80/1234567/1234567/30480
+#EXTINF:-1,ANIMAL PLANET FHD $
+http://s.tvmaster.net:80/1234567/1234567/30478
+#EXTINF:-1,AXN FHD $
+http://s.tvmaster.net:80/1234567/1234567/28445
+#EXTINF:-1,BAND FHD $
+http://s.tvmaster.net:80/1234567/1234567/1207
+#EXTINF:-1,Band News FHD $
+http://s.tvmaster.net:80/1234567/1234567/28446
+#EXTINF:-1,Band Sports FHD  $
+http://s.tvmaster.net:80/1234567/1234567/1181
+#EXTINF:-1,Cartoon Network FHD $
+http://s.tvmaster.net:80/1234567/1234567/1222
+#EXTINF:-1,COMBATE FHD $
+http://s.tvmaster.net:80/1234567/1234567/1210
+#EXTINF:-1,COMEDY FHD $
+http://s.tvmaster.net:80/1234567/1234567/1150
+#EXTINF:-1,Discovery Turbo FHD  $
+http://s.tvmaster.net:80/1234567/1234567/1176
+#EXTINF:-1,ESPN 2 FHD $
+http://s.tvmaster.net:80/1234567/1234567/28452
+#EXTINF:-1,Espn BRASIL FHD $
+http://s.tvmaster.net:80/1234567/1234567/1180
+#EXTINF:-1,FOX FHD $
+http://s.tvmaster.net:80/1234567/1234567/28448
+#EXTINF:-1,FOX LIFE FHD $
+http://s.tvmaster.net:80/1234567/1234567/1209
+#EXTINF:-1,Fox Premium FHD 1 $
+http://s.tvmaster.net:80/1234567/1234567/1148
+#EXTINF:-1,FOX PREMIUM FHD 2 $
+http://s.tvmaster.net:80/1234567/1234567/29937
+#EXTINF:-1,Fox Sports FHD  $
+http://s.tvmaster.net:80/1234567/1234567/1178
+#EXTINF:-1,Fox Sports FHD 2  $
+http://s.tvmaster.net:80/1234567/1234567/1177
+#EXTINF:-1,H2 FHD $
+http://s.tvmaster.net:80/1234567/1234567/26990
+#EXTINF:-1,Hbo 2 FHD
+http://s.tvmaster.net:80/1234567/1234567/1172
+#EXTINF:-1,Hbo FHD $
+http://s.tvmaster.net:80/1234567/1234567/1616
+#EXTINF:-1,HBO PLUS FHD $
+http://s.tvmaster.net:80/1234567/1234567/28433
+#EXTINF:-1,MAX PRIME FHD $
+http://s.tvmaster.net:80/1234567/1234567/30588
+#EXTINF:-1,MTV LIVE FHD
+http://s.tvmaster.net:80/1234567/1234567/28456
+#EXTINF:-1,NatGeo FHD $
+http://s.tvmaster.net:80/1234567/1234567/1216
+#EXTINF:-1,NATGEO KIDS FHD $
+http://s.tvmaster.net:80/1234567/1234567/28457
+#EXTINF:-1,WARNER CHANNEL FHD  $
+http://s.tvmaster.net:80/1234567/1234567/1212
+#EXTINF:-1,STUDIO UNIVERSAL FHD $
+http://s.tvmaster.net:80/1234567/1234567/28450
+#EXTINF:-1,TNT SERIES FHD  $
+http://s.tvmaster.net:80/1234567/1234567/1151
+#EXTINF:-1,Telecine Touch FHD $
+http://s.tvmaster.net:80/1234567/1234567/1168
+#EXTINF:-1,Telecine Premium FHD $
+http://s.tvmaster.net:80/1234567/1234567/1166
+#EXTINF:-1,Telecine Pipoca  FHD  $
+http://s.tvmaster.net:80/1234567/1234567/1170
+#EXTINF:-1,Telecine Fun FHD  $
+http://s.tvmaster.net:80/1234567/1234567/1169
+#EXTINF:-1,Telecine Action FHD  $
+http://s.tvmaster.net:80/1234567/1234567/1167
+#EXTINF:-1,SPORTV FHD  $
+http://s.tvmaster.net:80/1234567/1234567/1165
+#EXTINF:-1,SPACE FHD $
+http://s.tvmaster.net:80/1234567/1234567/28451
+#EXTINF:-1,Sportv FHD 2  $
+http://s.tvmaster.net:80/1234567/1234567/1164
+#EXTINF:-1,Sportv FHD 3 $
+http://s.tvmaster.net:80/1234567/1234567/1163
+#EXTINF:-1,PREMIER FHD 1 $
+http://s.tvmaster.net:80/1234567/1234567/1162
+#EXTINF:-1,PREMIER 2 FHD $
+http://s.tvmaster.net:80/1234567/1234567/1161
+#EXTINF:-1,PREMIER 3 FHD  $
+http://s.tvmaster.net:80/1234567/1234567/1160
+#EXTINF:-1,PREMIER 4 FHD  $
+http://s.tvmaster.net:80/1234567/1234567/1159
+#EXTINF:-1,Playboy FHD  $
+http://s.tvmaster.net:80/1234567/1234567/1175
+#EXTINF:-1,Record FHD $
+http://s.tvmaster.net:80/1234567/1234567/1208
+#EXTINF:-1,Record News FHD $ &
+http://s.tvmaster.net:80/1234567/1234567/1215
+#EXTINF:-1,DOG TV FHD $
+http://s.tvmaster.net:80/1234567/1234567/31015
+#EXTINF:-1,ARTE 1 FHD $
+http://s.tvmaster.net:80/1234567/1234567/32055
+#EXTINF:-1,BOOMBERANG FHD $
+http://s.tvmaster.net:80/1234567/1234567/31061
+#EXTINF:-1,CANAL BRASIL FHD $
+http://s.tvmaster.net:80/1234567/1234567/30630
+#EXTINF:-1,CINEMAX FHD
+http://s.tvmaster.net:80/1234567/1234567/34629
+#EXTINF:-1,DISCOVERY THEATER FHD
+http://s.tvmaster.net:80/1234567/1234567/34630
+#EXTINF:-1,DISCOVERY KIDS FHD $
+http://s.tvmaster.net:80/1234567/1234567/31516
+#EXTINF:-1,DISCOVERY WORLD FHD $
+http://s.tvmaster.net:80/1234567/1234567/34631
+#EXTINF:-1,DISNEY CHANNEL FHD $
+http://s.tvmaster.net:80/1234567/1234567/32043
+#EXTINF:-1,DISNEY JR FHD $
+http://s.tvmaster.net:80/1234567/1234567/31520
+#EXTINF:-1,DISNEY XD FHD $
+http://s.tvmaster.net:80/1234567/1234567/32042
+#EXTINF:-1,ESPN EXTRA FHD $
+http://s.tvmaster.net:80/1234567/1234567/31030
+#EXTINF:-1,FOOD NETWORK FHD $
+http://s.tvmaster.net:80/1234567/1234567/32049
+#EXTINF:-1,FX FHD $
+http://s.tvmaster.net:80/1234567/1234567/32056
+#EXTINF:-1,GLOOB FHD $
+http://s.tvmaster.net:80/1234567/1234567/31517
+#EXTINF:-1,HBO SIGNATURE FHD $
+http://s.tvmaster.net:80/1234567/1234567/32058
+#EXTINF:-1,HISTORY FHD $
+http://s.tvmaster.net:80/1234567/1234567/31053
+#EXTINF:-1,LIFE TIME FHD $
+http://s.tvmaster.net:80/1234567/1234567/32050
+#EXTINF:-1,MAX FHD $
+http://s.tvmaster.net:80/1234567/1234567/1144
+#EXTINF:-1,MTV FHD $
+http://s.tvmaster.net:80/1234567/1234567/32054
+#EXTINF:-1,MULTISHOW  FHD $
+http://s.tvmaster.net:80/1234567/1234567/30231
+#EXTINF:-1,NATGEO WILD FHD $
+http://s.tvmaster.net:80/1234567/1234567/32047
+#EXTINF:-1,NICK JR FHD $
+http://s.tvmaster.net:80/1234567/1234567/31519
+#EXTINF:-1,PARAMOUNT FHD $
+http://s.tvmaster.net:80/1234567/1234567/32053
+#EXTINF:-1,PREMIER FHD 5 $
+http://s.tvmaster.net:80/1234567/1234567/31523
+#EXTINF:-1,PREMIER FHD 6 $
+http://s.tvmaster.net:80/1234567/1234567/31524
+#EXTINF:-1,RED BULL TV  FHD $
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,Sbt  sp FHD  $
+http://s.tvmaster.net:80/1234567/1234567/1173
+#EXTINF:-1,SEXY HOT FHD  $
+http://s.tvmaster.net:80/1234567/1234567/30626
+#EXTINF:-1,CANAL SONY FHD $
+http://s.tvmaster.net:80/1234567/1234567/32052
+#EXTINF:-1,SYFY FHD $
+http://s.tvmaster.net:80/1234567/1234567/32045
+#EXTINF:-1,TBS FHD $
+http://s.tvmaster.net:80/1234567/1234567/1218
+#EXTINF:-1,TV CULTURA FHD $
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2016180014.m3u8
+#EXTINF:-1,Venus FHD $
+http://s.tvmaster.net:80/1234567/1234567/22821
+#EXTINF:-1,VH1 FHD $
+http://s.tvmaster.net:80/1234567/1234567/32057
+#EXTINF:-1,FILM ARTS FHD
+http://s.tvmaster.net:80/1234567/1234567/34635
+#EXTINF:-1,FASHION FHD
+http://s.tvmaster.net:80/1234567/1234567/34634
+#EXTINF:-1,DISCOVERY CHANNEL FHD $
+http://s.tvmaster.net:80/1234567/1234567/32060
+#EXTINF:-1,PREMIER FHD 7 $
+http://s.tvmaster.net:80/1234567/1234567/34642
+#EXTINF:-1,GNT FHD
+http://s.tvmaster.net:80/1234567/1234567/34636
+#EXTINF:-1,FISH TV FHD $
+http://s.tvmaster.net:80/1234567/1234567/34666
+#EXTINF:-1,HBO FAMILY FHD $
+http://s.tvmaster.net:80/1234567/1234567/34667
+#EXTINF:-1,LOVE NATURAL FHD $
+http://s.tvmaster.net:80/1234567/1234567/34669
+#EXTINF:-1,DISCOVERY CIVILIZATION FHD $
+http://s.tvmaster.net:80/1234567/1234567/34697
+#EXTINF:-1,DISCOVERY SCIENCE FHD $
+http://s.tvmaster.net:80/1234567/1234567/34698
+#EXTINF:-1,TLC FHD $
+http://s.tvmaster.net:80/1234567/1234567/34674
+#EXTINF:-1,TNT FHD $
+http://s.tvmaster.net:80/1234567/1234567/34676
+#EXTINF:-1,VIVA FHD $
+http://s.tvmaster.net:80/1234567/1234567/34695
+#EXTINF:-1,WOHOO FHD $
+http://s.tvmaster.net:80/1234567/1234567/34696
+#EXTINF:-1,MAX UP FHD $
+http://s.tvmaster.net:80/1234567/1234567/34670
+#EXTINF:-1,BIS FHD $
+http://s.tvmaster.net:80/1234567/1234567/34702
+#EXTINF:-1,LIKE FHD $
+http://s.tvmaster.net:80/1234567/1234567/34704
+#EXTINF:-1,MAIS GLOBO SAT FHD $
+http://s.tvmaster.net:80/1234567/1234567/34685
+#EXTINF:-1,OFF FHD $
+http://s.tvmaster.net:80/1234567/1234567/34703
+#EXTINF:-1,ZOOMO FHD $
+http://s.tvmaster.net:80/1234567/1234567/34705
+#EXTINF:-1,TRAVEL BOX FHD
+http://s.tvmaster.net:80/1234567/1234567/34706
+#EXTINF:-1,TV NOVO TEMPO FHD
+http://s.tvmaster.net:80/1234567/1234567/34707
+#EXTINF:-1,TV RATIMBUM FHD $
+http://s.tvmaster.net:80/1234567/1234567/34722
+#EXTINF:-1,DISCOVERY H&H FHD $
+http://s.tvmaster.net:80/1234567/1234567/34683
+#EXTINF:-1,GUIA FUTEBOL FHD $
+http://s.tvmaster.net:80/1234567/1234567/34709
+#EXTINF:-1,IDEAL TV FHD $
+http://s.tvmaster.net:80/1234567/1234567/34725
+#EXTINF:-1,MEGA TV FHD $
+http://s.tvmaster.net:80/1234567/1234567/34726
+#EXTINF:-1,REDE GOSPEL FHD $
+http://s.tvmaster.net:80/1234567/1234567/34724
+#EXTINF:-1,SMITHSONIAN FHD $
+http://s.tvmaster.net:80/1234567/1234567/34710
+#EXTINF:-1,TV GAZETA FHD sp $
+http://s.tvmaster.net:80/1234567/1234567/34723
+#EXTINF:-1,NICKLODEON FHD $
+http://s.tvmaster.net:80/1234567/1234567/34727
+#EXTINF:-1,ESPN FHD  $
+http://s.tvmaster.net:80/1234567/1234567/34753
+#EXTINF:-1,MEGA PIX FHD $
+http://s.tvmaster.net:80/1234567/1234567/34838
+#EXTINF:-1,TELECINE CULT FHD $
+http://s.tvmaster.net:80/1234567/1234567/34840
+#EXTINF:-1,STREAM DE TESTE
+http://s.tvmaster.net:80/1234567/1234567/35234
+#EXTINF:-1,UNIVERSAL CHANNEL FHD
+http://s.tvmaster.net:80/1234567/1234567/35235
+#EXTINF:-1,E FHD $
+http://s.tvmaster.net:80/1234567/1234567/35252
+#EXTINF:-1,COMBATE FHD H265
+http://s.tvmaster.net:80/1234567/1234567/35254
+#EXTINF:-1,YOUTV FHD
+http://s.tvmaster.net:80/1234567/1234567/35255
+#EXTINF:-1,HBO + FHD
+http://s.tvmaster.net:80/1234567/1234567/35256
+#EXTINF:-1,EUROCHANNEL FHD $
+http://s.tvmaster.net:80/1234567/1234567/35257
+#EXTINF:-1,GLOBO HD 2 RJ $
+http://s.tvmaster.net:80/1234567/1234567/30754
+#EXTINF:-1,GLOBO tv cambugi  $
+http://s.tvmaster.net:80/1234567/1234567/30822
+#EXTINF:-1,GLOBO VERDES MARES HD $
+http://s.tvmaster.net:80/1234567/1234567/31027
+#EXTINF:-1,GLOBO MINAS HD $
+http://s.tvmaster.net:80/1234567/1234567/31028
+#EXTINF:-1,GLOBO MINAS SD $
+http://s.tvmaster.net:80/1234567/1234567/31029
+#EXTINF:-1,GLOBO NORDESTE FHD $
+http://s.tvmaster.net:80/1234567/1234567/32046
+#EXTINF:-1,GLOBO FHD  $ sp
+http://s.tvmaster.net:80/1234567/1234567/1183
+#EXTINF:-1,GLOBO BRASILIA SD $
+http://s.tvmaster.net:80/1234567/1234567/34645
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD $
+http://s.tvmaster.net:80/1234567/1234567/34650
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD $
+http://s.tvmaster.net:80/1234567/1234567/34651
+#EXTINF:-1,GLOBO EPTV SAO CARLOS SD $
+http://s.tvmaster.net:80/1234567/1234567/34652
+#EXTINF:-1,GLOBO HD SP $
+http://s.tvmaster.net:80/1234567/1234567/1603
+#EXTINF:-1,GLOBO INTER TV CABUGI SD $
+http://s.tvmaster.net:80/1234567/1234567/34654
+#EXTINF:-1,GLOBO NEWS FHD $
+http://s.tvmaster.net:80/1234567/1234567/30232
+#EXTINF:-1,GLOBO NORDESTE SD $
+http://s.tvmaster.net:80/1234567/1234567/34653
+#EXTINF:-1,GLOBO REDE AMAZONICA MANAUS SD $
+http://s.tvmaster.net:80/1234567/1234567/34655
+#EXTINF:-1,GLOBO RJ SD $
+http://s.tvmaster.net:80/1234567/1234567/34646
+#EXTINF:-1,GLOBO RPC TV CURITIBA HD $
+http://s.tvmaster.net:80/1234567/1234567/34656
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA SD $
+http://s.tvmaster.net:80/1234567/1234567/34647
+#EXTINF:-1,GLOBO TV BAHIA SD $
+http://s.tvmaster.net:80/1234567/1234567/34657
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD $
+http://s.tvmaster.net:80/1234567/1234567/34658
+#EXTINF:-1,GLOBO TV LIBERAL BELEM SD $
+http://s.tvmaster.net:80/1234567/1234567/34659
+#EXTINF:-1,GLOBO TV TEM BAURU SD $
+http://s.tvmaster.net:80/1234567/1234567/34648
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD $
+http://s.tvmaster.net:80/1234567/1234567/34649
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD $
+http://s.tvmaster.net:80/1234567/1234567/34664
+#EXTINF:-1,GLOBO TV VANGUARDA S. J. DOS CAMPOS SD $
+http://s.tvmaster.net:80/1234567/1234567/34660
+#EXTINF:-1,AMC FHD $
+http://s.tvmaster.net:80/1234567/1234567/34708
+#EXTINF:-1,DAZN HD $
+http://s.tvmaster.net:80/1234567/1234567/34728
+#EXTINF:-1,GLOBO BRASILIA HD $$
+http://s.tvmaster.net:80/1234567/1234567/34738
+#EXTINF:-1,GLOBO TV VERDES MARES SD $
+http://s.tvmaster.net:80/1234567/1234567/34693
+#EXTINF:-1,GLOBO FHD GOIAS $
+http://s.tvmaster.net:80/1234567/1234567/34776
+#EXTINF:-1,GLOBO RJ HD $
+http://s.tvmaster.net:80/1234567/1234567/34789
+#EXTINF:-1,GLOBO VERDES FHD
+http://s.tvmaster.net:80/1234567/1234567/35238
+#EXTINF:-1,GLOBO VERDES MARES HD
+http://s.tvmaster.net:80/1234567/1234567/35239
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS FHD
+http://s.tvmaster.net:80/1234567/1234567/35240
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS HD
+http://s.tvmaster.net:80/1234567/1234567/35241
+#EXTINF:-1,globo rbs porto alegre sd $
+http://s.tvmaster.net:80/1234567/1234567/35230
+#EXTINF:-1,GLOBO RBS FHD 
+http://s.tvmaster.net:80/1234567/1234567/35245
+#EXTINF:-1,GLOBO RBS HD 
+http://s.tvmaster.net:80/1234567/1234567/35246
+#EXTINF:-1,GLOBO MINAS FHD
+http://s.tvmaster.net:80/1234567/1234567/35242
+#EXTINF:-1,GLOBO MINAS HD
+http://s.tvmaster.net:80/1234567/1234567/35243
+#EXTINF:-1,GLOBO MATO GROSSO FHD
+http://s.tvmaster.net:80/1234567/1234567/35248
+#EXTINF:-1,GLOBO MATO GROSSO HD 
+http://s.tvmaster.net:80/1234567/1234567/35249
+#EXTINF:-1,GLOBO TV MIRANTE MARANHAO FHD $
+http://s.tvmaster.net:80/1234567/1234567/35250
+#EXTINF:-1,GLOBO TV MIRANTE HD
+http://s.tvmaster.net:80/1234567/1234567/35251
+#EXTINF:-1,AMC SD $
+http://s.tvmaster.net:80/1234567/1234567/30479
+#EXTINF:-1,BABY TV SD $
+http://s.tvmaster.net:80/1234567/1234567/34678
+#EXTINF:-1,BAND SD $
+http://s.tvmaster.net:80/1234567/1234567/30592
+#EXTINF:-1,BIS SD $
+http://s.tvmaster.net:80/1234567/1234567/34672
+#EXTINF:-1,BOA VONTADE TV SD $
+http://s.tvmaster.net:80/1234567/1234567/34679
+#EXTINF:-1,CNN INTERNACIONAL SD $
+http://s.tvmaster.net:80/1234567/1234567/34680
+#EXTINF:-1,DISNEY JR SD $
+http://s.tvmaster.net:80/1234567/1234567/34675
+#EXTINF:-1,Fox Sports SD $
+http://s.tvmaster.net:80/1234567/1234567/1618
+#EXTINF:-1,ANIMAL PLANET SD $
+http://s.tvmaster.net:80/1234567/1234567/34677
+#EXTINF:-1,HISTORY SD $
+http://s.tvmaster.net:80/1234567/1234567/34673
+#EXTINF:-1,REDE TV SD $
+http://s.tvmaster.net:80/1234567/1234567/31021
+#EXTINF:-1,COMEDY SD $
+http://s.tvmaster.net:80/1234567/1234567/30593
+#EXTINF:-1,CANAL BRASIL SD $
+http://s.tvmaster.net:80/1234567/1234567/34681
+#EXTINF:-1,CURTA SD $
+http://s.tvmaster.net:80/1234567/1234567/34682
+#EXTINF:-1,DISCOVERY CIVILIZATION SD $
+http://s.tvmaster.net:80/1234567/1234567/34684
+#EXTINF:-1,Combate SD $
+http://s.tvmaster.net:80/1234567/1234567/30623
+#EXTINF:-1,MAX SD $
+http://s.tvmaster.net:80/1234567/1234567/30597
+#EXTINF:-1,FISH TV SD $
+http://s.tvmaster.net:80/1234567/1234567/30575
+#EXTINF:-1,FOX LIFE SD $
+http://s.tvmaster.net:80/1234567/1234567/34686
+#EXTINF:-1,FX SD $
+http://s.tvmaster.net:80/1234567/1234567/34687
+#EXTINF:-1,play tv sd $
+http://s.tvmaster.net:80/1234567/1234567/34713
+#EXTINF:-1,sportv 2 sd $
+http://s.tvmaster.net:80/1234567/1234567/34715
+#EXTINF:-1,studio universal sd $
+http://s.tvmaster.net:80/1234567/1234567/34716
+#EXTINF:-1,a&e sd $
+http://s.tvmaster.net:80/1234567/1234567/34711
+#EXTINF:-1,axn sd $
+http://s.tvmaster.net:80/1234567/1234567/34712
+#EXTINF:-1,CANÇAO NOVA SD $
+http://s.tvmaster.net:80/1234567/1234567/34692
+#EXTINF:-1,tcm sd $
+http://s.tvmaster.net:80/1234567/1234567/34717
+#EXTINF:-1,telecine action sd $
+http://s.tvmaster.net:80/1234567/1234567/34718
+#EXTINF:-1,tv novo tempo sd $
+http://s.tvmaster.net:80/1234567/1234567/34663
+#EXTINF:-1,cinemax sd $
+http://s.tvmaster.net:80/1234567/1234567/34719
+#EXTINF:-1,prime box sd $
+http://s.tvmaster.net:80/1234567/1234567/34720
+#EXTINF:-1,MEGAPIX sd $
+http://s.tvmaster.net:80/1234567/1234567/28449
+#EXTINF:-1,band sports sd $
+http://s.tvmaster.net:80/1234567/1234567/34730
+#EXTINF:-1,SEXTREME SD $
+http://s.tvmaster.net:80/1234567/1234567/29934
+#EXTINF:-1,discovery channel sd $
+http://s.tvmaster.net:80/1234567/1234567/34733
+#EXTINF:-1,discovery h&h sd $
+http://s.tvmaster.net:80/1234567/1234567/34732
+#EXTINF:-1,discovery kids sd $
+http://s.tvmaster.net:80/1234567/1234567/34734
+#EXTINF:-1,gnt sd $
+http://s.tvmaster.net:80/1234567/1234567/34735
+#EXTINF:-1,hbo 2 sd $
+http://s.tvmaster.net:80/1234567/1234567/34737
+#EXTINF:-1,hbo plus sd $
+http://s.tvmaster.net:80/1234567/1234567/34736
+#EXTINF:-1,paramount sd $
+http://s.tvmaster.net:80/1234567/1234567/34745
+#EXTINF:-1,sportv 3 sd $
+http://s.tvmaster.net:80/1234567/1234567/34744
+#EXTINF:-1,telecine cult sd $
+http://s.tvmaster.net:80/1234567/1234567/34743
+#EXTINF:-1,telecine fun sd $
+http://s.tvmaster.net:80/1234567/1234567/34742
+#EXTINF:-1,rede gospel sd $
+http://s.tvmaster.net:80/1234567/1234567/34746
+#EXTINF:-1,gloob sd $
+http://s.tvmaster.net:80/1234567/1234567/34749
+#EXTINF:-1,hbo sd $
+http://s.tvmaster.net:80/1234567/1234567/34748
+#EXTINF:-1,nhk sd $
+http://s.tvmaster.net:80/1234567/1234567/34747
+#EXTINF:-1,multishow sd $
+http://s.tvmaster.net:80/1234567/1234567/34750
+#EXTINF:-1,mais globo sat sd $
+http://s.tvmaster.net:80/1234567/1234567/34751
+#EXTINF:-1,boomberang sd $
+http://s.tvmaster.net:80/1234567/1234567/34759
+#EXTINF:-1,cartoon network sd $
+http://s.tvmaster.net:80/1234567/1234567/34760
+#EXTINF:-1,disney sd $
+http://s.tvmaster.net:80/1234567/1234567/34761
+#EXTINF:-1,espn brasil sd $
+http://s.tvmaster.net:80/1234567/1234567/34755
+#EXTINF:-1,filmes artes sd $
+http://s.tvmaster.net:80/1234567/1234567/34756
+#EXTINF:-1,food network sd $
+http://s.tvmaster.net:80/1234567/1234567/34757
+#EXTINF:-1,fox sd $
+http://s.tvmaster.net:80/1234567/1234567/34762
+#EXTINF:-1,ideal sd $
+http://s.tvmaster.net:80/1234567/1234567/34763
+#EXTINF:-1,life time sd $
+http://s.tvmaster.net:80/1234567/1234567/34754
+#EXTINF:-1,max prime sd $
+http://s.tvmaster.net:80/1234567/1234567/34764
+#EXTINF:-1,music box sd $
+http://s.tvmaster.net:80/1234567/1234567/34765
+#EXTINF:-1,natgeo wild sd
+http://s.tvmaster.net:80/1234567/1234567/34766
+#EXTINF:-1,nick jr sd $
+http://s.tvmaster.net:80/1234567/1234567/34767
+#EXTINF:-1,premier 4 sd $
+http://s.tvmaster.net:80/1234567/1234567/34768
+#EXTINF:-1,premier 7 sd $
+http://s.tvmaster.net:80/1234567/1234567/34769
+#EXTINF:-1,premier 8 sd $
+http://s.tvmaster.net:80/1234567/1234567/34770
+#EXTINF:-1,sic sd $
+http://s.tvmaster.net:80/1234567/1234567/34771
+#EXTINF:-1,sportv alternativo sd $
+http://s.tvmaster.net:80/1234567/1234567/34772
+#EXTINF:-1,syfy sd $
+http://s.tvmaster.net:80/1234567/1234567/34773
+#EXTINF:-1,tbs sd $
+http://s.tvmaster.net:80/1234567/1234567/34758
+#EXTINF:-1,RIT SD $
+http://s.tvmaster.net:80/1234567/1234567/34783
+#EXTINF:-1,premier 1 sd $
+http://s.tvmaster.net:80/1234567/1234567/34811
+#EXTINF:-1,tooncast sd $
+http://s.tvmaster.net:80/1234567/1234567/34831
+#EXTINF:-1,sbt parana sd $
+http://s.tvmaster.net:80/1234567/1234567/34872
+#EXTINF:-1,ABC NEWS HD ~
+http://s.tvmaster.net:80/1234567/1234567/28459
+#EXTINF:-1,Band Hd $
+http://s.tvmaster.net:80/1234567/1234567/30622
+#EXTINF:-1,BOOMBERANG HD $
+http://s.tvmaster.net:80/1234567/1234567/31531
+#EXTINF:-1,CANAL 26 ARGENTINA HD $$
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1039607458_b2628000_sleng.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD $
+http://s.tvmaster.net:80/1234567/1234567/31530
+#EXTINF:-1,DISCOVERY TURBO HD $
+http://s.tvmaster.net:80/1234567/1234567/30625
+#EXTINF:-1,DISNEY JR HD $
+http://s.tvmaster.net:80/1234567/1234567/31527
+#EXTINF:-1,DOG TV HD $
+http://s.tvmaster.net:80/1234567/1234567/29938
+#EXTINF:-1,DW ALEMANHA HD $
+http://s.tvmaster.net:80/1234567/1234567/31034
+#EXTINF:-1,ESPN  BRASIL HD $
+http://s.tvmaster.net:80/1234567/1234567/22764
+#EXTINF:-1,ESPN 2 HD $
+http://s.tvmaster.net:80/1234567/1234567/31014
+#EXTINF:-1,ESPN EXTRA HD $
+http://s.tvmaster.net:80/1234567/1234567/31031
+#EXTINF:-1,EL PLUS HD  1 $
+http://s.tvmaster.net:80/1234567/1234567/31521
+#EXTINF:-1,FOX LIFE HD $
+http://s.tvmaster.net:80/1234567/1234567/30595
+#EXTINF:-1,Fox Premium 2 HD $
+http://s.tvmaster.net:80/1234567/1234567/30624
+#EXTINF:-1,HBO  HD $
+http://s.tvmaster.net:80/1234567/1234567/1171
+#EXTINF:-1,Hbo 2 HD $
+http://s.tvmaster.net:80/1234567/1234567/1617
+#EXTINF:-1,HBO PLUS HD $
+http://s.tvmaster.net:80/1234567/1234567/30596
+#EXTINF:-1,HISTORY HD $
+http://s.tvmaster.net:80/1234567/1234567/31052
+#EXTINF:-1,ID FHD $
+http://s.tvmaster.net:80/1234567/1234567/28455
+#EXTINF:-1,MAXPRIME HD $
+http://s.tvmaster.net:80/1234567/1234567/30598
+#EXTINF:-1,MIAMI TV HD $
+http://s.tvmaster.net:80/1234567/1234567/31040
+#EXTINF:-1,MLB HD $
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Tuesday_20190205_1549353099271/3000K/3000_slide.m3u8
+#EXTINF:-1,MTV HD $
+http://s.tvmaster.net:80/1234567/1234567/32044
+#EXTINF:-1,MTV LIVE HD $
+http://s.tvmaster.net:80/1234567/1234567/30599
+#EXTINF:-1,NICK  JR HD $
+http://s.tvmaster.net:80/1234567/1234567/31528
+#EXTINF:-1,PREMIER HD 1 $
+http://s.tvmaster.net:80/1234567/1234567/1605
+#EXTINF:-1,PREMIER HD 4 $
+http://s.tvmaster.net:80/1234567/1234567/1608
+#EXTINF:-1,PREMIER HD 2 $
+http://s.tvmaster.net:80/1234567/1234567/1606
+#EXTINF:-1,PREMIER HD 3 $
+http://s.tvmaster.net:80/1234567/1234567/1607
+#EXTINF:-1,PREMIER HD 5 $
+http://s.tvmaster.net:80/1234567/1234567/31526
+#EXTINF:-1,PREMIER HD 6 $
+http://s.tvmaster.net:80/1234567/1234567/31525
+#EXTINF:-1,Playboy HD $
+http://s.tvmaster.net:80/1234567/1234567/1620
+#EXTINF:-1,RECORD AMAZONAS HD $
+http://s.tvmaster.net:80/1234567/1234567/31038
+#EXTINF:-1,RECORD HD  $
+http://s.tvmaster.net:80/1234567/1234567/30600
+#EXTINF:-1,RPC PY HD $
+http://s.tvmaster.net:80/1234567/1234567/31059
+#EXTINF:-1,Sbt sp HD $
+http://s.tvmaster.net:80/1234567/1234567/1604
+#EXTINF:-1,Sexy Hot  HD $
+http://s.tvmaster.net:80/1234567/1234567/1179
+#EXTINF:-1,Sportv HD $
+http://s.tvmaster.net:80/1234567/1234567/1610
+#EXTINF:-1,Sportv HD 2 $
+http://s.tvmaster.net:80/1234567/1234567/1609
+#EXTINF:-1,SPORTV HD 3 $
+http://s.tvmaster.net:80/1234567/1234567/22767
+#EXTINF:-1,TBS HD $
+http://s.tvmaster.net:80/1234567/1234567/30601
+#EXTINF:-1,Telecine Action HD $
+http://s.tvmaster.net:80/1234567/1234567/1612
+#EXTINF:-1,Telecine Fun HD $
+http://s.tvmaster.net:80/1234567/1234567/1614
+#EXTINF:-1,Telecine Pipoca HD $
+http://s.tvmaster.net:80/1234567/1234567/1615
+#EXTINF:-1,Telecine Premium HD $
+http://s.tvmaster.net:80/1234567/1234567/1611
+#EXTINF:-1,Telecine Touch HD $
+http://s.tvmaster.net:80/1234567/1234567/1613
+#EXTINF:-1,TLC HD $
+http://s.tvmaster.net:80/1234567/1234567/30629
+#EXTINF:-1,TNT SERIES HD $
+http://s.tvmaster.net:80/1234567/1234567/30602
+#EXTINF:-1,TV CULTURA HD 
+http://s.tvmaster.net:80/1234567/1234567/30576
+#EXTINF:-1,TV GAZETA HD $
+http://s.tvmaster.net:80/1234567/1234567/31022
+#EXTINF:-1,TV PAMPA RS  HD $
+http://s.tvmaster.net:80/1234567/1234567/31037
+#EXTINF:-1,TV VITORIA ES HD $
+http://s.tvmaster.net:80/1234567/1234567/31036
+#EXTINF:-1,VENUS HD $
+http://s.tvmaster.net:80/1234567/1234567/31026
+#EXTINF:-1,Warner channel HD $
+http://s.tvmaster.net:80/1234567/1234567/30619
+#EXTINF:-1,GLOOB HD $
+http://s.tvmaster.net:80/1234567/1234567/31529
+#EXTINF:-1,FOX SPORTS HD $
+http://s.tvmaster.net:80/1234567/1234567/34671
+#EXTINF:-1,NHK WORLD HD $
+http://s.tvmaster.net:80/1234567/1234567/27266
+#EXTINF:-1,BAND SPORTS HD $
+http://s.tvmaster.net:80/1234567/1234567/30627
+#EXTINF:-1,ALL SPORTS HD $
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1850245957.m3u8
+#EXTINF:-1,Fox Sports 2 HD $
+http://s.tvmaster.net:80/1234567/1234567/1619
+#EXTINF:-1,DISNEY XD HD $
+http://s.tvmaster.net:80/1234567/1234567/34721
+#EXTINF:-1,BIS HD $
+http://s.tvmaster.net:80/1234567/1234567/34739
+#EXTINF:-1,sbt sp sd $
+http://s.tvmaster.net:80/1234567/1234567/34714
+#EXTINF:-1,AXN HD $
+http://s.tvmaster.net:80/1234567/1234567/34786
+#EXTINF:-1,AMC HD $
+http://s.tvmaster.net:80/1234567/1234567/34785
+#EXTINF:-1,SHOP TIME HD $
+http://s.tvmaster.net:80/1234567/1234567/34787
+#EXTINF:-1,A&E HD $
+http://s.tvmaster.net:80/1234567/1234567/34792
+#EXTINF:-1,ARTE 1 HD $
+http://s.tvmaster.net:80/1234567/1234567/34793
+#EXTINF:-1,BAND SPORTS HD
+http://s.tvmaster.net:80/1234567/1234567/34795
+#EXTINF:-1,BAND NEWS HD $
+http://s.tvmaster.net:80/1234567/1234567/34794
+#EXTINF:-1,CANAL BRASIL HD $
+http://s.tvmaster.net:80/1234567/1234567/34796
+#EXTINF:-1,CANAL SONY HD $
+http://s.tvmaster.net:80/1234567/1234567/34798
+#EXTINF:-1,CARTOON HD $
+http://s.tvmaster.net:80/1234567/1234567/34791
+#EXTINF:-1,CINEMAX HD $
+http://s.tvmaster.net:80/1234567/1234567/34799
+#EXTINF:-1,COMBATE HD $
+http://s.tvmaster.net:80/1234567/1234567/34731
+#EXTINF:-1,COMEDY HD $
+http://s.tvmaster.net:80/1234567/1234567/34797
+#EXTINF:-1,DISCOVERY CHANNEL HD $
+http://s.tvmaster.net:80/1234567/1234567/34800
+#EXTINF:-1,DISCOVERY H&H HD $
+http://s.tvmaster.net:80/1234567/1234567/34807
+#EXTINF:-1,DISCOVERY SCIENCE HD $
+http://s.tvmaster.net:80/1234567/1234567/34801
+#EXTINF:-1,DISCOVERY THEATER HD $
+http://s.tvmaster.net:80/1234567/1234567/34802
+#EXTINF:-1,DISCOVERY WORLD HD $
+http://s.tvmaster.net:80/1234567/1234567/34803
+#EXTINF:-1,DISNEY CHANNEL HD $
+http://s.tvmaster.net:80/1234567/1234567/34804
+#EXTINF:-1,ESPN HD $
+http://s.tvmaster.net:80/1234567/1234567/34808
+#EXTINF:-1,ANIMAL PLANET HD $
+http://s.tvmaster.net:80/1234567/1234567/34790
+#EXTINF:-1,TNT HD $
+http://s.tvmaster.net:80/1234567/1234567/34788
+#EXTINF:-1,MAX PRIME HD $
+http://s.tvmaster.net:80/1234567/1234567/34809
+#EXTINF:-1,DISCOVERY CIVILIZATION HD $
+http://s.tvmaster.net:80/1234567/1234567/34810
+#EXTINF:-1,NATGEO KIDS HD $
+http://s.tvmaster.net:80/1234567/1234567/34812
+#EXTINF:-1,FISH HD $
+http://s.tvmaster.net:80/1234567/1234567/34814
+#EXTINF:-1,FASHION TV HD $
+http://s.tvmaster.net:80/1234567/1234567/34813
+#EXTINF:-1,MEGA PIX HD $
+http://s.tvmaster.net:80/1234567/1234567/34839
+#EXTINF:-1,ZOOMO HD $
+http://s.tvmaster.net:80/1234567/1234567/34865
+#EXTINF:-1,TV RATIMBUM HD $
+http://s.tvmaster.net:80/1234567/1234567/34866
+#EXTINF:-1,TOONCAST HD $
+http://s.tvmaster.net:80/1234567/1234567/34864
+#EXTINF:-1,TELECINE CULT HD $
+http://s.tvmaster.net:80/1234567/1234567/34863
+#EXTINF:-1,SYFY HD $
+http://s.tvmaster.net:80/1234567/1234567/34805
+#EXTINF:-1,NICK HD $
+http://s.tvmaster.net:80/1234567/1234567/34862
+#EXTINF:-1,FOOD NETWORK HD $
+http://s.tvmaster.net:80/1234567/1234567/34815
+#EXTINF:-1,SEXTREAM HD $
+http://s.tvmaster.net:80/1234567/1234567/34868
+#EXTINF:-1,GLOBO NEWS HD $
+http://s.tvmaster.net:80/1234567/1234567/34860
+#EXTINF:-1,HBO SIGNATURE HD $
+http://s.tvmaster.net:80/1234567/1234567/34861
+#EXTINF:-1,AMC SD
+http://s.tvmaster.net:80/1234567/1234567/34955
+#EXTINF:-1,RECORD PARANA HD $
+http://s.tvmaster.net:80/1234567/1234567/34871
+#EXTINF:-1,ID HD $
+http://s.tvmaster.net:80/1234567/1234567/35000
+#EXTINF:-1,NATGEO WILD HD $
+http://s.tvmaster.net:80/1234567/1234567/35221
+#EXTINF:-1,A FAZENDA HD $
+http://s.tvmaster.net:80/1234567/1234567/35231
+#EXTINF:-1,EL PLUS AO VIVO
+http://s.tvmaster.net:80/1234567/1234567/35253
+#EXTINF:-1,3 Palavrinhas  24h
+http://s.tvmaster.net:80/1234567/1234567/34943
+#EXTINF:-1,A historia de Deus com Morgan Freeman 1 24h
+http://s.tvmaster.net:80/1234567/1234567/35038
+#EXTINF:-1,A historia de Deus com Morgan Freeman 2 24h
+http://s.tvmaster.net:80/1234567/1234567/35039
+#EXTINF:-1,A Maldicao da Residencia 24h
+http://s.tvmaster.net:80/1234567/1234567/35040
+#EXTINF:-1,American Horror 3 24h
+http://s.tvmaster.net:80/1234567/1234567/35043
+#EXTINF:-1,American Horror 4 24h
+http://s.tvmaster.net:80/1234567/1234567/35044
+#EXTINF:-1,American Horror 5 24h
+http://s.tvmaster.net:80/1234567/1234567/35045
+#EXTINF:-1,American Horror 6 24h
+http://s.tvmaster.net:80/1234567/1234567/35046
+#EXTINF:-1,American Horror 7 24h
+http://s.tvmaster.net:80/1234567/1234567/35047
+#EXTINF:-1,Apenas Um Show 24h
+http://s.tvmaster.net:80/1234567/1234567/34939
+#EXTINF:-1,As Tartarugas Ninja 24h
+http://s.tvmaster.net:80/1234567/1234567/34941
+#EXTINF:-1,As Telefonistas 1 24h
+http://s.tvmaster.net:80/1234567/1234567/35049
+#EXTINF:-1,As Telefonistas 2 24h
+http://s.tvmaster.net:80/1234567/1234567/35050
+#EXTINF:-1,As Telefonistas 3 24h
+http://s.tvmaster.net:80/1234567/1234567/35051
+#EXTINF:-1,Assedio 24h
+http://s.tvmaster.net:80/1234567/1234567/35048
+#EXTINF:-1,Bates Motel 1 24h
+http://s.tvmaster.net:80/1234567/1234567/35052
+#EXTINF:-1,Bates Motel 2 24h
+http://s.tvmaster.net:80/1234567/1234567/35053
+#EXTINF:-1,Bates Motel 3 24h
+http://s.tvmaster.net:80/1234567/1234567/35054
+#EXTINF:-1,Bates Motel 4 24h
+http://s.tvmaster.net:80/1234567/1234567/35055
+#EXTINF:-1,Bates Motel 5 24h
+http://s.tvmaster.net:80/1234567/1234567/35056
+#EXTINF:-1,Black Lightning 24h
+http://s.tvmaster.net:80/1234567/1234567/34959
+#EXTINF:-1,Bob Zoom 24h
+http://s.tvmaster.net:80/1234567/1234567/34996
+#EXTINF:-1,Cacadores de Sombra  1 24h
+http://s.tvmaster.net:80/1234567/1234567/35057
+#EXTINF:-1,Cacadores de Sombra  2 24h
+http://s.tvmaster.net:80/1234567/1234567/35058
+#EXTINF:-1,Cacadores de Sombra  3 24h
+http://s.tvmaster.net:80/1234567/1234567/35059
+#EXTINF:-1,Carcereiros 24h
+http://s.tvmaster.net:80/1234567/1234567/34958
+#EXTINF:-1,Cascão Maratona 24h
+http://s.tvmaster.net:80/1234567/1234567/34942
+#EXTINF:-1,Cavaleiros do Zodiaco 24h
+http://s.tvmaster.net:80/1234567/1234567/34947
+#EXTINF:-1,Cavalo de Fogo 24h
+http://s.tvmaster.net:80/1234567/1234567/34952
+#EXTINF:-1,Caverna do Dragão 24h
+http://s.tvmaster.net:80/1234567/1234567/34940
+#EXTINF:-1,Chaves 24h
+http://s.tvmaster.net:80/1234567/1234567/34957
+#EXTINF:-1,Chicago Med 1 24h
+http://s.tvmaster.net:80/1234567/1234567/35060
+#EXTINF:-1,Chicago Med 2 24h
+http://s.tvmaster.net:80/1234567/1234567/35061
+#EXTINF:-1,Chicago Med 3 24h
+http://s.tvmaster.net:80/1234567/1234567/35062
+#EXTINF:-1,Damnation 24h
+http://s.tvmaster.net:80/1234567/1234567/34960
+#EXTINF:-1,Dark Matter 24h
+http://s.tvmaster.net:80/1234567/1234567/35063
+#EXTINF:-1,Deceptions 24h
+http://s.tvmaster.net:80/1234567/1234567/35064
+#EXTINF:-1,Demolidor 1 24h
+http://s.tvmaster.net:80/1234567/1234567/35065
+#EXTINF:-1,Demolidor 2 24h
+http://s.tvmaster.net:80/1234567/1234567/35066
+#EXTINF:-1,Demolidor 3 24h
+http://s.tvmaster.net:80/1234567/1234567/35067
+#EXTINF:-1,Desenhos Mickey Mouse,  Pato Donald, Tico E Teco 24h
+http://s.tvmaster.net:80/1234567/1234567/34946
+#EXTINF:-1,Diarios de Horrores 24h
+http://s.tvmaster.net:80/1234567/1234567/35068
+#EXTINF:-1,Diarios de Um Vampiro 1 24h
+http://s.tvmaster.net:80/1234567/1234567/34961
+#EXTINF:-1,Doctor Who 1 24h
+http://s.tvmaster.net:80/1234567/1234567/35069
+#EXTINF:-1,Doctor Who 2 24h
+http://s.tvmaster.net:80/1234567/1234567/35070
+#EXTINF:-1,Doctor Who 3 24h
+http://s.tvmaster.net:80/1234567/1234567/35071
+#EXTINF:-1,Doctor Who 4 24h
+http://s.tvmaster.net:80/1234567/1234567/35072
+#EXTINF:-1,Doctor Who 5 24h
+http://s.tvmaster.net:80/1234567/1234567/35073
+#EXTINF:-1,Doctor Who 6 24h
+http://s.tvmaster.net:80/1234567/1234567/35074
+#EXTINF:-1,Doctor Who 7 24h
+http://s.tvmaster.net:80/1234567/1234567/35075
+#EXTINF:-1,Doctor Who 8 24h
+http://s.tvmaster.net:80/1234567/1234567/35076
+#EXTINF:-1,Dupla Identidade 24h
+http://s.tvmaster.net:80/1234567/1234567/35077
+#EXTINF:-1,El Chapo 1 24h
+http://s.tvmaster.net:80/1234567/1234567/34962
+#EXTINF:-1,Elite 24h
+http://s.tvmaster.net:80/1234567/1234567/35078
+#EXTINF:-1,Familia Soprano 1 24h
+http://s.tvmaster.net:80/1234567/1234567/35079
+#EXTINF:-1,Familia Soprano 2 24h
+http://s.tvmaster.net:80/1234567/1234567/35080
+#EXTINF:-1,Familia Soprano 3 24h
+http://s.tvmaster.net:80/1234567/1234567/35081
+#EXTINF:-1,Familia Soprano 4 24h
+http://s.tvmaster.net:80/1234567/1234567/35082
+#EXTINF:-1,Familia Soprano 5 24h
+http://s.tvmaster.net:80/1234567/1234567/35083
+#EXTINF:-1,Farine e Cocaine 24h
+http://s.tvmaster.net:80/1234567/1234567/35084
+#EXTINF:-1,Fear The Walking Dead 1 24h
+http://s.tvmaster.net:80/1234567/1234567/35085
+#EXTINF:-1,Fear The Walking Dead 2 24h
+http://s.tvmaster.net:80/1234567/1234567/35086
+#EXTINF:-1,Fear The Walking Dead 3 24h
+http://s.tvmaster.net:80/1234567/1234567/35087
+#EXTINF:-1,Frequency 24h
+http://s.tvmaster.net:80/1234567/1234567/34963
+#EXTINF:-1,Fugitivos 24h
+http://s.tvmaster.net:80/1234567/1234567/35088
+#EXTINF:-1,Future Man 24h
+http://s.tvmaster.net:80/1234567/1234567/34964
+#EXTINF:-1,Galinha Pintadinha 24h
+http://s.tvmaster.net:80/1234567/1234567/34995
+#EXTINF:-1,Gamebros 24h
+http://s.tvmaster.net:80/1234567/1234567/35089
+#EXTINF:-1,Ghoul 24h
+http://s.tvmaster.net:80/1234567/1234567/35090
+#EXTINF:-1,Gothan 1 24h
+http://s.tvmaster.net:80/1234567/1234567/34965
+#EXTINF:-1,Greys Anatomy 1 24h
+http://s.tvmaster.net:80/1234567/1234567/34966
+#EXTINF:-1,Hannibal 1 24h
+http://s.tvmaster.net:80/1234567/1234567/34967
+#EXTINF:-1,Impuros 24h
+http://s.tvmaster.net:80/1234567/1234567/35091
+#EXTINF:-1,Irmaos de Guerra 24h
+http://s.tvmaster.net:80/1234567/1234567/35092
+#EXTINF:-1,Jaspion & Jonny Quest 24h
+http://s.tvmaster.net:80/1234567/1234567/34951
+#EXTINF:-1,Jogos Sagrados 24h
+http://s.tvmaster.net:80/1234567/1234567/35093
+#EXTINF:-1,Jose do Egito 24h
+http://s.tvmaster.net:80/1234567/1234567/35094
+#EXTINF:-1,Justiceiro 1 24h
+http://s.tvmaster.net:80/1234567/1234567/34969
+#EXTINF:-1,La Casa Papel 1 24h
+http://s.tvmaster.net:80/1234567/1234567/34970
+#EXTINF:-1,La Casa Papel 2 24h
+http://s.tvmaster.net:80/1234567/1234567/34971
+#EXTINF:-1,Legend of Tomorrow  2 24h
+http://s.tvmaster.net:80/1234567/1234567/35096
+#EXTINF:-1,Legend of Tomorrow 1 24h
+http://s.tvmaster.net:80/1234567/1234567/35095
+#EXTINF:-1,Lluke Cage 1 24h
+http://s.tvmaster.net:80/1234567/1234567/35100
+#EXTINF:-1,Lucifer 1 24h
+http://s.tvmaster.net:80/1234567/1234567/35097
+#EXTINF:-1,Lucifer 2 24h
+http://s.tvmaster.net:80/1234567/1234567/35098
+#EXTINF:-1,Lucifer 3 24h
+http://s.tvmaster.net:80/1234567/1234567/35099
+#EXTINF:-1,Luke Cage 2 24h
+http://s.tvmaster.net:80/1234567/1234567/35101
+#EXTINF:-1,Luluzinha 24h
+http://s.tvmaster.net:80/1234567/1234567/34949
+#EXTINF:-1,Macgyver 1 24h
+http://s.tvmaster.net:80/1234567/1234567/34972
+#EXTINF:-1,Maquina Mortifera 1 24h
+http://s.tvmaster.net:80/1234567/1234567/34973
+#EXTINF:-1,Masha e o Urso 24h
+http://s.tvmaster.net:80/1234567/1234567/34945
+#EXTINF:-1,Mecanismo 24h
+http://s.tvmaster.net:80/1234567/1234567/34974
+#EXTINF:-1,Mindhunter 24h
+http://s.tvmaster.net:80/1234567/1234567/35102
+#EXTINF:-1,Narcos 1 24h
+http://s.tvmaster.net:80/1234567/1234567/34975
+#EXTINF:-1,Narcos 2 24h
+http://s.tvmaster.net:80/1234567/1234567/34976
+#EXTINF:-1,O Homem Do Castelo Alto 1 24h
+http://s.tvmaster.net:80/1234567/1234567/35103
+#EXTINF:-1,O Homem Do Castelo Alto 2 24h
+http://s.tvmaster.net:80/1234567/1234567/35104
+#EXTINF:-1,O Homem Do Castelo Alto 3 24h
+http://s.tvmaster.net:80/1234567/1234567/35105
+#EXTINF:-1,O Negocio 1 24h
+http://s.tvmaster.net:80/1234567/1234567/35106
+#EXTINF:-1,O Negocio 2 24h
+http://s.tvmaster.net:80/1234567/1234567/35107
+#EXTINF:-1,O Negocio 3 24h
+http://s.tvmaster.net:80/1234567/1234567/35108
+#EXTINF:-1,O Negocio 4 24h
+http://s.tvmaster.net:80/1234567/1234567/35109
+#EXTINF:-1,Outsiders 1 24h
+http://s.tvmaster.net:80/1234567/1234567/34978
+#EXTINF:-1,Outsiders 2 24h
+http://s.tvmaster.net:80/1234567/1234567/34979
+#EXTINF:-1,Padrinhos Magicos e Pica Pau 24h
+http://s.tvmaster.net:80/1234567/1234567/34953
+#EXTINF:-1,Pica Pau Tom e Jerry 24h
+http://s.tvmaster.net:80/1234567/1234567/34950
+#EXTINF:-1,Planeta Terra  24h
+http://s.tvmaster.net:80/1234567/1234567/34980
+#EXTINF:-1,POCOYO 24h
+http://s.tvmaster.net:80/1234567/1234567/34944
+#EXTINF:-1,Prision Break 1 24h
+http://s.tvmaster.net:80/1234567/1234567/34981
+#EXTINF:-1,Prison Break 2 24h
+http://s.tvmaster.net:80/1234567/1234567/34982
+#EXTINF:-1,Prison Break 3 24h
+http://s.tvmaster.net:80/1234567/1234567/34983
+#EXTINF:-1,Prison Break 4 24h
+http://s.tvmaster.net:80/1234567/1234567/34984
+#EXTINF:-1,Prison Break 5 24h
+http://s.tvmaster.net:80/1234567/1234567/34985
+#EXTINF:-1,Sete Segundos 24h
+http://s.tvmaster.net:80/1234567/1234567/34986
+#EXTINF:-1,Star Trek 1 24h
+http://s.tvmaster.net:80/1234567/1234567/34987
+#EXTINF:-1,Star Trek 2 24h
+http://s.tvmaster.net:80/1234567/1234567/34988
+#EXTINF:-1,Stranger Things 2 24h
+http://s.tvmaster.net:80/1234567/1234567/34990
+#EXTINF:-1,Supernatural 1 24h
+http://s.tvmaster.net:80/1234567/1234567/34991
+#EXTINF:-1,The Big Bang Theory 1 24h
+http://s.tvmaster.net:80/1234567/1234567/34992
+#EXTINF:-1,The Big Bang Theory 2 24h
+http://s.tvmaster.net:80/1234567/1234567/34993
+#EXTINF:-1,The Big Bang Theory 3 24h
+http://s.tvmaster.net:80/1234567/1234567/34994
+#EXTINF:-1,Turma da Monica 24h
+http://s.tvmaster.net:80/1234567/1234567/34998
+#EXTINF:-1,ursinhos carinhosos e  tom & jerry 24h
+http://s.tvmaster.net:80/1234567/1234567/34948
+#EXTINF:-1,Vikings 1 24h
+http://s.tvmaster.net:80/1234567/1234567/35007
+#EXTINF:-1,Vikings 3 24h
+http://s.tvmaster.net:80/1234567/1234567/35009
+#EXTINF:-1,Vikings 4 24h
+http://s.tvmaster.net:80/1234567/1234567/35010
+#EXTINF:-1,Vikings 5 24h
+http://s.tvmaster.net:80/1234567/1234567/35011
+#EXTINF:-1,Vikins 2 24h
+http://s.tvmaster.net:80/1234567/1234567/35008
+#EXTINF:-1,EU A PATROA E AS CRIANÇAS 1 TEMPORADA
+http://s.tvmaster.net:80/1234567/1234567/35224
+#EXTINF:-1,EU A PATROA E AS CRIANÇAS 2 TEMPORADA
+http://s.tvmaster.net:80/1234567/1234567/35225
+#EXTINF:-1,EU A PATROA E AS CRIANÇAS 3 TEMPORADA
+http://s.tvmaster.net:80/1234567/1234567/35226
+#EXTINF:-1,UM MALUCO NO PEDAÇO 1 TEMPORADA
+http://s.tvmaster.net:80/1234567/1234567/35227
+#EXTINF:-1,UM MALUCO NO PEDACO 2 TEMP
+http://s.tvmaster.net:80/1234567/1234567/35228
+#EXTINF:-1,UM MALUCO NO PEDACO 3 TEMP
+http://s.tvmaster.net:80/1234567/1234567/35229
+#EXTINF:-1,PATRULHA CANINA
+http://s.tvmaster.net:80/1234567/1234567/35247
+#EXTINF:-1,BAND 4K
+http://s.tvmaster.net:80/1234567/1234567/34817
+#EXTINF:-1,COMBATE 4K
+http://s.tvmaster.net:80/1234567/1234567/34806
+#EXTINF:-1,GLOBO 4K
+http://s.tvmaster.net:80/1234567/1234567/34816
+#EXTINF:-1,RECORD 4K
+http://s.tvmaster.net:80/1234567/1234567/34818
+#EXTINF:-1,REDETV 4K
+http://s.tvmaster.net:80/1234567/1234567/34819
+#EXTINF:-1,PREMIER 4K
+http://s.tvmaster.net:80/1234567/1234567/34820
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://s.tvmaster.net:80/1234567/1234567/34821
+#EXTINF:-1,TNT 4K
+http://s.tvmaster.net:80/1234567/1234567/34822
+#EXTINF:-1,FOX SPORTS 4K
+http://s.tvmaster.net:80/1234567/1234567/34823
+#EXTINF:-1,SBT 4K
+http://s.tvmaster.net:80/1234567/1234567/34824
+#EXTINF:-1,ANIMAL PLANET 4K
+http://s.tvmaster.net:80/1234567/1234567/34825
+#EXTINF:-1,SPORTV 4K
+http://s.tvmaster.net:80/1234567/1234567/34829
+#EXTINF:-1,MULTISHOW 4K
+http://s.tvmaster.net:80/1234567/1234567/34832
+#EXTINF:-1,CARTOON 4K
+http://s.tvmaster.net:80/1234567/1234567/34836
+#EXTINF:-1,MEGAPIX 4K
+http://s.tvmaster.net:80/1234567/1234567/34837
+#EXTINF:-1,FOX SPORTS 2 4K
+http://s.tvmaster.net:80/1234567/1234567/34842
+#EXTINF:-1,NATGEO 4K
+http://s.tvmaster.net:80/1234567/1234567/34843
+#EXTINF:-1,TNT SERIES 4K
+http://s.tvmaster.net:80/1234567/1234567/34869
+#EXTINF:-1,ESPN 4K
+http://s.tvmaster.net:80/1234567/1234567/35003
+#EXTINF:-1,SPACE 4K
+http://s.tvmaster.net:80/1234567/1234567/35006
