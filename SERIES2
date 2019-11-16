@@ -1650,6 +1650,16 @@ Um agente da Unidade de Crimes em Série do FBI desenvolve avançadas técnicas 
 
 <channels>
 <channel>
+<name>[COLOR lime]O Mentalista (2008)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdkkBruycNl9NlHFnxRuqVHfsvt.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TheMentalist.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/rLpLagiCqa6wDYKnFbwY2RhxO8o.jpg</fanart>
+<info>Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está ao seu redor. Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admite que fingia ter poderes paranormais. Com sua grande habilidade de observação, Patrick trabalha como consultor independente para as autoridades da Califórnia, resolvendo um número considerável de crimes complicados.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]O Mundo Sombrio de Sabrina (2018)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XNUMEnHzCKvCYvYpnFgoZa7QQL.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/OMundoSombriodeSabrina.m3u</externallink>
