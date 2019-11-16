@@ -856,6 +856,16 @@ A história de um homem injustamente condenado que luta pela sua sobrevivência 
 
 <channels>
 <channel>
+<name>[COLOR lime]Black Summer (2019)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnRiTrHCL3k5F0QOtQhkQd3AAR5.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BlackSummer.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/rBFEE11zW2mmnZ4T9jAiSozKR9y.jpg</fanart>
+<info>No escuro, nos primeiros dias de um apocalipse zumbi, estranhos se unem para encontrar a força necessária para sobreviver e voltar para os entes queridos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Blindspot - Ponto Cego (2015)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0b1biUGk2Ysvij4c9djFf4Ug7Z.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Blindspot.m3u</externallink>
