@@ -1,170 +1,266 @@
-#EXTM3U
+#EXTM3U size=“Medium”” 
+################## Prison Break ########################
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",5x5-DUB Prison Break
-http://cdnfe3.azureedge.net/RCServer11/ondemand/PRBKT05EP05.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",5x4-DUB Prison Break
-http://cdnfe3.azureedge.net/RCServer11/ondemand/PRBKT05EP04.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",5x3-DUB Prison Break
-http://cdnfe3.azureedge.net/RCServer11/ondemand/PRBKT05EP03.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",5x2-DUB Prison Break
-http://cdnfe3.azureedge.net/RCServer11/ondemand/PRBKT05EP02.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",5x1-DUB Prison Break
-http://cdnfe3.azureedge.net/RCServer11/ondemand/PRBKT05EP01.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",4x23 e 24-DUB Prison Break
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP23-24.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x22 Killing Your Number
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP22.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x21 Rate of Exchange
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP21.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x20 Cowboys & Indians
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP20.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x19 S.O.B.
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP19.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x18 Vs ONS
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP18.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x17 The Mother Lode
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP17.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x16 The Sunshine State
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP16.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x15 Going Under
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP15.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x14 Just Business
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP14.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x13 Deal or No Deal
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP13.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x12 Selfless
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP12.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x11 Quiet Riot
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP11.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x10 The DUBend
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP10.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x09 Greatness Achieved
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP09.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x08 The Price
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP08.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x07 Five The Hard Way
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP07.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x06 Blow Out
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP06.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x05 Safe and Sound
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP05.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x04 Eagles and Angels
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP04.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x03 Shut Down
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP03.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 4x1+2
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP01-02.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 3x13 The Art of the Deal - 
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP13.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 3x12 Hell or High Water
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP12.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 3x11 Under & Out
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP11.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 3x10 Dirt Nap
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP10.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 3x09 Boxed In
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP09.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 3x08 Bang & Burn
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP08.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 3x07 Vamonos
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP07.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 3x06 Photo Finish
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP06.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 3x05 Interference
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP05.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 3x04 Good ONS Fences
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP04.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 3x03 Call Waiting
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP03.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 3x02 Fire/Water
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP02.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 3x01 Orientación
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP01.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x22 Sona - 
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP22.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x21 Fin Del Camino
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP21.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x20 Panama
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP20.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x19 Sweet Caroline
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP19.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x18 Wash
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP18.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x17 Bad Blood
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP17.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x16 Chicago
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP16.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x15 The Message
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP15.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x14 John Doe
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP14.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x13 The Killing Box
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP13.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x12 Disconnect
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP12.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x11 Bolshoi Booze
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP11.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x10 Rendezvous
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP10.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x09 Unearthed
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP09.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x08 Dead Fall
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP08.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x07 Buried
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP07.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x06 Subdivision
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP06.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x05 Map ONS 1213
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP05.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x04 First Down
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP04.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x03 Scan
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP03.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x02 Otis
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP02.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 2x01 Manhunt
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP01.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x22 Flight - 
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP22.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x21 Go
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP21.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x20 Tonight
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP20.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x19 The Key
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP19.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x18 Bluff
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP18.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x17 J-Cat
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP17.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x16 Brother’s Keeper
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP16.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x15 By the Skin and the Teeth
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP15.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x14 The Rat
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP14.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x13 End of the Tunnel
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP13.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x12 Odd Man Out
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP12.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x11 And Then There Were 7
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP11.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x10 Sleight of Hand
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP10.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x09 Tweener
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP09.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x08 The Old Head
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP08.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x07 Riots Drills and the Devil (2)
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP07.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x06 Riots Drills and the Devil (1)
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP06.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x05 English Fitz or Percy
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP05.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x04 Cute ONS Poison
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP04.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x03 Cell Test
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP03.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x02 Allen
-http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP02.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LDCaVp9.jpg" group-title="Prison Break DUB",Prison B. 1x01 Pilot
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x01 - Em Busca da Verdade (Piloto)"
 http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x02 - Acerto de Contas"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x03 - Teste do Celular"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x04 - A Volta de Sucre"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x05 - A Transferência"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x06 - A Rebelião, 1ª Parte"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x07 - A Rebelião, 2ª Parte"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x08 - Perseguição"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x09 - Um Novo Chefe"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x10 - De Volta ao Plano de Fuga"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP10.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x11 - 7 é Demais"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP11.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x12 - Perdão Fatal"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP12.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x13 - O Fim do Tunel"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP13.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x14 - O Rato"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP14.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x15 - O Adiamento"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP15.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x16 - O Guardião do Irmão"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP16.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x17 - O Surto"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP17.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x18 - O Blefe"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP18.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x19 - A Chave"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP19.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x20 - A Segunda Fuga"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP20.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x21 - A Noite da Fuga"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP21.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break1.jpg" group-title="Prison Break", "01x22 - A Reta Final"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP22.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x01 - Caçada Humana"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x02 - Tentativa de Resgate"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x03 - Perseguição"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x04 - Primeiro a Morrer"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x05 - Mapa 1213"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x06 - Subdivisão"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x07 - Enterrado"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x08 - Armadilha Mortal"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x09 - Desenterrado"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x10 - Ponto de Encontro"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP10.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x11 - Bolshoi Booze"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP11.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x12 - Separação"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP12.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x13 - Encurralados"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP13.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x14 - João Ninguém"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP14.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x15 - A Mensagem"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP15.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x16 - Chicago"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP16.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x17 - Sangue Ruim"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP17.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x18 - O Acordo"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP18.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x19 - Doce Caroline"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP19.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x20 - Panamá"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP20.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x21 - Fim do Caminho"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP21.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break2.jpg" group-title="Prison Break", "02x22 - A Volta"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP22.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break3.jpg" group-title="Prison Break", "03x01 - Orientação (Sona)"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break3.jpg" group-title="Prison Break", "03x02 - Fogo e Água"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break3.jpg" group-title="Prison Break", "03x03 - O Telefonema"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break3.jpg" group-title="Prison Break", "03x04 - A Cerca"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break3.jpg" group-title="Prison Break", "03x05 - Interferência"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break3.jpg" group-title="Prison Break", "03x06 - As Fotos"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break3.jpg" group-title="Prison Break", "03x07 - A Fuga"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break3.jpg" group-title="Prison Break", "03x08 - Tentativa de Fuga"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break3.jpg" group-title="Prison Break", "03x09 - Tentativa Frustrada"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break3.jpg" group-title="Prison Break", "03x10 - Por Um Fio"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP10.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break3.jpg" group-title="Prison Break", "03x11 - Fuga Noturna"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP11.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break3.jpg" group-title="Prison Break", "03x12 - Inferno ou Alto-Mar"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP12.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break3.jpg" group-title="Prison Break", "03x13 - A Arte de Negociar"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP13.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x01/02 - Scylla / A Invasão"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP01-02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x03 - A Busca Continua"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x04 - Águias e Anjos"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x05 - Sã e Salva"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x06 - O Erro"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x07 - O Quinto Cartão"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x08 - O Preço"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x09 - Resultado Inesperado"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x10 - A Planta"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP10.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x11 - Rebelião Silenciosa"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP11.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x12 - Altruísmo"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP12.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x13 - O Trato"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP13.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x14 - Apenas Negócios"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP14.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x15 - Experiência de Vida e Morte"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP15.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x16 - O Estado Ensolarado"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP16.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x17 - Traição"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP17.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x18 - VS"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP18.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x19 - A Conferência"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP19.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x20 - Mocinhos e Bandidos"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP20.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x21 - A Troca"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP21.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break4.jpg" group-title="Prison Break", "04x22 - A Verdade Revelada"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP22.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Prison%20Break%20-%20O%20Resgate%20Final.jpg" group-title="Prison Break", "O Resgate Finalx23/24 - A Velha Esfera / Cadeia e Livres"
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP23-24.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Prison%20Break5.jpg" group-title="Prison Break", "05x01 - Ogygia"
+http://cdnfe3.azureedge.net/RCServer11/ondemand/PRBKT05EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Prison%20Break5.jpg" group-title="Prison Break", "05x02 - Kaniel Outis"
+http://cdnfe3.azureedge.net/RCServer11/ondemand/PRBKT05EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Prison%20Break5.jpg" group-title="Prison Break", "05x03 - A Mentira"
+http://cdnfe3.azureedge.net/RCServer11/ondemand/PRBKT05EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Prison%20Break5.jpg" group-title="Prison Break", "05x04 - O Dilema do Prisioneiro"
+http://cdnfe3.azureedge.net/RCServer11/ondemand/PRBKT05EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Prison%20Break5.jpg" group-title="Prison Break", "05x05 - Contingência"
+http://cdnfe3.azureedge.net/RCServer11/ondemand/PRBKT05EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Prison%20Break5.jpg" group-title="Prison Break", "05x06 - Fuga Pelo Deserto"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/PRBKT05EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Prison%20Break5.jpg" group-title="Prison Break", "05x07 - Mar Negro"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/PRBKT05EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Prison%20Break5.jpg" group-title="Prison Break", "05x08 - Descendência"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/PRBKT05EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Prison%20Break5.jpg" group-title="Prison Break", "05x09 - Atrás dos Olhos"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/PRBKT05EP09.mp4
