@@ -388,11 +388,21 @@ Após a morte inesperada de sua esposa, Tony (Ricky Gervais) decide mudar seu mo
 
 <channels>
 <channel>
-<name>[COLOR lime]AMERICAN HORROR STORY (2011)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR2K0Ui9UsOqnzb5IrV6tLUcUHl.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AHS.m3u</externallink>
-<fanart>https://image.tmdb.org/t/p/original/h6oOpNbOsdkVkKvMX4dQvXg8J3C.jpg</fanart>
-<info>É uma série de terror e suspense, que, a cada temporada, conta uma nova história centrada em um tema e com praticamente todo o elenco da temporada anterior interpretando novos e completamente diferentes personagens.</info>
+<name>[COLOR lime]Agents of S.H.I.E.L.D.: Slingshot (2016)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxCqxrUvzk0Kv9kJaBkRarJCfcB.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AgentsofSHIELDSlingshot.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/nCYcjoDpRoOUQW7DUUp4v0HGWN3.jpg</fanart>
+<info>Elena "Yo-Yo" Rodriguez, an Inhuman with the ability to move at super-speed, is required to sign the Sokovia Accords. However, the restrictions of the Accords are in direct conflict with a personal mission she's desperate to fulfill, one that will test her abilities and will include tense encounters with S.H.I.E.L.D. team members.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Além da Imaginação (2002)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sS1ykUhvyurff4CohExIh8qYO99.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ALEMDAIMAGINACAO.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/wLrO32I2kVtzuAD6PfIZsNSAZvH.jpg</fanart>
+<info>Cada semana apresenta um episódio sobre alguma situação incomum que acaba por ser ainda mais incomum do que inicialmente se suspeitava. Não importa se a história é de terror, suspense ou humor, sempre há uma virada surpreendente no final.</info>
 </channel>
 </channels>
 
@@ -424,6 +434,16 @@ Quando a detetive Rebecca Madsen (Sarah Jones) é designada para investigar um h
 <fanart>https://i.imgur.com/vadDl65.jpg</fanart>
 <info>Quando a detetive Rebecca Madsen (Sarah Jones) é designada para investigar um homicídio macabro, uma digital a leva até um suspeito improvável: Jack Sylvane (Jeffrey Pierce), um ex-detento de Alcatraz, que morreu décadas atrás. Quando suas buscas são impedidas pelo agente do governo Emerson Hauser (Sam Neill), ela procura ajuda de um especialista nos casos de Alcatraz, e entusiasta dos quadrinhos, Dr. Diego Soto (Jorge Garcia). Logo eles descobrem que Sylvane não só está vivo, mas à solta nas ruas de San Francisco, deixando um rastro de corpos, e sem envelhecer. Mas isso é apenas uma pequena parte de uma grande e sinistra conspiração que eles precisam deter a qualquer custo.</info>
 </item>
+
+<channels>
+<channel>
+<name>[COLOR lime]ALF, o ETeimoso (1986)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Alf.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/7Z2yCqbIL835RyjhCSnEl1bcZL2.jpg</fanart>
+<info>ALF segue um sinal de rádio amador para a Terra e acaba caindo na garagem da casa da família Tanner. Os Tanner são uma típica família de classe média em Riverside, Califórnia. A família consiste do assistente social Willie, sua esposa Kate, sua filha adolescente Lynn, o filho mais novo Brian, e o gato Lucky. Sem saberem ao certo o que fazer, os Tanner levam ALF para casa e o escondem da Alien Task Force e de seus metidos vizinhos Trevor e Raquel Ochmonek, até que ele possa reparar sua nave. ALF geralmente fica escondido na cozinha. Eventualmente é revelado que Melmac, o planeta de ALF, foi destruído por uma catástrofe envolvendo bombas nucleares e ele acaba se tornando um membro permanente da família, embora o choque cultural, a solidão e a saudade de casa, frequentemente causem problemas aos Tanner.</info>
+</channel>
+</channels>
 
 <channels></channels>
 <channel>
@@ -475,6 +495,26 @@ Duas irmãs descobrem segredos familiares perturbadores depois de uma série de 
 <info>Duas irmãs descobrem segredos familiares perturbadores depois de uma série de mortes misteriosas em uma viagem de navio entre a Espanha e o Brasil nos anos 1940.</info>
 </item>
 
+<channels>
+<channel>
+<name>[COLOR lime]AMERICAN HORROR STORY (2011)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR2K0Ui9UsOqnzb5IrV6tLUcUHl.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AHS.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/h6oOpNbOsdkVkKvMX4dQvXg8J3C.jpg</fanart>
+<info>É uma série de terror e suspense, que, a cada temporada, conta uma nova história centrada em um tema e com praticamente todo o elenco da temporada anterior interpretando novos e completamente diferentes personagens.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]American Gods - Deuses Americanos (2017)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6qf6lq3yARgbZwspvDLbUFtASh.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AmericanGods.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<info>O drama é centrado em uma guerra entre os velhos e os novos deuses. Os seres bíblicos e mitológicos estão perdendo cada vez mais fiéis para novos deuses, que refletem o amor da sociedade por dinheiro, tecnologia, celebridades e drogas.</info>
+</channel>
+</channels>
+
 <channels></channels>
 <channel>
 <name>[COLOR lime]A Maldição da Residência Hill (2018)[/COLOR]</name>
@@ -500,6 +540,16 @@ Entre o passado e o presente, uma família dividida confronta memórias assustad
 <fanart>https://image.tmdb.org/t/p/original/dQF17lG4OZ3pC4QD9iNjaMS96gO.jpg</fanart>
 <info>Entre o passado e o presente, uma família dividida confronta memórias assustadoras do antigo lar e dos eventos aterrorizantes que os expulsaram de lá.</info>
 </item>
+
+<channels>
+<channel>
+<name>[COLOR lime]A Mulher Biônica (1976)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GRVXK9Ure3iOwQ5k5Hew52QhJV.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AMulherBionica.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/84LYYmqQ3Ab86ICsskY3PbPASXy.jpg</fanart>
+<info>Depois de se recuperar completamente de sua quase mortal rejeição biônica, Jaime Sommers, o primeiro ciborgue feminino, é designado para missões de espionagem por conta própria.</info>
+</channel>
+</channels>
 
 <channels>
 <channel>
@@ -547,6 +597,26 @@ Três amigas líderes de uma ONG e a estagiária da organização investigam uma
 <fanart>https://image.tmdb.org/t/p/original/EgEzCcWafbSeP0ysmm2JEioAuB.jpg</fanart>
 <info>Três amigas líderes de uma ONG e a estagiária da organização investigam uma quadrilha de crimes ambientais na Amazônia, que envolve uma grande mineradora.</info>
 </item>
+
+<channels>
+<channel>
+<name>[COLOR lime]As Crônicas de Nárnia[/COLOR]</name>
+<thumbnail>https://tinyurl.com/y87s3tks</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AsCronicasdeNarnia.m3u</externallink>
+<fanart>https://tinyurl.com/y87s3tks</fanart>
+<info>...</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]A Super Máquina (1982)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9in88rl7SF5fx7OEpfMoPjkvkRX.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ASUPERMAQUINA.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/taqIv7CDfwcguW7WO25IT2fbTX0.jpg</fanart>
+<info>Wilton é o criador de uma fundação que combate o crime e a injustiça no mundo. Para isso, ele cria também o espetacular veículo KARR, que, no entanto, não sai como esperado, levando-o a desativá-lo. Mais tarde, Knight viria a conhecer Michael, um policial que trabalhava em mais um de seus casos quando, traído por sua parceira, acaba levando um tiro no rosto. Knight, depois de achar o policial quase morto, resolve pedir aos médicos que reconstituam seu rosto para que ele fique parecido com o de seu filho, Michael. Wilton decide então criar um novo carro com o intuito de combater o crime, dando origem ao KITT, um carro que possui inteligência artificial e muitos outros acessórios, além de um revestimento molecular super resistente que o torna indestrutível. A partir daí, esse novo Michael e essa super máquina irão combater o crime sempre auxiliados por Devon.</info>
+</channel>
+</channels>
 
 <channels></channels>
 <channel>
