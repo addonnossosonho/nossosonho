@@ -1,0 +1,22 @@
+
+#EXTM3U size="Medium"
+
+################## Agents of S.H.I.E.L.D.: Slingshot ########################
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20of%20S.H.I.E.L.D.%20-%20Slingshot1.jpg" group-title="Agents of S.H.I.E.L.D.: Slingshot", "01x01 - Vingança (Legendado)"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDSLGHTS01EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20of%20S.H.I.E.L.D.%20-%20Slingshot1.jpg" group-title="Agents of S.H.I.E.L.D.: Slingshot", "01x02 - John Hancock (Legendado)"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDSLGHTS01EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20of%20S.H.I.E.L.D.%20-%20Slingshot1.jpg" group-title="Agents of S.H.I.E.L.D.: Slingshot", "01x03 - Progresso (Legendado)"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDSLGHTS01EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20of%20S.H.I.E.L.D.%20-%20Slingshot1.jpg" group-title="Agents of S.H.I.E.L.D.: Slingshot", "01x04 - Reunião (Legendado)"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDSLGHTS01EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20of%20S.H.I.E.L.D.%20-%20Slingshot1.jpg" group-title="Agents of S.H.I.E.L.D.: Slingshot", "01x05 - Disjuntor do Negócio (Legendado)"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDSLGHTS01EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20of%20S.H.I.E.L.D.%20-%20Slingshot1.jpg" group-title="Agents of S.H.I.E.L.D.: Slingshot", "01x06 - Justiça (Legendado)"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDSLGHTS01EP06.mp4
