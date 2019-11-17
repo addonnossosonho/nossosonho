@@ -1364,6 +1364,16 @@ Nos anos 90, o Brasil tem Luís Cláudio Freitas como a grande promessa do boxe 
 <info></info>
 </item>
 
+<channels>
+<channel>
+<name>[COLOR lime]Jessica Jones (2015)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8a7e2GNpMnjI2hgRZH3jq2c7ffv.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/JessicaJones</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ka5WnKTYI1wKyIhsy1vjr1nvZ7T.jpg</fanart>
+<info>Assombrada pelos traumas do passado, Jessica Jones usa seus poderes como detetive particular para encontrar e deter o perverso Kilgrave.</info>
+</channel>
+</channels>
+
 <channels></channels>
 <channel>
 <name>[COLOR lime]La casa de papel (2017)[/COLOR]</name>
@@ -2058,6 +2068,16 @@ Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes
 
 <channels>
 <channel>
+<name>[COLOR lime]Stranger Things (2016)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/esKFbCWAGyUUNshT5HE5BIpvbcL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/StrangerThings</externallink>
+<fanart>https://image.tmdb.org/t/p/original/6c4weB3UycHwPgzv31Awt7nku9y.jpg</fanart>
+<info>Ambientada em Montauk, Long Island, conta a história de um menino que desaparece misteriosamente. Enquanto a polícia, a família e os amigos procuram respostas, eles acabam por mergulhar num extraordinário mistério, envolvendo experiências secretas do governo, forças sobrenaturais e uma menina muito, muito estranha.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Suits - Homens de Terno (2011)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6Iu6pTzfL6iRWhXuYkNs8cPdJF.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SUITS.m3u</externallink>
@@ -2248,6 +2268,16 @@ Uma visão atualizada do mundo, onde justiceiros mascarados transitam constantem
 <genre>FICÇÃO</genre>
 </item>
 <item>
+
+<channels>
+<channel>
+<name>[COLOR lime]Westworld (2016)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2WKIbiwhLoWgLFbT2I0Gwq8U1J.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Westworld</externallink>
+<fanart>https://image.tmdb.org/t/p/original/yp94aOXzuqcQHva90B3jxLfnOO9.jpg</fanart>
+<info>Num parque temático, visitantes mergulham num universo onde qualquer desejo pode ser realizado por robôs cuidadosamente programados. Mas algumas destas máquinas desviam do padrão de programação com comportamentos anormais.</info>
+</channel>
+</channels>
 
 <channels>
 <channel>
