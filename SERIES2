@@ -7,6 +7,16 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR lime]13 Reasons Why (2017)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eUJQK8wRiBvGqiqMKEcYmAnESQ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/13ReasonsWhy.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/3I3qqwRuNguPjZIA5Ud6zSv7nlE.jpg</fanart>
+<info>A história acompanha Clay Jensen que, ao voltar da escola, encontra uma caixa misteriosa com seu nome na porta de casa. Dentro dela, ele encontra fitas-cassetes gravadas por Hannah Baker - sua colega de classe e paixão secreta - que cometera suicídio duas semanas antes. Nas fitas, Hannah explica as treze razões que a levaram à decisão de acabar com a própria vida. Será que Clay foi uma delas?</info>
+</channel>
+</channels>
+
 <channels></channels>
 <channel>
 <name>[COLOR lime]1983 (2018)[/COLOR]</name>
@@ -54,6 +64,26 @@ A série de TV 1 Contra Todos Online é um seriado que se passa em uma penitenci
 <fanart>https://image.tmdb.org/t/p/original/wNlXKQjLZKLROhDkbI70ekZ7bVU.jpg</fanart>
 <info></info>
 </item>
+
+<channels>
+<channel>
+<name>[COLOR lime]24 Horas (2001)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3m83XvlgjIMeBtCHlIyLAsa2GZ1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/24hs.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/sMJj1rqiY0pI3kUZOWqyFV8WOr6.jpg</fanart>
+<info>O Agente federal Jack Bauer não se pode dar ao luxo de jogar pelas regras. Como membro da UCT (Unidade Contra Terrorismo), Jack deve parar bombas, vírus, tentativas de assassinato, e geralmente salvar alguém que lhe é próximo. Cada temporada da série tem 24 episódios, cada um, em desdobramento em tempo real, de uma hora consecutiva num dia muito ruim.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]2 Homens e Meio (2003)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/2HOMENSEMEIO.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/63hvev2IqJUrRooC6y7427UaRs6.jpg</fanart>
+<info>A vida mulherenga do solteirão Charlie é afetada quando seu irmão divorciado e seu sobrinho de língua afiada vão morar com ele.</info>
+</channel>
+</channels>
 
 <channels></channels>
 <channel>
@@ -304,6 +334,16 @@ A agente do FBI Emily Byrne (Stana Katic, de Castle) é encontrada em um cativei
 <info>A agente do FBI Emily Byrne (Stana Katic, de Castle) é encontrada em um cativeiro após 6 anos, depois de ser dada como morta em serviço. O que deveria ser o fim de um tempo traumático se revela o início de um pesadelo: além de procurar respostas sobre o seu sequestro e preencher o vácuo deixado junto à família e amigos por uma ausência tão longa, ela se torna a principal suspeita de uma série de novos assassinatos. Ao longo de 10 episódios, Byrne vai contar com a ajuda de seu ex-marido Nick Durand (Patrick Heusinger) para se livrar das acusações que pesam sobre ela, enquanto busca o responsável pelo seu sumiço e reclama o seu lugar de mãe e esposa.</info>
 </item>
 
+<channels>
+<channel>
+<name>[COLOR lime]A Casa da Raven (2017)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/goMyHbMg6FbOYBfsy0phYpqWJh0.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ACASADARAVEN.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/pAcD2zxjUlpbAAooUMWiGtcopgb.jpg</fanart>
+<info>Raven e sua melhor amiga Chelsea, agora mães divorciadas, criam seus filhos juntas numa mesma casa caótica. Raven ainda tem suas visões do futuro, mas agora ela não é a única: um dos seus filhos gêmeos de 11 anos, Booker, tem a mesma habilidade! Enquanto Booker usa seu recém-descoberto poder para sobreviver na escola, Raven usa seu poder para ajudá-la a ser uma boa mãe, uma ótima designer de moda e uma grande amiga. Comédia surge quando as visões de Raven e Booker colidem, mas sempre resolvem tudo em família.</info>
+</channel>
+</channels>
+
 <channels></channels>
 <channel>
 <name>[COLOR lime]After Life (2019)[/COLOR]</name>
@@ -325,6 +365,16 @@ Após a morte inesperada de sua esposa, Tony (Ricky Gervais) decide mudar seu mo
 <fanart>http://br.web.img3.acsta.net/newsv7/19/04/09/20/40/2580220.jpg</fanart>
 <info>Após a morte inesperada de sua esposa, Tony (Ricky Gervais) decide mudar seu modo de viver. O cara legal logo se torna um homem impulsivo que diz e faz o que tem vontade. A situação se complica, quando as pessoas ao redor de Tony tentam transformá-lo em uma pessoa melhor novamente.</info>
 </item>
+
+<channels>
+<channel>
+<name>[COLOR lime]Agente 86 (1965)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDXD3QuwhVNweb1ddZhMdW1xVYN.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AGENTE86.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/avAaErS7NM4lSQcWAzpuj433QAZ.jpg</fanart>
+<info>Agente 86 (Get Smart) é o nome de um conhecido seriado de televisão dos Estados Unidos da América.</info>
+</channel>
+</channels>
 
 <channels>
 <channel>
