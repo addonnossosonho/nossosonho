@@ -1,0 +1,61 @@
+<style type="text/css">
+.container {
+  width:100%;
+  position: relative;
+  height: 50px;
+}
+input {
+  height: 50px;
+  border: none;
+  outline: none;
+  padding-left: 50px;
+  width: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: none;
+  z-index: 3;
+  transition: width 1s ease-out;
+  cursor: pointer;
+}
+input:focus { 
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  width: 100%;
+  z-index: 1;
+  transition: width 1s ease-in;
+}
+button { 
+  height: 50px;
+  width: 50px;
+  background:  url('lupa.png')  center no-repeat;
+  border: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  cursor: pointer;
+}
+button:focus {
+  outline: none;
+}
+/* esconde o LABEL "Buscar" */
+label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;    
+}
+</style>
+
+<form action=" " method="post">
+    <label for="busca">Buscar</label>
+    <div class="container">  
+        <input type="search" id="busca" name="q">
+        <button type="submit">&#128269;</button>
+    </div>
+</form>
