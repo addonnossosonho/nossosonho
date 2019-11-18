@@ -1354,6 +1354,16 @@ Uma equipe inexperiente de submarinos tem que sobreviver a uma missão secreta e
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR lime]House of Cards (2013)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpj8wyeAVgDakXchERIzYUuwln9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/HouseOfCards.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/92ZhAYYce2KfuLgBswzW5HCMKxr.jpg</fanart>
+<info>Um político inescrupuloso não mede esforços para conquistar o poder nos EUA neste drama vencedor do Emmy e do Globo de Ouro.</info>
+</channel>
+</channels>
+
 <channels></channels>
 <channel>
 <name>[COLOR lime]Irmãos Freitas (2019)[/COLOR]</name>
