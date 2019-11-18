@@ -48,19 +48,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]A FAZENDA 11 24H AO VIVO[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AFAZENDA11.m3u</externallink>
-<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- Assistir A Fazenda online, 24 horas por dia, é possível! -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FILMES POR CATEGORIA[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Filmes</externallink>
 <fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
@@ -100,6 +88,18 @@
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]DESENHOS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/DESENHOS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/DESENHOS</externallink>
+<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]- TUDO PARA CRIANÇADA -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]DESENHOS op2[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/DESENHOS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/desenhos.m3u</externallink>
 <fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- TUDO PARA CRIANÇADA -[COLOR deeppink]|[/COLOR]</info>
 </channel>
