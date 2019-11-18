@@ -874,6 +874,16 @@ Inspirada nos quadrinhos do Arqueiro Verde, esta série acompanha as aventuras d
 
 <channels>
 <channel>
+<name>[COLOR lime]Arquivo Morto (2003)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRATmlxXDLLMvw1xUpgyoLwSq1I.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ArquivoMorto.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/vCeOOgzTlrEZZL7sTHHYbyoX6RL.jpg</fanart>
+<info>Lilly Rush (Kathryn Morris) é uma detetive trabalhando para o departamento de homicídio da Philadelphia, e foi designada para a sessão dos "arquivos mortos". Com sua equipe, ela investiga crimes cometidos há muito tempo e que não foram resolvidos. Lilly deve repensá-los, entrevistar pessoas envolvidas com as vítimas e encontrar alguma ligação que a leve ao assassino.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Bad Blood (2017)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukrAdTtJHHEaDRUJmi4XYwBUpRu.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BadBlood</externallink>
