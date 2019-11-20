@@ -2,43 +2,43 @@
 ################## Castle Rock ########################
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="Castle Rock", "01x01 - Separação"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11bERviGmZHr0Smdcz2RbVJscnKZEOTBL/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="Castle Rock", "01x02 - Habeas Corpus"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/136NJK0WBizF0WMUI98ICM1_etVpDFS9F/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="Castle Rock", "01x03 - Cor local"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kiQyHYwfMr9tE33k-AJTEqcxGlpx5_tO/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="Castle Rock", "01x04 - A Caixa"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nT9IseWepKbP5BX7_pjX6hlJHOhn8Vpd/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="Castle Rock", "01x05 - Colheita"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WXbzI8g2oNjveD9NQ912ugy8GQZGkiGG/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="Castle Rock", "01x06 - Filtro"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f_zrlfsp52FgSu6QW8I8t_u4B8lUGlxF/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="Castle Rock", "01x07 - A rainha"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11uS6UWuuS50SFIruz7MvmstLcaPIrvkZ/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="Castle Rock", "01x08 - Passado Perfeito"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wwC8SNBkiRvacFCOoho89UiKFs3GcEJi/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="Castle Rock", "01x09 - Henry Deaver"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rlBBiJQU21y-odDe37aahpZGGNuVmUSZ/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="Castle Rock", "01x10 - Romanos"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SsS_Fn_B20SzENY9ocyUurXR5iHpm0-V/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="Castle Rock", "02x01 - Deixe o rio correr"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nvNR-5cwpjs9QzXTgT7vNgsQbOcAUrNv/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="Castle Rock", "02x02 - Nova Jerusalém"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p4Z1gfssAZt81ZabJbQxHBxuP2-aLhhU/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="Castle Rock", "02x03 - Laços que unem"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IhylBuSHqYwUSeGUWDNCpN6PLEpD93S7/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="Castle Rock", "02x04 - O Mundo de Antes"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14s_775odpRrum1XSoK7RMpY0Z9PIM3a5/view?usp=drivesdk
