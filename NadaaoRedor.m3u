@@ -2,22 +2,22 @@
 ################## Nada ao Redor ########################
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbu2TRcFvx2hcZudG4lWJ8FqCiv.jpg" group-title="Nada ao Redor", "01x01 - "
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WurJPMg5ZcnH9EFlSsXYhBCWJoCgPNPc/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbu2TRcFvx2hcZudG4lWJ8FqCiv.jpg" group-title="Nada ao Redor", "01x02 - "
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ejQNxcWeqSwfeK2qjExCExOhwe7Kmd5f/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbu2TRcFvx2hcZudG4lWJ8FqCiv.jpg" group-title="Nada ao Redor", "01x03 - "
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OJWf4ARpi603XqJHl0GdjAgsQnQU_mVc/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbu2TRcFvx2hcZudG4lWJ8FqCiv.jpg" group-title="Nada ao Redor", "01x04 - "
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1C0IFX8BEMTL54IRvKyWPwhzEQo4Veljp?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbu2TRcFvx2hcZudG4lWJ8FqCiv.jpg" group-title="Nada ao Redor", "01x05 - "
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wqlhTZmqOPmziQY_SecE0uN429QflSOC/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbu2TRcFvx2hcZudG4lWJ8FqCiv.jpg" group-title="Nada ao Redor", "01x06 - "
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M7baRA2G5qG1bqbG0T16YIV3vH1bCRFw/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbu2TRcFvx2hcZudG4lWJ8FqCiv.jpg" group-title="Nada ao Redor", "01x07 - "
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UWUPyJlELJbjZFNFGLFp2WRB6uxQRHCB/view?usp=drivesdk
