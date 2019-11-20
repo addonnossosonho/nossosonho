@@ -1860,6 +1860,16 @@ Um agente da Unidade de Crimes em Série do FBI desenvolve avançadas técnicas 
 
 <channels>
 <channel>
+<name>[COLOR lime]Nada ao Redor (2019)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbu2TRcFvx2hcZudG4lWJ8FqCiv.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/NadaaoRedor.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/dmZsCcUODXWKnuL4dTN9BFvKGXS.jpg</fanart>
+<info>Presos em uma ilha destruída por um tsunami, estudantes de uma escola de elite tentam manter a esperança. Mas forças misteriosas parecem lutar contra eles.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Narcos (2015)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjsZL1XeCEdmBasrmfCDeEV8gKR.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/NARCOS.m3u</externallink>
