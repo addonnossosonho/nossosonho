@@ -1182,6 +1182,16 @@ Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futur
 
 <channels>
 <channel>
+<name>[COLOR lime]Castle Rock (2018)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/CastleRock.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/yBGMmqtAChyGCwN0zBuxaOjSzsU.jpg</fanart>
+<info>Castle Rock combina a escala mitológica e a narrativa íntima de personagens das obras mais conhecidas de Stephen King, tecendo uma saga épica de luz e escuridão que ganha vida em uma pequena área nos bosques do estado norte-americano de Maine.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]CHERNOBYL (2019)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/chernobyl.m3u</externallink>
