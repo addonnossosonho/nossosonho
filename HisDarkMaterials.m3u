@@ -1,11 +1,11 @@
 #EXTM3U size=“Medium”” 
 ################## His Dark Materials - Fronteiras do Universo ########################
 
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="His Dark Materials - Fronteiras do Universo", "01x01 - "
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4SoJ4swNrvhlwG3nOc7KJ08juw.jpg" group-title="His Dark Materials - Fronteiras do Universo", "01x01 - "
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1seBV9oaC861ctz6Fueyy5rwvEi5tr2PW/view?usp=drivesdk
 
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="His Dark Materials - Fronteiras do Universo", "01x02 - "
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4SoJ4swNrvhlwG3nOc7KJ08juw.jpg" group-title="His Dark Materials - Fronteiras do Universo", "01x02 - "
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hP5FSa_piL1p3yf-cIpg_MF-3GdVSMgC/view?usp=drivesdk
 
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17etUihJ7adrGT5G4afLf7r5qci.jpg" group-title="His Dark Materials - Fronteiras do Universo", "01x03 - "
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4SoJ4swNrvhlwG3nOc7KJ08juw.jpg" group-title="His Dark Materials - Fronteiras do Universo", "01x03 - "
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hb9b23PYhcq3886oZ6GeU-d8JyIX2wMD/view?usp=drivesdk
