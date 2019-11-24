@@ -1,8 +1,9 @@
 #EXTINF
 
+
 #EXTINF:-1 tvg-logo="http://goo.gl/AkIlxn" group-title="Vegas DUB",Vegas 1x21 Filhos De Nevada - Season Finale
 http://cdnfe3.azureedge.net/RCServer10/ondemand/VEGAST01EP21.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/AkIlxn" group-title="Vegas DUB",Vegas 1x20 NegÛcios Inacabados
+#EXTINF:-1 tvg-logo="http://goo.gl/AkIlxn" group-title="Vegas DUB",Vegas 1x20 Neg√≥cios Inacabados
 http://cdnfe3.azureedge.net/RCServer10/ondemand/VEGAST01EP20.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/AkIlxn" group-title="Vegas DUB",Vegas 1x19 Vidas Passadas
 http://cdnfe3.azureedge.net/RCServer10/ondemand/VEGAST01EP19.mp4
@@ -24,17 +25,17 @@ http://cdnfe3.azureedge.net/RCServer10/ondemand/VEGAST01EP12.mp4
 http://cdnfe3.azureedge.net/RCServer10/ondemand/VEGAST01EP11.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/AkIlxn" group-title="Vegas DUB",Vegas 1x10 Extinto
 http://cdnfe3.azureedge.net/RCServer10/ondemand/VEGAST01EP10.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/AkIlxn" group-title="Vegas DUB",Vegas 1x09 Baile De M·scaras
+#EXTINF:-1 tvg-logo="http://goo.gl/AkIlxn" group-title="Vegas DUB",Vegas 1x09 Baile De M√°scaras
 http://cdnfe3.azureedge.net/RCServer10/ondemand/VEGAST01EP09.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/AkIlxn" group-title="Vegas DUB",Vegas 1x08 ExposiÁ„o
+#EXTINF:-1 tvg-logo="http://goo.gl/AkIlxn" group-title="Vegas DUB",Vegas 1x08 Exposi√ß√£o
 http://cdnfe3.azureedge.net/RCServer10/ondemand/VEGAST01EP08.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/AkIlxn" group-title="Vegas DUB",Vegas 1x07 Sementes Ruins
 http://cdnfe3.azureedge.net/RCServer10/ondemand/VEGAST01EP07.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/AkIlxn" group-title="Vegas DUB",Vegas 1x06 A Coisa Real
 http://cdnfe3.azureedge.net/RCServer10/ondemand/VEGAST01EP06.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/AkIlxn" group-title="Vegas DUB",Vegas 1x05 Cidad„os De SÛlidos
+#EXTINF:-1 tvg-logo="http://goo.gl/AkIlxn" group-title="Vegas DUB",Vegas 1x05 Cidad√£os De S√≥lidos
 http://cdnfe3.azureedge.net/RCServer10/ondemand/VEGAST01EP05.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/AkIlxn" group-title="Vegas DUB",Vegas 1x04 LegÌtimo
+#EXTINF:-1 tvg-logo="http://goo.gl/AkIlxn" group-title="Vegas DUB",Vegas 1x04 Leg√≠timo
 http://cdnfe3.azureedge.net/RCServer10/ondemand/VEGAST01EP04.mp4
 #EXTINF:-1 tvg-logo="http://goo.gl/AkIlxn" group-title="Vegas DUB",Vegas 1x03 Tudo O Que Reluz
 http://cdnfe3.azureedge.net/RCServer10/ondemand/VEGAST01EP03.mp4
