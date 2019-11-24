@@ -2094,6 +2094,16 @@ Em seis episódios, a série traz imagens exclusivas, entrevistas com testemunha
 
 <channels>
 <channel>
+<name>[COLOR lime]Raio Negro (2018)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BLACKLIGHTNING.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+<info>Super-herói aposentado e diretor de uma escola, o lendário Raio Negro tem de voltar à ativa quando uma gangue começa a ameaçar sua família.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]SEAL Team (2017)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yuIJip8YJQ2rkLs7b7JlR38WY7.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SEALTEAM.m3u</externallink>
