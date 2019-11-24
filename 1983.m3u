@@ -1,0 +1,26 @@
+#EXTM3U size=“Medium”” 
+################## 1983 (2018) ########################
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3CXJnIJ5gr1Z6MrLsU3OCRiY63.jpg" group-title="1983 (2018)", "01x01 - "
+http://niflheim.lhmtv.gq/play/?contentId=2bb4bb15d5a91330&LHMTv
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3CXJnIJ5gr1Z6MrLsU3OCRiY63.jpg" group-title="nome da serie", "01x02 - "
+http://niflheim.lhmtv.gq/play/?contentId=7c1e1cab9714d2a7&LHMTv
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3CXJnIJ5gr1Z6MrLsU3OCRiY63.jpg" group-title="nome da serie", "01x03 - "
+http://niflheim.lhmtv.gq/play/?contentId=a6664cfa58da360f&LHMTv
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3CXJnIJ5gr1Z6MrLsU3OCRiY63.jpg" group-title="nome da serie", "01x04 - "
+http://niflheim.lhmtv.gq/play/?contentId=4a7a2933fb21abbc&LHMTv
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3CXJnIJ5gr1Z6MrLsU3OCRiY63.jpg" group-title="nome da serie", "01x05 - "
+http://niflheim.lhmtv.gq/play/?contentId=ecf458a7d8286164&LHMTv
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3CXJnIJ5gr1Z6MrLsU3OCRiY63.jpg" group-title="nome da serie", "01x06 - "
+http://niflheim.lhmtv.gq/play/?contentId=4619b41b78a0c89a&LHMTv
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3CXJnIJ5gr1Z6MrLsU3OCRiY63.jpg" group-title="nome da serie", "01x07 - "
+http://niflheim.lhmtv.gq/play/?contentId=86c3bfce6d4725f0&LHMTv
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3CXJnIJ5gr1Z6MrLsU3OCRiY63.jpg" group-title="nome da serie", "01x08 - "
+http://niflheim.lhmtv.gq/play/?contentId=419fe295d24eea5d&LHMTv
