@@ -17,53 +17,29 @@
 </channel>
 </channels>
 
-<channels></channels>
+<channels>
 <channel>
 <name>[COLOR lime]1983 (2018)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3CXJnIJ5gr1Z6MrLsU3OCRiY63.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/1983.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/uDYbBU2CGOfqHf24SrQV65RmMz7.jpg</fanart>
 <info>
 Neste suspense sombrio de história alternativa, um estudante de direito ingênuo e um policial veterano descobrem uma conspiração que tiranizou a Polônia por décadas.</info>
 <genre>POLICIAL</genre>
+</channel>
+</channels>
 
-<item>
-<title>1983 (2018) - 1ª TEMPORADA</title>
-<link>http://niflheim.lhmtv.gq/play/?contentId=2bb4bb15d5a91330&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-01</link>
-<link>http://niflheim.lhmtv.gq/play/?contentId=7c1e1cab9714d2a7&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-02</link>
-<link>http://niflheim.lhmtv.gq/play/?contentId=a6664cfa58da360f&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-03</link>
-<link>http://niflheim.lhmtv.gq/play/?contentId=4a7a2933fb21abbc&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-04</link>
-<link>http://niflheim.lhmtv.gq/play/?contentId=ecf458a7d8286164&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-05</link>
-<link>http://niflheim.lhmtv.gq/play/?contentId=4619b41b78a0c89a&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-06</link>
-<link>http://niflheim.lhmtv.gq/play/?contentId=86c3bfce6d4725f0&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-07</link>
-<link>http://niflheim.lhmtv.gq/play/?contentId=419fe295d24eea5d&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-08</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3CXJnIJ5gr1Z6MrLsU3OCRiY63.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/uDYbBU2CGOfqHf24SrQV65RmMz7.jpg</fanart>
-<info></info>
-</item>
-
-<channels></channels>
+<channels>
 <channel>
 <name>[COLOR lime]1 CONTRA TODOS[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2l0iUnPR40IDYTVifxyFW4jgWBz.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/1ContraTodos.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/wNlXKQjLZKLROhDkbI70ekZ7bVU.jpg</fanart>
 <info>
 A série de TV 1 Contra Todos Online é um seriado que se passa em uma penitenciária que se encontra em uma cidade do interior de São Paulo, A história da série gira em volta de um homem casado, e tem um filho pequeno e sua esposa está gravida. Ele tem sua vida revirada de cabeça para baixo assim que foi apontando pela policia como o maior traficante de drogas do país. Dentro da prisão ele entende que todos os seus valores que carregou a vida toda estão se contradizendo com a realidade dentro do cárcere. E mediante repercussão com a sua prisão e também consequentemente, da fama que vai ter entre os presos, pode ser mais fácil ele assumir uma outra personalidade que não é a sua, e se comportar como um verdadeiro criminoso que todos pensam que ele é. Justamente pela simples questão de sobreviver.</info>
 <genre>POLICIAL</genre>
-
-<item>
-<title>PRIMEIRA TEMPORADA</title>
-<link>http://niflheim.lhmtv.gq/play/?contentId=8456caa16d815a93&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-01</link>
-<link>http://niflheim.lhmtv.gq/play/?contentId=430d3373b780bdef&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-02</link>
-<link>http://niflheim.lhmtv.gq/play/?contentId=7b1102fc3dd528b0&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-03</link>
-<link>http://niflheim.lhmtv.gq/play/?contentId=d1094e35f6cdc063&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-04</link>
-<link>http://niflheim.lhmtv.gq/play/?contentId=87fc7dd91a4dac52&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-05</link>
-<link>http://niflheim.lhmtv.gq/play/?contentId=f2ea2f0177a6aa99&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-06</link>
-<link>http://niflheim.lhmtv.gq/play/?contentId=93bc9f78846463da&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-07</link>
-<link>http://niflheim.lhmtv.gq/play/?contentId=ec251c24ffcafc6b&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-08</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2l0iUnPR40IDYTVifxyFW4jgWBz.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/wNlXKQjLZKLROhDkbI70ekZ7bVU.jpg</fanart>
-<info></info>
-</item>
+</channel>
+</channels>
 
 <channels>
 <channel>
@@ -85,61 +61,17 @@ A série de TV 1 Contra Todos Online é um seriado que se passa em uma penitenci
 </channel>
 </channels>
 
-<channels></channels>
+<channels>
 <channel>
 <name>[COLOR lime]3% (2016)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcD1n9FnSkSzzlyH4frMlVzaI8I.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/3porcento.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/sdKJeeu0uiOD7oBxCiSRe23Mocy.jpg</fanart>
 <info>
 Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 anos passam por um processo seletivo para viver lá. Mas só 3% serão aprovados.</info>
-<genre>POLICIAL</genre>
-
-<item>
-<title>3% (2016) - 1ª TEMPORADA</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1spMKQnNFVJ4l4NWgAzSzZcG97P90nx5D/view$$lsname=[COLOR orange]HD[/COLOR] - EP 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dz6lmRfG2c1YtzRYAEqxymHtNMesrmGO/view$$lsname=[COLOR orange]HD[/COLOR] - EP 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wGR43cTNtRS731CdsDmkPVmZJwjM6lXS/view$$lsname=[COLOR orange]HD[/COLOR] - EP 3</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Nmrd88_el88zLBJH8wsEGZjVDGvjzhN0/view$$lsname=[COLOR orange]HD[/COLOR] - EP 4</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12HXfFn1R1SaSdqbe3HkJ3IqEHil-pefU/view$$lsname=[COLOR orange]HD[/COLOR] - EP 5</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sl0Huu7na8-Do_Mkzzv3KAq0xBn2pfw2/view$$lsname=[COLOR orange]HD[/COLOR] - EP 6</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HN69BtJ2xpc_AXktQ1cBWm009E1DSIJ3/view$$lsname=[COLOR orange]HD[/COLOR] - EP 7</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DhohpIahP-Q5izgNCe72C91yyegjYpGV/view$$lsname=[COLOR orange]HD[/COLOR] - EP 8</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcD1n9FnSkSzzlyH4frMlVzaI8I.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/sdKJeeu0uiOD7oBxCiSRe23Mocy.jpg</fanart>
-<info>Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 anos passam por um processo seletivo para viver lá. Mas só 3% serão aprovados.</info>
-</item>
-
-<item>
-<title>3% (2016) - 2ª TEMPORADA</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wFpH73cysQr5VaYhsrh69vAb1orgHkJ3/view$$lsname=[COLOR orange]HD[/COLOR] - EP 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iMgYZBnSlnM2JUqCDPVLHfFZft_Sx6sx/view$$lsname=[COLOR orange]HD[/COLOR] - EP 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13tHsQNuTqOYAAqepBJcRbxEbjiGm-UCN/view$$lsname=[COLOR orange]HD[/COLOR] - EP 3</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Gq4MGh5duhQE1itbHVZSsGkOWSK_4TXd/view$$lsname=[COLOR orange]HD[/COLOR] - EP 4</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TMu6qLFrqP9Hyua6GPnmKkmvzJKm5kJO/view$$lsname=[COLOR orange]HD[/COLOR] - EP 5</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1r1gZQJg5AI-3WDlo7sscfGRFO_5XSzEW/view$$lsname=[COLOR orange]HD[/COLOR] - EP 6</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x6zZQK92u6mk6zVdODF2gaa_BM3LPuxI/view$$lsname=[COLOR orange]HD[/COLOR] - EP 7</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19EiUZJznPOskNPDA2B4MM2DW-2MwcunB/view$$lsname=[COLOR orange]HD[/COLOR] - EP 8</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Yk_UAOscD5VKBkqBOu98NAmhKSHcCR6H/view$$lsname=[COLOR orange]HD[/COLOR] - EP 9</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xkO1-iW6bEHkaOJkIumssvWx-FHcI9A3/view$$lsname=[COLOR orange]HD[/COLOR] - EP 10</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcD1n9FnSkSzzlyH4frMlVzaI8I.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/sdKJeeu0uiOD7oBxCiSRe23Mocy.jpg</fanart>
-<info>Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 anos passam por um processo seletivo para viver lá. Mas só 3% serão aprovados.</info>
-</item>
-
-<item>
-<title>3% (2016) - 3ª TEMPORADA</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nj3f-fms6PV3EQHq9YaTnlswXjX0qTeP/view$$lsname=[COLOR orange]HD[/COLOR] - EP 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MBYZD9FuuLpvUvBuZ9-F_t32Q6BHKoYl/view$$lsname=[COLOR orange]HD[/COLOR] - EP 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dfG_Xp4muQaM-Hp_BkGKuS6yLGfSXFOf/view$$lsname=[COLOR orange]HD[/COLOR] - EP 3</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Lex_zlWhfsI83XDqsrTC_bNqm3c0MaAn/view$$lsname=[COLOR orange]HD[/COLOR] - EP 4</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_6YcNWf7xFUTI41MNM9u0XnIe-fEELLw/view$$lsname=[COLOR orange]HD[/COLOR] - EP 5</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qCyI6lYAqkZUmPAL-vce9qhO3x9t3gTV/view$$lsname=[COLOR orange]HD[/COLOR] - EP 6</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TKUkzZ0lJgHPgHY6tx1NDol4LQqfPaOx/view$$lsname=[COLOR orange]HD[/COLOR] - EP 7</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DsAYIs-SrR_MvinmuBcpL902eVTOJQAY/view$$lsname=[COLOR orange]HD[/COLOR] - EP 8</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcD1n9FnSkSzzlyH4frMlVzaI8I.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/sdKJeeu0uiOD7oBxCiSRe23Mocy.jpg</fanart>
-<info>Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 anos passam por um processo seletivo para viver lá. Mas só 3% serão aprovados.</info>
-</item>
+<genre>Drama</genre>
+</channel>
+</channels>
 
 <channels></channels>
 <channel>
@@ -1473,6 +1405,17 @@ Nos anos 90, o Brasil tem Luís Cláudio Freitas como a grande promessa do boxe 
 <info>Justified é um drama do canal FX. Na série, o ator Timothy Olyphant (que participou de Deadwood e da segunda temporada de Damages) dá vida a um delegado bastante antiquado, que mais parece um xerife do velho oeste, pelo modo que se veste (botas e chapéu de cowboy) e pela forma como lida com criminosos (ele só atira se for pra matar!). Enviado de volta para sua cidade natal, no interior de Kentucky, depois que seus superiores ficaram incomodados com sua forma peculiar de fazer justiça, Raylan volta “pra casa” botando ordem no lugar e lidando com as consequências do passado.</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Krypton (2018)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiinjmSkka6JOrk4FsZmrjlNM26.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/K-RY-PT-ON</externallink>
+<fanart>https://image.tmdb.org/t/p/original/lpItdOGWnECp6CSzTnXldQ6uY2B.jpg</fanart>
+<info>Defina duas gerações antes da destruição do lendário planeta natal de Man of Steel, Krypton segue o avô de Superman - cuja Casa de El foi condenada ao ostracismo - ao lutar para resgatar a honra de sua família e salvar seu amado mundo do caos.</info>
+</channel>
+</channels>
+
 
 <channels></channels>
 <channel>
