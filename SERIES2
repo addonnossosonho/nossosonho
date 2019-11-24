@@ -1491,6 +1491,16 @@ Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes
 
 <channels>
 <channel>
+<name>[COLOR lime]The Vampire Diaries (2009)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtjrOwIQKvmh2FChp9ZUtsKAj3C.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TheVampireDiaries.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/3O4r2guye3WwLBNPTfpfecU1FBn.jpg</fanart>
+<info>Elena tenta sobreviver entre os seres sobrenaturais que vivem em segredo. Ela se apaixona pelo misterioso Stefan, mas o retorno do seu irmão, Damon, ameaça essa paixão.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]The Walking Dead (2010)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/48SObcY3kYvZLFzdqiSXuzNtBMu.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TWD.m3u</externallink>
@@ -1594,16 +1604,6 @@ Uma visão atualizada do mundo, onde justiceiros mascarados transitam constantem
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Vegas.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/hhMrKhzPN9M6GX8SXlHnXlFgugo.jpg</fanart>
 <info>Ralph Lamb quer ficar em paz para administrar seu rancho, mas Las Vegas agora está repleta de pessoas de fora e corrupção que estão atrapalhando sua vida simples. Recordando o comando de Lamb como policial militar durante a Segunda Guerra Mundial, o prefeito apela ao seu senso de dever de investigar o assassinato de um trabalhador de cassino - e assim começa o confronto de Lamb com Vincent Savino, um gangster cruel de Chicago que planeja fazer de Las Vegas sua próprio.</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR lime]The Vampire Diaries (2009)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtjrOwIQKvmh2FChp9ZUtsKAj3C.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TheVampireDiaries.m3u</externallink>
-<fanart>https://image.tmdb.org/t/p/original/3O4r2guye3WwLBNPTfpfecU1FBn.jpg</fanart>
-<info>Elena tenta sobreviver entre os seres sobrenaturais que vivem em segredo. Ela se apaixona pelo misterioso Stefan, mas o retorno do seu irmão, Damon, ameaça essa paixão.</info>
 </channel>
 </channels>
 
