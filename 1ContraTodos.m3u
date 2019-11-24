@@ -1,0 +1,26 @@
+#EXTM3U size=“Medium”” 
+################## 1 Contra Todos (2016) ########################
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2l0iUnPR40IDYTVifxyFW4jgWBz.jpg" group-title="1 Contra Todos", "01x01 - "
+http://niflheim.lhmtv.gq/play/?contentId=8456caa16d815a93&LHMTv
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2l0iUnPR40IDYTVifxyFW4jgWBz.jpg" group-title="1 Contra Todos", "01x02 - "
+http://niflheim.lhmtv.gq/play/?contentId=430d3373b780bdef&LHMTv
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2l0iUnPR40IDYTVifxyFW4jgWBz.jpg" group-title="1 Contra Todos", "01x03 - "
+http://niflheim.lhmtv.gq/play/?contentId=7b1102fc3dd528b0&LHMTv
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2l0iUnPR40IDYTVifxyFW4jgWBz.jpg" group-title="1 Contra Todos", "01x04 - "
+http://niflheim.lhmtv.gq/play/?contentId=d1094e35f6cdc063&LHMTv
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2l0iUnPR40IDYTVifxyFW4jgWBz.jpg" group-title="1 Contra Todos", "01x05 - "
+http://niflheim.lhmtv.gq/play/?contentId=87fc7dd91a4dac52&LHMTv
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2l0iUnPR40IDYTVifxyFW4jgWBz.jpg" group-title="1 Contra Todos", "01x06 - "
+http://niflheim.lhmtv.gq/play/?contentId=f2ea2f0177a6aa99&LHMTv
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2l0iUnPR40IDYTVifxyFW4jgWBz.jpg" group-title="1 Contra Todos", "01x07 - "
+http://niflheim.lhmtv.gq/play/?contentId=93bc9f78846463da&LHMTv
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2l0iUnPR40IDYTVifxyFW4jgWBz.jpg" group-title="1 Contra Todos", "01x08 - "
+http://niflheim.lhmtv.gq/play/?contentId=ec251c24ffcafc6b&LHMTv
