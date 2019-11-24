@@ -73,198 +73,65 @@ Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 ano
 </channel>
 </channels>
 
-<channels></channels>
+<channels>
 <channel>
 <name>[COLOR lime]8 Dias (2019)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhkGEdIgot5RtJSNOEFjyYBzCOk.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/8Dias.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/QI98gl2VSrhW4lu7TtleejSb3n.jpg</fanart>
 <info>
 A ameaça de impacto de um meteoro obriga a família Steiner a fugir da Alemanha, mas em meio a essa missão suicida, a família acaba se separando.</info>
 <genre>FICÇÃO</genre>
+</channel>
+</channels>
 
-<item>
-<title>8 Dias (2019) - 1ª TEMPORADA</title>
-<link>http://cdnfe2.azureedge.net/RCServer04/ondemand/8DIST01EP01.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-01</link>
-<link>http://cdnfe2.azureedge.net/RCServer04/ondemand/8DIST01EP02.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-02</link>
-<link>http://cdnfe2.azureedge.net/RCServer04/ondemand/8DIST01EP03.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-03</link>
-<link>http://cdnfe2.azureedge.net/RCServer04/ondemand/8DIST01EP04.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-04</link>
-<link>http://cdnfe2.azureedge.net/RCServer04/ondemand/8DIST01EP05.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-05</link>
-<link>http://cdnfe2.azureedge.net/RCServer04/ondemand/8DIST01EP06.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-06</link>
-<link>http://cdnfe2.azureedge.net/RCServer04/ondemand/8DIST01EP07.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-07</link>
-<link>http://cdnfe2.azureedge.net/RCServer04/ondemand/8DIST01EP08.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-08</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhkGEdIgot5RtJSNOEFjyYBzCOk.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/QI98gl2VSrhW4lu7TtleejSb3n.jpg</fanart>
-<info>A ameaça de impacto de um meteoro obriga a família Steiner a fugir da Alemanha, mas em meio a essa missão suicida, a família acaba se separando.</info>
-</item>
-
-<channels></channels>
+<channels>
 <channel>
 <name>[COLOR lime]9-1-1 (2018)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/jvStfYRsDrcVymTEgRbyHqpBXwz.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/911.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/q8YXRHp9SdzW3y4vpaadVLZV2Kk.jpg</fanart>
 <info>
 911 é o número de telefone discado em casos de emergência e, por meio deles, diversas vítimas conseguem ser salvas. Agora, os operadores por trás deste número revelam seu dia a dia, mostrando as histórias mais marcantes e emocionantes que eles já viveram durante o expediente de trabalho.</info>
 <genre>POLICIAL</genre>
+</channel>
+</channels>
 
-<item>
-<title>9-1-1 (2018) - 1ª TEMPORADA</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17J1TUg449pnO4S54zzbnq6Mvz0YbmkyL/view$$lsname=[COLOR orange]HD[/COLOR] - EP 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ubyp0TZhzL4eEBUxLfjaxQl2N6at6cmb/view$$lsname=[COLOR orange]HD[/COLOR] - EP 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Z9pewe4Id3FViSU6N_EdcMEGqZiyDA_8/view$$lsname=[COLOR orange]HD[/COLOR] - EP 3</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jzXKadqdySdtImqOPvasUnXpqwFHL7Sg/view$$lsname=[COLOR orange]HD[/COLOR] - EP 4</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a5h4A5CFt0Uc0D9XjFJq0JOXq0QqjVn-/view$$lsname=[COLOR orange]HD[/COLOR] - EP 5</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lFNazGpmpx0QrDXnu3kXmKAS8RQ3FaW0/view$$lsname=[COLOR orange]HD[/COLOR] - EP 6</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wfOtGFDVL_tEzgONe-9LAjbSpllLH1IN/view$$lsname=[COLOR orange]HD[/COLOR] - EP 7</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dvjAiQV7JQrBjkNT1DrexKHYwnPpEizG/view$$lsname=[COLOR orange]HD[/COLOR] - EP 8</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1K0cXX6EhUMUop6O9uiQYuEVP0VzD6jGW/view$$lsname=[COLOR orange]HD[/COLOR] - EP 9</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Pr9SB7wuxVyN6lMDNvOTTG2I1YwwWJh6/view$$lsname=[COLOR orange]HD[/COLOR] - EP 10</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jvStfYRsDrcVymTEgRbyHqpBXwz.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/q8YXRHp9SdzW3y4vpaadVLZV2Kk.jpg</fanart>
-<info>911 é o número de telefone discado em casos de emergência e, por meio deles, diversas vítimas conseguem ser salvas. Agora, os operadores por trás deste número revelam seu dia a dia, mostrando as histórias mais marcantes e emocionantes que eles já viveram durante o expediente de trabalho.</info>
-</item>
-
-<item>
-<title>9-1-1 (2018) - 2ª TEMPORADA</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CQ-8rsr8mX4w6HpeMmm1barGRuIJyvzQ/view$$lsname=[COLOR orange]HD[/COLOR] - EP 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-ikpYcLElV7c3JrJd__sTjrOehFdf8Vn/view$$lsname=[COLOR orange]HD[/COLOR] - EP 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/159B3N0vkcsW3xGZA7Ki_YjUoKiynYwRo/view$$lsname=[COLOR orange]HD[/COLOR] - EP 3</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/114xcURQk_XtEe4mVLrs7Oge78OuQYyWR/view$$lsname=[COLOR orange]HD[/COLOR] - EP 4</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gaqzm16SVCcwRsZ4K0y6_A5uZ_cWbFxI/view$$lsname=[COLOR orange]HD[/COLOR] - EP 5</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UZEuwt89fQEkK0-VEFgPSjddvH2B5fbB/view$$lsname=[COLOR orange]HD[/COLOR] - EP 6</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1D-ZS_UnGeJCaUURrz-H94uTRsxcbIL0c/view$$lsname=[COLOR orange]HD[/COLOR] - EP 7</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17mrRmps_DQsCAAu2oE5dDk2XHXmGtRau/view$$lsname=[COLOR orange]HD[/COLOR] - EP 8</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rkjTQCNksMHjwH1sjOpPltlLiDzMHP5r/view$$lsname=[COLOR orange]HD[/COLOR] - EP 9</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jXQ7BSRdPxzkOU3jaV0OHoSy1i00qLiz/view$$lsname=[COLOR orange]HD[/COLOR] - EP 10</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YiLfpy9FirlAPbE5HKLMhqGsVRipOgnW/view$$lsname=[COLOR orange]HD[/COLOR] - EP 11</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Cm8vDClJJSYj-Vux6tyMr3H_pZ_kC9Tl/view$$lsname=[COLOR orange]HD[/COLOR] - EP 12</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MS6L_HhI8XzqMZY0Aj7VJe-4PFHRNs6C/view$$lsname=[COLOR orange]HD[/COLOR] - EP 13</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RJO-5xbQvIvK7tQh5swYv44-8cSbAqjy/view$$lsname=[COLOR orange]HD[/COLOR] - EP 14</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bYu3CIfl2AVoqZ2ie9-aDW7eGkPATCQY/view$$lsname=[COLOR orange]HD[/COLOR] - EP 15</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ni9SEzL6wjcFO6gRo0GMFhFoKpjE157L/view$$lsname=[COLOR orange]HD[/COLOR] - EP 16</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1b3LVid941Q8hdAl22wOL4yqbKj69xSNX/view$$lsname=[COLOR orange]HD[/COLOR] - EP 17</link>
-<thumbnail>https://image.tmdb.org/t/p/original/jvStfYRsDrcVymTEgRbyHqpBXwz.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/q8YXRHp9SdzW3y4vpaadVLZV2Kk.jpg</fanart>
-<info>911 é o número de telefone discado em casos de emergência e, por meio deles, diversas vítimas conseguem ser salvas. Agora, os operadores por trás deste número revelam seu dia a dia, mostrando as histórias mais marcantes e emocionantes que eles já viveram durante o expediente de trabalho.</info>
-</item>
-
-<channels></channels>
+<channels>
 <channel>
 <name>[COLOR lime]9mm São Paulo (2008)[/COLOR]</name>
 <thumbnail>https://2.bp.blogspot.com/-C3FysclJL84/Vsi3c9qQYCI/AAAAAAAAAL4/q_21S57grr4/s1600/1080Downs.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/9mmSaoPaulo.m3u</externallink>
 <fanart>http://www.arrobanerd.com.br/wp-content/uploads/2017/07/netflix-9mmsaopaulo.jpg</fanart>
 <info>
 A série enfoca a vida pessoal e profissional de um grupo de cinco policiais do departamento de homicídios</info>
 <genre>POLICIAL</genre>
+</channel>
+</channels>
 
-<item>
-<title>9mm São Paulo (2008) - 1ª TEMPORADA</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OAWL6NaSSyQ7V3NHwcc9Da74gWqKbBOG/view$$lsname=[COLOR orange]HD[/COLOR] - EP 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RJtFGV6p4ZfuFwPZ01gkWfliDj5mPBYb/view$$lsname=[COLOR orange]HD[/COLOR] - EP 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sd-WcnNhfwaAhMxFCso6QWTb7ScWLUav/view$$lsname=[COLOR orange]HD[/COLOR] - EP 3</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MVuoeT5jAjtVWe4Vj8KRjxE8Jm1oZs0v/view$$lsname=[COLOR orange]HD[/COLOR] - EP 4</link>
-<thumbnail>https://2.bp.blogspot.com/-C3FysclJL84/Vsi3c9qQYCI/AAAAAAAAAL4/q_21S57grr4/s1600/1080Downs.jpg</thumbnail>
-<fanart>http://www.arrobanerd.com.br/wp-content/uploads/2017/07/netflix-9mmsaopaulo.jpg</fanart>
-<info>A série enfoca a vida pessoal e profissional de um grupo de cinco policiais do departamento de homicídios</info>
-</item>
-
-<item>
-<title>9mm São Paulo (2008) - 2ª TEMPORADA</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10hH2eoAUxEickgTiK2vdGmYVDZpjxbeb/view$$lsname=[COLOR orange]HD[/COLOR] - EP 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LuVlD5L3REWgO6lMyXnKegL1sfmAuYi6/view$$lsname=[COLOR orange]HD[/COLOR] - EP 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1D1l2SkGt3DtyNMPFjh2oerVcvaeRBLZh/view$$lsname=[COLOR orange]HD[/COLOR] - EP 3</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZUzxH6A1-nbNQ3Myc9Z0VSDMYMLjUc0b/view$$lsname=[COLOR orange]HD[/COLOR] - EP 4</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1N-lV-mi-ykkwIMBIMp0CUuK3RNOkYO3R/view$$lsname=[COLOR orange]HD[/COLOR] - EP 5</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oAVjv0kFKzxOww5u-b2nkEzDH6YGCfap/view$$lsname=[COLOR orange]HD[/COLOR] - EP 6</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Iid_CwvXposwLeY0EdoGw6Xp6wN-f-Lj/view$$lsname=[COLOR orange]HD[/COLOR] - EP 7</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wC45n4rD2C4Qw9LiejCNmddEM-GEAt60/view$$lsname=[COLOR orange]HD[/COLOR] - EP 8</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sRqR08dbYhKpZt5VdYmpDFDxRUzS-_r3/view$$lsname=[COLOR orange]HD[/COLOR] - EP 9</link>
-<thumbnail>https://2.bp.blogspot.com/-C3FysclJL84/Vsi3c9qQYCI/AAAAAAAAAL4/q_21S57grr4/s1600/1080Downs.jpg</thumbnail>
-<fanart>http://www.arrobanerd.com.br/wp-content/uploads/2017/07/netflix-9mmsaopaulo.jpg</fanart>
-<info>A série enfoca a vida pessoal e profissional de um grupo de cinco policiais do departamento de homicídios</info>
-</item>
-
-<item>
-<title>9mm São Paulo (2008) - 3ª TEMPORADA</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NtTmQDbiOs7ULRw2uHo2W5xV9MBsXIfm/view$$lsname=[COLOR orange]HD[/COLOR] - EP 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hBYUhNk9ibsuPmdxv6UMJFGU7RhNpyVc/view$$lsname=[COLOR orange]HD[/COLOR] - EP 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gxoUN-bAyZnOP_4bHWODAIVa2A91iHlV/view$$lsname=[COLOR orange]HD[/COLOR] - EP 3</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QdOLifFSEtAv7EVe-hhpxuDkJkVv8L0j/view$$lsname=[COLOR orange]HD[/COLOR] - EP 4</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FMqWxaIHaLVIATtQvCI93FceA_qa9Z68/view$$lsname=[COLOR orange]HD[/COLOR] - EP 5</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yLu_zBZk_FYH9OMa5q1xICfxemiByCso/view$$lsname=[COLOR orange]HD[/COLOR] - EP 6</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wd8pMqYu7rQJUwCHaAs09kyrMKEhNcY2/view$$lsname=[COLOR orange]HD[/COLOR] - EP 7</link>
-<thumbnail>https://2.bp.blogspot.com/-C3FysclJL84/Vsi3c9qQYCI/AAAAAAAAAL4/q_21S57grr4/s1600/1080Downs.jpg</thumbnail>
-<fanart>http://www.arrobanerd.com.br/wp-content/uploads/2017/07/netflix-9mmsaopaulo.jpg</fanart>
-<info>A série enfoca a vida pessoal e profissional de um grupo de cinco policiais do departamento de homicídios</info>
-</item>
-
-<channels></channels>
+<channels>
 <channel>
 <name>[COLOR lime]A Bíblia (2013)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ch5C616nFjXYiXPE2VlkGJOgAyM.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ABiblia.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/ml06tDFUZ8fFT2mncHcnNwRhtpR.jpg</fanart>
 <info>
 Misturando contos bíblicos e parábolas, esta minissérie recria para um público moderno a visão da Bíblia sobre a humanidade e o divino.</info>
 <genre>ÉPICO</genre>
+</channel>
+</channels>
 
-<item>
-<title>A Bíblia (2013) - 1ª TEMPORADA</title>
-<link>http://cdnfe3.azureedge.net/RCServer08/ondemand/ABLIAT01CP01.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-01</link>
-<link>http://cdnfe3.azureedge.net/RCServer08/ondemand/ABLIAT01CP02.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-02</link>
-<link>http://cdnfe3.azureedge.net/RCServer08/ondemand/ABLIAT01CP03.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-03</link>
-<link>http://cdnfe3.azureedge.net/RCServer08/ondemand/ABLIAT01CP04.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-04</link>
-<link>http://cdnfe3.azureedge.net/RCServer08/ondemand/ABLIAT01CP05.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-05</link>
-<link>http://cdnfe3.azureedge.net/RCServer08/ondemand/ABLIAT01CP06.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-06</link>
-<link>http://cdnfe3.azureedge.net/RCServer08/ondemand/ABLIAT01CP07.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-07</link>
-<link>http://cdnfe3.azureedge.net/RCServer08/ondemand/ABLIAT01CP08.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-08</link>
-<link>http://cdnfe3.azureedge.net/RCServer08/ondemand/ABLIAT01CP09.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-09</link>
-<link>http://cdnfe3.azureedge.net/RCServer08/ondemand/ABLIAT01CP10.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-10</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ch5C616nFjXYiXPE2VlkGJOgAyM.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/ml06tDFUZ8fFT2mncHcnNwRhtpR.jpg</fanart>
-<info>Misturando contos bíblicos e parábolas, esta minissérie recria para um público moderno a visão da Bíblia sobre a humanidade e o divino.</info>
-</item>
-
-<channels></channels>
+<channels>
 <channel>
 <name>[COLOR lime]Absentia (2017)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/pxdYXeOKe4IXmkjT7vZSyCL1P3n.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Absentia.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/A1x0NTRerLlmiTGrx2PeSiy6nsq.jpg</fanart>
 <info>
 A agente do FBI Emily Byrne (Stana Katic, de Castle) é encontrada em um cativeiro após 6 anos, depois de ser dada como morta em serviço. O que deveria ser o fim de um tempo traumático se revela o início de um pesadelo: além de procurar respostas sobre o seu sequestro e preencher o vácuo deixado junto à família e amigos por uma ausência tão longa, ela se torna a principal suspeita de uma série de novos assassinatos. Ao longo de 10 episódios, Byrne vai contar com a ajuda de seu ex-marido Nick Durand (Patrick Heusinger) para se livrar das acusações que pesam sobre ela, enquanto busca o responsável pelo seu sumiço e reclama o seu lugar de mãe e esposa.</info>
 <genre>AVENTURA</genre>
-
-<item>
-<title>Absentia (2017) - 1ª TEMPORADA</title>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT01EP01.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-01</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT01EP02.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-02</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT01EP03.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-03</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT01EP04.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-04</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT01EP05.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-05</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT01EP06.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-06</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT01EP07.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-07</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT01EP08.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-08</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT01EP09.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-09</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT01EP10.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-10</link>
-<thumbnail>https://image.tmdb.org/t/p/original/pxdYXeOKe4IXmkjT7vZSyCL1P3n.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/A1x0NTRerLlmiTGrx2PeSiy6nsq.jpg</fanart>
-<info>A agente do FBI Emily Byrne (Stana Katic, de Castle) é encontrada em um cativeiro após 6 anos, depois de ser dada como morta em serviço. O que deveria ser o fim de um tempo traumático se revela o início de um pesadelo: além de procurar respostas sobre o seu sequestro e preencher o vácuo deixado junto à família e amigos por uma ausência tão longa, ela se torna a principal suspeita de uma série de novos assassinatos. Ao longo de 10 episódios, Byrne vai contar com a ajuda de seu ex-marido Nick Durand (Patrick Heusinger) para se livrar das acusações que pesam sobre ela, enquanto busca o responsável pelo seu sumiço e reclama o seu lugar de mãe e esposa.</info>
-</item>
-
-<item>
-<title>Absentia (2017) - 2ª TEMPORADA</title><link>http://hel.lhmtv.gq/play/?contentId=a58a1186fbe2b365&LHMTv$$lsname=[COLOR orange]HD[/COLOR] - EP-01</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT02EP01.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-01</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT02EP02.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-02</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT02EP03.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-03</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT02EP04.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-04</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT02EP05.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-05</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT02EP06.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-06</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT02EP07.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-07</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT02EP08.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-08</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT02EP09.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-09</link>
-<link>http://cdnfe3.azureedge.net/RCServer07/ondemand/ABSNTAT02EP10.mp4$$lsname=[COLOR orange]HD[/COLOR] - EP-10</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0eiSOCyfXQy82exmwKVaevGzsv.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/A1x0NTRerLlmiTGrx2PeSiy6nsq.jpg</fanart>
-<info>A agente do FBI Emily Byrne (Stana Katic, de Castle) é encontrada em um cativeiro após 6 anos, depois de ser dada como morta em serviço. O que deveria ser o fim de um tempo traumático se revela o início de um pesadelo: além de procurar respostas sobre o seu sequestro e preencher o vácuo deixado junto à família e amigos por uma ausência tão longa, ela se torna a principal suspeita de uma série de novos assassinatos. Ao longo de 10 episódios, Byrne vai contar com a ajuda de seu ex-marido Nick Durand (Patrick Heusinger) para se livrar das acusações que pesam sobre ela, enquanto busca o responsável pelo seu sumiço e reclama o seu lugar de mãe e esposa.</info>
-</item>
+</channel>
+</channels>
 
 <channels>
 <channel>
