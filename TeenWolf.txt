@@ -1,0 +1,162 @@
+#EXTINF
+
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x20 Apotheosis – 
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TNWLFT05EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x19 The Beast of Beacon Hills
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TNWLFT05EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x18 The Maid of Gévaudan
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TNWLFT05EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x17 A Credible Threa
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TNWLFT05EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x16 Lie Ability
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TNWLFT05EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x15 Amplification
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TNWLFT05EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x14 The Sword and The Spirit
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TNWLFT05EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x13 Codominance
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TNWLFT05EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x12 Damnatio Memoriae
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TNWLFT05EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x11 The Last Chimera
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TNWLFT05EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x10 Status Asthmaticus
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TNWLFT05EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x09 Lies of Omission
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TNWLFT05EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x08 Ouroboros
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TNWLFT05EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x07 Strange Frequencies
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TNWLFT05EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x06 Required Reading
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TNWLFT05EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x05 A Novel Approach
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TNWLFT05EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x04 Condition ONS Terminal
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TNWLFT05EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x03 Dreamcatchers
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TNWLFT05EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x02 Parasomnia
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TNWLFT05EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 5x01 From the Ashes
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TNWLFT05EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 4x12 Smoke and Mirrors - 
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT04EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 4x11 A Promise to the Dead
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT04EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 4x10 Monstrous
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT04EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 4x09 Perishable
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT04EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 4x08 Time of Death
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT04EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 4x07 Weaponized
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT04EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 4x06 Orphaned
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT04EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 4x05 I.E.D.
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT04EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 4x04 The Benefactor
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT04EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 4x03 Muted
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT04EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 4x02 117
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT04EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 4x01 The Dark Moon
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT04EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x24 The Divine Move - 
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT03EP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x23 Insatiable
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT03EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x22 De-Void
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT03EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x21 The Fox and the Wolf
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT03EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x20 Echo House
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT03EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x19 Letharia Vulpina
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT03EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x18 Riddled
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT03EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x17 Silverfinger
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT03EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x16 Illuminated
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT03EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x15 Galvanize
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT03EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x14 More Bad Than Good
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT03EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x13 Anchors
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TNWLFT03EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x12 Lunar Ellipse
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TNWLFT03EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x11 Alpha Pact
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TNWLFT03EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x10 The Overlooked
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TNWLFT03EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x09 The ONS Girl Who Knew Too Much
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TNWLFT03EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x08 Visionary
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TNWLFT03EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x07 Currents
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TNWLFT03EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x06 Motel California
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TNWLFT03EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x05 Frayed
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TNWLFT03EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x04 Unleashed
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TNWLFT03EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x03 Fireflies
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TNWLFT03EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x02 Chaos Rising
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TNWLFT03EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 3x01 Tattoo
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TNWLFT03EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 2x12 Master Plan - 
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT02EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 2x11 Battlefield
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT02EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 2x10 Fury
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT02EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 2x09 Party Guessed
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT02EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 2x08 Raving
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT02EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 2x07 Restraint
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT02EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 2x06 Frenemy
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT02EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 2x05 Venomous
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT02EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 2x04 Abomination
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT02EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 2x03 Ice Pick
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT02EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 2x02 Shape Shifted
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT02EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 2x01 Omega
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT02EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 1x12 Code Breaker - 
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT01EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 1x11 Formality
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT01EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 1x10 Co-Captain
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT01EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 1x09 Wolf’s Bane
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT01EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 1x08 Lunatic
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT01EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 1x07 Night School
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT01EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 1x06 Heart Monitor
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 1x05 The Tell
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 1x04 ONS Magic Bullet
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 1x03 Pack Mentality
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 1x02 Second Chance at First Line
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/CmSsHZ" group-title="Teen Wolf DUB",Teen Wolf 1x01 Pilot
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TNWLFT01EP01.mp4

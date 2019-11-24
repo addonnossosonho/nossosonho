@@ -1,0 +1,245 @@
+#EXTINF
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 6x10 New York I Love You XOXO - Series Finale
+http://cdnfe2.azureedge.net/RCServer06/ondemand/GSPGRLT06EP10.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 6x09 The Revengers
+http://cdnfe2.azureedge.net/RCServer06/ondemand/GSPGRLT06EP09.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 6x08 It’s Really Complicated
+http://cdnfe2.azureedge.net/RCServer06/ondemand/GSPGRLT06EP08.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 6x07 Save the Last Chance
+http://cdnfe2.azureedge.net/RCServer06/ondemand/GSPGRLT06EP07.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 6x06 Where the Vile Things Are
+http://cdnfe2.azureedge.net/RCServer06/ondemand/GSPGRLT06EP06.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 6x05 Monstrous Ball
+http://cdnfe2.azureedge.net/RCServer06/ondemand/GSPGRLT06EP05.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 6x04 Portrait of a Lady Alexander
+http://cdnfe2.azureedge.net/RCServer06/ondemand/GSPGRLT06EP04.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 6x03 Dirty Rotten Scandals
+http://cdnfe2.azureedge.net/RCServer06/ondemand/GSPGRLT06EP03.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 6x02 High Infidelity
+http://cdnfe2.azureedge.net/RCServer06/ondemand/GSPGRLT06EP02.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 6x01 Gone Maybe Gone
+http://cdnfe2.azureedge.net/RCServer06/ondemand/GSPGRLT06EP01.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x24 The Return of the Ring - Season Finale
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP24.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x23 The Fugitives
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP23.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x22 Raiders of The Lost Art
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP22.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x21 Despicable B.
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP21.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x20 Salon of the Dead
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP20.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x19 It Girl Interrupted
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP19.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x18 Con-Heir
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP18.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x17 The Princess Dowry
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP17.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x16 Cross Rhodes
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP16.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x15 Crazy Cupid Love
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP15.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x14 The Backup Dan
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP14.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x13 G.G.
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP13.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x12 Father and the Bride
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP12.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x11 The End of The Affair?
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP11.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x10 Riding In Town Cars With Boys
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP10.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x09 Rhodes To Perdition
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP09.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x08 All the Pretty Sources
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP08.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x07 The Big Sleep No More
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP07.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x06 I Am Number Nine
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP06.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x05 The Fasting and the Furious
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP05.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x04 The Jewel Of Denial
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP04.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x03 The Jewel Of Denial
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP03.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x02 Beauty and The Feast
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP02.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 5x01 Yes Then Zero
+http://cdnfe2.azureedge.net/RCServer04/ondemand/GSPGRLT05EP01.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x22 The Wrong Goodbye - Season Finale
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP22.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x21 Shattered Bass
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP21.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x20 The Princesses and the Frog
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP20.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x19 Petty in Pink
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP19.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x18 The Kids Stay in the Picture
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP18.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x17 Empire of the Son
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP17.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x16 While You Weren’t Sleeping
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP16.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x15 It-Girl Happened One Night
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP15.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x14 Panic Roommate
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP14.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x13 Damien Darko
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP13.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x12 The Kids Are Not All Right
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP12.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x11 The Townie
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP11.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x10 Gaslit
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP10.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x09 The Witches of Bushwick
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP09.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x08 Juliet Doesn’t Live Here Anymore
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP08.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x07 War At The Roses
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP07.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x06 Easy J
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP06.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x05 Goodbye Columbia
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP05.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x04 Touch of Eva
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP04.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x03 The Undergraduates
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP03.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x02 Double Identity
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP02.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 4x01 Belles de Jour
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT04EP01.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x22 Last Tango Then Paris - Season Finale
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP22.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x21 Ex-Husbands and Wives
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP21.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x20 It’s a Dad Dad Dad Dad World
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP20.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x19 Dr. Estrangeloved
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP19.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x18 The Unblairable Lightness of Being
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP18.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x17 Inglourious Bassterds
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP17.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x16 The Empire Strikes Jack
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP16.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x15 The Sixteen Year Old Virgin
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP15.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x14 The Lady Vanished
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP14.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x13 The Hurt Locket
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP13.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x12 The Debarted
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP12.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x11 The Treasure of Serena Madre
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP11.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x10 The Last Days of Disco Stick!
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP10.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x09 They Shoot Humphreys Don’t They?
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP09.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x08 The Grandfather: Part II
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP08.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x07 How to Succeed in Bassness
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP07.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x06 Enough About Eve
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP06.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x05 Rufus Getting Married
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP05.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x04 Dan De Fleurette
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP04.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x03 The Lost Boy
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP03.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x02 The Freshman
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP02.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 3x01 Reversals of Fortune
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT03EP01.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x25 The Goodbye Gossip Girl - Season Finale
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP25.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x24 Valley Girls
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP24.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x23 The Wrath of Con
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP23.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x22 Southern Gentlemen Prefer Blondes
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP22.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x21 Seder Anything
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP21.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x20 Remains of the J
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP20.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x19 The Grandfather
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP19.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x18 The Age of Dissonance
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP18.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x17 Carnal Knowledge
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP17.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x16 You’ve Got Yale!
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP16.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x15 Gone With the Will
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP15.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x14 In The Realm of the Basses
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP14.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x13 O Brother Where Bart Thou?
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP13.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x12 It’s a Wonderful Lie
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP12.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x11 The Magnificent Archibalds
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP11.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x10 Bonfire of The Vanity
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP10.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x09 There Might Be Blood
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP09.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x08 Pret-a-Poor Jenny
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP08.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",3ossip Girl 2x07 Chuck In Real Life
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP07.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x06 New Haven Can Wait
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP06.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x05 The Serena Also Rises
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP05.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x04 The Ex-Files
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP04.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x03 The Dark Night
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP03.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x02 Never Been Marcused
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP02.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 2x01 Summer Kind Of Wonderful
+http://cdnfe2.azureedge.net/RCServer01/videos/GSPGRLT02EP01.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x18 Much ‘I Do’ About Nothing - Season Finale
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP18.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x17 Woman on the Verge
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP17.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x16 All About My Brother
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP16.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x15 Desperately Seeking Serena
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP15.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x14 The Blair Bitch Project
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP14.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x13 A Thin Line Between Chuck and Nate
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP13.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x12 School Lies
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP12.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x11 Roman Holiday
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP11.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x10 Hi Society
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP10.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x09 Blair Waldorf Must Pie!
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP09.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x08 Seventeen Candles
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP08.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x07 Victor Victrola
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP07.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x06 The Handmaiden’s Tale
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x05 Dare Devil
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x04 Bad News Blair
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x03 Poison Ivy
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x02 The Wild Brunch
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BgFpw6u.jpg" group-title="A Garota do Blog DUB",Gossip Girl 1x01 Pilot
+http://cdnfe2.azureedge.net/RCServer01/videos/GGT01EP01.mp4

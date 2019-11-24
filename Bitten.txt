@@ -1,0 +1,67 @@
+
+#EXTINF
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 3x9
+http://cdnfe3.azureedge.net/RCServer11/ondemand/BTENT03EP09.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 3x8
+http://cdnfe3.azureedge.net/RCServer11/ondemand/BTENT03EP08.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 3x7
+http://cdnfe3.azureedge.net/RCServer11/ondemand/BTENT03EP07.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 3x6
+http://cdnfe3.azureedge.net/RCServer11/ondemand/BTENT03EP06.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 3x5
+http://cdnfe3.azureedge.net/RCServer11/ondemand/BTENT03EP05.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 3x4
+http://cdnfe3.azureedge.net/RCServer11/ondemand/BTENT03EP04.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 3x3
+http://cdnfe3.azureedge.net/RCServer11/ondemand/BTENT03EP03.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 3x2
+http://cdnfe3.azureedge.net/RCServer11/ondemand/BTENT03EP02.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 3x1
+http://cdnfe3.azureedge.net/RCServer11/ondemand/BTENT03EP01.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 2x10
+http://cdnfe3.azureedge.net/RCServer10/ondemand/BTENT02EP10.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 2x09
+http://cdnfe3.azureedge.net/RCServer10/ondemand/BTENT02EP09.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 2x08
+http://cdnfe3.azureedge.net/RCServer10/ondemand/BTENT02EP08.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 2x07 Bad Dreams
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT02EP07.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 2x06 Nine Circles
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT02EP06.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 2x05 Rabbit Hole
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT02EP05.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 2x04 Dead Meat
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT02EP04.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 2x03 Hell’s Teeth
+http://cdnfe3.azureedge.net/RCServer10/ondemand/BTENT02EP03.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 2x02 Scare Tactics
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT02EP02.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 2x01 Bad Blood
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT02EP01.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 1x13 Bad Ready - Season Finale
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT01EP13.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 1x12 Caged
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT01EP12.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 1x11 Settling
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT01EP11.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 1x10 Descent
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT01EP10.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 1x09 Vengeance
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT01EP09.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 1x08 Prisoner
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT01EP08.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 1x07 Stalking
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT01EP07.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 1x06 Committed
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 1x05 Bitten
+http://cdnfe3.azureedge.net/RCServer11/ondemand/BTENT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 1x04 Grief
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 1x03 Trespass
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 1x02 Prodigal
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnNHUAY.jpg" group-title="Bitten DUB",Bitten 1x01 Summons
+http://cdnfe3.azureedge.net/RCServer09/ondemand/BTENT01EP01.mp4
