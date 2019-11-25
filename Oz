@@ -1,0 +1,486 @@
+<channels></channels>
+<channel>
+<name>1º Temporada</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a65x3J37bYmyZNwuGlGx9MNWZgo.jpg</thumbnail>
+
+
+<item>
+<title>Oz EP 01</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a65x3J37bYmyZNwuGlGx9MNWZgo.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1v3ZYG88sxfH5gFjIgB0F3sIzoHo-fvbq/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 02</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a65x3J37bYmyZNwuGlGx9MNWZgo.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1McexuhSty1ZX_6L4z46xucUi4qYeTPdZ/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 03</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a65x3J37bYmyZNwuGlGx9MNWZgo.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Gi-4Em8yHByj1GofBzNg65g3n8iArugS/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 04</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a65x3J37bYmyZNwuGlGx9MNWZgo.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dUqYZ5XJ0ZScVTyr5BGfKGGA5qvCjSU6/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 05</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a65x3J37bYmyZNwuGlGx9MNWZgo.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wS-MJXmSALGnsEVBbhv5gitkyOGqFiiN/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 06</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a65x3J37bYmyZNwuGlGx9MNWZgo.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BtP1O_CTqYVy-C7wd_Z3m0f1_NrrQfyv/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 07</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a65x3J37bYmyZNwuGlGx9MNWZgo.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17KOaG1PBSS9OijddBhUZIJyXpDcQo6Lu/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 08</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a65x3J37bYmyZNwuGlGx9MNWZgo.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18EAzBhzYsRWAqK96ibMSkdXJfj8WmLjs/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+
+
+<channels></channels>
+<channel>
+<name>2º Temporada</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eK7VZISZ69HtLtMqIk60qIkz8lJ.jpg</thumbnail>
+
+
+<item>
+<title>Oz EP 01</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eK7VZISZ69HtLtMqIk60qIkz8lJ.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pBKRYDrd7JE6hGRJvVLryM_T42b25SKy/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 02</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eK7VZISZ69HtLtMqIk60qIkz8lJ.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yqO781OgtNOS394K3aSTX7ZpQvrC6pFx/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 03</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eK7VZISZ69HtLtMqIk60qIkz8lJ.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Yld7fDgtNYFFRqLK1WzO9vsODNPv5X3I/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 04</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eK7VZISZ69HtLtMqIk60qIkz8lJ.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Wgd-3cHKdeFjrAgD0TskZmzUvaQH9xZP/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 05</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eK7VZISZ69HtLtMqIk60qIkz8lJ.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p9Bmgii-SiSAFmcHAigtlPXhakGMfCL9/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 06</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eK7VZISZ69HtLtMqIk60qIkz8lJ.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1J6i0VMEdjBvtBaRodLUpkPRxd4F46zk2/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 07</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eK7VZISZ69HtLtMqIk60qIkz8lJ.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19-Sz9KTys3Shuyerd3JbEBiq6gA4O3Yo/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 08</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eK7VZISZ69HtLtMqIk60qIkz8lJ.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ADhC0inUIv9BnjFq-iTpcsmdTB9U-22y/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+
+
+<channels></channels>
+<channel>
+<name>3º Temporada</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAFXP0AKjyO6o8R4kbG60DvvMo8.jpg</thumbnail>
+
+
+
+<item>
+<title>Oz EP 01</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAFXP0AKjyO6o8R4kbG60DvvMo8.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sp3jXSEheQvuDFtWdMwxN-fH-Q8K0CI6/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 02</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAFXP0AKjyO6o8R4kbG60DvvMo8.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18JT7NQQRjXNgQaCVanNSm92qKePU8uHN/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 03</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAFXP0AKjyO6o8R4kbG60DvvMo8.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qL03gm70T1gMBWWqTV0NMFpl5oUwFkec/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 04</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAFXP0AKjyO6o8R4kbG60DvvMo8.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_nGFUR54H3qTYZLU2OrAyPjJ9kzNOPor/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 05</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAFXP0AKjyO6o8R4kbG60DvvMo8.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_ZR7kbyodmaop5GDjaczSBlSm9CPx66L/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 06</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAFXP0AKjyO6o8R4kbG60DvvMo8.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ykf75Zn8BY_qQkFVi3T5yDWhEZQhRLdA/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 07</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAFXP0AKjyO6o8R4kbG60DvvMo8.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1v8tBeSbddgcaPtECeNXeToQamQ1MvC8u/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 08</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAFXP0AKjyO6o8R4kbG60DvvMo8.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xXWS0Qqa5HSVkaQ8T5rbb4XWH42jmJgS/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+
+<channels></channels>
+<channel>
+<name>4º Temporada</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+
+
+<item>
+<title>Oz EP 01</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EXy6sDiBc1xXjQLQrgNUvxAdsUIOFg3v/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<title>Oz EP 02</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1j1dyR4LF7w-sbFaczVgKOQEk6H6MLemw/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<title>Oz EP 03</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GKfXzgCGhqHyE-GihERKWzLoPWrPLu8K/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<title>Oz EP 04</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SKQzCkZMEPA4vRQq72F5Pocc3i6x6KYv/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<title>Oz EP 05</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rGie0VLMk_9I2L-IEsWA9wPN1Fo7WwiZ/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<title>Oz EP 06</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oRcd-HbI3uFoa4Tbf-bQS1AYsxXWJKij/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<title>Oz EP 07</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JBKSotF9pcGDrx8aXhlcsPuLDX-Y4EQA/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+<title>Oz EP 08</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dGgULs-ks0jLgg6NKm2LVtd2nlwSj4YG/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<title>Oz EP 09</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1P5avml6yE-lgpuVTTHeQ3PXsQmhBxOcX/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<title>Oz EP 10</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jr9FzFEAooQbHCic6q7xkdrATmXUcVBR/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<title>Oz EP 11</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1q0Q0AFW0t6M1haIfjlxIGAZiZm59wDrg/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<title>Oz EP 12</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13rfSeIaJ5CaDQKk37U5e0L8_R79xs88v/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<title>Oz EP 13</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1F5svG8AR1xqgZLpV4GhtsBNfVpqHUO-t/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<title>Oz EP 14</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aJDv5sJAWStRY_xL7v4AZck5NqifmO32/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<title>Oz EP 15</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I9f1BUDcVOS5YfVFlFvr6YnvbGA4o9qC/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<title>Oz EP 16</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX185vtCsr7lpAOif97jk8cjEId.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p4VpLQGPbIOC2QFyawkX0kqFEfbOLh89/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+
+
+<channels></channels>
+<channel>
+<name>5º Temporada</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+
+
+<item>
+<title>Oz EP 01</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KSRB3lUC2evBXrl_Y0lANi11lwTdbxn1/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 02</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1L7P7mDzRzzlPi710Pogf_DnfBAyOJU_e/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 03</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19zLPcESG-tRMEBCqGUaVIlYuYM9z34_e/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 04</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Bo5IzzvEJEtBQOyPWSHHnT6EvNCd0nNp/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 05</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SrWhSlr1Y4jZ_ONCWNb68BIwt5toZfcf/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 06</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_Yutk_2iSL5LSQFJaVAwS2Zmd3l6kBZa/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 07</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gk6PFcBSOlpcKW08nPtF2loYEaJPQUjk/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 08</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kelE0IsrhREHTBk2W96beviH5n5zjk4j/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+
+
+<channels></channels>
+<channel>
+<name>6º Temporada</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+
+<item>
+<title>[COLOR yellow]6º Temporada Trailer[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MWmjMLKnTZo</link>
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 01</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pLHEDwTxUBvWEOXKL2qSDZ4qVox0geEo/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 02</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/171XTp2HjZHhp_-1Zb7LmZOoxtp4kG1wj/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 03</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rhORzhwsnhn_BKTyHPSP2rtzvTQLlT2N/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 04</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FPC_b69CNyyIsxLo3YUpFbKXrg2FnhFa/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 05</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oeDE4h0fL4w2RLMh-yhovTZTzNOkz1Pj/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 06</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1e4eYc6hA0Zutsg0WTN7ZpS5Wgy1Bgoko/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 07</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17wzwh1ZwCoQ9ujXM2JpBu4RqxxieMlhQ/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
+
+<item>
+<title>Oz EP 08</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B7CBad7zSPCZTFXqhIAMKzw2Y.jpg</thumbnail>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1s6PjiLHFTdcNPvPboumxhy_SxGiOCDcd/view?usp=sharing</link> 
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados.
+Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+</item>
