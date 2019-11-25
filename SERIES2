@@ -1136,16 +1136,6 @@ Um agente da Unidade de Crimes em Série do FBI desenvolve avançadas técnicas 
 
 <channels>
 <channel>
-<name>[COLOR lime]O Mandaloriano: Star Wars (2019)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/syGVWP2DdSMtZvYq05aTIiHG8TO.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/OMandalorianoStarWars</externallink>
-<fanart>https://image.tmdb.org/t/p/original/o7qi2v4uWQ8bZ1tW3KI0Ztn2epk.jpg</fanart>
-<info>A história do visionário criador que deu ao antigo sonho de voar forma e realidade. A vida, a ambição, a consagração e a melancolia de um gênio da mecânica com alma de poeta: Santos Dumont.</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
 <name>[COLOR lime]O Justiceiro (2017)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c86aUAhACPyloPtL2CH4ZP5hO7V.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/JUSTICEIRO.m3u</externallink>
@@ -1338,6 +1328,16 @@ Em seis episódios, a série traz imagens exclusivas, entrevistas com testemunha
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Reign.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/oW4HtGr4sQi6RmgcGgvR5ZDrYMQ.jpg</fanart>
 <info>Este drama histórico retrata a vida de Mary, Rainha da Escócia, em meio a um turbilhão de intrigas políticas e escândalos sexuais.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Santos Dumont (2019)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yVtl6XcxT2kaFel8YP8o0l0yf2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SANTOSDUMONT</externallink>
+<fanart>https://image.tmdb.org/t/p/original/796jJyEjAq3avQTt0YF2kTcFULD.jpg</fanart>
+<info>A história do visionário criador que deu ao antigo sonho de voar forma e realidade. A vida, a ambição, a consagração e a melancolia de um gênio da mecânica com alma de poeta: Santos Dumont.</info>
 </channel>
 </channels>
 
