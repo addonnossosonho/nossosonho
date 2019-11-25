@@ -145,6 +145,16 @@ A agente do FBI Emily Byrne (Stana Katic, de Castle) é encontrada em um cativei
 
 <channels>
 <channel>
+<name>[COLOR lime]A Divisão (2019)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YJM8sMVZR4y0y1sj2beuZhC434.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ADivisao</externallink>
+<fanart>https://image.tmdb.org/t/p/original/8qMK8VIk08kUpMCZ3boqseVzU8j.jpg</fanart>
+<info>O Rio de Janeiro está acuado por uma onda de sequestros nos anos 90. As forças de segurança chamam agentes de fama controversa para salvar a cidade de bandidos e até da polícia.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]After Life (2019)[/COLOR]</name>
 <thumbnail>http://image.tmdb.org/t/p/w185/oW1S78vPOW5FZglm0myBU3XYa4x.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AfterLife</externallink>
@@ -600,6 +610,16 @@ Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futur
 
 <channels>
 <channel>
+<name>[COLOR lime]Chicago Med (2015)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sWkBKCZ4FrzllsLjMQpiFxZWwM.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ChicagoMed</externallink>
+<fanart>https://image.tmdb.org/t/p/original/bk3BgEqfsixAyEfnBpAbDFQ3fPk.jpg</fanart>
+<info>A série acompanha o dia-a-dia de um corajoso grupo de médicos e enfermeiros de um hospital de Chicago. Juntos, eles confrontam os casos médicos mais desafiadores de Chicago e enfrentam dilemas éticos com coragem, paixão e cuidado incomparável.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Chuck (2007)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrrtSMsjEor0S45Ef5AJpNAgWPD.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Chuck.m3u</externallink>
@@ -1000,6 +1020,18 @@ Raquel é uma jovem de classe média alta que decide mudar de vida, foge de casa
 
 <channels>
 <channel>
+<name>[COLOR lime]Meu Nome é Liberdade (2015)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQ0jPuqWI8yiDMgv1lycZATyHy7.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/MeuNomeeLiberdade</externallink>
+<fanart>https://image.tmdb.org/t/p/original/6QZ3RcG5OFVWuMmAZQgD3PRImkx.jpg</fanart>
+<info>
+O relato de uma mulher negra que criou o seu próprio caminho e nunca perdeu a coragem, mesmo quando tentaram calar a sua voz. Porque nenhuma prisão é capaz de deter o desejo de liberdade e justiça.</info>
+<genre>DRAMA</genre>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Manifest - O mistério do voo 828 (2018)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/moaCMoZYVifaQnNJGDr3M6rBglB.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/MANIFEST</externallink>
@@ -1084,6 +1116,26 @@ Um agente da Unidade de Crimes em Série do FBI desenvolve avançadas técnicas 
 
 <channels>
 <channel>
+<name>[COLOR lime]NOS4A2 (2019)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWa1LyUppYcASc4b9Osz2a9wSfU.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/NOS4A2</externallink>
+<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
+<info>Vic McQueen é uma jovem talentosa que descobre possuir uma habilidade sobrenatural de encontrar coisas perdidas. Essa habilidade a coloca em conflito direto com o maligno e imortal Charlie Manx.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]O Código Bill Gates (2019)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTgfjRhswSnTngxvRbLP611gUcp.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/OCODIGOBILLGATES</externallink>
+<fanart>https://image.tmdb.org/t/p/original/y3iub1m2ttdGVT0bZhq2hpQTxOj.jpg</fanart>
+<info>O código Bill Gates é uma série de documentários em três partes da televisão pela web 2019 criada e dirigida por Davis Guggenheim. A premissa da série explora a mente e as motivações de Bill Gates, ex-CEO da Microsoft e fundador da Fundação Bill e Melinda Gates, junto com sua esposa.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]O Justiceiro (2017)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c86aUAhACPyloPtL2CH4ZP5hO7V.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/JUSTICEIRO.m3u</externallink>
@@ -1136,6 +1188,18 @@ Karin (Rafaela Mandelli), Luna (Juliana Schalch) e Magali (Michelle Batista) sã
 
 <channels>
 <channel>
+<name>[COLOR lime]O Residente (2018)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5E9GrO7cT3zkNQVUQu8C8cS7Tk.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ORESIDENTE</externallink>
+<fanart>https://image.tmdb.org/t/p/original/bycbvRHAYxcUfkJlIyX6GZ7nGuZ.jpg</fanart>
+<info>
+A série é focada nos últimos anos de treinamento de um jovem doutor que revela tudo o que acontece nos hospitais de todo o país.</info>
+<genre>Drama</genre>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Orange Is the New Black (2013)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7JbiWSRBljHHUZYGUWSD9PNv3v.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/OrangeIstheNewBlack.m3u</externallink>
@@ -1161,6 +1225,16 @@ Karin (Rafaela Mandelli), Luna (Juliana Schalch) e Magali (Michelle Batista) sã
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/OsSimpsons.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/f5uNbUC76oowt5mt5J9QlqrIYQ6.jpg</fanart>
 <info>A família Simpsons mora na cidade de Springfield, uma cidade americana como qualquer outra. Homer trabalha como inspetor de segurança numa usina de energia nuclear. Marge tenta manter a paz em sua família. Bart é um travesso garoto de 10 anos. Lisa, 8, é a inteligente da família, que adora tocar saxofone e é vegetariana. E a pequena Maggie conquista todos enquanto não larga sua chupeta. E a série tem um rico, e muitas vezes estranho, universo de personagens que também habitam Springfield. Com roteiros inteligentes, humor subversivo e divertidamente genial, a série faz piadas de si mesma e de todo mundo que aparecer em seu caminho.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Oz (1997)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTQ9PUnCgf9CimYeWuDGp8iaT07.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Oz</externallink>
+<fanart>https://image.tmdb.org/t/p/original/z0PFjvUcNIeDeDgoFQK4XEMy6ji.jpg</fanart>
+<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados. Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
 </channel>
 </channels>
 
@@ -1192,6 +1266,17 @@ Karin (Rafaela Mandelli), Luna (Juliana Schalch) e Magali (Michelle Batista) sã
 <fanart>https://www.folhadelondrina.com.br/img/inline/2960000/Serie-sobre-Ovnis-estreia-no-Canal-History0296389400201909201553-sm.jpg</fanart>
 <info>
 Em seis episódios, a série traz imagens exclusivas, entrevistas com testemunhas oculares e ex-agentes militares, e avanços importantes sobre o conhecimento da tecnologia por trás desses intrigantes fenômenos.</info>
+<genre>FICÇÃO</genre>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Penny Dreadful (2014)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OGG3o65cf16BhMRh2nIOIIf9Ad.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/PennyDreadful</externallink>
+<fanart>https://image.tmdb.org/t/p/original/g8RfstDFp1AOO0sSviTYvZ0slW7.jpg</fanart>
+<info>Em Penny Dreadful, alguns dos personagens mais famosos e assustadores da literatura mundial, como o Dr. Frankenstein e sua criação, o eternamente jovem Dorian Gray e icônicas figuras do romance Drácula, estão todos vivendo nos cantos obscuros de Londres Vitoriana.</info>
 <genre>FICÇÃO</genre>
 </channel>
 </channels>
@@ -1461,6 +1546,16 @@ Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes
 
 <channels>
 <channel>
+<name>[COLOR lime]The OA (2016)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppSiYu2D0nw6KNF0kf5lKDxOGRR.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TheOA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/tKKgBtSlz2AR9G407984fTOm7uh.jpg</fanart>
+<info>Sete anos depois de desaparecer, uma garota volta para casa, mas com novos sentidos. Ela só tem um desejo: voltar ao mundo onde estava.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]The Originals (2013)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDkTZMJHauC4IeO5YyLS7zuIPaP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TheOriginals.m3u</externallink>
@@ -1476,6 +1571,26 @@ Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ThePacific.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/jPT0fSpq1VPgqFbOgQgrG88u6ao.jpg</fanart>
 <info>"O Pacífico" é a aguardada sequência do épico “Band of Brothers” de Tom Hanks e Steven Spielberg. Diferentemente de sua série de origem que foi focada apenas nas incursões do Exército dos Estados Unidos, The Pacific abordará também atuação das forças européias em operações de guerra no Pacifico. O enredo relata as histórias de três fuzileiros: Robert Leckie, John Basilone e Eugene Sledge, que lutaram contra o ataque japonês no Pacífico durante a Segunda Guerra Mundial. A base do enredo foi o livro de memórias de Eugene Sledge, “With the Old Breed“.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]The Passage (2019)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aquYKS9cFzmULgV6mSnS2RPjxdp.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ThePassage</externallink>
+<fanart>https://image.tmdb.org/t/p/original/k2r7HTMbyXaHdzub6q8PCcgbpwG.jpg</fanart>
+<info>Um vírus que transforma as pessoas em vampiros muda completamente a história da humanidade. O agente Brad Wolgast (Mark-Paul Gosselaar), do FBI, tenta proteger Amy, uma órfã de 6 anos e a única criança usada no malfadado experimento que deu início ao apocalipse. Mas, para Amy, esse é apenas o começo de uma longa jornada – através de décadas e milhares de quilômetros – até o lugar e o tempo em que deverá pôr fim ao que jamais deveria ter começado.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]The Resident (2018)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5E9GrO7cT3zkNQVUQu8C8cS7Tk.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TheResident</externallink>
+<fanart>https://image.tmdb.org/t/p/original/9TBjutUx4lBFS2tgHaQJuue7lAF.jpg</fanart>
+<info>A série é focada nos últimos anos de treinamento de um jovem doutor que revela tudo o que acontece nos hospitais de todo o país.</info>
 </channel>
 </channels>
 
@@ -1565,28 +1680,6 @@ O projeto Treadstone, tendo criado o super espião Jason Bourne, volta sua aten�
 </channel>
 </channels>
 
-<channels></channels>
-<channel>
-<name>[COLOR lime]Watchmen (2019)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Watchmen</externallink>
-<fanart>https://image.tmdb.org/t/p/original/9GD0hl8SEga0pRIBueoLjr5e6Gy.jpg</fanart>
-<info>
-Uma visão atualizada do mundo, onde justiceiros mascarados transitam constantemente pela delicada linha que separa o bem do mal em uma sociedade que os despreza.</info>
-<genre>FICÇÃO</genre>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR lime]Westworld (2016)[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2WKIbiwhLoWgLFbT2I0Gwq8U1J.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Westworld</externallink>
-<fanart>https://image.tmdb.org/t/p/original/yp94aOXzuqcQHva90B3jxLfnOO9.jpg</fanart>
-<info>Num parque temático, visitantes mergulham num universo onde qualquer desejo pode ser realizado por robôs cuidadosamente programados. Mas algumas destas máquinas desviam do padrão de programação com comportamentos anormais.</info>
-</channel>
-</channels>
-
 <channels>
 <channel>
 <name>[COLOR lime]Vai Que Cola (2013)[/COLOR]</name>
@@ -1614,6 +1707,59 @@ Uma visão atualizada do mundo, onde justiceiros mascarados transitam constantem
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Vikings.m3u</externallink>
 <fanart>https://image.tmdb.org/t/p/original/gdmCzOBE5Ff0FSKKHiUdL2Tb7HU.jpg</fanart>
 <info>Ragnar Lothbrok, um jovem que se considera descendente de Odin, é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico. Mas para conseguir conquistá-las ele precisa convencer Earl Haraldson, o líder de seu povo, a permitir que ele e seus guerreiros viagem em direção à Inglaterra.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]V - Visitantes (2009)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6mlUkwnpRjzLFCaguWqD5iBMU6.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/VVISITANTES</externallink>
+<fanart>https://image.tmdb.org/t/p/original/j1MWB8BrD2r4o0hUJj2MmM3f3VK.jpg</fanart>
+<info>Eles chegaram. O primeiro encontro alienígena na Terra começa quando enormes monstros aparecem em mais de 29 cidades. Os visitantes Os V são humanos que sabem a nossa língua e trazem presentes impressionantes de cura e tecnologia.
+Pessoas em todos os lugares os recebem como salvadores. Mas uma resistência está em ascensão, determinada a revelar a verdade chocante. Entre esse quadro de heróis: o agente do FBI, cujo filho adolescente é atraído pela beleza e a promessa dos alienígenas, a pró-humano V e sua namorada grávida com seu filho e um padre em conflito entre sua fé e a luta pela liberdade.</info>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime]Watchmen (2019)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Watchmen</externallink>
+<fanart>https://image.tmdb.org/t/p/original/9GD0hl8SEga0pRIBueoLjr5e6Gy.jpg</fanart>
+<info>
+Uma visão atualizada do mundo, onde justiceiros mascarados transitam constantemente pela delicada linha que separa o bem do mal em uma sociedade que os despreza.</info>
+<genre>FICÇÃO</genre>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Westworld (2016)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2WKIbiwhLoWgLFbT2I0Gwq8U1J.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Westworld</externallink>
+<fanart>https://image.tmdb.org/t/p/original/yp94aOXzuqcQHva90B3jxLfnOO9.jpg</fanart>
+<info>Num parque temático, visitantes mergulham num universo onde qualquer desejo pode ser realizado por robôs cuidadosamente programados. Mas algumas destas máquinas desviam do padrão de programação com comportamentos anormais.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Whiskey Cavalier (2019)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDw6JCPcMbGYaeMWz1AEcwdlGaA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/WhiskeyCavalier</externallink>
+<fanart>https://image.tmdb.org/t/p/original/dQvzhgNcZXtxS63C0v7OVyErrE1.jpg</fanart>
+<info>O agente do FBI Will Chase recebe a missão de trabalhar ao lado da agente da CIA Francesca Frankie Trowbridge. Juntos, os dois lideram uma equipe de espiões, que periodicamente salva o mundo, enquanto lidam com amizades, romances e políticos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Young Sheldon (2017)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpJFSTFE75CMhQv3kYDb5f69ttx.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/YOUNGSHELDON</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ttbrl8AEAcR430mOZ1i4Ab2buvI.jpg</fanart>
+<info>Para Sheldon, infância não é nada fácil. Um gênio da matemática e das ciências, enfrenta dificuldades no cotidiano e uma família 'normal' que busca uma forma de lidar com ele.</info>
 </channel>
 </channels>
 
