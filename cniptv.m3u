@@ -15,9 +15,9 @@ http://stream10gbps.eu:80/lukastv/GkYh1VheHK/6
 
 #EXTINF:-1 tvg-id="" tvg-name="Bandeirantes" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvbv_band.jpg" group-title="Canais SD",Bandeirantes
 http://stream10gbps.eu:80/lukastv/GkYh1VheHK/9
-#EXTINF:-1 tvg-id="" tvg-name="BandNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/BandNews_TV_logo_2010.svg" group-title="Canais SD",BandNews
+#EXTINF:-1 tvg-id="" tvg-name="BandNews" tvg-logo="http://www.set.org.br/wp-content/uploads/2019/04/BANDNEWS.jpg" group-title="Canais SD",BandNews
 http://stream10gbps.eu:80/lukastv/GkYh1VheHK/7
-#EXTINF:-1 tvg-id="" tvg-name="BandSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/BandSports_logo.svg" group-title="Canais SD",BandSports
+#EXTINF:-1 tvg-id="" tvg-name="BandSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="Canais SD",BandSports
 http://stream10gbps.eu:80/lukastv/GkYh1VheHK/8
 #EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bis_br.jpg" group-title="Canais SD",BIS
 http://stream10gbps.eu:80/lukastv/GkYh1VheHK/5
@@ -101,7 +101,7 @@ http://stream10gbps.eu:80/lukastv/GkYh1VheHK/50
 http://stream10gbps.eu:80/lukastv/GkYh1VheHK/51
 #EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_2_lam.jpg" group-title="Canais SD",History 2
 http://stream10gbps.eu:80/lukastv/GkYh1VheHK/52
-#EXTINF:-1 tvg-id="" tvg-name="ID - Investigacao Discovery" tvg-logo="" group-title="Canais SD",ID - Investigacao Discovery
+#EXTINF:-1 tvg-id="" tvg-name="ID - Investigacao Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="Canais SD",ID - Investigacao Discovery
 http://stream10gbps.eu:80/lukastv/GkYh1VheHK/53
 
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/lifetime_us.jpg" group-title="Canais SD",Lifetime
@@ -117,7 +117,7 @@ http://stream10gbps.eu:80/lukastv/GkYh1VheHK/58
 http://stream10gbps.eu:80/lukastv/GkYh1VheHK/61
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv.jpg" group-title="Canais SD",MTV
 http://stream10gbps.eu:80/lukastv/GkYh1VheHK/59
-#EXTINF:-1 tvg-id="" tvg-name="Multishow" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Canais SD",Multishow
+#EXTINF:-1 tvg-id="" tvg-name="Multishow" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="Canais SD",Multishow
 http://stream10gbps.eu:80/lukastv/GkYh1VheHK/62
 #EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/box_brazil_music.jpg" group-title="Canais SD",Music Box Brazil
 http://stream10gbps.eu:80/lukastv/GkYh1VheHK/63
