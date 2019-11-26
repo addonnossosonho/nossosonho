@@ -1,6 +1,9 @@
 
 #EXTM3U size="Medium"
 
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/13%20Reasons%20Why1.jpg" group-title="TESTE", "01x01 - Fita 1, Lado A"
+http://bit.ly/33ipRIg
+
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/13%20Reasons%20Why1.jpg" group-title="13 Reasons Why", "01x01 - Fita 1, Lado A"
 http://cdnfe3.azureedge.net/RCServer11/ondemand/13RSNSWYT01EP01.mp4
 
