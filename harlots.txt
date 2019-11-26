@@ -1,0 +1,74 @@
+#EXTM3U size=“Medium”” 
+################## Harlots ########################
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "01x01 - "
+https://playseries.online/drive//hls/359f8619c38e99f70742ad82bd9ca997/359f8619c38e99f70742ad82bd9ca997.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "01x02 - "
+https://playseries.online/drive//hls/42e4fcf8ab006b90fdcd805070e87594/42e4fcf8ab006b90fdcd805070e87594.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "01x03 - "
+https://playseries.online/drive//hls/077d99ebe545248082044bc2a01244c0/077d99ebe545248082044bc2a01244c0.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "01x04 - "
+https://playseries.online/drive//hls/79fac284e2a9addd39bd08c377084209/79fac284e2a9addd39bd08c377084209.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "01x05 - "
+https://playseries.online/drive//hls/5bc199377b5e124e37e9ed10da018446/5bc199377b5e124e37e9ed10da018446.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "01x06 - "
+https://playseries.online/drive//hls/40b4c38ed410171abb23743ba4e32caa/40b4c38ed410171abb23743ba4e32caa.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "01x07 - "
+https://playseries.online/drive//hls/f82bc7ff9afdad9e722d6a083b796489/f82bc7ff9afdad9e722d6a083b796489.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "01x08 - "
+https://playseries.online/drive//hls/ddd4bb478c7bda95305bf5b3c12c00bc/ddd4bb478c7bda95305bf5b3c12c00bc.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "02x01 - "
+https://playseries.online/drive//hls/6d1b02b3a034ba7e36ac3c711e28f2c7/6d1b02b3a034ba7e36ac3c711e28f2c7.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "02x02 - "
+https://playseries.online/drive//hls/d95b521b2056d376090a43b9b6febc25/d95b521b2056d376090a43b9b6febc25.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "02x03 - "
+https://playseries.online/drive//hls/987afd7a3b6f033bc5be0ddb9d2f6869/987afd7a3b6f033bc5be0ddb9d2f6869.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "02x04 - "
+https://playseries.online/drive//hls/0e9fc374ebddf1886797dff763553ad1/0e9fc374ebddf1886797dff763553ad1.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "02x05 - "
+https://playseries.online/drive//hls/d19ad0d3e0590414a12e09dddbe618c3/d19ad0d3e0590414a12e09dddbe618c3.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "02x06 - "
+https://playseries.online/drive//hls/cb0ced991c669490d98a14ac0af9451d/cb0ced991c669490d98a14ac0af9451d.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "02x07 - "
+https://playseries.online/drive//hls/3a57f9c933acc5f726b0ab6edb27900c/3a57f9c933acc5f726b0ab6edb27900c.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "02x08 - "
+https://playseries.online/drive//hls/c2ea010ad546b95412e6a6d58fa4c5fe/c2ea010ad546b95412e6a6d58fa4c5fe.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "03x01 - "
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "03x02 - "
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "03x03 - "
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "03x04 - "
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "03x05 - "
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "03x06 - "
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "03x07 - "
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "03x08 - "
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
