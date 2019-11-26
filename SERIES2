@@ -846,6 +846,16 @@ Uma equipe inexperiente de submarinos tem que sobreviver a uma missão secreta e
 
 <channels>
 <channel>
+<name>[COLOR lime]Harlots (2017)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWXSp19SPUFT1nMg2hDnaqV4lGb.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/harlots.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/2xrc8yojivPdC25a8X2y01bt67V.jpg</fanart>
+<info>A proprietária do bordel, Margaret Wells, luta para criar suas filhas em Londres durante o século XVIII.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Homeland - Segurança Nacional (2011)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQXxNET0AY07ulvZyhrrKlhAjXI.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Homeland.m3u</externallink>
