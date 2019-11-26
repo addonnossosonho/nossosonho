@@ -53,10 +53,10 @@ https://playseries.online/drive//hls/c2ea010ad546b95412e6a6d58fa4c5fe/c2ea010ad5
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "03x02 - "
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+https://proxy-036.ix7.dailymotion.com/sec(LBJP6M936EOr43Frn-NvyjPz9hut67Pu4uIvLvrUyOtIAONQAe268Z1p5VjQGC4iZa45dJn3BQ3SvXbSX4cE8MIZziIFpmHcn0GcczX2pRI)/video/867/914/464419768_mp4_h264_aac.m3u8
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "03x03 - "
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+https://proxy-012.dc3.dailymotion.com/sec(s_13t_2f7O0wwaaFk-MzVWKqcPoJmHHlXKn4BF2_MNTWrVydpgtRXJUIU-oKGd35wWMccBd3SwUb21d9xe5hSDWJRChWH6rnv4PiAJni-dI)/video/967/914/464419769_mp4_h264_aac.m3u8
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "03x04 - "
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
