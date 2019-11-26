@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2012/07/abc-logo__120510210044-200x194.jpg" group-title="26- PREMIUM USA",ABC
-http://190.80.3.28/ABC/ABC.isml/index.m3u8
+http://bit.ly/2QORPbX
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ae_br.jpg" group-title="Canais SD",A&E
 http://stream10gbps.eu:80/lukastv/GkYh1VheHK/1
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/amc_us.jpg" group-title="Canais SD",AMC
