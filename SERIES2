@@ -716,6 +716,17 @@ Uma equipe inexperiente de submarinos tem que sobreviver a uma missão secreta e
 
 <channels>
 <channel>
+<name>[B][COLOR lime]DOCTOR WHO (2005)[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Doctor%20Who/thumb.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Doctor%20Who/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Doctor%20Who/menu</externallink>
+<info>O Doutor Ã© um Senhor do Tempo - um alien de um planeta distante chamado Gallifrey que tem dois coraÃ§Ãµes e aproximadamente 900 anos. Em sua nave espacial, a TARDIS, ele atravessa as barreiras do espaÃ§o e do tempo lutando contra inimigos e criando aventuras com seus companheiros, que sempre escolhe para viajar junto a ele. Quando ele estÃ¡ prestes a morrer, ele se regenera e renasce em outro corpo inteiramente novo.</info>
+<date>2005</date>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Drácula (2013)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9HoPggyZVKXgCDy8zqNVXMDyOo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Dracula.m3u</externallink>
