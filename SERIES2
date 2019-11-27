@@ -1139,6 +1139,16 @@ Um agente da Unidade de Crimes em Série do FBI desenvolve avançadas técnicas 
 
 <channels>
 <channel>
+<name>[COLOR lime]New Amsterdam (2018)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bg556WSKtyAzmVTe0kK35lelsIc.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/NEWAMSTERDAM</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ukq1UyAdiIqytZ1eEbQG19LIRrv.jpg</fanart>
+<info>Novo na direção do hospital mais antigo dos EUA, Max promete mudar o burocrático sistema. Enquanto aposta no lado humano da medicina, ele lida com seu diagnóstico e sua família.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]NOS4A2 (2019)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWa1LyUppYcASc4b9Osz2a9wSfU.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/NOS4A2</externallink>
@@ -1154,6 +1164,16 @@ Um agente da Unidade de Crimes em Série do FBI desenvolve avançadas técnicas 
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/OCODIGOBILLGATES</externallink>
 <fanart>https://image.tmdb.org/t/p/original/y3iub1m2ttdGVT0bZhq2hpQTxOj.jpg</fanart>
 <info>O código Bill Gates é uma série de documentários em três partes da televisão pela web 2019 criada e dirigida por Davis Guggenheim. A premissa da série explora a mente e as motivações de Bill Gates, ex-CEO da Microsoft e fundador da Fundação Bill e Melinda Gates, junto com sua esposa.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]O Conto da Aia (2017)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDrZswdihsbEVBuAEjtmthoVim3.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/thehandmaidstale</externallink>
+<fanart>https://image.tmdb.org/t/p/original/jRlfuEPKmYDmrumKHCn3QEZIVyG.jpg</fanart>
+<info>Gilead tem um regime que trata mulheres como propriedade. Offred é uma das poucas mulheres férteis e serva do Comandante, buscando sobreviver e encontrar a filha que foi tirada dela.</info>
 </channel>
 </channels>
 
@@ -1666,6 +1686,17 @@ Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes
 <info>
 Em Londres, durante a era Eduardiana, a tentativa de George e Amy de começar uma vida juntos é interrompida por uma invasão marciana na Terra.</info>
 <genre>FICÇÃO</genre>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Tô de Graça (2017)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkD4qoMU1NuqUg1RzBiL6Gzs0Sd.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/todegraca</externallink>
+<fanart>http://vcfaz.tv/wp-content/uploads/2019/08/To%CC%82-de-Grac%CC%A7a.jpg</fanart>
+<info>Dona Graça é uma catadora de latinhas que sustenta 13 filhos e o marido desempregado, além de fazer todas as funções de uma dona de casa.</info>
+<genre>Comedia</genre>
 </channel>
 </channels>
 
