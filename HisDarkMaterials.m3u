@@ -11,4 +11,4 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hb9b23PYhcq3886oZ6GeU-d8JyIX2wMD/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4SoJ4swNrvhlwG3nOc7KJ08juw.jpg" group-title="His Dark Materials - Fronteiras do Universo", "01x04 - "
-https://proxy-044.ix7.dailymotion.com/sec(mY07IAeONRUUJhi-jD5EpTTxO4BG9CHfHi35M30vDPpMegSDY9yeXPycHP3ET_F13LUbIEJqwUame2uRrIWuoQxlfLob03XuAggdUnd1BC8)/video/397/962/464269793_mp4_h264_aac.m3u8
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Walr3-kDLRXWjprc6Lr6Q7Q3Zumkbgg-/view?usp=drivesdk
