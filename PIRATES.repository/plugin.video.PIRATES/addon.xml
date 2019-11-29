@@ -29,8 +29,5 @@
   <assets>
 <icon>icon.png</icon>
 <fanart>fanart.jpg</fanart>
-<screenshot>resources/screenshots/canais.jpg</screenshot>
-<screenshot>resources/screenshots/lançamentos.jpg</screenshot>
-<screenshot>resources/screenshots/series.jpg</screenshot>
   </extension>
 </addon>
