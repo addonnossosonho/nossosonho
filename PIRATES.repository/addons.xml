@@ -32,37 +32,38 @@
 </addon>
 
 <addon id="plugin.video.PIRATES"
-       name="[COLOR red][B]PIRATES[/B][/COLOR]"
+       name="PIRATES"
        version="1.0"
-       provider-name="CRISESPNL">
+       provider-name="PIRATES">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.t0mm0.common" version="2.0.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
     <import addon="script.module.simple.downloader" version="0.9.4"/>
     <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
-    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
     <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" optional="true" />
-	<import addon="plugin.video.SportsDevil" optional="true" />
+    <import addon="plugin.video.youtube" version="3.0.0"/>
     <import addon="script.module.urlresolver" optional="true"/>
     <import addon="script.module.simplejson" />
-     <import addon="script.module.livestreamer" optional="true"/>
-     <import addon="script.module.pyamf" optional="true"/>
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
-
-
   <extension point="xbmc.addon.metadata">
-    <summary>ADDON CRIADO SEM FINS LUCRATIVOS, TUDO ENCONTRADO NA INTERNET</summary>
-    <description>
-        FILMES, SERIES, TV AO VIVO, DESENHOS E RADIOS TUDO GRATIS.
-
-    </description>
+    <summary lang="en">Add-On PIRATES </summary>
+    <description lang="en">Add-On PIRATES V1.0 INICIAL</description>
     <platform>all</platform>
+  <assets>
+<icon>icon.png</icon>
+<fanart>fanart.jpg</fanart>
+<screenshot>resources/screenshots/canais.jpg</screenshot>
+<screenshot>resources/screenshots/lanÃ§amentos.jpg</screenshot>
+<screenshot>resources/screenshots/series.jpg</screenshot>
   </extension>
 </addon>
 
