@@ -951,6 +951,16 @@ Oito habilidosos ladrões trancam-se na Casa da Moeda de Espanha com o ambicioso
 
 <channels>
 <channel>
+<name>[COLOR lime]Largados e Pelados a Tribo (2015)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UMrei0Ol3D3LOcWSj72omDWkky.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/LARGADOSEPELADOSATRIBO.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/fZZyp4vSdfr1rNKQZdfzSfnPj1x.jpg</fanart>
+<info>Um grupo dos melhores especialistas em sobrevivência do mundo enfrenta uma situação impossível de sobreviver: 40 dias. 40 noites. Sem comida, água ou roupas. Para sobreviver, eles precisam dominar o meio ambiente, indo muito além do ponto de ruptura. Será que um deles será capaz de terminar?</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Law & Order: SVU (1990)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/91D0Odh0Btt9xbe0mi3wRzL96H7.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/LaweOrder.m3u</externallink>
