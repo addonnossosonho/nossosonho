@@ -319,6 +319,16 @@ Entre o passado e o presente, uma família dividida confronta memórias assustad
 
 <channels>
 <channel>
+<name>[COLOR lime]Antologia do Medo (2008)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLDdAl9JPglK1eKRsi1dkOXs2nd.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AntologiadoMedo</externallink>
+<fanart></fanart>
+<info>Fear Itself é uma série de televisão de Terror exibida pela NBC com duração de 13 episódios. Fear Itself tem um estilo parecido com series como A Quinta Dimensão e Além da Imaginação, todos com histórias fechadas e independentes entre si e com personagens diferentes.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]APB (2017)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kY8km84c7J7AVxxCFrU23XDKN3V.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/APB.m3u</externallink>
