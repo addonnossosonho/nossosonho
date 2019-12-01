@@ -32,79 +32,19 @@ http://stream10gbps.eu:80/lukastv/GkYh1VheHK/461
 http://stream10gbps.eu:80/lukastv/GkYh1VheHK/501
 #EXTINF:-1 tvg-id="" tvg-name="Hércules 24hs" tvg-logo="" group-title="24horas",Hércules 24hs
 http://stream10gbps.eu:80/lukastv/GkYh1VheHK/415
-
 #EXTINF:-1 tvg-id="" tvg-name="FILMES DE AÇÃO 24HS" tvg-logo="https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2017/10/24hourstolive.jpg" group-title="24horas",FILMES DE AÇÃO 24HS
-<utube>RxgDDc3G1bw</utube>
-
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=RxgDDc3G1bw
 #EXTINF:-1 tvg-id="" tvg-name="PICA PAU 24HS" tvg-logo="https://www.pirate3dm.com/wp-content/uploads/2018/01/O-Novo-Pica-Pau.jpg" group-title="24horas",FILMES DE AÇÃO 24HS
-<utube>nmSXFYQ2V2M</utube>
-
-<item>
-<title>FILMES DE AÇÃO 24HS</title>
-<utube>RxgDDc3G1bw</utube>
-<thumbnail>https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2017/10/24hourstolive.jpg</thumbnail>
-<fanart>https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2017/10/24hourstolive.jpg</fanart>
-</item>
-
-<item>
-<title>PICA PAU 24HS</title>
-<utube>nmSXFYQ2V2M</utube>
-<thumbnail>https://www.pirate3dm.com/wp-content/uploads/2018/01/O-Novo-Pica-Pau.jpg</thumbnail>
-<fanart>https://http2.mlstatic.com/o-novo-show-do-pica-pau-serie-em-154-episodios-dvd-D_NQ_NP_426301-MLB20319670835_062015-F.jpg</fanart>
-</item>
-
-<item>
-<title>Eu, a Patroa e as CrianCas 24HS</title>
-<utube>-3-Pa-48ICo</utube>
-<thumbnail>https://www.bastidoresdatv.com.br/wp-content/uploads/2016/09/eu-a-patroa-e-as-criancas-logo.jpg</thumbnail>
-<fanart>https://www.bastidoresdatv.com.br/wp-content/uploads/2016/09/eu-a-patroa-e-as-criancas-logo.jpg</fanart>
-</item>
-
-<item>
-<title>TODO MUNDO ODEIA O CHRIS 24HS</title>
-<utube>IMIkcF3cC9I</utube>
-<thumbnail>https://i.ytimg.com/vi/TAopEZ8M26U/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/TAopEZ8M26U/maxresdefault.jpg</fanart>
-</item>
-
-<item>
-<title>CAVERNA DO DRAGÃO 24HS</title>
-<utube>_Foo4UGL3fQ</utube>
-<thumbnail>http://cavernadocaruso.com.br/wp-content/uploads/2019/01/dungeons-dragons-bill-sienkiewickz.jpg</thumbnail>
-<fanart>http://cavernadocaruso.com.br/wp-content/uploads/2019/01/dungeons-dragons-bill-sienkiewickz.jpg</fanart>
-</item>
-
-<item>
-<title>Coragem O Cão Covarde 24HS</title>
-<utube>mqH0aRoLZik</utube>
-<thumbnail>https://i.ytimg.com/vi/j6GzHXVAq4U/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/j6GzHXVAq4U/maxresdefault.jpg</fanart>
-</item>
-
-<item>
-<title>TITIO AVO 24HS</title>
-<utube>njZS0WKLXUc</utube>
-<thumbnail>https://www.animeserie.com/product_images/v/282/Meu_Titio_Av%F4__22783_zoom.png</thumbnail>
-<fanart>https://www.animeserie.com/product_images/v/282/Meu_Titio_Av%F4__22783_zoom.png</fanart>
-</item>
-
-<item>
-<title>Turma da Mônica 24HS</title>
-<utube>ddSsRVXBtZk&t</utube>
-<thumbnail>https://images-americanas.b2w.io/produtos/01/00/img1/107290/3/107290345_1SZ.jpg</thumbnail>
-<fanart>https://images-americanas.b2w.io/produtos/01/00/img1/107290/3/107290345_1SZ.jpg</fanart>
-</item>
-
-<item>
-<title>Meu Amigãozão 24HS</title>
-<utube>RwUnue57Oeo</utube>
-<thumbnail>https://http2.mlstatic.com/kit-display-meu-amigozo-8-pecas-D_NQ_NP_898086-MLB26157797303_102017-F.jpg</thumbnail>
-<fanart>https://http2.mlstatic.com/kit-display-meu-amigozo-8-pecas-D_NQ_NP_898086-MLB26157797303_102017-F.jpg</fanart>
-</item>
-
-<item>
-<title>PJ Masks 24HS</title>
-<utube>rVC47lAVLa4</utube>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91E7hKbCLYL.png</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/91E7hKbCLYL.png</fanart>
-</item>
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nmSXFYQ2V2M
+#EXTINF:-1 tvg-id="" tvg-name="CAVERNA DO DRAGÃO 24HS" tvg-logo="http://cavernadocaruso.com.br/wp-content/uploads/2019/01/dungeons-dragons-bill-sienkiewickz.jpg" group-title="24horas",CAVERNA DO DRAGÃO 24HS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_Foo4UGL3fQ
+#EXTINF:-1 tvg-id="" tvg-name="Coragem O Cão Covarde 24HS" tvg-logo="https://i.ytimg.com/vi/j6GzHXVAq4U/maxresdefault.jpg" group-title="24horas",Coragem O Cão Covarde 24HS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mqH0aRoLZik
+#EXTINF:-1 tvg-id="" tvg-name="TITIO AVO 24HS" tvg-logo="https://www.animeserie.com/product_images/v/282/Meu_Titio_Av%F4__22783_zoom.png" group-title="24horas",TITIO AVO 24HS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=njZS0WKLXUc
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica 24HS" tvg-logo="https://images-americanas.b2w.io/produtos/01/00/img1/107290/3/107290345_1SZ.jpg" group-title="24horas",Turma da Mônica 24HS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ddSsRVXBtZk&t
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigãozão 24HS" tvg-logo="https://http2.mlstatic.com/kit-display-meu-amigozo-8-pecas-D_NQ_NP_898086-MLB26157797303_102017-F.jpg" group-title="24horas",Meu Amigãozão 24HS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=RwUnue57Oeo
+#EXTINF:-1 tvg-id="" tvg-name="PJ Masks 24HS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91E7hKbCLYL.png" group-title="24horas",PJ Masks 24HS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rVC47lAVLa4
