@@ -65,10 +65,10 @@ https://proxy-037.ix7.dailymotion.com/sec(Ag2kWK5ZJFfHITwn7VOjZPDIvgveZNFVfzKKeg
 https://proxy-016.dc3.dailymotion.com/sec(KATIkk8whdE3Tc4uE-4pKlz0kg732CpDag72yNCkUamaeqpwYwaDxduULpNibPp2RG3Op9Ls5n1sgu2efzCIseThBxuGTj5fStjfHfBMi5U)/video/905/766/464667509_mp4_h264_aac.m3u8
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "03x06 - "
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+https://proxy-046.ix7.dailymotion.com/sec(hCRZ4giIu0onR2ZnmiaRMFO_1r0TYyp0KAkKxsHnOhyR4bJytVSMFKcRnfPgX2DxgAP4MBgSkcglgJRXy4EacsNDNhgVGkZjo4kV9YaNikE)/video/668/677/464776866_mp4_h264_aac_ld.m3u8
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "03x07 - "
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
+https://proxy-025.ix7.dailymotion.com/sec(MUrjIUhahIVoOWxx8o9LZo3YxH4RGfsHKf-RsAsc5djQt6Mr3LW50peKkcUxqCl4JR8xKQoDpD6__Hmpua3zUg37CPlVSIhvLXsjmGeTP34)/video/032/777/464777230_mp4_h264_aac.m3u8
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg" group-title="Harlots", "03x08 - "
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk
