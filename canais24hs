@@ -48,3 +48,5 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ddSsRV
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=RwUnue57Oeo
 #EXTINF:-1 tvg-id="" tvg-name="PJ Masks 24HS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91E7hKbCLYL.png" group-title="24horas",PJ Masks 24HS
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rVC47lAVLa4
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24hs" tvg-logo="http://images.tcdn.com.br/img/img_prod/639423/3330_0_20181018082134.jpg" group-title="24horas",Galinha Pintadinha 24hs
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PLyi0-7tgCVMzTzlRjxRQsiMaEljEaT2G2
