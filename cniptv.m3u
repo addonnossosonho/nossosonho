@@ -1,484 +1,390 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ae_br.jpg" group-title="Canais SD",A&E
-http://bit.ly/2OOJD97
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/amc_us.jpg" group-title="Canais SD",AMC
-http://bit.ly/33gEJ9W
-#EXTINF:-1 tvg-id="" tvg-name="AnimalPlanet" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_au.jpg" group-title="Canais SD",AnimalPlanet
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/4
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Canais SD",AXN
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/3
-#EXTINF:-1 tvg-id="" tvg-name="BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="Canais SD",BabyTV
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",AMC
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/5477
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",Amc
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28659
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Cinemax.png" group-title="TELECINES",CINEMAX
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/3751
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Cinemax.png" group-title="TELECINES",CINEMAX *
+http://brazilgroup.xyz:8880/pedro/pedro123/639
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Cinemax.png" group-title="TELECINES",Cinemax
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28632
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",HBO
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/273
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",hBO
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28560
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBO 2
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/279
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBo 2
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28563
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SIGNATURE
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/267
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SignatUre
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28856
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BOzZZ.png" group-title="TELECINES",HBO PLUS
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/8214
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/HBO-Plus.png" group-title="TELECINES",HBO Plus
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28857
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/HBO-Family.png" group-title="TELECINES",HBO FAMILY
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/276
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/HBO-Family.png" group-title="TELECINES",HBO Family
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28983
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX.png" group-title="TELECINES",MAX
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/4827
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX.png" group-title="TELECINES",Max
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28975
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX-Prime.png" group-title="TELECINES",MAX PRIME
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/4828
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/MAX-Prime.png" group-title="TELECINES",MAX Prime
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28974
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/maxup.png" group-title="TELECINES",MAX UP
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/35301
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/maxup.png" group-title="TELECINES",Max UP
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/5043
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Megapix.png" group-title="TELECINES",MEGAPIX
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/244
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Megapix.png" group-title="TELECINES",Megapix
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28540
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Megapix.png" group-title="TELECINES",MEGAPIx
+http://tv.factoryiptv.com:80/ricardo/ricardo/50853
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/228
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT *
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28847
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",Paramount
+http://tv.factoryiptv.com:80/ricardo/ricardo/50938
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPACE
+http://clienteworld.com:8080/claudia/123456/8013
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPAcE
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28486
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPAcE
+http://brazilgroup.xyz:8880/pedro/pedro123/425
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPaCE
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/4947
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",SPACe
+http://tv.factoryiptv.com:80/ricardo/ricardo/51047
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SpaceLogo.png" group-title="TELECINES",Space
+http://greencorp.tech:80/diego/diego123/7936
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",TNT
+http://clienteworld.com:8080/claudia/123456/7995
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",TNt
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/263
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",tnt
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28458
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",tnT
+http://brazilgroup.xyz:8880/pedro/pedro123/388
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",TnT
+http://tv.factoryiptv.com:80/ricardo/ricardo/36934
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TNT.png" group-title="TELECINES",tNT
+http://greencorp.tech:80/diego/diego123/7906
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Action.png" group-title="TELECINES",TELECINE ACTION
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/296
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Action.png" group-title="TELECINES",TELECINE ActioN
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28473
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Action.png" group-title="TELECINES",TELECINE ACTIOn
+http://tv.factoryiptv.com:80/ricardo/ricardo/36939
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Cult.png" group-title="TELECINES",TELECINE CULT
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/4791
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Cult.png" group-title="TELECINES",TELECINE Cult
+http://tv.factoryiptv.com:80/ricardo/ricardo/36901
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Cult.png" group-title="TELECINES",TELECINE CulT
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28471
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Fun.png" group-title="TELECINES",TELECINE FUN
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/293
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Fun.png" group-title="TELECINES",TELECINE Fun
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28832
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Fun.png" group-title="TELECINES",TELECINE FuN
+http://tv.factoryiptv.com:80/ricardo/ricardo/36938
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine_Pipoca_HD.jpg" group-title="TELECINES",TELECINE PIPOCA
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/290
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine_Pipoca_HD.jpg" group-title="TELECINES",TELECINE Pipoca
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28467
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine_Pipoca_HD.jpg" group-title="TELECINES",TELECINE PipocA
+http://tv.factoryiptv.com:80/ricardo/ricardo/36937
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Premium.png" group-title="TELECINES",TELECINE PREMIUM
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28465
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Premium.png" group-title="TELECINES",TELECINE Premium
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/287
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Premium.png" group-title="TELECINES",TELECINE PremiuM
+http://tv.factoryiptv.com:80/ricardo/ricardo/36936
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Touch.png" group-title="TELECINES",TELECINE TOUCH
+http://psrv.io:80/thaine/thaine/18541
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Touch.png" group-title="TELECINES",TELECINE Touch
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/284
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Telecine-Touch.png" group-title="TELECINES",TELECINE ToucH
+http://tv.factoryiptv.com:80/ricardo/ricardo/36935
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",TCM
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28475
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",Tcm
+http://tv.factoryiptv.com:80/ricardo/ricardo/37037
+#EXTINF:-1 tvg-logo="https://goo.gl/2ZBWuk" group-title="TELECINES",TNT SERIES
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28456
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SyFy.png" group-title="TELECINES",SYFY
+http://elitex.me:80/rodrigoberardine4/yujDUm38J/2762
 
-#EXTINF:-1 tvg-id="" tvg-name="Bandeirantes" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvbv_band.jpg" group-title="Canais SD",Bandeirantes
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/9
-#EXTINF:-1 tvg-id="" tvg-name="BandNews" tvg-logo="http://www.set.org.br/wp-content/uploads/2019/04/BANDNEWS.jpg" group-title="Canais SD",BandNews
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/7
-#EXTINF:-1 tvg-id="" tvg-name="BandSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="Canais SD",BandSports
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/8
-#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bis_br.jpg" group-title="Canais SD",BIS
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/5
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boomerang_br.jpg" group-title="Canais SD",Boomerang
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/10
-#EXTINF:-1 tvg-id="" tvg-name="CanalBrasil" tvg-logo="https://s2.glbimg.com/uDFihJwr_O6bkQkAg1DaFIz5xkg=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/2a/5a3654860a74e27b56f5619b5aad.png" group-title="Canais SD",CanalBrasil
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/11
+--------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="CanalSony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/1113px-Canal_Sony_logo.svg.png" group-title="Canais SD",CanalSony
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/12
-#EXTINF:-1 tvg-id="" tvg-name="Cancao Nova" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_cancao_nova_internacional.jpg" group-title="Canais SD",Cancao Nova
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/134
-#EXTINF:-1 tvg-id="" tvg-name="CartoonNetwork" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_us.jpg" group-title="Canais SD",CartoonNetwork
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/13
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cinemax_lam.jpg" group-title="Canais SD",Cinemax
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/14
-#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/premiere_combate.jpg" group-title="Canais SD",Combate
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/15
-#EXTINF:-1 tvg-id="" tvg-name="ComedyCentral" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_lam_norte_hd.jpg" group-title="Canais SD",ComedyCentral
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/16
-#EXTINF:-1 tvg-id="" tvg-name="Curta !" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/curta_br.jpg" group-title="Canais SD",Curta !
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/133
-#EXTINF:-1 tvg-id="" tvg-name="DiscoveryChannel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_sao_paulo.jpg" group-title="Canais SD",DiscoveryChannel
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/17
-#EXTINF:-1 tvg-id="" tvg-name="DiscoveryHEH" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_home_health_br.jpg" group-title="Canais SD",DiscoveryHEH
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/18
-#EXTINF:-1 tvg-id="" tvg-name="DiscoveryKids" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_kids_br.jpg" group-title="Canais SD",DiscoveryKids
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/19
-#EXTINF:-1 tvg-id="" tvg-name="DiscoveryTurbo" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_turbo_se_asia.jpg" group-title="Canais SD",DiscoveryTurbo
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/20
-#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_sur.jpg" group-title="Canais SD",Disney
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/21
-#EXTINF:-1 tvg-id="" tvg-name="DisneyJunior" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_norte.jpg" group-title="Canais SD",DisneyJunior
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/22
-#EXTINF:-1 tvg-id="" tvg-name="DisneyXD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_xd_centro.jpg" group-title="Canais SD",DisneyXD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/23
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/e_br.jpg" group-title="Canais SD",E!
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/24
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Sony.png" group-title="CANAIS DE SÉRIES",SONY
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28637
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Sony.png" group-title="CANAIS DE SÉRIES",Sony
+http://psrv.io:80/thaine/thaine/18714
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Fox.png" group-title="CANAIS DE SÉRIES",FOX
+http://psrv.io:80/thaine/thaine/18667
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Fox.png" group-title="CANAIS DE SÉRIES",Fox
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28591
+#EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX LIFE
+http://psrv.io:80/thaine/thaine/18665
+#EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX Life
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28588
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",STUDIO UNIVERSAL
+http://psrv.io:80/thaine/thaine/18556
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",Studio Universal
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28479
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",UNIVERSAL CHANNEL
+http://psrv.io:80/thaine/thaine/18520
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",Universal Channel
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28443
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",WARNER CHANNEL
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28435
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",Warner Channel
+http://psrv.io:80/thaine/thaine/18513
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",AXN
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28653
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",Axn
+http://psrv.io:80/thaine/thaine/18730
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",FX
+http://psrv.io:80/thaine/thaine/18653
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",Fx
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28576
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",FOX PREMIUM 1
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/257
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",Fox PREMIUM 1
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28587
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Wh3INC.png" group-title="CANAIS DE SÉRIES",Fox Premium 1
+http://tv.factoryiptv.com:80/ricardo/ricardo/50750
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TBS.png" group-title="CANAIS DE SÉRIES",TBS
+http://psrv.io:80/thaine/thaine/18554
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TBS.png" group-title="CANAIS DE SÉRIES",Tbs
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28476
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",CINE FAMÍLIA
+http://greencorp.tech:80/diego/diego123/16456
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",CINE INFANTIL
+http://greencorp.tech:80/diego/diego123/15426
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WuRB4Rm.jpg" group-title="CANAIS DE SÉRIES",FILMES TERROR
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/16705
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WuRB4Rm.jpg" group-title="CANAIS DE SÉRIES",CINE TERROR
+http://greencorp.tech:80/diego/diego123/57195
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kr5WweR.jpg" group-title="SERIADOS",CINE RELIGIOSO
+http://greencorp.tech:80/diego/diego123/57686
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",FILMES ACTION
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/16966
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",MUSICA RELAXANTE
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/19444
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",Vagalume Vibe
+http://clienteworld.com:8080/claudia/123456/499
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",Vibe FM
+http://clienteworld.com:8080/claudia/123456/507
+ 
+--------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_br.jpg" group-title="Canais SD",ESPN
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/28
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_2_caribbean.jpg" group-title="Canais SD",ESPN 2
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/30
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_br.jpg" group-title="Canais SD",ESPN Brasil
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/29
-#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/film_and_arts_br.jpg" group-title="Canais SD",Film & Arts
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/33
-#EXTINF:-1 tvg-id="" tvg-name="Fish TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fish_tv_br.jpg" group-title="Canais SD",Fish TV
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/34
-#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_network_asia.jpg" group-title="Canais SD",Food Network
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/35
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_hd_lam.jpg" group-title="Canais SD",FOX
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/31
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_br.jpg" group-title="Canais SD",Fox Life
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/36
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_lam_basico.jpg" group-title="Canais SD",Fox Sports
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/37
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_lam_2.jpg" group-title="Canais SD",Fox Sports 2
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/38
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO NORDESTE
+http://brazilgroup.xyz:8880/pedro/pedro123/552
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO TV CABO BRANCO
+http://clienteworld.com:8080/claudia/123456/45025
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO TV CABO BRANCO FHD
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/30741
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO SP
+http://brazilgroup.xyz:8880/pedro/pedro123/543
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo RJ
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/8984
+#EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GLOBOSAT
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/8195
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT
+http://brazilgroup.xyz:8880/pedro/pedro123/428
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",Sbt
+http://clienteworld.com:8080/claudia/123456/8178
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BAND
+http://psrv.io:80/thaine/thaine/18727
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BanD
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/4895
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",Band
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28650
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",bAND
+http://clienteworld.com:8080/claudia/123456/294
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BANd SP
+http://clienteworld.com:8080/claudia/123456/12882
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BaND
+http://clienteworld.com:8080/claudia/123456/8150
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",RECORD SP
+http://brazilgroup.xyz:8880/pedro/pedro123/442
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",RECORD *
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/336
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",Record
+http://clienteworld.com:8080/claudia/123456/12959
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",ReCORD
+http://psrv.io:80/thaine/thaine/18575
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",RECORD
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28497
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Viva.png" group-title="TV ABERTA",VIVA
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/79
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Viva.png" group-title="TV ABERTA",Viva
+http://clienteworld.com:8080/claudia/123456/7979
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Viva.png" group-title="TV ABERTA",ViVA
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28437
+#EXTINF:-1 tvg-logo="http://goo.gl/ghXOcq" group-title="TV ABERTA",FUTURA
+http://brazilgroup.xyz:8880/pedro/pedro123/563
+#EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDE TV
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/4898
+#EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDE TV *
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28840
+#EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDE Tv
+http://greencorp.tech:80/diego/diego123/1131
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/escola.png" group-title="TV ABERTA",TV ESCOLA
+http://greencorp.tech:80/diego/diego123/7897
+#EXTINF:-1 tvg-logo="http://logo.streamstv.me/picon/BRCanalDOBoiTV.png" group-title="TV ABERTA",CANAL DO BOI
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/35871
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psIffwK.png" group-title="TV ABERTA",TV APARECIDA
+http://greencorp.tech:80/diego/diego123/7900
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YrVFhaB.png" group-title="TV ABERTA",TV BRASIL
+http://greencorp.tech:80/diego/diego123/7899
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQA7pwb.png" group-title="TV ABERTA",TV DIARIO
+http://greencorp.tech:80/diego/diego123/55078
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",TV CULTURA
+http://greencorp.tech:80/diego/diego123/1088
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWrV2C.png" group-title="TV ABERTA",TV CAMARA
+http://greencorp.tech:80/diego/diego123/7898
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OQ3OMJ.png" group-title="TV ABERTA",TV SENADO
+http://greencorp.tech:80/diego/diego123/7902
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BAND NEWS
+http://clienteworld.com:8080/claudia/123456/8149
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BANd NEWs
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/29022
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BaNd NEWs
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/5843
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BanD NEWS
+http://greencorp.tech:80/diego/diego123/8136
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWS
+http://clienteworld.com:8080/claudia/123456/13045
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBo NEWS
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/2826
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo News
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28811
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLoBo NEWS
+http://greencorp.tech:80/diego/diego123/1204
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28499
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAL
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/2861
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAL FHD
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/9605
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY Central
+http://clienteworld.com:8080/claudia/123456/8137
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTISHOW
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/93
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTISHOW FHD
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/9628
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULtiShow
+http://greencorp.tech:80/diego/diego123/13505
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTISHOw
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28536
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTiSHOW
+http://tv.factoryiptv.com:80/ricardo/ricardo/50857
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Multishow.png" group-title="TV ABERTA",MULTISHOw
+http://clienteworld.com:8080/claudia/123456/14089
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MTV
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/4957
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MTV FHD
+http://elitex.me:8880/rodrigoberardine4/yujDUm38Jy/5913
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",Mtv
+http://greencorp.tech:80/diego/diego123/13459
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",mTV
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28538
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MtV
+http://clienteworld.com:8080/claudia/123456/8050
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/MTV.png" group-title="TV ABERTA",MTV Live
+http://tv.factoryiptv.com:80/ricardo/ricardo/50855
 
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fx_br.jpg" group-title="Canais SD",FX
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/32
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lq0cmCZ.jpg" group-title="SERIADOS",PEGADINHAS SILVIO SANTOS
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/10795
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lq0cmCZ.jpg" group-title="SERIADOS",PEGADINHAS JOAO KLEBER
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/10796
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8PbTRC.jpg" group-title="SERIADOS",TODO MUNDO ODEIA O CHRIS
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/29740
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SporTV 3
+http://clienteworld.com:8080/claudia/123456/12811
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SPORTV 3
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28481
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTv 2
+http://clienteworld.com:8080/claudia/123456/8011
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTV 2
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28483
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPORTV
+http://clienteworld.com:8080/claudia/123456/8012
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPOrTv
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28480
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",Espn
+http://clienteworld.com:8080/claudia/123456/8119
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",ESPN
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28603
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuBBJ9H.png" group-title="ESPORTES",PREMIERE CLUBES
+http://clienteworld.com:8080/claudia/123456/8029
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Fox-Sports.png" group-title="ESPORTES",FOX SPORTS
+http://clienteworld.com:8080/claudia/123456/8101
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: SEXTREME
+http://painel.ebanonet.com.br:25461/allan14/allan14/26369
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: SEXY HOT
+http://painel.ebanonet.com.br:25461/allan14/allan14/26367
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEXYPRIVE
+http://painel.ebanonet.com.br:25461/allan14/allan14/26593
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEXO EXTREMO
+http://painel.ebanonet.com.br:25461/allan14/allan14/26562
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEXO QUENTE
+http://painel.ebanonet.com.br:25461/allan14/allan14/26564
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",PRIVÊ SEXO
+http://painel.ebanonet.com.br:25461/allan14/allan14/26368
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 1 24Hs
+http://clienteworld.com:8080/claudia/123456/51478
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 2 24Hs
+http://clienteworld.com:8080/claudia/123456/51479
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 3 24Hs
+http://clienteworld.com:8080/claudia/123456/51480
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 4 24Hs
+http://clienteworld.com:8080/claudia/123456/51481
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 5 24Hs
+http://clienteworld.com:8080/claudia/123456/52826
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 6 24Hs
+http://clienteworld.com:8080/claudia/123456/52827
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 7 24Hs
+http://clienteworld.com:8080/claudia/123456/52828
 
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo_rio_de_janeiro.jpg" group-title="Canais SD",Globo RJ
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/43
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_globo_sao_paulo.jpg" group-title="Canais SD",Globo SP
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/44
-#EXTINF:-1 tvg-id="" tvg-name="Gloob" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gloob_br.jpg" group-title="Canais SD",Gloob
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/46
-#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gnt_brasil.jpg" group-title="Canais SD",GNT
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/39
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo.jpg" group-title="Canais SD",HBO
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/47
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_family_lam.jpg" group-title="Canais SD",HBO Family
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/48
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_plus_br_este.jpg" group-title="Canais SD",HBO Plus
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/49
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo_signature_br.jpg" group-title="Canais SD",HBO Signature
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/50
-#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hbo2_us.jpg" group-title="Canais SD",HBO2
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/51
-#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_2_lam.jpg" group-title="Canais SD",History 2
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/52
-#EXTINF:-1 tvg-id="" tvg-name="ID - Investigacao Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="Canais SD",ID - Investigacao Discovery
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/53
+--------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/lifetime_us.jpg" group-title="Canais SD",Lifetime
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/55
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/max_br.jpg" group-title="Canais SD",MAX
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/56
-#EXTINF:-1 tvg-id="" tvg-name="MAX Prime" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/max_prime.jpg" group-title="Canais SD",MAX Prime
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/57
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png" group-title="Canais SD",MAX UP
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/58
-#EXTINF:-1 tvg-id="" tvg-name="MegaPix" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/megapix_hd.jpg" group-title="Canais SD",MegaPix
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/61
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv.jpg" group-title="Canais SD",MTV
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/59
-#EXTINF:-1 tvg-id="" tvg-name="Multishow" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="Canais SD",Multishow
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/62
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/box_brazil_music.jpg" group-title="Canais SD",Music Box Brazil
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/63
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/box_brazil_music.jpg" group-title="Canais SD",Music Box Brazil
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/136
-#EXTINF:-1 tvg-id="" tvg-name="NatGeoKids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/200px-Natgeo_Kids_logo.svg.png" group-title="Canais SD",NatGeoKids
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/65
-#EXTINF:-1 tvg-id="" tvg-name="NatGeoWild" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_lam.jpg" group-title="Canais SD",NatGeoWild
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/66
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_br.jpg" group-title="Canais SD",National Geographic
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/67
-#EXTINF:-1 tvg-id="" tvg-name="NHK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nhk_general_tv.jpg" group-title="Canais SD",NHK
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/64
-#EXTINF:-1 tvg-id="" tvg-name="Nick.Jr" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nick_jr_au.jpg" group-title="Canais SD",Nick.Jr
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/68
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_br.jpg" group-title="Canais SD",Nickelodeon
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/69
-#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_off_br.jpg" group-title="Canais SD",OFF
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/70
-#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/paramount_channel_fr.jpg" group-title="Canais SD",Paramount
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/71
-
-#EXTINF:-1 tvg-id="" tvg-name="PlayTV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/play_tv_pk.jpg" group-title="Canais SD",PlayTV
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/129
-
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/premiere_futebol_clube_02.jpg" group-title="Canais SD",Premiere 2
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/73
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/premiere_futebol_clube_03.jpg" group-title="Canais SD",Premiere 3
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/74
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/premiere_futebol_clube_03.jpg" group-title="Canais SD",Premiere 4
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/75
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/premiere_futebol_clube_03.jpg" group-title="Canais SD",Premiere 5
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/76
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/premiere_futebol_clube_03.jpg" group-title="Canais SD",Premiere 6
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/77
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/premiere_futebol_clube_03.jpg" group-title="Canais SD",Premiere 7
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/78
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/premiere_futebol_clube_03.jpg" group-title="Canais SD",Premiere 8
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/79
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/premiere_futebol_clube_03.jpg" group-title="Canais SD",Premiere 9
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/80
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="https://futebolplay.net/wp-content/uploads/2019/08/premiere-clubes.png" group-title="Canais SD",Premiere Clubes
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/72
-#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/box_brazil_prime.jpg" group-title="Canais SD",Prime Box Brazil
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/81
-
-#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_record_news_sudeste.jpg" group-title="Canais SD",Record News
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/85
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_record.jpg" group-title="Canais SD",RECORD TV
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/83
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_tv.jpg" group-title="Canais SD",Rede TV
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/87
-#EXTINF:-1 tvg-id="" tvg-name="Rede Vida" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/redevida.jpg" group-title="Canais SD",Rede Vida
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/124
-
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sbt_br.jpg" group-title="Canais SD",SBT
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/88
-#EXTINF:-1 tvg-id="" tvg-name="Sextreme" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/playboy_sextreme.jpg" group-title="Canais SD",Sextreme
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/126
-#EXTINF:-1 tvg-id="" tvg-name="Sexy Hot" tvg-logo="https://www.mgconecta.com.br/wp-content/uploads/2016/05/Sexy-Hot.png" group-title="Canais SD",Sexy Hot
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/127
-#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/space_mx.jpg" group-title="Canais SD",Space
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/89
-#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sportv_br.jpg" group-title="Canais SD",SporTV
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/90
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sportv2_br.jpg" group-title="Canais SD",SporTV 2
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/91
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sportv3_br.jpg" group-title="Canais SD",SporTV 3
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/92
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/studio_universal_br.jpg" group-title="Canais SD",Studio Universal
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/93
-#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/syfy_br.jpg" group-title="Canais SD",Syfy
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/123
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tbs_br.jpg" group-title="Canais SD",TBS
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/130
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tcm_classic_entertainment_br.jpg" group-title="Canais SD",TCM
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/141
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/telecine_action_hd.jpg" group-title="Canais SD",Telecine Action
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/111
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/telecine_cult.jpg" group-title="Canais SD",Telecine Cult
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/112
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/telecine_fun.jpg" group-title="Canais SD",Telecine Fun
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/113
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/telecine_pipoca_hd.jpg" group-title="Canais SD",Telecine Pipoca
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/114
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/telecine_premium.jpg" group-title="Canais SD",Telecine Premium
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/115
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/telecine_touch.jpg" group-title="Canais SD",Telecine Touch
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/116
-
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_us.jpg" group-title="Canais SD",TLC
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/94
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tnt_us.jpg" group-title="Canais SD",TNT
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/95
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tnt_serie_hd.jpg" group-title="Canais SD",TNT Series
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/96
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tooncast.jpg" group-title="Canais SD",Tooncast
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/131
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_aparecida.jpg" group-title="Canais SD",TV Aparecida
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/135
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Ra tim bum" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_ra_tim_bum.jpg" group-title="Canais SD",TV Ra tim bum
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/103
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Vanguarda dos Campos" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvvanguarda.png" group-title="Canais SD",TV Vanguarda dos Campos
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/109
-
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Megahits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Vh1_mega_hits_old.svg/1280px-Vh1_mega_hits_old.svg.png" group-title="Canais SD",VH1 Megahits
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/120
-#EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_viva_br.jpg" group-title="Canais SD",Viva
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/132
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/warner_channel_us.jpg" group-title="Canais SD",Warner Channel
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/118
-#EXTINF:-1 tvg-id="" tvg-name="Woohoo" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/woohoo.jpg" group-title="Canais SD",Woohoo
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/119
-#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/200px-ZooMoo_logo.svg.png" group-title="Canais SD",ZooMoo
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/117
-
-#EXTINF:-1 tvg-id="" tvg-name="Band SP HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/band_sao_paulo.jpg" group-title="CanaisAbertos",Band SP HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/356
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 HD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/dazn.jpg" group-title="CanaisAbertos",DAZN 01 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/374
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 HD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/dazn.jpg" group-title="CanaisAbertos",DAZN 02 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/375
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 HD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/dazn.jpg" group-title="CanaisAbertos",DAZN 03 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/376
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 04 HD" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/dazn.jpg" group-title="CanaisAbertos",DAZN 04 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/377
-#EXTINF:-1 tvg-id="" tvg-name="EiMax Jogos01" tvg-logo="http://imagem.natelinha.uol.com.br/grande/esporteinterativo-max.jpg" group-title="CanaisAbertos",EiMax Jogos01
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/369
-#EXTINF:-1 tvg-id="" tvg-name="EiMax Jogos02" tvg-logo="http://imagem.natelinha.uol.com.br/grande/esporteinterativo-max.jpg" group-title="CanaisAbertos",EiMax Jogos02
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/370
-#EXTINF:-1 tvg-id="" tvg-name="EiMax Jogos03" tvg-logo="http://imagem.natelinha.uol.com.br/grande/esporteinterativo-max.jpg" group-title="CanaisAbertos",EiMax Jogos03
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/371
-#EXTINF:-1 tvg-id="" tvg-name="EiMax Jogos04" tvg-logo="http://imagem.natelinha.uol.com.br/grande/esporteinterativo-max.jpg" group-title="CanaisAbertos",EiMax Jogos04
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/372
-#EXTINF:-1 tvg-id="" tvg-name="EiPlus HD" tvg-logo="https://www.socioesquadrao.com.br/wp-content/uploads/2015/09/logo_500x500_eiplus-1-300x300.png" group-title="CanaisAbertos",EiPlus HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/373
-#EXTINF:-1 tvg-id="" tvg-name="Fazenda2019SDh264" tvg-logo="https://static.otvfoco.com.br/2019/09/a-fazenda-2-1024x651.png" group-title="CanaisAbertos",Fazenda2019SDh264
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/334
-#EXTINF:-1 tvg-id="" tvg-name="FazendaHD2019" tvg-logo="https://static.otvfoco.com.br/2019/09/a-fazenda-2-1024x651.png" group-title="CanaisAbertos",FazendaHD2019
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/333
-#EXTINF:-1 tvg-id="" tvg-name="GAZETA HD SP" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_gazeta_sao_paulo.jpg" group-title="CanaisAbertos",GAZETA HD SP
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/346
-
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="" group-title="CanaisAbertos",Globo RJ HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/357
-
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="" group-title="CanaisAbertos",Globo SP HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/353
-#EXTINF:-1 tvg-id="" tvg-name="Playkids" tvg-logo="" group-title="CanaisAbertos",Playkids
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/332
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS ES HD" tvg-logo="" group-title="CanaisAbertos",RECORD NEWS  HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/382
-
-#EXTINF:-1 tvg-id="" tvg-name="Record SP HD" tvg-logo="" group-title="CanaisAbertos",Record SP HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/354
-
-#EXTINF:-1 tvg-id="" tvg-name="RecordRJ HD" tvg-logo="" group-title="CanaisAbertos",RecordRJ HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/338
-
-#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="" group-title="CanaisAbertos",SBT RJ HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/358
-
-#EXTINF:-1 tvg-id="" tvg-name="Sbt SP HD" tvg-logo="" group-title="CanaisAbertos",Sbt SP HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/355
-
-
-#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="Canais HD",A&E HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/165
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="Canais HD",AMC HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/176
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Canais HD",Animal Planet HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/148
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="Canais HD",AXN HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/147
-#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="" group-title="Canais HD",Band Sports HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/196
-#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="" group-title="Canais HD",BIS HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/151
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD" tvg-logo="" group-title="Canais HD",Canal Sony HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/223
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="Canais HD",Cartoon Network HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/186
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="" group-title="Canais HD",Cinemax HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/184
-#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="" group-title="Canais HD",Combate HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/160
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" group-title="Canais HD",Comedy Central HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/234
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="Canais HD",Discovery Channel HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/166
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization HD" tvg-logo="" group-title="Canais HD",Discovery Civilization HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/162
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="" group-title="Canais HD",Discovery Home & Health HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/197
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="" group-title="Canais HD",Discovery Kids HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/198
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="" group-title="Canais HD",Discovery Science HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/161
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="" group-title="Canais HD",Discovery Theater HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/199
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="" group-title="Canais HD",Discovery Turbo HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/178
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="" group-title="Canais HD",Discovery World HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/200
-#EXTINF:-1 tvg-id="" tvg-name="Disney channel HD" tvg-logo="" group-title="Canais HD",Disney channel HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/201
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="" group-title="Canais HD",Disney Junior HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/232
-#EXTINF:-1 tvg-id="" tvg-name="E HD" tvg-logo="" group-title="Canais HD",E HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/149
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="Canais HD",ESPN 2 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/175
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" tvg-logo="" group-title="Canais HD",ESPN Brasil HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/202
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="Canais HD",ESPN HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/174
-#EXTINF:-1 tvg-id="" tvg-name="ESPNExtra HD" tvg-logo="" group-title="Canais HD",ESPNExtra HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/163
-#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="" group-title="Canais HD",Food Network HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/204
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="Canais HD",FOX HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/190
-#EXTINF:-1 tvg-id="" tvg-name="FOX Life HD" tvg-logo="" group-title="Canais HD",FOX Life HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/235
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 HD" tvg-logo="" group-title="Canais HD",Fox Premium 1 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/150
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 HD" tvg-logo="" group-title="Canais HD",Fox Premium 2 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/193
-#EXTINF:-1 tvg-id="" tvg-name="FoxSports 2 HD" tvg-logo="" group-title="Canais HD",FoxSports 2 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/159
-#EXTINF:-1 tvg-id="" tvg-name="FoxSports HD" tvg-logo="" group-title="Canais HD",FoxSports HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/158
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="Canais HD",FX HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/203
-#EXTINF:-1 tvg-id="" tvg-name="GloboNews HD" tvg-logo="" group-title="Canais HD",GloboNews HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/185
-#EXTINF:-1 tvg-id="" tvg-name="Globosat HD" tvg-logo="" group-title="Canais HD",Globosat HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/206
-#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="" group-title="Canais HD",Gloob HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/207
-#EXTINF:-1 tvg-id="" tvg-name="GNTHD" tvg-logo="" group-title="Canais HD",GNTHD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/205
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="Canais HD",HBO 2 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/209
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="" group-title="Canais HD",HBO Family HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/211
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="Canais HD",HBO HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/191
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="" group-title="Canais HD",HBO Plus HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/212
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="" group-title="Canais HD",HBO Signature HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/210
-#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="" group-title="Canais HD",History 2 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/208
-#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="" group-title="Canais HD",History HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/187
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery HD" tvg-logo="" group-title="Canais HD",Investigation Discovery HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/213
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="" group-title="Canais HD",Lifetime HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/194
-#EXTINF:-1 tvg-id="" tvg-name="Max HD" tvg-logo="" group-title="Canais HD",Max HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/146
-#EXTINF:-1 tvg-id="" tvg-name="MAX Prime HD" tvg-logo="" group-title="Canais HD",MAX Prime HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/215
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP HD" tvg-logo="" group-title="Canais HD",MAX UP HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/216
-#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="" group-title="Canais HD",Megapix HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/217
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="Canais HD",MTV HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/214
-#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="" group-title="Canais HD",Multishow HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/218
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo HD" tvg-logo="" group-title="Canais HD",NatGeo HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/188
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids HD" tvg-logo="" group-title="Canais HD",NatGeo Kids HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/233
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD" tvg-logo="" group-title="Canais HD",NatGeo Wild HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/219
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="Canais HD",Nickelodeon HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/164
-#EXTINF:-1 tvg-id="" tvg-name="NickJrHD" tvg-logo="" group-title="Canais HD",NickJrHD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/195
-#EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="" group-title="Canais HD",OFF HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/220
-#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="" group-title="Canais HD",Paramount HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/221
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="" group-title="Canais HD",Premiere 2 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/168
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="" group-title="Canais HD",Premiere 3 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/169
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="" group-title="Canais HD",Premiere 4 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/170
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="" group-title="Canais HD",Premiere 5 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/171
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="" group-title="Canais HD",Premiere 6 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/172
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="" group-title="Canais HD",Premiere 7 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/173
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="" group-title="Canais HD",Premiere Clubes HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/167
-
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV HD" tvg-logo="" group-title="Canais HD",Rede TV HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/222
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="" group-title="Canais HD",Space HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/192
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="" group-title="Canais HD",SporTV 2 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/156
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="" group-title="Canais HD",SporTV 3 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/157
-#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="" group-title="Canais HD",SporTV HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/155
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="" group-title="Canais HD",Studio Universal HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/224
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="Canais HD",SYFY HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/225
-#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="" group-title="Canais HD",TBS HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/226
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="" group-title="Canais HD",Telecine Action HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/179
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD" tvg-logo="" group-title="Canais HD",Telecine Cult HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/145
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="" group-title="Canais HD",Telecine Fun HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/180
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="" group-title="Canais HD",Telecine Pipoca HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/181
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="" group-title="Canais HD",Telecine Premium HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/182
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="" group-title="Canais HD",Telecine Touch HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/183
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="Canais HD",TLC HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/227
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="Canais HD",TNT HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/228
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="" group-title="Canais HD",TNT Series HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/229
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum HD" tvg-logo="" group-title="Canais HD",TV Ra Tim Bum HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/177
-
-#EXTINF:-1 tvg-id="" tvg-name="Universal TV HD" tvg-logo="" group-title="Canais HD",Universal TV HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/189
-#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="" group-title="Canais HD",VH1 HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/236
-#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="" group-title="Canais HD",Viva HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/230
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="" group-title="Canais HD",Warner Channel HD
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/231
-
-#EXTINF:-1 tvg-id="" tvg-name="XXX PLAYBOY" tvg-logo="" group-title="Canais HD",XXX PLAYBOY
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/482
-
-#EXTINF:-1 tvg-id="" tvg-name="XXX SEXTREME" tvg-logo="" group-title="Canais HD",XXX SEXTREME
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/476
-
-#EXTINF:-1 tvg-id="" tvg-name="XXX VENUS" tvg-logo="" group-title="Canais HD",XXX VENUS
-http://stream10gbps.eu:80/lukastv/GkYh1VheHK/474
-
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Animal-Planet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
+http://clienteworld.com:8080/claudia/123456/8154
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Channel.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL
+http://clienteworld.com:8080/claudia/123456/12741
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kys6DSK.png" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION
+http://brazilgroup.xyz:8880/pedro/pedro123/627
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QIvz01B.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/29543
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Theater.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28614
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KrZtaCb.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD
+http://clienteworld.com:8080/claudia/123456/8126
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",ID: INVESTIGAÇÃO DISCOVERY
+http://clienteworld.com:8080/claudia/123456/13005
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY
+http://elitex.me:80/rodrigoberardine4/yujDUm38Jy/109
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",Id: INVESTIGAÇÃO DISCOVERY
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/29011
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28532
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo-Wild.png" group-title="DOCUMENTÁRIOS",NATGEO WILD
+http://srv.mtvs.me:8880/Heltonrufino/55heltonrufino/28849
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/H2more2history.png" group-title="DOCUMENTÁRIOS",H2
+http://clienteworld.com:8080/claudia/123456/8068
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/The-History-Channel.png" group-title="DOCUMENTÁRIOS",HISTORY
+http://clienteworld.com:8080/claudia/123456/13008
