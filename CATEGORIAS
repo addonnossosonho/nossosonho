@@ -36,18 +36,6 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]CANAIS 24HS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia601508.us.archive.org/14/items/tvonline_201910/TVONLINE.png?fakeurl=1&type=.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/canais24hs</externallink>
-<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- FILMES, DESENHOS E SERIES 24HS -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/SERIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SERIES2</externallink>
