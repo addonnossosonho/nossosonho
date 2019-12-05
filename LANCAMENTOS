@@ -6,11 +6,76 @@
 </item>
 
 <item>
-<title>O Irlandês (2019)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12D5KHG53c1CmCyetqHx2KsrWYct8K13Y/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7T8lIu2e8Szbj8XTY4KM9gahC8h.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/aZ1ZqJ4uO1RK5gU5jRsO4qG7rJo.jpg</fanart>
-<info>A saga épica de Martin Scorsese sobre o crime organizado americano no pós-guerra contada por um matador de aluguel.</info>
+<title>[B][COLOR white]O ANJO DE AUSCHWITZ[/COLOR][/B]</title>
+<link>$doregex[BP1]OANJDAUSCHWTZ.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfIZxyS8fLvHtzk7jiKEbLWh4qV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sLfnTGpqEIDEmlbJEeEr4pP7eM4.jpg</fanart>
+<info>Durante a Segunda Guerra Mundial, uma mulher arriscou sua vida para salvar mulheres grávidas e seus bebês recém-nascidos em um campo de concentração. Baseado na história real de uma polonesa que foi recrutada para trabalhar para o Dr. Mengele.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]SE A RUA BEALE FALASSE[/COLOR][/B]</title>
+<link>$doregex[BP1]SEARUAFLSE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gbiabIdvVv3iZcpdZEqHtbe0aU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ooyvhMsLuwcWBB2HZa4gi4WQF7B.jpg</fanart>
+<info>Baseado no célebre romance de James Baldwin, o filme acompanha Tish (Kiki Layne), uma grávida do Harlem, que luta para livrar seu marido de uma acusação criminal injusta e de subtextos racistas a tempo de tê-lo em casa para o nascimento de seu bebê.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]SÓCRATES[/COLOR][/B]</title>
+<link>$doregex[BP1]SCRTES.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/64MaNMhSHJzl4YrLgimtEvnXJxq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/temdLhedeBO5SY2f0pdaMfbuAru.jpg</fanart>
+<info>Depois da morte de sua mãe, o jovem Sócrates (Christian Malheiros), que foi criado apenas por ela durante os últimos tempos, precisa fazer tudo o que for possível para que consiga sobreviver na realidade da miséria, somado com o preconceito por ser homossexual. Seus valores e ideais são colocados na balança com o medo de não conseguir se virar sozinho.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]SUPER MONSTROS SALVAM O NATAL[/COLOR][/B]</title>
+<link>$doregex[BP1]SPRMSNTSLVMONTL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CzONvt6xjH4oyEsvhdvgepN44T.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5u49G8wjzJ3CswHy9Zy968E03so.jpg</fanart>
+<info>Na véspera do Natal, os Super Monstros unem forças para fazer as decorações, encontrar a rena desaparecida do Papai Noel e salvar o fim de ano!</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]VERA: SONHOS DE INVERNO[/COLOR][/B]</title>
+<link>$doregex[BP1]VRASNHSDINVRNO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1gX3rjUYY7JUw8icNVblAsjSPL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qekh2YPhQndbwaHsTLgHXwOqB4q.jpg</fanart>
+<info>Um cristal está deixando tudo congelado no Reino do Arco-Íris, até os moradores! Será que a Vera consegue salvar os Desejos de Inverno e seus amigos?</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]VOANDO ALTO[/COLOR][/B]</title>
+<link>$doregex[BP1]VONDOALT.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWZslR3J2ykT9J1pBzgmiR4eMrJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mEV9zqbARn7wDTmU9jVR1FAipIa.jpg</fanart>
+<info>O pequeno Manou passou sua vida inteira acreditando que era uma gaivota, quando na realidade ele é filho de um casal de andorinhas. Enquanto tenta aprender a voar, ele percebe que nunca será capaz de alçar grandes voos e foge de casa. Mas quando os animais correm perigo de vida devido a uma nova ameaça, só ele será capaz de salvar o dia.</info>
+<date>2019</date>
 </item>
 
 <item>
@@ -20,8 +85,8 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Irland%C3%AAs.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Irland%C3%AAs.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7T8lIu2e8Szbj8XTY4KM9gahC8h.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aZ1ZqJ4uO1RK5gU5jRsO4qG7rJo.jpg</fanart>
 <info>Conhecido como "O Irlandês", Frank Sheeran (Robert De Niro) é um veterano de guerra cheio de condecorações que concilia a vida de caminhoneiro com a de assassino de aluguel número um da máfia. Promovido a líder sindical, ele torna-se o principal suspeito quando o mais famoso ex-presidente da associação desaparece misteriosamente.</info>
 <date>2019</date>
 </item>
