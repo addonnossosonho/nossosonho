@@ -53,6 +53,118 @@
 </item>
 
 <item>
+<title>Pop Rock Brasil</title>
+<link>https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/14671417541091220806/default</thumbnail>
+<fanart>https://img.vagalume.fm/14671417541091220806/default</fanart>
+</item>
+
+<item>
+<title>Sertanejo Sofrência</title>
+<link>https://stream.vagalume.fm/hls/1529095568377255/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/1529095568377255/default</thumbnail>
+<fanart>https://img.vagalume.fm/1529095568377255/default</fanart>
+</item>
+
+<item>
+<title>ESTAÇÃO - Funk</title>
+<link>https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/1470154922349875/default</thumbnail>
+<fanart>https://img.vagalume.fm/1470154922349875/default</fanart>
+</item>
+
+<item>
+<title>ESTAÇÃO - Eletrônica</title>
+<link>https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/146411300413492499/default</thumbnail>
+<fanart>https://img.vagalume.fm/146411300413492499/default</fanart>
+</item>
+
+<item>
+<title>Hits Anos 80</title>
+<link>https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/1507663468882713/default</thumbnail>
+<fanart>https://img.vagalume.fm/1507663468882713/default</fanart>
+</item>
+
+<item>
+<title>Rock Clássico</title>
+<link>https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/14647977281792658143/default</thumbnail>
+<fanart>https://img.vagalume.fm/14647977281792658143/default</fanart>
+</item>
+
+<item>
+<title>O Melhor de Charlie Brown Jr.</title>
+<link>https://stream.vagalume.fm/hls/1496775483807602/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/1496775483807602/default</thumbnail>
+<fanart>https://img.vagalume.fm/1496775483807602/default</fanart>
+</item>
+
+<item>
+<title>Acústico</title>
+<link>https://stream.vagalume.fm/hls/14634980201914128847/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/14634980201914128847/default</thumbnail>
+<fanart>https://img.vagalume.fm/14634980201914128847/default</fanart>
+</item>
+
+<item>
+<title>Coffee Break</title>
+<link>https://stream.vagalume.fm/hls/1523054358465576/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/1523054358465576/default</thumbnail>
+<fanart>https://img.vagalume.fm/1523054358465576/default</fanart>
+</item>
+
+<item>
+<title>Flashback Brasil</title>
+<link>https://stream.vagalume.fm/hls/151742478997108/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/151742478997108/default</thumbnail>
+<fanart>https://img.vagalume.fm/151742478997108/default</fanart>
+</item>
+
+<item>
+<title>Letras Conhecidas (Nacionais)</title>
+<link>https://stream.vagalume.fm/hls/1521491976152594/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/1521491976152594/default</thumbnail>
+<fanart>https://img.vagalume.fm/1521491976152594/default</fanart>
+</item>
+
+<item>
+<title>Músicas Católicas</title>
+<link>https://stream.vagalume.fm/hls/1520610908163452/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/1520610908163452/default</thumbnail>
+<fanart>https://img.vagalume.fm/1520610908163452/default</fanart>
+</item>
+
+<item>
+<title>Pop Rock</title>
+<link>https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/1506975770142563/default</thumbnail>
+<fanart>https://img.vagalume.fm/1506975770142563/default</fanart>
+</item>
+
+<item>
+<title>Samba e Pagode</title>
+<link>https://stream.vagalume.fm/hls/147015499779090/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/147015499779090/default</thumbnail>
+<fanart>https://img.vagalume.fm/147015499779090/default</fanart>
+</item>
+
+<item>
+<title>Carnaval</title>
+<link>https://stream.vagalume.fm/hls/1487264817696485/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/1487264817696485/default</thumbnail>
+<fanart>https://img.vagalume.fm/1487264817696485/default</fanart>
+</item>
+
+<item>
+<title>Lançamentos</title>
+<link>https://stream.vagalume.fm/hls/1476469524740247/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/1476469524740247/default</thumbnail>
+<fanart>https://img.vagalume.fm/1476469524740247/default</fanart>
+</item>
+
+<item>
 <title>SKY NEWS</title>
 <link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244</thumbnail>
@@ -220,6 +332,13 @@
 <link>http://192.99.150.31:9191/stream?</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
+<title>Divas do Sertanejo</title>
+<link>https://stream.vagalume.fm/hls/1520610884317212/aac.m3u8</link>
+<thumbnail>https://img.vagalume.fm/1520610884317212/default</thumbnail>
+<fanart>https://img.vagalume.fm/1520610884317212/default</fanart>
 </item>
 
 <item>
