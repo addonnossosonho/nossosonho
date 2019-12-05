@@ -60,6 +60,13 @@
 </item>
 
 <item>
+<title>SERTANEJO UNIVERSITÁRIO</title>
+<link>http://192.99.150.31:9191/stream?</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
+<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
+</item>
+
+<item>
 <title>Sertanejo Sofrência</title>
 <link>https://stream.vagalume.fm/hls/1529095568377255/aac.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1529095568377255/default</thumbnail>
@@ -170,14 +177,6 @@
 <link>https://stream.vagalume.fm/hls/1476469524740247/aac.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1476469524740247/default</thumbnail>
 <fanart>https://img.vagalume.fm/1476469524740247/default</fanart>
-</item>
-
-<item>
-<title>SKY NEWS</title>
-<link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8</link>
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244</thumbnail>
-<fanart>http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244</fanart>
-<info>SKYNews</info>
 </item>
 
 <item>
@@ -333,20 +332,6 @@
 <link>http://6d9a.webradio.upx.net.br:8016/stream?</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>http://i.imgur.com/MmJBR9j.png</fanart>
-</item>
-
-<item>
-<title>SERTANEJO UNIVERSITÁRIO</title>
-<link>http://192.99.150.31:9191/stream?</link>
-<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
-<fanart>http://i.imgur.com/MmJBR9j.png</fanart>
-</item>
-
-<item>
-<title>Divas do Sertanejo</title>
-<link>https://stream.vagalume.fm/hls/1520610884317212/aac.m3u8</link>
-<thumbnail>https://img.vagalume.fm/1520610884317212/default</thumbnail>
-<fanart>https://img.vagalume.fm/1520610884317212/default</fanart>
 </item>
 
 <item>
