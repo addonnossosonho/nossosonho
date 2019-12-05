@@ -1,32 +1,20 @@
 <channels>
 <channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]ADOON PIRATES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
+<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/icon.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]- O MELHOR PRA VC -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]TV ONLINE[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/TVONLINE.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/cniptv.m3u</externallink>
-<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- SKY GRATIS -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]TV ONLINE OP2[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/TVONLINE.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/CANAISIPTV</externallink>
-<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- SKY GRATIS -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]TV ONLINE OP3[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/TVONLINE.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TvBr.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TODASLISTA</externallink>
 <fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- SKY GRATIS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
@@ -53,55 +41,6 @@
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Filmes</externallink>
 <fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- OS MELHORES LANÇAMENTOS -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]SUCESSOS DE BILHETERIA[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/SUCESSOSDEBILHETERIA.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ClassicosdoCinema</externallink>
-<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- OS MELHORES CLASSICOS DE TODOS OS TEMPOS -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]FILMES INFANTIS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/FILMESINFANTIS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/filmesinfantis</externallink>
-<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- TUDO PARA CRIANÇADA -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]DESENHOS[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/DESENHOS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/DESENHOS</externallink>
-<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- TUDO PARA CRIANÇADA -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]DESENHOS op2[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/DESENHOS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/desenhos.m3u</externallink>
-<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- TUDO PARA CRIANÇADA -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
