@@ -14,6 +14,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]O IRLANDÊS[/COLOR][/B]</title>
+<link>$doregex[BP1]OIRLNDS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Irland%C3%AAs.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Irland%C3%AAs.jpg</fanart>
+<info>Conhecido como "O Irlandês", Frank Sheeran (Robert De Niro) é um veterano de guerra cheio de condecorações que concilia a vida de caminhoneiro com a de assassino de aluguel número um da máfia. Promovido a líder sindical, ele torna-se o principal suspeito quando o mais famoso ex-presidente da associação desaparece misteriosamente.</info>
+<date>2019</date>
+</item>
+
+<item>
 <title>Ford vs Ferrari (2019)</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fysT8-afouEhYGpCiTblGGD0ogwImxzz/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UnZJXIIC0fwDUpxhMH1KK9by5H.jpg</thumbnail>
