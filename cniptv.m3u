@@ -1,25 +1,5 @@
 #EXTM3U
-#EXTINF:0,3481
-#EXTVLCOPT:network-caching=1000
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3481
-#EXTINF:0,3482
-#EXTVLCOPT:network-caching=1000
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3482
-#EXTINF:0,3482
-#EXTVLCOPT:network-caching=1000
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3482
-#EXTINF:0,3803
-#EXTVLCOPT:network-caching=1000
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3803
-#EXTINF:0,3768
-#EXTVLCOPT:network-caching=1000
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3768
-#EXTINF:0,3763
-#EXTVLCOPT:network-caching=1000
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3763
-#EXTINF:0,http://
-#EXTVLCOPT:network-caching=1000
-http:\/\/m.kkhosts.top:2095\/br-8071Aplanet\/mpegts?token=Ai839Opwurisaqpla0002
+
 #EXTINF:0,A&E FHD
 #EXTVLCOPT:network-caching=1000
 http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20A%26E%20FHD
