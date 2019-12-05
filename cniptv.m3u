@@ -1,1820 +1,608 @@
+##############################################################################################################
 #EXTM3U
-
-#EXTINF:0,A&E FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20A%26E%20FHD
-#EXTINF:0,A&E HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20A%26E%20HD
-#EXTINF:0,AMC FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20AMC%20FHD
-#EXTINF:0,AMC HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20AMC%20HD
-#EXTINF:0,Animal Planet FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Animal%20Planet%20FHD
-#EXTINF:0,Animal Planet HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Animal%20Planet%20HD
-#EXTINF:0,Arte 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Arte%201%20FHD
-#EXTINF:0,AXN FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20AXN%20FHD
-#EXTINF:0,AXN HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20AXN%20HD
-#EXTINF:0,Baby TV
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Baby%20TV
-#EXTINF:0,Band FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Band%20FHD
-#EXTINF:0,Band HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Band%20HD
-#EXTINF:0,Band
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Band
-#EXTINF:0,Band News HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Band%20News%20HD
-#EXTINF:0,Band Sports FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Band%20Sports%20FHD
-#EXTINF:0,Band Sports HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Band%20Sports%20HD
-#EXTINF:0,Band Sports
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Band%20Sports
-#EXTINF:0,beIN Sports 1 HD		
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%201%20HD
-#EXTINF:0,beIN Sports 2 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%202%20HD
-#EXTINF:0,beIN Sports 3 HD		
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%203%20HD
-#EXTINF:0,beIN Sports 4 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%204%20HD
-#EXTINF:0,beIN Sports 5 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%205%20HD
-#EXTINF:0,beIN Sports 6 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%206%20HD
-#EXTINF:0,beIN Sports 7 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%207%20HD
-#EXTINF:0,beIN Sports 8 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%208%20HD
-#EXTINF:0,beIN Sports 9 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%209%20HD
-#EXTINF:0,beIN Sports 10 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%2010%20HD
-#EXTINF:0,beIN Sports N HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%20N%20HD
-#EXTINF:0,BIS HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20BIS%20HD
-#EXTINF:0,Boomerang FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Boomerang%20FHD
-#EXTINF:0,Boomerang HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Boomerang%20HD
-#EXTINF:0,Box Nation HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Box%20Nation%20HD
-#EXTINF:0,Canal Brasil HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Canal%20Brasil%20HD
-#EXTINF:0,Cancao Nova
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Cancao%20Nova
-#EXTINF:0,Cartoon Network FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Cartoon%20Network%20FHD
-#EXTINF:0,Cartoon Network HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Cartoon%20Network%20HD
-#EXTINF:0,Cinemax FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Cinemax%20FHD
-#EXTINF:0,Cinemax HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Cinemax%20HD
-#EXTINF:0,CNN International
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20CNN%20International
-#EXTINF:0,Combate UHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Combate%20UHD
-#EXTINF:0,Combate FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Combate%20FHD
-#EXTINF:0,Combate HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Combate%20HD
-#EXTINF:0,Comedy Central HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Comedy%20Central%20HD
-#EXTINF:0,Curta HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Curta%20HD
-#EXTINF:0,CW HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20CW%20HD
-#EXTINF:0,DAZN 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20DAZN%201%20FHD
-#EXTINF:0,DAZN 1 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20DAZN%201%20HD
-#EXTINF:0,DAZN 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20DAZN%202%20FHD
-#EXTINF:0,DAZN 2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20DAZN%202%20HD
-#EXTINF:0,DAZN 3 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20DAZN%203%20FHD
-#EXTINF:0,DAZN 3 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20DAZN%203%20HD
-#EXTINF:0,Discovery Channel FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Channel%20FHD
-#EXTINF:0,Discovery Channel HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Channel%20HD
-#EXTINF:0,Discovery Civilization FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Civilization%20FHD
-#EXTINF:0,Discovery Civilization HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Civilization%20HD
-#EXTINF:0,Discovery Home Health FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Home%20Health%20FHD
-#EXTINF:0,Discovery Home Health HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Home%20Health%20HD
-#EXTINF:0,Discovery Kids FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Kids%20FHD
-#EXTINF:0,Discovery Kids HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Kids%20HD
-#EXTINF:0,Discovery Science FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Science%20FHD
-#EXTINF:0,Discovery Science HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Science%20HD
-#EXTINF:0,Discovery Theater FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Theater%20FHD
-#EXTINF:0,Discovery Theater HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Theater%20HD
-#EXTINF:0,Discovery Turbo FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Turbo%20FHD
-#EXTINF:0,Discovery Turbo HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Turbo%20HD
-#EXTINF:0,Discovery World FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20World%20FHD
-#EXTINF:0,Discovery World HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20World%20HD
-#EXTINF:0,Disney Channel FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Disney%20Channel%20FHD
-#EXTINF:0,Disney Channel HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Disney%20Channel%20HD
-#EXTINF:0,Disney JR HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Disney%20JR%20HD
-#EXTINF:0,Disney XD HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Disney%20XD%20HD
-#EXTINF:0,E! HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20E!%20HD
-#EXTINF:0,Eleven Sport HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Eleven%20Sport%20HD
-#EXTINF:0,Eleven Sport 2 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Eleven%20Sport%202%20HD
-#EXTINF:0,Eleven Sport 3 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Eleven%20Sport%203%20HD
-#EXTINF:0,Esporte Interativo Plus HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Esporte%20Interativo%20Plus%20HD
-#EXTINF:0,Esporte Interativo Plus 2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Esporte%20Interativo%20Plus%202%20HD
-#EXTINF:0,Esporte Interativo Plus 3 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Esporte%20Interativo%20Plus%203%20HD
-#EXTINF:0,	ESPN FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN%20FHD
-#EXTINF:0,ESPN HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN%20HD
-#EXTINF:0,ESPN
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN
-#EXTINF:0,ESPN 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN%202%20FHD
-#EXTINF:0,ESPN 2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN%202%20HD
-#EXTINF:0,ESPN Brasil FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN%20Brasil%20FHD
-#EXTINF:0,ESPN Brasil HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN%20Brasil%20HD
-#EXTINF:0,ESPN Extra FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN%20Extra%20FHD
-#EXTINF:0,ESPN Extra HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN%20Extra%20HD
-#EXTINF:0,Fish TV HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Fish%20TV%20HD
-#EXTINF:0,Food Network FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Food%20Network%20FHD
-#EXTINF:0,FOX FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20FHD
-#EXTINF:0,FOX HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20HD
-#EXTINF:0,FOX Life FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Life%20FHD
-#EXTINF:0,OX Life HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Life%20HD
-#EXTINF:0,FOX Premium 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Premium%201%20FHD
-#EXTINF:0,FOX Premium 1 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Premium%201%20HD
-#EXTINF:0,FOX Premium 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Premium%202%20FHD
-#EXTINF:0,FOX Premium 2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Premium%202%20HD
-#EXTINF:0,	FOX Sports FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Sports%20FHD
-#EXTINF:0,FOX Sports HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Sports%20HD
-#EXTINF:0,FOX Sports
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Sports
-#EXTINF:0,FOX Sports 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Sports%202%20FHD
-#EXTINF:0,FOX Sports 2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Sports%202%20HD
-#EXTINF:0, FOX Sports 2
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Sports%202
-#EXTINF:0,FX FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FX%20FHD
-#EXTINF:0,FX HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FX%20HD
-#EXTINF:0,Gnt HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Gnt%20HD
-#EXTINF:0,	GLOBO Brasilia HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Brasilia%20HD
-#EXTINF:0,GLOBO Iguacu FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Iguacu%20FHD
-#EXTINF:0,GLOBO Inter TV Alto Litoral HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Inter%20TV%20Alto%20Litoral%20HD
-#EXTINF:0,GLOBO Inter TV Dos Vales HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Inter%20TV%20Dos%20Vales%20HD
-#EXTINF:0,GLOBO Inter TV Grande Minas HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Inter%20TV%20Grande%20Minas%20HD
-#EXTINF:0,GLOBO Inter TV Serra Mar HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Inter%20TV%20Serra%20Mar%20HD
-#EXTINF:0,GLOBO Minas HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Minas%20HD
-#EXTINF:0,GLOBO Minas
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Minas
-#EXTINF:0,	GLOBO News HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20News%20HD
-#EXTINF:0,	GLOBO Nordeste HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Nordeste%20HD
-#EXTINF:0,GLOBO Nsc TV Blumenau HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Nsc%20TV%20Blumenau%20HD
-#EXTINF:0,GLOBO Nsc TV Joinville H
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Nsc%20TV%20Joinville%20HD
-#EXTINF:0,GLOBO Rbs TV Caxias Do Sul HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Rbs%20TV%20Caxias%20Do%20Sul%20HD
-#EXTINF:0,GLOBO Rbs TV Pelotas HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Rbs%20TV%20Pelotas%20HD
-#EXTINF:0,GLOBO Rbs TV Porto Alegre HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Rbs%20TV%20Porto%20Alegre%20HD
-#EXTINF:0,GLOBO Rbs TV Porto Alegre
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Rbs%20TV%20Porto%20Alegre
-#EXTINF:0,GLOBO Rj HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Rj%20HD
-#EXTINF:0,GLOBO Rj
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Rj
-#EXTINF:0,GLOBO Sp UHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Sp%20UHD
-#EXTINF:0,GLOBO Sp HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Sp%20HD
-#EXTINF:0,GLOBO Sp
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Sp
-#EXTINF:0,GLOBO TV Anhanguera HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Anhanguera%20HD
-#EXTINF:0,GLOBO TV Bahia HD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Bahia%20HD
-#EXTINF:0,GLOBO TV Cabo Branco HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Cabo%20Branco%20HD
-#EXTINF:0,GLOBO TV Clube FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Clube%20FHD
-#EXTINF:0,GLOBO TV Gazeta Alagoas FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Gazeta%20Alagoas%20FHD
-#EXTINF:0,	GLOBO TV Morena FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Morena%20FHD
-#EXTINF:0,GLOBO TV Rio Sul HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Rio%20Sul%20HD
-#EXTINF:0,GLOBO TV Santa Cruz HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Santa%20Cruz%20HD
-#EXTINF:0,GLOBO TV Sergipe FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Sergipe%20FHD
-#EXTINF:0,GLOBO TV Verdes Mares
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Verdes%20Mares
-#EXTINF:0,Globosat FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Globosat%20FHD
-#EXTINF:0,Globosat HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Globosat%20HD
-#EXTINF:0,	 Gloob FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Gloob%20FHD
-#EXTINF:0,Gloob HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Gloob%20HD
-#EXTINF:0,Gloobinho FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Gloobinho%20FHD
-#EXTINF:0, Gloobinho HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Gloobinho%20HD
-#EXTINF:0,Golf Channel HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Golf%20Channel%20HD
-#EXTINF:0,HBO LEG FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%20LEG%20FHD
-#EXTINF:0,HBO DUB HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%20DUB%20HD
-#EXTINF:0,HBO 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%202%20FHD
-#EXTINF:0,HBO 2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%202%20HD
-#EXTINF:0,HBO Family FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%20Family%20FHD
-#EXTINF:0,HBO Family HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%20Family%20HD
-#EXTINF:0,HBO Plus FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%20Plus%20FHD
-#EXTINF:0,HBO Plus HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%20Plus%20HD
-#EXTINF:0,HBO Signature FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%20Signature%20FHD
-#EXTINF:0,HBO Signature HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%20Signature%20HD
-#EXTINF:0,History Channel HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20History%20Channel%20HD
-#EXTINF:0,H2 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20H2%20FHD
-#EXTINF:0,H2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20H2%20HD
-#EXTINF:0,ID HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ID%20HD
-#EXTINF:0,Libertadores 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Libertadores%201%20FHD
-#EXTINF:0,Libertadores 1 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Libertadores%201%20HD
-#EXTINF:0,Lifetime HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Lifetime%20HD
-#EXTINF:0,Max HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Max%20HD
-#EXTINF:0,Max Prime HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Max%20Prime%20HD
-#EXTINF:0, Max Prime e
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Max%20Prime%20e
-#EXTINF:0,Max Up FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Max%20Up%20FHD
-#EXTINF:0,Max Up HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Max%20Up%20HD
-#EXTINF:0,MegaPix FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20MegaPix%20FHD
-#EXTINF:0,Megapix HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Megapix%20HD
-#EXTINF:0,MTV HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20MTV%20HD
-#EXTINF:0,MTV Live FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20MTV%20Live%20FHD
-#EXTINF:0, MTV Live HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20MTV%20Live%20HD
-#EXTINF:0,Multishow HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Multishow%20HD
-#EXTINF:0,Music Box Brasil HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Music%20Box%20Brasil%20HD
-#EXTINF:0,NatGeo Kids HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20NatGeo%20Kids%20HD
-#EXTINF:0,NatGeo Wild FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20NatGeo%20Wild%20FHD
-#EXTINF:0,NatGeo Wild HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20NatGeo%20Wild%20HD
-#EXTINF:0,NatGeo HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20NatGeo%20HD
-#EXTINF:0,NBA HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20NBA%20HD
-#EXTINF:0,NBR
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20NBR
-#EXTINF:0,NFL HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20NFL%20HD
-#EXTINF:0,NFL Network HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20NFL%20Network%20HD
-#EXTINF:0,NHK Japan		
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20NHK%20Japan
-#EXTINF:0,Nick Jr HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Nick%20Jr%20HD
-#EXTINF:0,Nickelondeon HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Nickelondeon%20HD
-#EXTINF:0,Off HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Off%20HD
-#EXTINF:0,Paramount FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Paramount%20FHD
-#EXTINF:0,Paramount HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Paramount%20HD
-#EXTINF:0,Playkids HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Playkids%20HD
-#EXTINF:0,Power Couple FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Power%20Couple%20FHD
-#EXTINF:0,Power Couple HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Power%20Couple%20HD
-#EXTINF:0,Premieres 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%202%20FHD
-#EXTINF:0,Premieres 2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%202%20HD
-#EXTINF:0,Premieres 2
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%202
-#EXTINF:0,Premieres 3 FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%203%20FHD
-#EXTINF:0,Premieres 3 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%203%20HD
-#EXTINF:0,Premieres 3
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%203
-#EXTINF:0,Premieres 4 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%204%20FHD
-#EXTINF:0,Premieres 4 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%204%20HD
-#EXTINF:0,Premieres 4
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%204
-#EXTINF:0,Premieres 5 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%205%20FHD
-#EXTINF:0,Premieres 5 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%205%20HD
-#EXTINF:0,Premieres 5
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%205
-#EXTINF:0,Premieres 6 FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%206%20FHD
-#EXTINF:0,Premieres 6 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%206%20HD
-#EXTINF:0,Premieres 6
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%206
-#EXTINF:0,Premieres 7 FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%207%20FHD
-#EXTINF:0,Premieres 7 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%207%20HD
-#EXTINF:0,Premieres 7
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%207
-#EXTINF:0,Premieres Clubes UHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%20Clubes%20UHD
-#EXTINF:0,Premieres Clubes FHD		
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%20Clubes%20FHD
-#EXTINF:0,Premieres Clubes HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%20Clubes%20HD
-#EXTINF:0,Premieres Clubes
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%20Clubes
-#EXTINF:0,Rai 1 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Rai%201%20HD
-#EXTINF:0,Rai 2 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Rai%202%20HD
-#EXTINF:0,Rai Sport HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Rai%20Sport%20HD
-#EXTINF:0,Record News FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Record%20News%20FHD
-#EXTINF:0,RecordTV Ba FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Ba%20FHD
-#EXTINF:0,RecordTV Df FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Df%20FHD
-#EXTINF:0,RecordTV Mg FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Mg%20FHD
-#EXTINF:0,RecordTV Mg HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Mg%20HD
-#EXTINF:0,RecordTV Sp FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Sp%20FHD
-#EXTINF:0,RecordTV Sp HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Sp%20HD
-#EXTINF:0,RecordTV Sp
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Sp
-#EXTINF:0,RecordTV Rio FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Rio%20FHD
-#EXTINF:0,RecordTV Rio HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Rio%20HD
-#EXTINF:0,RecordTV Rs FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Rs%20FHD
-#EXTINF:0,RecordTV Rs HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Rs%20HD
-#EXTINF:0,Rede TV HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Rede%20TV%20HD
-#EXTINF:0,ede Vida
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Rede%20Vida
-#EXTINF:0,Sbt FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sbt%20FHD
-#EXTINF:0,Sbt HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sbt%20HD
-#EXTINF:0,Sbt
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sbt
-#EXTINF:0,Smithsonian FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Smithsonian%20FHD
-#EXTINF:0,Smithsonian HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Smithsonian%20HD
-#EXTINF:0,Sony FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sony%20FHD
-#EXTINF:0,Sony HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sony%20HD
-#EXTINF:0,Space HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Space%20HD
-#EXTINF:0,Sport TV+ FHD(PT)
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV+%20FHD(PT)
-#EXTINF:0,Sport TV 1 HD(PT)
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%201%20HD(PT)
-#EXTINF:0,Sport TV 2 HD(PT)
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%202%20HD(PT)
-#EXTINF:0,Sport TV 3 HD(PT)
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%203%20HD(PT)
-#EXTINF:0,Sport TV 4 HD(PT)
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%204%20HD(PT)
-#EXTINF:0,Sport TV 5 HD(PT)
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%205%20HD(PT)
-#EXTINF:0,Sport TV NBA(PT)
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%20NBA(PT)
-#EXTINF:0,Sport TV UHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%20UHD
-#EXTINF:0,Sport TV FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%20FHD
-#EXTINF:0,Sport TV HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%20HD
-#EXTINF:0,Sport TV2 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV2%20FHD
-#EXTINF:0,Sport TV2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV2%20HD
-#EXTINF:0,Sport TV3 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV3%20FHD
-#EXTINF:0,Sport TV3 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV3%20HD
-#EXTINF:0,Studio Universal HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Studio%20Universal%20HD
-#EXTINF:0,Syfy HD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Syfy%20HD
-#EXTINF:0,Tbs HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Tbs%20HD
-#EXTINF:0,TCM
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TCM
-#EXTINF:0,TC Action FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Action%20FHD
-#EXTINF:0,TC Action HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Action%20HD
-#EXTINF:0,TC Action
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Action
-#EXTINF:0,TC Cult FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Cult%20FHD
-#EXTINF:0,TC Cult HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Cult%20HD
-#EXTINF:0,TC Cult
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Cult
-#EXTINF:0,TC Fun FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Fun%20FHD
-#EXTINF:0,TC Fun HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Fun%20HD
-#EXTINF:0,TC Fun
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Fun
-#EXTINF:0,TC Pipoca FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Pipoca%20FHD
-#EXTINF:0,TC Pipoca HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Pipoca%20HD
-#EXTINF:0,TC Pipoca
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Pipoca
-#EXTINF:0,TC Premium FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Premium%20FHD
-#EXTINF:0,TC Premium HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Premium%20HD
-#EXTINF:0,TC Premium
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Premium
-#EXTINF:0,TC Touch FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Touch%20FHD
-#EXTINF:0,TC Touch HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Touch%20HD
-#EXTINF:0,TC Touch
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Touch
-#EXTINF:0,Tennis Channel HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Tennis%20Channel%20HD
-#EXTINF:0,TLC HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TLC%20HD
-#EXTINF:0,TNT FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TNT%20FHD
-#EXTINF:0,TNT HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TNT%20HD
-#EXTINF:0,TNT Series FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TNT%20Series%20FHD
-#EXTINF:0,TNT Series HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TNT%20Series%20HD
-#EXTINF:0,TNT Sports HD(ARG)
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20TNT%20Sports%20HD(ARG)
-#EXTINF:0,Tooncast HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Tooncast%20HD
-#EXTINF:0,TruTV HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TruTV%20HD
-#EXTINF:0,TV Aparecida HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TV%20Aparecida%20HD
-#EXTINF:0,TV Camara
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TV%20Camara
-#EXTINF:0,TV Cultura
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TV%20Cultura
-#EXTINF:0,TV Diario HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TV%20Diario%20HD
-#EXTINF:0,TV Gazeta Sp
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TV%20Gazeta%20Sp
-#EXTINF:0,TV Justica
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TV%20Justica
-#EXTINF:0,TV Ra Tim Bum
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TV%20Ra%20Tim%20Bum
-#EXTINF:0,TV Senado
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TV%20Senado
-#EXTINF:0,TyC Sports HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20TyC%20Sports%20HD
-#EXTINF:0,UFC Fight Pass HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20UFC%20Fight%20Pass%20HD
-#EXTINF:0,UFC Network HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20UFC%20Network%20HD
-#EXTINF:0,Universal Channels FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Universal%20Channels%20FHD
-#EXTINF:0,Universal Channels HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Universal%20Channels%20HD
-#EXTINF:0,Vh1 HD		
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Vh1%20HD
-#EXTINF:0,Viva FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Viva%20FHD
-#EXTINF:0,Viva HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Viva%20HD
-#EXTINF:0,Warner FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Warner%20FHD
-#EXTINF:0,Warner HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Warner%20HD
-#EXTINF:0,Woohoo HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Woohoo%20HD
-#EXTINF:0,Wwe HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Wwe%20HD
-#EXTINF:0,Zoomoo
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Zoomoo
-#EXTINF:0,A&E FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20A%26E%20FHD
-#EXTINF:0,A&E HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20A%26E%20HD
-#EXTINF:0,AMC FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20AMC%20FHD
-#EXTINF:0,AMC HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20AMC%20HD
-#EXTINF:0,Animal Planet FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Animal%20Planet%20FHD
-#EXTINF:0,Animal Planet HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Animal%20Planet%20HD
-#EXTINF:0,Arte 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Arte%201%20FHD
-#EXTINF:0,AXN FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20AXN%20FHD
-#EXTINF:0,AXN HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20AXN%20HD
-#EXTINF:0,Baby TV
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Baby%20TV
-#EXTINF:0,Band FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Band%20FHD
-#EXTINF:0,Band HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Band%20HD
-#EXTINF:0,Band
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Band
-#EXTINF:0,Band News HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Band%20News%20HD
-#EXTINF:0,Band Sports FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Band%20Sports%20FHD
-#EXTINF:0,Band Sports HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Band%20Sports%20HD
-#EXTINF:0,Band Sports
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Band%20Sports
-#EXTINF:0,beIN Sports 1 HD		
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%201%20HD
-#EXTINF:0,beIN Sports 2 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%202%20HD
-#EXTINF:0,beIN Sports 3 HD		
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%203%20HD
-#EXTINF:0,beIN Sports 4 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%204%20HD
-#EXTINF:0,beIN Sports 5 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%205%20HD
-#EXTINF:0,beIN Sports 6 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%206%20HD
-#EXTINF:0,beIN Sports 7 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%207%20HD
-#EXTINF:0,beIN Sports 8 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%208%20HD
-#EXTINF:0,beIN Sports 9 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%209%20HD
-#EXTINF:0,beIN Sports 10 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%2010%20HD
-#EXTINF:0,beIN Sports N HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20beIN%20Sports%20N%20HD
-#EXTINF:0,BIS HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20BIS%20HD
-#EXTINF:0,Boomerang FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Boomerang%20FHD
-#EXTINF:0,Boomerang HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Boomerang%20HD
-#EXTINF:0,Box Nation HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Box%20Nation%20HD
-#EXTINF:0,Canal Brasil HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Canal%20Brasil%20HD
-#EXTINF:0,Cancao Nova
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Cancao%20Nova
-#EXTINF:0,Cartoon Network FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Cartoon%20Network%20FHD
-#EXTINF:0,Cartoon Network HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Cartoon%20Network%20HD
-#EXTINF:0,Cinemax FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Cinemax%20FHD
-#EXTINF:0,Cinemax HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Cinemax%20HD
-#EXTINF:0,CNN International
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20CNN%20International
-#EXTINF:0,Combate UHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Combate%20UHD
-#EXTINF:0,Combate FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Combate%20FHD
-#EXTINF:0,Combate HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Combate%20HD
-#EXTINF:0,Comedy Central HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Comedy%20Central%20HD
-#EXTINF:0,Curta HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Curta%20HD
-#EXTINF:0,CW HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20CW%20HD
-#EXTINF:0,DAZN 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20DAZN%201%20FHD
-#EXTINF:0,DAZN 1 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20DAZN%201%20HD
-#EXTINF:0,DAZN 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20DAZN%202%20FHD
-#EXTINF:0,DAZN 2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20DAZN%202%20HD
-#EXTINF:0,DAZN 3 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20DAZN%203%20FHD
-#EXTINF:0,DAZN 3 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20DAZN%203%20HD
-#EXTINF:0,Discovery Channel FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Channel%20FHD
-#EXTINF:0,Discovery Channel HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Channel%20HD
-#EXTINF:0,Discovery Civilization FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Civilization%20FHD
-#EXTINF:0,Discovery Civilization HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Civilization%20HD
-#EXTINF:0,Discovery Home Health FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Home%20Health%20FHD
-#EXTINF:0,Discovery Home Health HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Home%20Health%20HD
-#EXTINF:0,Discovery Kids FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Kids%20FHD
-#EXTINF:0,Discovery Kids HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Kids%20HD
-#EXTINF:0,Discovery Science FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Science%20FHD
-#EXTINF:0,Discovery Science HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Science%20HD
-#EXTINF:0,Discovery Theater FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Theater%20FHD
-#EXTINF:0,Discovery Theater HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Theater%20HD
-#EXTINF:0,Discovery Turbo FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Turbo%20FHD
-#EXTINF:0,Discovery Turbo HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20Turbo%20HD
-#EXTINF:0,Discovery World FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20World%20FHD
-#EXTINF:0,Discovery World HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Discovery%20World%20HD
-#EXTINF:0,Disney Channel FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Disney%20Channel%20FHD
-#EXTINF:0,Disney Channel HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Disney%20Channel%20HD
-#EXTINF:0,Disney JR HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Disney%20JR%20HD
-#EXTINF:0,Disney XD HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Disney%20XD%20HD
-#EXTINF:0,E! HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20E!%20HD
-#EXTINF:0,Eleven Sport HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Eleven%20Sport%20HD
-#EXTINF:0,Eleven Sport 2 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Eleven%20Sport%202%20HD
-#EXTINF:0,Eleven Sport 3 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Eleven%20Sport%203%20HD
-#EXTINF:0,Esporte Interativo Plus HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Esporte%20Interativo%20Plus%20HD
-#EXTINF:0,Esporte Interativo Plus 2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Esporte%20Interativo%20Plus%202%20HD
-#EXTINF:0,Esporte Interativo Plus 3 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Esporte%20Interativo%20Plus%203%20HD
-#EXTINF:0,	ESPN FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN%20FHD
-#EXTINF:0,ESPN HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN%20HD
-#EXTINF:0,ESPN
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN
-#EXTINF:0,ESPN 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN%202%20FHD
-#EXTINF:0,ESPN 2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN%202%20HD
-#EXTINF:0,ESPN Brasil FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN%20Brasil%20FHD
-#EXTINF:0,ESPN Brasil HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN%20Brasil%20HD
-#EXTINF:0,ESPN Extra FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN%20Extra%20FHD
-#EXTINF:0,ESPN Extra HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ESPN%20Extra%20HD
-#EXTINF:0,Fish TV HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Fish%20TV%20HD
-#EXTINF:0,Food Network FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Food%20Network%20FHD
-#EXTINF:0,FOX FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20FHD
-#EXTINF:0,FOX HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20HD
-#EXTINF:0,FOX Life FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Life%20FHD
-#EXTINF:0,OX Life HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Life%20HD
-#EXTINF:0,FOX Premium 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Premium%201%20FHD
-#EXTINF:0,FOX Premium 1 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Premium%201%20HD
-#EXTINF:0,FOX Premium 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Premium%202%20FHD
-#EXTINF:0,FOX Premium 2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Premium%202%20HD
-#EXTINF:0,	FOX Sports FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Sports%20FHD
-#EXTINF:0,FOX Sports HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Sports%20HD
-#EXTINF:0,FOX Sports
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Sports
-#EXTINF:0,FOX Sports 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Sports%202%20FHD
-#EXTINF:0,FOX Sports 2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Sports%202%20HD
-#EXTINF:0, FOX Sports 2
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FOX%20Sports%202
-#EXTINF:0,FX FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FX%20FHD
-#EXTINF:0,FX HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20FX%20HD
-#EXTINF:0,Gnt HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Gnt%20HD
-#EXTINF:0,	GLOBO Brasilia HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Brasilia%20HD
-#EXTINF:0,GLOBO Iguacu FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Iguacu%20FHD
-#EXTINF:0,GLOBO Inter TV Alto Litoral HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Inter%20TV%20Alto%20Litoral%20HD
-#EXTINF:0,GLOBO Inter TV Dos Vales HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Inter%20TV%20Dos%20Vales%20HD
-#EXTINF:0,GLOBO Inter TV Grande Minas HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Inter%20TV%20Grande%20Minas%20HD
-#EXTINF:0,GLOBO Inter TV Serra Mar HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Inter%20TV%20Serra%20Mar%20HD
-#EXTINF:0,GLOBO Minas HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Minas%20HD
-#EXTINF:0,GLOBO Minas
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Minas
-#EXTINF:0,	GLOBO News HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20News%20HD
-#EXTINF:0,	GLOBO Nordeste HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Nordeste%20HD
-#EXTINF:0,GLOBO Nsc TV Blumenau HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Nsc%20TV%20Blumenau%20HD
-#EXTINF:0,GLOBO Nsc TV Joinville H
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Nsc%20TV%20Joinville%20HD
-#EXTINF:0,GLOBO Rbs TV Caxias Do Sul HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Rbs%20TV%20Caxias%20Do%20Sul%20HD
-#EXTINF:0,GLOBO Rbs TV Pelotas HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Rbs%20TV%20Pelotas%20HD
-#EXTINF:0,GLOBO Rbs TV Porto Alegre HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Rbs%20TV%20Porto%20Alegre%20HD
-#EXTINF:0,GLOBO Rbs TV Porto Alegre
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Rbs%20TV%20Porto%20Alegre
-#EXTINF:0,GLOBO Rj HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Rj%20HD
-#EXTINF:0,GLOBO Rj
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Rj
-#EXTINF:0,GLOBO Sp UHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Sp%20UHD
-#EXTINF:0,GLOBO Sp HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Sp%20HD
-#EXTINF:0,GLOBO Sp
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20Sp
-#EXTINF:0,GLOBO TV Anhanguera HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Anhanguera%20HD
-#EXTINF:0,GLOBO TV Bahia HD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Bahia%20HD
-#EXTINF:0,GLOBO TV Cabo Branco HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Cabo%20Branco%20HD
-#EXTINF:0,GLOBO TV Clube FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Clube%20FHD
-#EXTINF:0,GLOBO TV Gazeta Alagoas FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Gazeta%20Alagoas%20FHD
-#EXTINF:0,	GLOBO TV Morena FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Morena%20FHD
-#EXTINF:0,GLOBO TV Rio Sul HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Rio%20Sul%20HD
-#EXTINF:0,GLOBO TV Santa Cruz HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Santa%20Cruz%20HD
-#EXTINF:0,GLOBO TV Sergipe FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Sergipe%20FHD
-#EXTINF:0,GLOBO TV Verdes Mares
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20GLOBO%20TV%20Verdes%20Mares
-#EXTINF:0,Globosat FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Globosat%20FHD
-#EXTINF:0,Globosat HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Globosat%20HD
-#EXTINF:0,	 Gloob FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Gloob%20FHD
-#EXTINF:0,Gloob HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Gloob%20HD
-#EXTINF:0,Gloobinho FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Gloobinho%20FHD
-#EXTINF:0, Gloobinho HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Gloobinho%20HD
-#EXTINF:0,Golf Channel HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Golf%20Channel%20HD
-#EXTINF:0,HBO LEG FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%20LEG%20FHD
-#EXTINF:0,HBO DUB HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%20DUB%20HD
-#EXTINF:0,HBO 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%202%20FHD
-#EXTINF:0,HBO 2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%202%20HD
-#EXTINF:0,HBO Family FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%20Family%20FHD
-#EXTINF:0,HBO Family HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%20Family%20HD
-#EXTINF:0,HBO Plus FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%20Plus%20FHD
-#EXTINF:0,HBO Plus HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%20Plus%20HD
-#EXTINF:0,HBO Signature FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%20Signature%20FHD
-#EXTINF:0,HBO Signature HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20HBO%20Signature%20HD
-#EXTINF:0,History Channel HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20History%20Channel%20HD
-#EXTINF:0,H2 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20H2%20FHD
-#EXTINF:0,H2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20H2%20HD
-#EXTINF:0,ID HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20ID%20HD
-#EXTINF:0,Libertadores 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Libertadores%201%20FHD
-#EXTINF:0,Libertadores 1 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Libertadores%201%20HD
-#EXTINF:0,Lifetime HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Lifetime%20HD
-#EXTINF:0,Max HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Max%20HD
-#EXTINF:0,Max Prime HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Max%20Prime%20HD
-#EXTINF:0, Max Prime e
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Max%20Prime%20e
-#EXTINF:0,Max Up FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Max%20Up%20FHD
-#EXTINF:0,Max Up HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Max%20Up%20HD
-#EXTINF:0,MegaPix FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20MegaPix%20FHD
-#EXTINF:0,Megapix HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Megapix%20HD
-#EXTINF:0,MTV HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20MTV%20HD
-#EXTINF:0,MTV Live FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20MTV%20Live%20FHD
-#EXTINF:0, MTV Live HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20MTV%20Live%20HD
-#EXTINF:0,Multishow HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Multishow%20HD
-#EXTINF:0,Music Box Brasil HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Music%20Box%20Brasil%20HD
-#EXTINF:0,NatGeo Kids HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20NatGeo%20Kids%20HD
-#EXTINF:0,NatGeo Wild FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20NatGeo%20Wild%20FHD
-#EXTINF:0,NatGeo Wild HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20NatGeo%20Wild%20HD
-#EXTINF:0,NatGeo HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20NatGeo%20HD
-#EXTINF:0,NBA HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20NBA%20HD
-#EXTINF:0,NBR
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20NBR
-#EXTINF:0,NFL HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20NFL%20HD
-#EXTINF:0,NFL Network HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20NFL%20Network%20HD
-#EXTINF:0,NHK Japan		
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20NHK%20Japan
-#EXTINF:0,Nick Jr HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Nick%20Jr%20HD
-#EXTINF:0,Nickelondeon HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Nickelondeon%20HD
-#EXTINF:0,Off HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Off%20HD
-#EXTINF:0,Paramount FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Paramount%20FHD
-#EXTINF:0,Paramount HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Paramount%20HD
-#EXTINF:0,Playkids HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Playkids%20HD
-#EXTINF:0,Power Couple FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Power%20Couple%20FHD
-#EXTINF:0,Power Couple HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Power%20Couple%20HD
-#EXTINF:0,Premieres 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%202%20FHD
-#EXTINF:0,Premieres 2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%202%20HD
-#EXTINF:0,Premieres 2
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%202
-#EXTINF:0,Premieres 3 FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%203%20FHD
-#EXTINF:0,Premieres 3 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%203%20HD
-#EXTINF:0,Premieres 3
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%203
-#EXTINF:0,Premieres 4 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%204%20FHD
-#EXTINF:0,Premieres 4 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%204%20HD
-#EXTINF:0,Premieres 4
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%204
-#EXTINF:0,Premieres 5 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%205%20FHD
-#EXTINF:0,Premieres 5 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%205%20HD
-#EXTINF:0,Premieres 5
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%205
-#EXTINF:0,Premieres 6 FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%206%20FHD
-#EXTINF:0,Premieres 6 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%206%20HD
-#EXTINF:0,Premieres 6
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%206
-#EXTINF:0,Premieres 7 FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%207%20FHD
-#EXTINF:0,Premieres 7 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%207%20HD
-#EXTINF:0,Premieres 7
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%207
-#EXTINF:0,Premieres Clubes UHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%20Clubes%20UHD
-#EXTINF:0,Premieres Clubes FHD		
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%20Clubes%20FHD
-#EXTINF:0,Premieres Clubes HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%20Clubes%20HD
-#EXTINF:0,Premieres Clubes
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Premieres%20Clubes
-#EXTINF:0,Rai 1 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Rai%201%20HD
-#EXTINF:0,Rai 2 HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Rai%202%20HD
-#EXTINF:0,Rai Sport HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Rai%20Sport%20HD
-#EXTINF:0,Record News FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Record%20News%20FHD
-#EXTINF:0,RecordTV Ba FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Ba%20FHD
-#EXTINF:0,RecordTV Df FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Df%20FHD
-#EXTINF:0,RecordTV Mg FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Mg%20FHD
-#EXTINF:0,RecordTV Mg HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Mg%20HD
-#EXTINF:0,RecordTV Sp FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Sp%20FHD
-#EXTINF:0,RecordTV Sp HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Sp%20HD
-#EXTINF:0,RecordTV Sp
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Sp
-#EXTINF:0,RecordTV Rio FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Rio%20FHD
-#EXTINF:0,RecordTV Rio HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Rio%20HD
-#EXTINF:0,RecordTV Rs FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Rs%20FHD
-#EXTINF:0,RecordTV Rs HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20RecordTV%20Rs%20HD
-#EXTINF:0,Rede TV HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Rede%20TV%20HD
-#EXTINF:0,ede Vida
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Rede%20Vida
-#EXTINF:0,Sbt FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sbt%20FHD
-#EXTINF:0,Sbt HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sbt%20HD
-#EXTINF:0,Sbt
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sbt
-#EXTINF:0,Smithsonian FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Smithsonian%20FHD
-#EXTINF:0,Smithsonian HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Smithsonian%20HD
-#EXTINF:0,Sony FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sony%20FHD
-#EXTINF:0,Sony HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sony%20HD
-#EXTINF:0,Space HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Space%20HD
-#EXTINF:0,Sport TV+ FHD(PT)
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV+%20FHD(PT)
-#EXTINF:0,Sport TV 1 HD(PT)
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%201%20HD(PT)
-#EXTINF:0,Sport TV 2 HD(PT)
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%202%20HD(PT)
-#EXTINF:0,Sport TV 3 HD(PT)
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%203%20HD(PT)
-#EXTINF:0,Sport TV 4 HD(PT)
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%204%20HD(PT)
-#EXTINF:0,Sport TV 5 HD(PT)
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%205%20HD(PT)
-#EXTINF:0,Sport TV NBA(PT)
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%20NBA(PT)
-#EXTINF:0,Sport TV UHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%20UHD
-#EXTINF:0,Sport TV FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%20FHD
-#EXTINF:0,Sport TV HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV%20HD
-#EXTINF:0,Sport TV2 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV2%20FHD
-#EXTINF:0,Sport TV2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV2%20HD
-#EXTINF:0,Sport TV3 FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV3%20FHD
-#EXTINF:0,Sport TV3 HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Sport%20TV3%20HD
-#EXTINF:0,Studio Universal HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Studio%20Universal%20HD
-#EXTINF:0,Syfy HD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Syfy%20HD
-#EXTINF:0,Tbs HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Tbs%20HD
-#EXTINF:0,TCM
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TCM
-#EXTINF:0,TC Action FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Action%20FHD
-#EXTINF:0,TC Action HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Action%20HD
-#EXTINF:0,TC Action
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Action
-#EXTINF:0,TC Cult FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Cult%20FHD
-#EXTINF:0,TC Cult HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Cult%20HD
-#EXTINF:0,TC Cult
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Cult
-#EXTINF:0,TC Fun FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Fun%20FHD
-#EXTINF:0,TC Fun HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Fun%20HD
-#EXTINF:0,TC Fun
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Fun
-#EXTINF:0,TC Pipoca FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Pipoca%20FHD
-#EXTINF:0,TC Pipoca HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Pipoca%20HD
-#EXTINF:0,TC Pipoca
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Pipoca
-#EXTINF:0,TC Premium FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Premium%20FHD
-#EXTINF:0,TC Premium HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Premium%20HD
-#EXTINF:0,TC Premium
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Premium
-#EXTINF:0,TC Touch FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Touch%20FHD
-#EXTINF:0,TC Touch HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Touch%20HD
-#EXTINF:0,TC Touch
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TC%20Touch
-#EXTINF:0,Tennis Channel HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Tennis%20Channel%20HD
-#EXTINF:0,TLC HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TLC%20HD
-#EXTINF:0,TNT FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TNT%20FHD
-#EXTINF:0,TNT HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TNT%20HD
-#EXTINF:0,TNT Series FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TNT%20Series%20FHD
-#EXTINF:0,TNT Series HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TNT%20Series%20HD
-#EXTINF:0,TNT Sports HD(ARG)
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20TNT%20Sports%20HD(ARG)
-#EXTINF:0,Tooncast HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Tooncast%20HD
-#EXTINF:0,TruTV HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TruTV%20HD
-#EXTINF:0,TV Aparecida HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TV%20Aparecida%20HD
-#EXTINF:0,TV Camara
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TV%20Camara
-#EXTINF:0,TV Cultura
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TV%20Cultura
-#EXTINF:0,TV Diario HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TV%20Diario%20HD
-#EXTINF:0,TV Gazeta Sp
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TV%20Gazeta%20Sp
-#EXTINF:0,TV Justica
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TV%20Justica
-#EXTINF:0,TV Ra Tim Bum
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TV%20Ra%20Tim%20Bum
-#EXTINF:0,TV Senado
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20TV%20Senado
-#EXTINF:0,TyC Sports HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20TyC%20Sports%20HD
-#EXTINF:0,UFC Fight Pass HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20UFC%20Fight%20Pass%20HD
-#EXTINF:0,UFC Network HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20UFC%20Network%20HD
-#EXTINF:0,Universal Channels FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Universal%20Channels%20FHD
-#EXTINF:0,Universal Channels HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Universal%20Channels%20HD
-#EXTINF:0,Vh1 HD		
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Vh1%20HD
-#EXTINF:0,Viva FHD	
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Viva%20FHD
-#EXTINF:0,Viva HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Viva%20HD
-#EXTINF:0,Warner FHD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Warner%20FHD
-#EXTINF:0,Warner HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Warner%20HD
-#EXTINF:0,Woohoo HD
-#EXTVLCOPT:network-caching=1000
-http://190.2.152.88/?uid=iptvb4n3&sid=BR:%20Woohoo%20HD
-#EXTINF:0,Wwe HD
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Wwe%20HD
-#EXTINF:0,Zoomoo
-#EXTVLCOPT:network-caching=1000
-http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR:%20Zoomoo
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",A&E FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: A%26E FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",A&E HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: A%26E HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",AMC FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: AMC FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",AMC HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: AMC HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Animal Planet FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Animal Planet FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Animal Planet HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Animal Planet HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Arte 1 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Arte 1 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",AXN FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: AXN FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",AXN HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: AXN HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Baby TV
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Baby TV
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Band FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Band FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Band HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Band HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Band
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Band
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Band News HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Band News HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Band Sports FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Band Sports FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Band Sports HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Band Sports HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Band Sports
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Band Sports
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 1 HD		
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 1 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 2 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 3 HD		
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 3 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 4 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 4 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 5 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 5 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 6 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 6 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 7 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 7 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 8 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 8 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 9 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 9 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 10 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 10 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports N HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports N HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",BIS HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: BIS HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Boomerang FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Boomerang FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Boomerang HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Boomerang HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Box Nation HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Box Nation HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Canal Brasil HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Canal Brasil HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Cancao Nova
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Cancao Nova
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Cartoon Network FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Cartoon Network FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Cartoon Network HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Cartoon Network HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Cinemax FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Cinemax FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Cinemax HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Cinemax HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",CNN International
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: CNN International
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Combate UHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Combate UHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Combate FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Combate FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Combate HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Combate HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Comedy Central HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Comedy Central HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Curta HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Curta HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",CW HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: CW HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",DAZN 1 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: DAZN 1 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",DAZN 1 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: DAZN 1 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",DAZN 2 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: DAZN 2 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",DAZN 2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: DAZN 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",DAZN 3 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: DAZN 3 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",DAZN 3 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: DAZN 3 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Channel FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Channel FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Channel HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Channel HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Civilization FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Civilization FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Civilization HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Civilization HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Home Health FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Home Health FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Home Health HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Home Health HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Kids FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Kids FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Kids HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Kids HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Science FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Science FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Science HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Science HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Theater FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Theater FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Theater HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Theater HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Turbo FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Turbo FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Turbo HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Turbo HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery World FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery World FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery World HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery World HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Disney Channel FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Disney Channel FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Disney Channel HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Disney Channel HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Disney JR HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Disney JR HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Disney XD HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Disney XD HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",E! HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: E! HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Eleven Sport HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Eleven Sport HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Eleven Sport 2 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Eleven Sport 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Eleven Sport 3 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Eleven Sport 3 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Esporte Interativo Plus HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Esporte Interativo Plus HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Esporte Interativo Plus 2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Esporte Interativo Plus 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Esporte Interativo Plus 3 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Esporte Interativo Plus 3 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",	ESPN FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ESPN HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ESPN
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ESPN 2 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN 2 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ESPN 2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ESPN Brasil FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN Brasil FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ESPN Brasil HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN Brasil HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ESPN Extra FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN Extra FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ESPN Extra HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN Extra HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Fish TV HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Fish TV HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Food Network FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Food Network FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Life FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Life FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",OX Life HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Life HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Premium 1 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Premium 1 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Premium 1 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Premium 1 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Premium 2 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Premium 2 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Premium 2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Premium 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",	FOX Sports FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Sports FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Sports HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Sports HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Sports
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Sports
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Sports 2 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Sports 2 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Sports 2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Sports 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01", FOX Sports 2
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Sports 2
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FX FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FX FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FX HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FX HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Gnt HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Gnt HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",	GLOBO Brasilia HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Brasilia HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Iguacu FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Iguacu FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Inter TV Alto Litoral HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Inter TV Alto Litoral HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Inter TV Dos Vales HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Inter TV Dos Vales HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Inter TV Grande Minas HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Inter TV Grande Minas HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Inter TV Serra Mar HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Inter TV Serra Mar HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Minas HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Minas HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Minas
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Minas
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",	GLOBO News HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO News HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",	GLOBO Nordeste HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Nordeste HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Nsc TV Blumenau HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Nsc TV Blumenau HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Nsc TV Joinville H
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Nsc TV Joinville HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Rbs TV Caxias Do Sul HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Rbs TV Caxias Do Sul HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Rbs TV Pelotas HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Rbs TV Pelotas HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Rbs TV Porto Alegre HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Rbs TV Porto Alegre HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Rbs TV Porto Alegre
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Rbs TV Porto Alegre
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Rj HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Rj HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Rj
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Rj
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Sp UHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Sp UHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Sp HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Sp HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Sp
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Sp
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Anhanguera HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Anhanguera HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Bahia HD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Bahia HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Cabo Branco HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Cabo Branco HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Clube FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Clube FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Gazeta Alagoas FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Gazeta Alagoas FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",	GLOBO TV Morena FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Morena FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Rio Sul HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Rio Sul HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Santa Cruz HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Santa Cruz HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Sergipe FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Sergipe FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Verdes Mares
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Verdes Mares
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Globosat FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Globosat FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Globosat HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Globosat HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",	 Gloob FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Gloob FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Gloob HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Gloob HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Gloobinho FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Gloobinho FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01", Gloobinho HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Gloobinho HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Golf Channel HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Golf Channel HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO LEG FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO LEG FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO DUB HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO DUB HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO 2 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO 2 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO 2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO Family FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO Family FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO Family HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO Family HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO Plus FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO Plus FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO Plus HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO Plus HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO Signature FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO Signature FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO Signature HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO Signature HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",History Channel HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: History Channel HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",H2 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: H2 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",H2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: H2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ID HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ID HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Libertadores 1 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Libertadores 1 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Libertadores 1 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Libertadores 1 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Lifetime HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Lifetime HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Max HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Max HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Max Prime HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Max Prime HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01", Max Prime e
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Max Prime e
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Max Up FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Max Up FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Max Up HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Max Up HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",MegaPix FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: MegaPix FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Megapix HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Megapix HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",MTV HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: MTV HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",MTV Live FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: MTV Live FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01", MTV Live HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: MTV Live HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Multishow HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Multishow HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Music Box Brasil HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Music Box Brasil HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NatGeo Kids HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: NatGeo Kids HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NatGeo Wild FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: NatGeo Wild FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NatGeo Wild HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: NatGeo Wild HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NatGeo HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: NatGeo HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NBA HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: NBA HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NBR
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: NBR
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NFL HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: NFL HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NFL Network HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: NFL Network HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NHK Japan		
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: NHK Japan
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Nick Jr HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Nick Jr HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Nickelondeon HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Nickelondeon HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Off HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Off HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Paramount FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Paramount FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Paramount HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Paramount HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Playkids HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Playkids HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Power Couple FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Power Couple FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Power Couple HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Power Couple HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 2 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 2 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 2
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 2
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 3 FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 3 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 3 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 3 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 3
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 3
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 4 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 4 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 4 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 4 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 4
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 4
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 5 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 5 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 5 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 5 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 5
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 5
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 6 FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 6 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 6 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 6 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 6
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 6
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 7 FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 7 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 7 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 7 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 7
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 7
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres Clubes UHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres Clubes UHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres Clubes FHD		
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres Clubes FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres Clubes HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres Clubes HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres Clubes
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres Clubes
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Rai 1 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Rai 1 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Rai 2 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Rai 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Rai Sport HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Rai Sport HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Record News FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Record News FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Ba FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Ba FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Df FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Df FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Mg FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Mg FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Mg HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Mg HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Sp FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Sp FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Sp HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Sp HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Sp
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Sp
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Rio FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Rio FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Rio HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Rio HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Rs FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Rs FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Rs HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Rs HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Rede TV HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Rede TV HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ede Vida
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Rede Vida
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sbt FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sbt FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sbt HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sbt HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sbt
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sbt
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Smithsonian FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Smithsonian FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Smithsonian HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Smithsonian HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sony FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sony FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sony HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sony HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Space HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Space HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV+ FHD(PT)
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV+ FHD(PT)
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV 1 HD(PT)
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV 1 HD(PT)
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV 2 HD(PT)
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV 2 HD(PT)
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV 3 HD(PT)
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV 3 HD(PT)
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV 4 HD(PT)
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV 4 HD(PT)
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV 5 HD(PT)
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV 5 HD(PT)
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV NBA(PT)
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV NBA(PT)
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV UHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV UHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV2 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV2 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV3 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV3 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV3 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV3 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Studio Universal HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Studio Universal HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Syfy HD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Syfy HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Tbs HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Tbs HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TCM
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TCM
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Action FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Action FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Action HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Action HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Action
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Action
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Cult FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Cult FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Cult HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Cult HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Cult
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Cult
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Fun FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Fun FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Fun HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Fun HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Fun
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Fun
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Pipoca FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Pipoca FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Pipoca HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Pipoca HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Pipoca
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Pipoca
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Premium FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Premium FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Premium HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Premium HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Premium
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Premium
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Touch FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Touch FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Touch HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Touch HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Touch
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Touch
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Tennis Channel HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Tennis Channel HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TLC HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TLC HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TNT FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TNT FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TNT HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TNT HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TNT Series FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TNT Series FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TNT Series HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TNT Series HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TNT Sports HD(ARG)
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: TNT Sports HD(ARG)
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Tooncast HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Tooncast HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TruTV HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TruTV HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TV Aparecida HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TV Aparecida HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TV Camara
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TV Camara
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TV Cultura
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TV Cultura
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TV Diario HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TV Diario HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TV Gazeta Sp
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TV Gazeta Sp
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TV Justica
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TV Justica
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TV Ra Tim Bum
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TV Ra Tim Bum
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TV Senado
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TV Senado
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TyC Sports HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: TyC Sports HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",UFC Fight Pass HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: UFC Fight Pass HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",UFC Network HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: UFC Network HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Universal Channels FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Universal Channels FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Universal Channels HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Universal Channels HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Vh1 HD		
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Vh1 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Viva FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Viva FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Viva HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Viva HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Warner FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Warner FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Warner HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Warner HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Woohoo HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Woohoo HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Wwe HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Wwe HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Zoomoo
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Zoomoo
