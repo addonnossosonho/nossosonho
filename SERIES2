@@ -340,6 +340,16 @@ Baseada em fatos reais</info>
 
 <channels>
 <channel>
+<name>[COLOR lime]Apocalipse V (2019)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jn83i9bsfpGF26kaDzIeSAliHR3.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/vwars</externallink>
+<fanart>https://image.tmdb.org/t/p/original/48u7bam4eyHaggLnpNKwux4l7bY.jpg</fanart>
+<info>O Dr. Luther Swann se vê cercado pelo terror, depois que uma doença misteriosa transforma seu melhor amigo, Michael Fayne, em um predador assassino, que se alimenta de outros humanos. A doença se espalha, afetando mais pessoas e dividindo a sociedade em campos opostos: de um lado, as pessoas normais; do lado, um crescente número de "vampiros". Enquanto Swann corre contra o tempo para entender o que está acontecendo, Fayne se torna o poderoso líder dos vampiros.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Aruanas (2019)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeFwKEy9wIOGJLZ5s4vDpoPbDrZ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Aruanas</externallink>
