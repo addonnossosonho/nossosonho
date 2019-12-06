@@ -93,7 +93,8 @@
 
 <item>
 <title>Ford vs Ferrari (2019)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fysT8-afouEhYGpCiTblGGD0ogwImxzz/view?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fysT8-afouEhYGpCiTblGGD0ogwImxzz/view$$lsname=[B][COLOR lime]GDRIVE[/B][/COLOR]$$lsname=[B][COLOR lime]GDRIVE[/B][/COLOR]</link>
+<link>https://cdn.jsdelivr.net/gh/format852/Rm9yZF9WX0ZlcnJhcmlfMjAxOV83MjBQX05ld19IZGNhbV9EdWJsYWRvLm1wNA/_.m3u8$$lsname=[B][COLOR orange]DUBLADO[/B][/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UnZJXIIC0fwDUpxhMH1KK9by5H.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mn9k8zapebAbCqsiKf24juhXjjx.jpg</fanart>
 <info>Durante a década de 1960, a Ford resolve entrar no ramo das corridas automobilísticas de forma que a empresa ganhe o prestígio e o glamour da concorrente Ferrari, campeoníssima em várias corridas. Para tanto, contrata o ex-piloto Carroll Shelby (Matt Damon) para chefiar a empreitada.</info>
