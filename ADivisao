@@ -1,10 +1,16 @@
-<channels></channels>
-<channel>
-<name>1º Temporada</name>
+<item>
+<title>[B][COLOR red]ADDON PIRATES[/COLOR][/B]</title>
+<link>http://</link>
+<thumbnail>https://archive.org/download/piratesnews/piratesnews.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>1º Temporada</title>
 <thumbnail>https://i.imgur.com/MqyWVGv.jpg</thumbnail>
 <fanart>https://i.imgur.com/vwQoaSt.jpg</fanart>
 <info>Rio de Janeiro, final da década de 1990. O cotidiano das atividades de um grupo de policiais da Divisão Antissequestro do Rio, que organiza forças-tarefas para combater quadrilhas especializadas nesse tipo de crime, cuja ocorrência vem aumentando consideravelmente.</info>
-
+</item>
 
 <item>
 <title>EP 01</title>
