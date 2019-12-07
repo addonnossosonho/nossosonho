@@ -2,6 +2,9 @@
 
 ***************************** As Crônicas de Nárnia ********************************
 
+#EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
+http://
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y87s3tks" group-title="AS CRÔNICAS DE NARNIA" pltv-subgroup="1ª TEMPORADA",T1EP01
 https://cdn2.oldflix.com.br/hls/series/ascronicasdenarnia/o-leao-a-feiticeira-e-o-guarda-roupa-episodio-1/dublado.m3u8?REGINALDOIPTV
 
