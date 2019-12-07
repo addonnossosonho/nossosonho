@@ -2,6 +2,9 @@
 
 ***************************** A SUPER MÁQUINA ********************************
 
+#EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
+http://
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yafgx2gw" group-title="A SUPER MÁQUINA" pltv-subgroup="1ª TEMPORADA",T1EP01
 https://cdn2.oldflix.com.br/hls/series/supermaquina/ep01/dublado.m3u8?REGINALDOIPTV
 
