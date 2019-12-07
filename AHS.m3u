@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
+http://
 #EXTINF:-1 tvg-logo="http://i.imgur.com/i7IbFFa.jpg" group-title="AHS DUB",AHS 5x12 Hotel
 http://cdnfe3.azureedge.net/RCServer11/ondemand/AMRCHORT05EP12.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/i7IbFFa.jpg" group-title="AHS DUB",AHS 5x11 Hotel
