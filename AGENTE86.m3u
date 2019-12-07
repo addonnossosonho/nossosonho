@@ -4,6 +4,8 @@
 
 ********************** AGENTE 86    *********************************
 
+#EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
+http://
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8rqdzz5" group-title="AGENTE 86" pltv-subgroup="1ª TEMPORADA",AG 86 1x01
 https://cdn2.oldflix.com.br/hls/series/agente86/mrbig/dublado.m3u8
