@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
+http://
 #EXTINF:-1 tvg-logo="http://lhmtv.cf/series/akingdom1.jpg" group-title="Animal Kingdom", 1T-E01 Piloto Animal Kingdom
 http://niflheim.lhmtv.gq/play/?contentId=98581c470039dee9&LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.cf/series/akingdom1.jpg" group-title="Animal Kingdom", 1T-E02 Nos nao ferimos pessoas
