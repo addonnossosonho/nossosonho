@@ -1,5 +1,7 @@
 #EXTINF
 
+#EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
+http://
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MR0Ljp1.jpg" group-title="American Crime Story DUB",DUB-1x1 American Crime Story
 http://cdnfe3.azureedge.net/RCServer11/ondemand/AMRCRMSTRT01EP01.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MR0Ljp1.jpg" group-title="American Crime Story DUB",DUB-1x2 American Crime Story
