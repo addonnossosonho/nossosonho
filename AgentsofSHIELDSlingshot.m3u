@@ -3,6 +3,9 @@
 
 ################## Agents of S.H.I.E.L.D.: Slingshot ########################
 
+#EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
+http://
+
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20of%20S.H.I.E.L.D.%20-%20Slingshot1.jpg" group-title="Agents of S.H.I.E.L.D.: Slingshot", "01x01 - Vingança (Legendado)"
 http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDSLGHTS01EP01.mp4
 
