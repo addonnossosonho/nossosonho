@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
+http://
 #EXTINF:-1 tvg-logo="http://lhmtv.cf/series/apb1.jpg" group-title="APB", 1T-01 Hard Reset
 http://niflheim.lhmtv.gq/play/?contentId=b4917fb62da9bf03&LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.cf/series/apb1.jpg" group-title="APB", 1T-02 Questoes pessoais
