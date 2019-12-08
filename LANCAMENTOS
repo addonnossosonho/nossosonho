@@ -55,7 +55,7 @@
 
 <item>
 <title>Bons Meninos (2019)</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15F6hlhIZMJA0YJicmDYPRQ9wKxELeBxb/view$$lsname=[B][COLOR lime]GDRIVE[/B][/COLOR]$$lsname=[B][COLOR lime]GDRIVE[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15F6hlhIZMJA0YJicmDYPRQ9wKxELeBxb/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yn1Z88cdXMjxWZCgrw8YqmHWWT.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/lZbpGWA1P8k7P6MJXdMDDDS01z9.jpg</fanart>
 <info>Três meninos ainda inocentes, mas que estão prestes a atingirem a adolescência, matam aula em San Fernando Valley, na Califórinia, para conseguir consertar um drone quebrado antes que seus pais cheguem em casa. O que prometia ser um dia comum transforma-se em uma grande aventura repleta de perigos cômicos.</info>
