@@ -19,9 +19,6 @@ http://bit.ly/36jKK7x
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4SoJ4swNrvhlwG3nOc7KJ08juw.jpg" group-title="His Dark Materials - Fronteiras do Universo", "01x03 - "
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hb9b23PYhcq3886oZ6GeU-d8JyIX2wMD/view?usp=drivesdk
 
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4SoJ4swNrvhlwG3nOc7KJ08juw.jpg" group-title="His Dark Materials - Fronteiras do Universo", "01x04 - TESTE"
-
-
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4SoJ4swNrvhlwG3nOc7KJ08juw.jpg" group-title="His Dark Materials - Fronteiras do Universo", "01x04 - "
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Walr3-kDLRXWjprc6Lr6Q7Q3Zumkbgg-/view?usp=drivesdk
 
