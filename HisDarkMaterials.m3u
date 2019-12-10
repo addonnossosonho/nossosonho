@@ -14,4 +14,4 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Walr3-kDLRXWjprc6Lr6Q7Q3Zumkbgg-/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4SoJ4swNrvhlwG3nOc7KJ08juw.jpg" group-title="His Dark Materials - Fronteiras do Universo", "01x05 - "
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qwIifiL_DjPmP778KDiEAvrMl0qes_AJ/view?usp=drivesdk
+http://cdnfe3.azureedge.net/RCServer08/ondemand/FRTSDUNVRSOT01EP05.mp4
