@@ -1,0 +1,712 @@
+##############################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",A&E FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: A%26E FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",A&E HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: A%26E HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",AMC FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: AMC FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",AMC HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: AMC HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Animal Planet FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Animal Planet FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Animal Planet HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Animal Planet HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Arte 1 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Arte 1 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",AXN FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: AXN FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",AXN HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: AXN HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Baby TV
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Baby TV
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Band FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Band FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Band HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Band HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Band
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Band
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Band News HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Band News HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Band Sports FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Band Sports FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Band Sports HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Band Sports HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Band Sports
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Band Sports
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 1 HD		
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 1 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 2 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 3 HD		
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 3 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 4 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 4 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 5 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 5 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 6 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 6 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 7 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 7 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 8 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 8 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 9 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 9 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports 10 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports 10 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",beIN Sports N HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: beIN Sports N HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",BIS HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: BIS HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Boomerang FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Boomerang FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Boomerang HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Boomerang HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Box Nation HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Box Nation HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Canal Brasil HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Canal Brasil HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Cancao Nova
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Cancao Nova
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Cartoon Network FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Cartoon Network FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Cartoon Network HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Cartoon Network HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Cinemax FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Cinemax FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Cinemax HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Cinemax HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",CNN International
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: CNN International
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Combate UHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Combate UHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Combate FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Combate FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Combate HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Combate HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Comedy Central HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Comedy Central HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Curta HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Curta HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",CW HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: CW HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",DAZN 1 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: DAZN 1 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",DAZN 1 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: DAZN 1 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",DAZN 2 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: DAZN 2 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",DAZN 2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: DAZN 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",DAZN 3 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: DAZN 3 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",DAZN 3 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: DAZN 3 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Channel FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Channel FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Channel HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Channel HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Civilization FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Civilization FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Civilization HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Civilization HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Home Health FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Home Health FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Home Health HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Home Health HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Kids FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Kids FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Kids HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Kids HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Science FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Science FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Science HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Science HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Theater FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Theater FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Theater HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Theater HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Turbo FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Turbo FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery Turbo HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery Turbo HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery World FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery World FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Discovery World HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Discovery World HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Disney Channel FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Disney Channel FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Disney Channel HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Disney Channel HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Disney JR HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Disney JR HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Disney XD HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Disney XD HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",E! HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: E! HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Eleven Sport HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Eleven Sport HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Eleven Sport 2 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Eleven Sport 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Eleven Sport 3 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Eleven Sport 3 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Esporte Interativo Plus HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Esporte Interativo Plus HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Esporte Interativo Plus 2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Esporte Interativo Plus 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Esporte Interativo Plus 3 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Esporte Interativo Plus 3 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",	ESPN FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ESPN HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ESPN
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ESPN 2 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN 2 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ESPN 2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ESPN Brasil FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN Brasil FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ESPN Brasil HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN Brasil HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ESPN Extra FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN Extra FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ESPN Extra HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ESPN Extra HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Fish TV HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Fish TV HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Food Network FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Food Network FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Life FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Life FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",OX Life HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Life HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Premium 1 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Premium 1 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Premium 1 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Premium 1 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Premium 2 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Premium 2 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Premium 2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Premium 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",	FOX Sports FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Sports FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Sports HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Sports HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Sports
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Sports
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Sports 2 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Sports 2 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FOX Sports 2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Sports 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01", FOX Sports 2
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FOX Sports 2
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FX FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FX FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",FX HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: FX HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Gnt HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Gnt HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",	GLOBO Brasilia HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Brasilia HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Iguacu FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Iguacu FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Inter TV Alto Litoral HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Inter TV Alto Litoral HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Inter TV Dos Vales HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Inter TV Dos Vales HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Inter TV Grande Minas HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Inter TV Grande Minas HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Inter TV Serra Mar HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Inter TV Serra Mar HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Minas HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Minas HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Minas
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Minas
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",	GLOBO News HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO News HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",	GLOBO Nordeste HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Nordeste HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Nsc TV Blumenau HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Nsc TV Blumenau HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Nsc TV Joinville H
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Nsc TV Joinville HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Rbs TV Caxias Do Sul HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Rbs TV Caxias Do Sul HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Rbs TV Pelotas HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Rbs TV Pelotas HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Rbs TV Porto Alegre HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Rbs TV Porto Alegre HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Rbs TV Porto Alegre
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Rbs TV Porto Alegre
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Rj HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Rj HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Rj
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Rj
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Sp UHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Sp UHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Sp HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Sp HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO Sp
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO Sp
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Anhanguera HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Anhanguera HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Bahia HD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Bahia HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Cabo Branco HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Cabo Branco HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Clube FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Clube FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Gazeta Alagoas FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Gazeta Alagoas FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",	GLOBO TV Morena FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Morena FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Rio Sul HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Rio Sul HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Santa Cruz HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Santa Cruz HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Sergipe FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Sergipe FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",GLOBO TV Verdes Mares
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: GLOBO TV Verdes Mares
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Globosat FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Globosat FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Globosat HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Globosat HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",	 Gloob FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Gloob FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Gloob HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Gloob HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Gloobinho FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Gloobinho FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01", Gloobinho HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Gloobinho HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Golf Channel HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Golf Channel HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO LEG FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO LEG FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO DUB HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO DUB HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO 2 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO 2 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO 2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO Family FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO Family FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO Family HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO Family HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO Plus FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO Plus FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO Plus HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO Plus HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO Signature FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO Signature FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",HBO Signature HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: HBO Signature HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",History Channel HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: History Channel HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",H2 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: H2 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",H2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: H2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ID HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: ID HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Libertadores 1 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Libertadores 1 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Libertadores 1 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Libertadores 1 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Lifetime HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Lifetime HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Max HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Max HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Max Prime HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Max Prime HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01", Max Prime e
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Max Prime e
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Max Up FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Max Up FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Max Up HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Max Up HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",MegaPix FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: MegaPix FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Megapix HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Megapix HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",MTV HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: MTV HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",MTV Live FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: MTV Live FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01", MTV Live HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: MTV Live HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Multishow HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Multishow HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Music Box Brasil HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Music Box Brasil HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NatGeo Kids HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: NatGeo Kids HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NatGeo Wild FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: NatGeo Wild FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NatGeo Wild HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: NatGeo Wild HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NatGeo HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: NatGeo HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NBA HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: NBA HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NBR
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: NBR
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NFL HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: NFL HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NFL Network HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: NFL Network HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",NHK Japan		
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: NHK Japan
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Nick Jr HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Nick Jr HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Nickelondeon HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Nickelondeon HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Off HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Off HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Paramount FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Paramount FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Paramount HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Paramount HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Playkids HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Playkids HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Power Couple FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Power Couple FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Power Couple HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Power Couple HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 2 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 2 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 2
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 2
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 3 FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 3 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 3 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 3 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 3
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 3
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 4 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 4 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 4 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 4 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 4
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 4
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 5 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 5 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 5 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 5 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 5
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 5
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 6 FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 6 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 6 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 6 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 6
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 6
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 7 FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 7 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 7 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 7 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres 7
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres 7
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres Clubes UHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres Clubes UHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres Clubes FHD		
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres Clubes FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres Clubes HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres Clubes HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Premieres Clubes
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Premieres Clubes
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Rai 1 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Rai 1 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Rai 2 HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Rai 2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Rai Sport HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Rai Sport HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Record News FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Record News FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Ba FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Ba FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Df FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Df FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Mg FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Mg FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Mg HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Mg HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Sp FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Sp FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Sp HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Sp HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Sp
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Sp
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Rio FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Rio FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Rio HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Rio HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Rs FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Rs FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",RecordTV Rs HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: RecordTV Rs HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Rede TV HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Rede TV HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",ede Vida
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Rede Vida
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sbt FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sbt FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sbt HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sbt HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sbt
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sbt
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Smithsonian FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Smithsonian FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Smithsonian HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Smithsonian HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sony FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sony FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sony HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sony HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Space HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Space HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV+ FHD(PT)
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV+ FHD(PT)
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV 1 HD(PT)
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV 1 HD(PT)
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV 2 HD(PT)
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV 2 HD(PT)
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV 3 HD(PT)
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV 3 HD(PT)
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV 4 HD(PT)
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV 4 HD(PT)
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV 5 HD(PT)
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV 5 HD(PT)
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV NBA(PT)
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV NBA(PT)
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV UHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV UHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV2 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV2 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV2 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV2 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV3 FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV3 FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Sport TV3 HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Sport TV3 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Studio Universal HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Studio Universal HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Syfy HD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Syfy HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Tbs HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Tbs HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TCM
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TCM
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Action FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Action FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Action HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Action HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Action
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Action
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Cult FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Cult FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Cult HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Cult HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Cult
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Cult
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Fun FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Fun FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Fun HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Fun HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Fun
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Fun
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Pipoca FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Pipoca FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Pipoca HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Pipoca HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Pipoca
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Pipoca
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Premium FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Premium FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Premium HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Premium HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Premium
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Premium
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Touch FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Touch FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Touch HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Touch HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TC Touch
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TC Touch
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Tennis Channel HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Tennis Channel HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TLC HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TLC HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TNT FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TNT FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TNT HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TNT HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TNT Series FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TNT Series FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TNT Series HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TNT Series HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TNT Sports HD(ARG)
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: TNT Sports HD(ARG)
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Tooncast HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Tooncast HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TruTV HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TruTV HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TV Aparecida HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TV Aparecida HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TV Camara
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TV Camara
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TV Cultura
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TV Cultura
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TV Diario HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TV Diario HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TV Gazeta Sp
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TV Gazeta Sp
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TV Justica
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TV Justica
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TV Ra Tim Bum
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TV Ra Tim Bum
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TV Senado
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: TV Senado
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",TyC Sports HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: TyC Sports HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",UFC Fight Pass HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: UFC Fight Pass HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",UFC Network HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: UFC Network HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Universal Channels FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Universal Channels FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Universal Channels HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Universal Channels HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Vh1 HD		
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Vh1 HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Viva FHD	
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Viva FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Viva HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Viva HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Warner FHD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Warner FHD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Warner HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Warner HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Woohoo HD
+http://190.2.143.77/?uid=iptvb4n3&sid=BR: Woohoo HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Wwe HD
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Wwe HD
+#EXTINF:-1 tvg-id="ext" group-title="Canais 01",Zoomoo
+http://51.79.72.203:80/1iKzR4-Xvu_06iA2VFTmjVVqIRGP7AQNf&sid=AR: Zoomoo
+#EXTINF:-1 tvg-id="" tvg-name="24H PEPPA PIG" tvg-logo="https://i.imgur.com/Qs3FlsO.jpg" group-title="24 HORAS",24H PEPPA PIG
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7381
+#EXTINF:-1 tvg-id="" tvg-name="24H POPOYO" tvg-logo="https://i.imgur.com/kRm489B.jpg" group-title="24 HORAS",24H POPOYO
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7382
+#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES" tvg-logo="https://i.imgur.com/wtSXK79.png" group-title="24 HORAS",24H CHAVES
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7383
+#EXTINF:-1 tvg-id="" tvg-name="24H ALADDIN" tvg-logo="https://i.imgur.com/yMLtTEr.png" group-title="24 HORAS",24H ALADDIN
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7415
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPER WINGS" tvg-logo="https://i.imgur.com/97Sdlej.jpg" group-title="24 HORAS",24H SUPER WINGS
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/8539
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA" tvg-logo="https://i.imgur.com/z5iaFDk.jpg" group-title="24 HORAS",24H PATRULHA CANINA
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/8538
+#EXTINF:-1 tvg-id="" tvg-name="24H BLAZE AND THE MONSTER MACHINES" tvg-logo="https://i.imgur.com/EDUKaRg.png" group-title="24 HORAS",24H BLAZE AND THE MONSTER MACHINES
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/8540
+#EXTINF:-1 tvg-id="" tvg-name="24H CORRIDA MALUCA" tvg-logo="https://i.imgur.com/GTH1jkg.jpg" group-title="24 HORAS",24H CORRIDA MALUCA
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7511
+#EXTINF:-1 tvg-id="" tvg-name="24H FAMILÍA DINOSSAUROS" tvg-logo="https://i.imgur.com/t5jwaXn.png" group-title="24 HORAS",24H FAMILÍA DINOSSAUROS
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7512
+#EXTINF:-1 tvg-id="" tvg-name="24H POCOYO" tvg-logo="https://i.imgur.com/kxh5JUv.png" group-title="24 HORAS",24H POCOYO
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7513
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAKE E JOSH" tvg-logo="https://i.imgur.com/qZpmmHI.png" group-title="24 HORAS",24H DRAKE E JOSH
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7503
+#EXTINF:-1 tvg-id="" tvg-name="24H PICA PAU" tvg-logo="https://i.imgur.com/ZB1pDV1.png" group-title="24 HORAS",24H PICA PAU
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7424
+#EXTINF:-1 tvg-id="" tvg-name="24H GEORGE O CURIOSO" tvg-logo="https://i.imgur.com/TCZOnEE.png" group-title="24 HORAS",24H GEORGE O CURIOSO
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/3410
+#EXTINF:-1 tvg-id="" tvg-name="24H PATATI PATATA" tvg-logo="https://i.imgur.com/ob9VLqS.png" group-title="24 HORAS",24H PATATI PATATA
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/3372
+#EXTINF:-1 tvg-id="" tvg-name="24H BUZZ LIGHTYEAR" tvg-logo="https://i.imgur.com/I2y1zKg.png" group-title="24 HORAS",24H BUZZ LIGHTYEAR
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7487
+#EXTINF:-1 tvg-id="" tvg-name="24H AS MENINAS SUPERPODEROSAS" tvg-logo="https://i.imgur.com/G1GKY4c.png" group-title="24 HORAS",24H AS MENINAS SUPERPODEROSAS
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7483
+#EXTINF:-1 tvg-id="" tvg-name="24H BABY LOONEY TUNES" tvg-logo="https://i.imgur.com/Nt6wi8K.png" group-title="24 HORAS",24H BABY LOONEY TUNES
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7417
+#EXTINF:-1 tvg-id="" tvg-name="24H O INCRÍVEL MUNDO DE GUMBALL" tvg-logo="https://i.imgur.com/57nFCNf.jpg" group-title="24 HORAS",24H O INCRÍVEL MUNDO DE GUMBALL
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7416
+#EXTINF:-1 tvg-id="" tvg-name="24H O SHOW DA LUNA" tvg-logo="https://i.imgur.com/jx5GH5B.png" group-title="24 HORAS",24H O SHOW DA LUNA
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7418
+#EXTINF:-1 tvg-id="" tvg-name="24H GALINHA PINTADINHA" tvg-logo="https://i.imgur.com/mgAyQ9k.png" group-title="24 HORAS",24H GALINHA PINTADINHA
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/9142
+#EXTINF:-1 tvg-id="" tvg-name="24H MASHA E O URSO" tvg-logo="https://i.imgur.com/EeQ3CVF.png" group-title="24 HORAS",24H MASHA E O URSO
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/8541
+#EXTINF:-1 tvg-id="" tvg-name="24H O MUNDO DE BITA" tvg-logo="https://i.imgur.com/baf88pE.jpg" group-title="24 HORAS",24H O MUNDO DE BITA
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/9143
+#EXTINF:-1 tvg-id="" tvg-name="24H OS FLINTSTONES" tvg-logo="https://i.imgur.com/aLnGKVO.jpg" group-title="24 HORAS",24H OS FLINTSTONES
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7419
+#EXTINF:-1 tvg-id="" tvg-name="24H TODO MUNDO ODEIA O CHIRS" tvg-logo="https://i.imgur.com/pZNsk9A.jpg" group-title="24 HORAS",24H TODO MUNDO ODEIA O CHIRS
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/9659
+#EXTINF:-1 tvg-id="" tvg-name="24H EU A PATROA E AS CRIANÇAS" tvg-logo="https://i.imgur.com/AW9jxHS.png" group-title="24 HORAS",24H EU A PATROA E AS CRIANÇAS
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7421
+#EXTINF:-1 tvg-id="" tvg-name="24H A PEQUENA SEREIA" tvg-logo="https://i.imgur.com/o7BZhMn.png" group-title="24 HORAS",24H A PEQUENA SEREIA
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7584
+#EXTINF:-1 tvg-id="" tvg-name="24H DORA, A AVENTUREIRA" tvg-logo="https://i.imgur.com/zDc2oI2.png" group-title="24 HORAS",24H DORA, A AVENTUREIRA
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/8130
+#EXTINF:-1 tvg-id="" tvg-name="24H 3 PALAVRINHAS" tvg-logo="https://i.imgur.com/KTpFeaV.png" group-title="24 HORAS",24H 3 PALAVRINHAS
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11355
+#EXTINF:-1 tvg-id="" tvg-name="24H A PANTERA COR DE ROSA" tvg-logo="https://i.imgur.com/9KffBFu.png" group-title="24 HORAS",24H A PANTERA COR DE ROSA
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11357
+#EXTINF:-1 tvg-id="" tvg-name="24H A VACA E O FRANGO" tvg-logo="https://i.imgur.com/4pZYDja.png" group-title="24 HORAS",24H A VACA E O FRANGO
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11359
+#EXTINF:-1 tvg-id="" tvg-name="24H BIBO PAI E BOBI FILHO" tvg-logo="https://i.imgur.com/NOheKXO.png" group-title="24 HORAS",24H BIBO PAI E BOBI FILHO
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11360
+#EXTINF:-1 tvg-id="" tvg-name="24H BIG MOUTH" tvg-logo="https://i.imgur.com/B4tvRDF.png" group-title="24 HORAS",24H BIG MOUTH
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11374
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVALO DE FOGO" tvg-logo="https://i.imgur.com/lGopkCi.png" group-title="24 HORAS",24H CAVALO DE FOGO
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11369
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVERNA DO DRAGAO" tvg-logo="https://i.imgur.com/PuGqhJR.png" group-title="24 HORAS",24H CAVERNA DO DRAGAO
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11372
+#EXTINF:-1 tvg-id="" tvg-name="24H COELHO RICOCHETE" tvg-logo="https://i.imgur.com/qqkRkMZ.png" group-title="24 HORAS",24H COELHO RICOCHETE
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11361
+#EXTINF:-1 tvg-id="" tvg-name="24H DENNIS, O PIMENTINHA" tvg-logo="https://i.imgur.com/qDFhFhk.png" group-title="24 HORAS",24H DENNIS, O PIMENTINHA
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11362
+#EXTINF:-1 tvg-id="" tvg-name="24H ESQUILO SEM GRILO" tvg-logo="https://i.imgur.com/rHl2V9D.png" group-title="24 HORAS",24H ESQUILO SEM GRILO
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11365
+#EXTINF:-1 tvg-id="" tvg-name="24H EU SOU O MAXIMO" tvg-logo="https://i.imgur.com/uxe2Ee7.png" group-title="24 HORAS",24H EU SOU O MAXIMO
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11366
+#EXTINF:-1 tvg-id="" tvg-name="24H GASPARZINHO" tvg-logo="https://i.imgur.com/LKix3I0.png" group-title="24 HORAS",24H GASPARZINHO
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11367
+#EXTINF:-1 tvg-id="" tvg-name="24H GATO FELIX" tvg-logo="https://i.imgur.com/E3fFsyQ.png" group-title="24 HORAS",24H GATO FELIX
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11350
+#EXTINF:-1 tvg-id="" tvg-name="24H HEY ARNOLD" tvg-logo="https://i.imgur.com/YT7zkJa.png" group-title="24 HORAS",24H HEY ARNOLD
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11353
+#EXTINF:-1 tvg-id="" tvg-name="24H HORA DO ROCK" tvg-logo="https://i.imgur.com/iIBZnWW.jpg" group-title="24 HORAS",24H HORA DO ROCK
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11371
+#EXTINF:-1 tvg-id="" tvg-name="24H ICARLY" tvg-logo="https://i.imgur.com/h1nTOPM.jpg" group-title="24 HORAS",24H ICARLY
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11349
+#EXTINF:-1 tvg-id="" tvg-name="24H LIGEIRINHO" tvg-logo="https://i.imgur.com/J3XxJZj.png" group-title="24 HORAS",24H LIGEIRINHO
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11370
+#EXTINF:-1 tvg-id="" tvg-name="24H OS JETSONS" tvg-logo="https://i.imgur.com/0aAqs1p.png" group-title="24 HORAS",24H OS JETSONS
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11375
+#EXTINF:-1 tvg-id="" tvg-name="24H PERNALONGA" tvg-logo="https://i.imgur.com/OVMhno3.png" group-title="24 HORAS",24H PERNALONGA
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11358
+#EXTINF:-1 tvg-id="" tvg-name="24H SCOOBY DOO!" tvg-logo="https://i.imgur.com/WEDF0pj.jpg" group-title="24 HORAS",24H SCOOBY DOO!
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11368
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPER AMIGOS" tvg-logo="https://i.imgur.com/kckOFdM.jpg" group-title="24 HORAS",24H SUPER AMIGOS
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11352
+#EXTINF:-1 tvg-id="" tvg-name="24H TURMA DO PATETA" tvg-logo="https://i.imgur.com/DG2PPi4.jpg" group-title="24 HORAS",24H TURMA DO PATETA
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/11354
+#EXTINF:-1 tvg-id="" tvg-name="24H O MÁSKARA" tvg-logo="https://i.imgur.com/zGIJ9gz.png" group-title="24 HORAS",24H O MÁSKARA
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/8155
+#EXTINF:-1 tvg-id="" tvg-name="24H FAMILIA ADDAMS" tvg-logo="https://i.imgur.com/2TrYlrl.png" group-title="24 HORAS",24H FAMILIA ADDAMS
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/8958
+#EXTINF:-1 tvg-id="" tvg-name="24H MASTERCHEF" tvg-logo="https://i.imgur.com/iLkrIgf.png" group-title="24 HORAS",24H MASTERCHEF
+http://sv1.cinecriciuma.com.br:8080/Izenil/jT7ovvLrZ0/7420
