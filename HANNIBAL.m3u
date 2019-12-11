@@ -1,13 +1,13 @@
 #EXTM3U size="Medium"
 
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Hannibal1.jpg" group-title="HANNIBAL",HANNIBAL S01E01
-http://cdnfe3.azureedge.net/RCServer04/ondemand/HNBLLT01EP01.mp4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oH0EDb5zFRnvCtQ2LqdBq2AK9IcimGEr/view?usp=drivesdk
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Hannibal1.jpg" group-title="HANNIBAL",HANNIBAL S01E02
-http://cdnfe3.azureedge.net/RCServer04/ondemand/HNBLLT01EP02.mp4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1X8n5Q_PN2cbDs4Fwk5FYuMOwI_dGOlrK/view?usp=drivesdk
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Hannibal1.jpg" group-title="HANNIBAL",HANNIBAL S01E03
-http://cdnfe3.azureedge.net/RCServer05/ondemand/HNBLLT01EP03.mp4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OFSsuTZTblKphnK2XsOLgEaHU6DRhYEv/view?usp=drivesdk
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Hannibal1.jpg" group-title="HANNIBAL",HANNIBAL S01E04
-http://cdnfe3.azureedge.net/RCServer05/ondemand/HNBLLT01EP04.mp4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13ipaFnVqa1rmQ6CAWqZ-rI1wck4QC968/view?usp=drivesdk
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Hannibal1.jpg" group-title="HANNIBAL",HANNIBAL S01E05
 http://cdnfe3.azureedge.net/RCServer05/ondemand/HNBLLT01EP05.mp4
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Hannibal1.jpg" group-title="HANNIBAL",HANNIBAL S01E06
