@@ -15,3 +15,6 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4SoJ4swNrvhlwG3nOc7KJ08juw.jpg" group-title="His Dark Materials - Fronteiras do Universo", "01x05 - "
 http://cdnfe3.azureedge.net/RCServer08/ondemand/FRTSDUNVRSOT01EP05.mp4
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4SoJ4swNrvhlwG3nOc7KJ08juw.jpg" group-title="His Dark Materials - Fronteiras do Universo", "01x06 - "
+http://bit.ly/36mryGv
