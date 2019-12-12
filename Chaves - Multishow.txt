@@ -1,0 +1,582 @@
+<channels>
+</channels><channel>
+<name>1ª Temporada</name>
+<item>
+<title>Boas Festas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VTj2Y_G_Ebp8aCqZvOT1wYvDjqWAs5vm</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Lata de Lixo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aXCgxlP3P8LsUUsr6lFUovoen6wHxj5C</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Competição de Números</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zS5qck-kNP5mW_k6IBYDLX3_pC2NALpY</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Surto de Catapora</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eaes1fme0bSqm4gFhG8otbRZuWblnICI</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>O Mendigo Ladrão</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/191JCQVASnomEcjUomrxnBzKbYk_QAh6v</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Quem Canta Seus Males Espanta</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dvYz5SMOdOG_x5q9ydiqEVgEMijqRQBJ</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>O Piquenique Voador</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QqtKItoCQSwMk63byVG-mKRpo7DWgzHs</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Como Sujar A Roupa Do Quico</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vdH5tqo8GuMTLV17-yk4tr8AHMhIXLjX</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Contrabandista de Joias</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1q2fyYTMsKyN-R-wOODkSaNpqubUplMHW</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Comendo e Padecendo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a7tgKIf6TdYRTWmUR_29CAdkxO81XhSu</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Zarabatanas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1it9Srgy5rBYMgLJY_xmKbFNMqxjRnI7L</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>O Mistério dos Peixinhos</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1so1Kkf4GhBYEA0x0OTblr1yUCsgjjmPL</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>O que fazer quando um Ladrão entra na Casa</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fZW7Vv_ol0gT5Hh03bOz3N84cPcGOzA3</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Disputa Musical</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Pxo8OIpd-gPkqE7XBbtMvbbNlnWWgTlI</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>As Apostas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pbclo9zs7Zqs4ijDxc2_ZBG8A914CDz_</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Ping Pong</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1v-cQtgLHY2EYfkZ9omGf2DJPpbe-3sNR</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>As Criança falta a Escola</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15N0mzfhdegpMCdR6yH24_tg_4RxE752a</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Quem sera o novo Chefe</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VfpEhwH29sifFosqBEGrhapaKT0tWygh</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Barba, Cabelo e Barba</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/175Z2oKn4Gay_sK3hdEZWxS0r5nFbvvBO</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Barquinho de Papel</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1516Ej8AL0WGWmZjD8Bj8qgCWeHZ4YweP</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>O Marujo Enjoado</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1u9bKfI2KpjaSseqTF2hd-J9Ct2agcKfN</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Louca da Escadaria</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W-VmcliVL4_W07jtRJYW4ouVwXuxDc2T</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Festa a Boa Vizinhança</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1H-O7ybX14iSy7xyLwBcwff1-8z5Po-m8</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Os Toureadores</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OwYf6Eo6_BFW5gVVFxy8mwvF1KcwHSg0</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Festa da Independência</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18-F54PvpJNTLioLf35V49H-u_ldawbL7</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+
+<item>
+<title>Casando Insetos</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WSrRNgBg72yg2HWbEtLYUNrgga-mJbkr</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Quem Brinca com Fogo faz Pipi na Cama</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-tP-Xw2-6ATGnE3gGE_jSKtDhsTSH2jT</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>O Cãozinho da Bruxa</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uCLpouKZO5ldD1kGHREjS3DT40ZHmGuI</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Cesta de Bebês</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B3twv91Zl4B8DQ-vOb9NEdvgUh8Jb0lP</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Seu Madruga Sapateiro</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qzOx7NvfyhwQng_DsOaMS8FknRUwW_Cx</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Jogando Bola</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-xdp0zCWR9mzUwNxn7vxYb-zInO6y4ZX</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Os Atropelados</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vVH65tuvMyNN8gbQdXyXU2YBzx-GK5RA</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Festa da Amizade</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RIW37tDwF1fBDKvCrI05orpsc6NTnQP6</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Uma Refeição Indigesta</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eWycCI8jIFfoSlxLgLSdUfUz5LfX46WA</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>O Ano Novo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wXqgqKAjyxsfhoKTIXT8QHpoueHldu6T</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Com Quanto Ovos se faz um Bolo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1g8mukahOzW0GlYBzctHIR8p0uwFHAl5A</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Um Pouquinho de Cada Vez</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14sz-vu1FjdmnXh0wkmd0tIIgkAC7K_jB</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Os Campeões de Ioiô</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lGduGmUG8Jujj9XYO3PYNwQlyOh2_0KO</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Muito Azar na Sorte</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hLi2iUDv45lSnc_US0Y-gWOAucXx0p8F</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>O Mistério dos Pratos</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1R97z6DtBm9EiGDROMtnQJ5zES3LLFBYl</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Volta dos Espiritos</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1l5fZL6-aICVxFWnHL5HrnqCyeDMCa7Ly</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Um Triangulo Amoroso</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jaCYrPYpIdSio8JhGZYokH7OTW9IN8__</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Doença do Quico/title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jUC23j7qcUUJrHUGY4X9h5-oEKnronyD</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Troca de Chapéus</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1inu_nutRLt11LzTQS7dYxapwC0MS0YbJ</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Crus Vermelha</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_dOKTRiJWQ7LvaxstwaNcEx_kRFWRCzS</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Os Balões do Quico</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZEC_AgXKfcOtlyZ-B1XODdh7Hh4HFlwR</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Quem Convida Paga!</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fLT0Xc2rv8AOpb-3N-5wFq0-UYAKY-BY</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>O Ladrão</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ouDD4hfpFurCBMivQq9mEAiTGJjhHOpf</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>O Festival de Burrice</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Xo5FqapDa_xsSEvGOZMx9GCUVcd_Gd60</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>O Homem Invisível</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hue0Am-TAra4FnNQ3-QKPrTxAIqLrEuY</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>O Caçador de Lagartixas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VJ70-jWoYL4EdvgOH7BuDMHFt_v5CsOC</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Como Sujar uma Roupa</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SAunr4kJxEzLRURimOLDNzjzc_XRzbQB</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<channels>
+</channels><channel>
+<name>2ª Temporada</name>
+<item>
+<title>A Casa da Bruxa</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qRXRLYXRYQWxuWVk</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Casinha do Quico</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qckRJN1RFZjJVbE0</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Festa da Amizade</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qZlNpNlRERkFzNTQ</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Fonte dos desejos</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qb2JUWHI0dzl2d1E</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Galinha do Visinho</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qY0dFcFRWZjBqS3M</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Grande Festa</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qd2JyWGdIZ1NaeWM</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Herança do Seu Madruga</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qeENGNTlvcjVocTA</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Largatixa</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qazBfSUZqMkVMQmM</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Loucura</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qdjNUQS1YWGVSZjA</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Venda da Vila</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qdHNzdGVPNjd0V0E</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>A Volta da Chiquinha</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qTXVOcWRFeC1ycFk</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>O Mascote do Quico</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qcnJUSUkzc1BTaUU</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>O Julgamento do Chaves</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qZGRMZTZ0X09wTzg</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Animais Proibidos</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qMGhZU2VGRFVYYmc</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>As Apostas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qSmF4WTNTdWRCNXc</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>As Bombinhas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qSW1fLXRsTDhRS1E</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>O Sonambolo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qekpkekxyVEFYZFE</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>O Mistério</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qMGpqcDJZLVp2MkE</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Barquinho de Papel</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qSGZLcUxTYkxmcnM</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
+
+<item>
+<title>Briga de água</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_p8pzPcYi4qUmRieVN4MlBzcnM</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jVrnvcUZpFt4yABCyzhMlPSnbex.jpg</fanart>
+<genre>Comédia, Família</genre>
+</item>
