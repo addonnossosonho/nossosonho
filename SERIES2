@@ -631,6 +631,16 @@ Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futur
 
 <channels>
 <channel>
+<name>[COLOR lime]Chaves (1972)[/COLOR]</name>
+<thumbnail>https://ia601400.us.archive.org/35/items/chaves2/chaves.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Chaves</externallink>
+<fanart>https://archive.org/download/chaves2/chaves2.jpg</fanart>
+<info>Uma comédia que aborda as interações de um grupo de pessoas que moram em uma vila pobre.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Chicago Med (2015)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sWkBKCZ4FrzllsLjMQpiFxZWwM.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ChicagoMed</externallink>
