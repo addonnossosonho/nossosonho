@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
+http://
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD 2" tvg-logo="" group-title="Servidor 1",FOX SPORTS HD 2
 http://qtvplay.xyz:25461/dubdYWa4uMc2t2EvrCCou2/b6g2d6tDKQLluY8FBM3/3882
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports FHD" tvg-logo="" group-title="Servidor 1",Band Sports FHD
