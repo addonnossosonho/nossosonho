@@ -1,0 +1,75 @@
+<channels>
+</channels><channel>
+<name>[COLOR yellow][B]1ª Temporada[/B][/COLOR]</name>
+
+<item>
+<title>Episódio 01 - Sonhos alcançáveis</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W25E_azvg_CVTdMTpgQ6RwQa9XedkaJl/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5QWYsyYuVIdfF7GmUPBZDshILKr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1WJ6TTrJjv1iaPfTEYdNfP9ZIdL.jpg</fanart>
+<info>[B][COLOR firebrick]l[/COLOR][/B] Apesar da desconfiança de sua família, a bem-sucedida designer de interiores Debra Newell mergulha de cabeça em seu romance com John Meehan [B][COLOR firebrick]l[/COLOR][/B]</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>Episódio 02 - Bandeiras vermelhas e desfiles</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NlvEYvW3wk5D1oEFv6ld0Ph2nNI-7gy4/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/vsP5KsIx0kC9TuV9FQSXL48J5Iw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1WJ6TTrJjv1iaPfTEYdNfP9ZIdL.jpg</fanart>
+<info>[B][COLOR firebrick]l[/COLOR][/B] Acomodada com John em uma nova e luxuosa casa, Debra ignora os sinais de que algo em seu relacionamento está errado [B][COLOR firebrick]l[/COLOR][/B]</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>Episódio 03 - Lembre-se que fui eu</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WwHW8KSo0TQSPzdL-Swf0dmEMiUU8RY0/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/qb7rbzzsDXmbgabhiFLmlE0ILBy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1WJ6TTrJjv1iaPfTEYdNfP9ZIdL.jpg</fanart>
+<info>[B][COLOR firebrick]l[/COLOR][/B] Abalada pela descoberta do passado suspeito de John, Debra planeja seu próximo passo. Em um flashback, um encontro inesperado expõe uma traição de John [B][COLOR firebrick]l[/COLOR][/B]</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>Episódio 04 - Fragmento</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TJuSYZ-7u4-pSYE4Tb-h4er_-EXQaY8Y/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/60pBe0uYKMlxld3vVahIkFL2WGO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1WJ6TTrJjv1iaPfTEYdNfP9ZIdL.jpg</fanart>
+<info>[B][COLOR firebrick]l[/COLOR][/B] Analisando o presente e o passado, Debra tenta decidir o que fazer sobre John. Uma antiga tragédia da família de Debra é revelada [B][COLOR firebrick]l[/COLOR][/B]</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>Episódio 05 - Chefão da Cosa Nostra</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EvaTI6nkjK8-rC1I1kR9BTaFa287IjqE/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mztqqRoTsaSx15VxruPbeK9xJBW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1WJ6TTrJjv1iaPfTEYdNfP9ZIdL.jpg</fanart>
+<info>[B][COLOR firebrick]l[/COLOR][/B] Ainda em recuperação após sair do hospital, John atrai Debra de volta. Um flashback mostra a dinâmica perversa da família de John [B][COLOR firebrick]l[/COLOR][/B]</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>Episódio 06 - Um sapato</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ICthhExg8BwgRckpd39Gbh8q2yQr0iI4/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/t8p0FK9zlpJ1s6ypd3Keygs2nHl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1WJ6TTrJjv1iaPfTEYdNfP9ZIdL.jpg</fanart>
+<info>[B][COLOR firebrick]l[/COLOR][/B] Uma reunião de John e Debra com um advogado deixa todos nervosos. No passado, um obstinado policial tenta encurralar John com a ajuda da primeira Sra. Meehan [B][COLOR firebrick]l[/COLOR][/B]</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>Episódio 07 - Cavalheirismo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11to_Yyeujjqra9-Xo821cFVemnt21vUb/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mkabnkwTriXvZCWjyUyMJoiPH3w.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1WJ6TTrJjv1iaPfTEYdNfP9ZIdL.jpg</fanart>
+<info>[B][COLOR firebrick]l[/COLOR][/B] Uma nova perspectiva sobre o comportamento de John revela as mentiras e ameaças que ele usa para manipular suas vítimas, e Debra se torna cada vez mais apreensiva [B][COLOR firebrick]l[/COLOR][/B]</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>Episódio 08 - Essa jovem lutou muito</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jyNuIjRYvNq7-Dy7hFnYmRFtHkRe4fZp/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mHbiFxzbk9HwnWF7PH6VfHKHdCl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1WJ6TTrJjv1iaPfTEYdNfP9ZIdL.jpg</fanart>
+<info>[B][COLOR firebrick]l[/COLOR][/B] Debra tenta seguir em frente com sua vida, mas John finalmente dá vazão à sua ira e coloca a vida de uma pessoa da família dela em risco [B][COLOR firebrick]l[/COLOR][/B]</info>
+<genre>Drama</genre>
+</item>
