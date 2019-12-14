@@ -1,0 +1,62 @@
+<channels>
+</channels><channel>
+<name>1ª Temporada</name>
+ 
+<item>
+<title>[COLOR orange][B][COLOR lime] Anjos na América[/COLOR] 01[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1NEcDlD9k5p7TUfCpoUezi1mLcbHow4g-</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rDDI99PcpxnKxcO1C5i1IE7B63r.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/Ag4qgSKgal8EAioX3np2t6gGOXj.jpg</fanart>
+<genre> [COLOR White][B] Drama, Fantasia, Romance[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: Deus abandonou o Paraíso. O ano é 1985: os Reagans estão na Casa Branca e a morte ronda o vírus, da AIDS. Em Manhattan, Prior Walter conta para Lou, seu companheiro há quatro anos, que está doente. Enquanto a doença e a solidão invadem Prior, a culpa toma conta de Lou. Junto a um grupo de pessoas que, à primeira vista, não teriam nada em comum, eles compartilham ideologias, experiências e sentimentos.[/COLOR] IMDb: 8,3/10[/B]</info> 
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Anjos na América[/COLOR] 02[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1Ic8ozg3j9Rv95ZQt6yPchYUqv4951--1</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rDDI99PcpxnKxcO1C5i1IE7B63r.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/Ag4qgSKgal8EAioX3np2t6gGOXj.jpg</fanart>
+<genre> [COLOR White][B] Drama, Fantasia, Romance[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: Deus abandonou o Paraíso. O ano é 1985: os Reagans estão na Casa Branca e a morte ronda o vírus, da AIDS. Em Manhattan, Prior Walter conta para Lou, seu companheiro há quatro anos, que está doente. Enquanto a doença e a solidão invadem Prior, a culpa toma conta de Lou. Junto a um grupo de pessoas que, à primeira vista, não teriam nada em comum, eles compartilham ideologias, experiências e sentimentos.[/COLOR] IMDb: 8,3/10[/B]</info> 
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Anjos na América[/COLOR] 03[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1rWdbMzTrZfC5sUk552EXPDGgz39hQK_D</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rDDI99PcpxnKxcO1C5i1IE7B63r.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/Ag4qgSKgal8EAioX3np2t6gGOXj.jpg</fanart>
+<genre> [COLOR White][B] Drama, Fantasia, Romance[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: Deus abandonou o Paraíso. O ano é 1985: os Reagans estão na Casa Branca e a morte ronda o vírus, da AIDS. Em Manhattan, Prior Walter conta para Lou, seu companheiro há quatro anos, que está doente. Enquanto a doença e a solidão invadem Prior, a culpa toma conta de Lou. Junto a um grupo de pessoas que, à primeira vista, não teriam nada em comum, eles compartilham ideologias, experiências e sentimentos.[/COLOR] IMDb: 8,3/10[/B]</info> 
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Anjos na América[/COLOR] 04[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1pI2dTh4CLRSnsTqTd6sOxg54alVKksBP</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rDDI99PcpxnKxcO1C5i1IE7B63r.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/Ag4qgSKgal8EAioX3np2t6gGOXj.jpg</fanart>
+<genre> [COLOR White][B] Drama, Fantasia, Romance[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: Deus abandonou o Paraíso. O ano é 1985: os Reagans estão na Casa Branca e a morte ronda o vírus, da AIDS. Em Manhattan, Prior Walter conta para Lou, seu companheiro há quatro anos, que está doente. Enquanto a doença e a solidão invadem Prior, a culpa toma conta de Lou. Junto a um grupo de pessoas que, à primeira vista, não teriam nada em comum, eles compartilham ideologias, experiências e sentimentos.[/COLOR] IMDb: 8,3/10[/B]</info> 
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Anjos na América[/COLOR] 05[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1Gfu1-AYSNirY4_I1ev0_X7j0NHIcS7bP</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rDDI99PcpxnKxcO1C5i1IE7B63r.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/Ag4qgSKgal8EAioX3np2t6gGOXj.jpg</fanart>
+<genre> [COLOR White][B] Drama, Fantasia, Romance[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: Deus abandonou o Paraíso. O ano é 1985: os Reagans estão na Casa Branca e a morte ronda o vírus, da AIDS. Em Manhattan, Prior Walter conta para Lou, seu companheiro há quatro anos, que está doente. Enquanto a doença e a solidão invadem Prior, a culpa toma conta de Lou. Junto a um grupo de pessoas que, à primeira vista, não teriam nada em comum, eles compartilham ideologias, experiências e sentimentos.[/COLOR] IMDb: 8,3/10[/B]</info> 
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Anjos na América[/COLOR] 05[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1M0bsp96RwDqrAIzUldQVH9cpBwzC8WZz</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rDDI99PcpxnKxcO1C5i1IE7B63r.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/Ag4qgSKgal8EAioX3np2t6gGOXj.jpg</fanart>
+<genre> [COLOR White][B] Drama, Fantasia, Romance[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: Deus abandonou o Paraíso. O ano é 1985: os Reagans estão na Casa Branca e a morte ronda o vírus, da AIDS. Em Manhattan, Prior Walter conta para Lou, seu companheiro há quatro anos, que está doente. Enquanto a doença e a solidão invadem Prior, a culpa toma conta de Lou. Junto a um grupo de pessoas que, à primeira vista, não teriam nada em comum, eles compartilham ideologias, experiências e sentimentos.[/COLOR] IMDb: 8,3/10[/B]</info> 
+</item>
