@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
+http://
 #EXTINF:-1 tvg-id="" tvg-name="BR. | A&E HD" tvg-logo="" group-title="BRASIL",BR. | A&E HD
 http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3481
 #EXTINF:-1 tvg-id="" tvg-name="BR. | Amc HD" tvg-logo="" group-title="BRASIL",BR. | Amc HD
