@@ -776,6 +776,16 @@ Uma equipe inexperiente de submarinos tem que sobreviver a uma missão secreta e
 
 <channels>
 <channel>
+<name>[COLOR lime]Dirty John (2018)[/COLOR]</name>
+<thumbnail>https://ia601405.us.archive.org/16/items/dirty2/DIRTY.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/DirtyJohn</externallink>
+<fanart>https://archive.org/download/dirty2/DIRTY2.jpg</fanart>
+<info>Esta verdadeira antologia do crime, baseada no podcast de mesmo nome, segue a história aterradora e verdadeira do romance da designer de interiores do Condado de Orange Debra Newell com John Meehan, um encantador e romântico que tira Debra do chão e a puxa para a sua teia de mentiras.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[B][COLOR lime]DOCTOR WHO (2005)[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Doctor%20Who/thumb.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Doctor%20Who/fanart.jpg</fanart>
