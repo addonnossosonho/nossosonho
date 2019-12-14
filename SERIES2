@@ -1559,6 +1559,16 @@ Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes
 
 <channels>
 <channel>
+<name>[COLOR lime]SOBREVIVENTE DESIGNADO (2016)[/COLOR]</name>
+<thumbnail>https://ia601509.us.archive.org/24/items/sobrevivente2/SOBREVIVENTE.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/DesignatedSurvivor</externallink>
+<fanart>https://archive.org/download/sobrevivente2/SOBREVIVENTE2.jpg</fanart>
+<info>om Kirkman, um membro de baixo escalão do gabinete é subitamente nomeado Presidente dos Estados Unidos depois de um ataque catastrófico durante o Estado da União matar todos os que estão acima dele na linha de sucessão presidencial.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Sons of Anarchy (2010)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfTur3Wdh4kiUbKF6rkm9XuVuG.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/SonsofAnarchy.m3u</externallink>
