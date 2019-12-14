@@ -1,0 +1,433 @@
+<channels>
+</channels><channel>
+<name>1ª Temporada</name>
+ 
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 01[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1li09lbtgKNFL2jX5dpW5NVHY-n4LJp6R/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 02[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KU7Zd8iU_uY8RyptrD9Ep0QJStyT5dFM/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 03[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1q19dUxGSI2TN5TqlqFgJmyJ22SJfs5kI/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 04[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xEWsjRySJgxwAjZWLsHSqIDroFVALxLe/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 05[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16SUL32Ns85jMGgnoUpg_LEeRbF6k4vfA/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B]  Drama[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 06[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hGzjqS2CbNgy1m_M4fBTwZ-EzVr6VoRq/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 07[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZH2rwdQefNTZCB8AvHgGDaAbGubKpUdk/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 08[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MQDtKdI2GMjP_I2l6rrcfJOobgyeDPqi/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 09[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HAw0UVAOtbL4V4zL8BAScrFr1IDH9QNy/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 10[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TkwXqb3rpTjeMwj-_kbrCjMstpqzrRmQ/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 11[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x22OPBKwEkJmPz0PDaCNUGxpZp0LYvwE/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 12[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fd8P6Ko4zx5xQ1UP6qmz8WTJr50uF0SJ/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 13[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1v8kjpOAn81ifYNtAJDAeo7lwUf0_wKfw/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 14[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-_aFrgCmBMTgExE8U4ST7w7Zx_AuBxvX/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 15[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FLqzdLvufR3BIRDbAGGqmmTKKnW7TzGt/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 16[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uOivErZq0T4OyyKqvyreaYBtGIN-TTxJ/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 17[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11DzpO6oXr3BgXssYFpWfPvPFMaWE16Cg/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 18[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fyQ8g8pRwN_pPFzyNYHOv9--iW3skWq0/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 19[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14JiN9eKjK-M7ZSVHtl0dy5WT1xwcAf9M/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 20[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12SYhAYzMdGDVKJUsg4JZE6zpnv43--PE/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 21[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MbHmBr7B5w0qCi9EO9NuuGvw9U6saHuC/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iWjzw7ei1kHjuFP3paLpxsW6LbV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beiYFV811grDtFqNBYLCUfSa6RG.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 8,0/10[/B]</info>
+</item>
+
+
+
+<channels>
+</channels><channel>
+<name>2ª Temporada</name>
+ 
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 01[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15vXGMz43rYh7hKjWWc0mCHrXTY02kD6N/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 02[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1s2v_hMxFSGcbQAmAmHkYecudZhrsSehw/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 03[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CzS5aR8re17CFKN_2XVfXcIq4YkNL1dY/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 04[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10xfvs4JMZoBqWEKRetXUnRNUiyp1jSKo/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 05[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TvvlBSxkB5H52YKb7Notoc6Q7e7pb_9x/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 06[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YASYlt3a_G6ZEN0F6H8_qGikMKp3IJso/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 07[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1phQA0T9pnQXL_30DGdBQoTolv19w4gjN/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 08[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yW3OpxIgfJf19a8R34tsqMl-1sipntFf/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 09[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Nfz4rH6IHqh-ffE-ET9DXjGwCCIoCWKe/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 10[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1V0tvaOxbqb5l_N_EqPHXT6_fpPR-qGCC/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 11[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KkfAcdsNQWS6VuXPpvuas4GbTuMWLqQr/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 12[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fd8P6Ko4zx5xQ1UP6qmz8WTJr50uF0SJ/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 13[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PUqObJwZScMF2GXl_ngiLRKn1HarSGl6/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 14[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wfred7R6-QATY2gMQ076ZPEP_LU2HEU0/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 15[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1au2by6bYgy-Cb6uL9v54g4XRTbdKLUab/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 16[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XvWLQkccmrnhL22hZKTkWCqmXNw9K0Qk/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 17[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wg2LgmCaRRPo3K8Ir7V5LevV8CZWNwsQ/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 18[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tnb5CQfRSHcQIQeR8h-1C7zFnHswL3ro/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 19[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1C1GYJ7pMyoo6msQ5KPArsx3b3mD1u9dK/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 20[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1u7ZqqaakcJFekAnk_A-VMn_Wa5sJVapk/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 21[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gLZuOeFtwwdP_8Iyum4QEvNfLP6Cp4wy/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Designated Survivor[/COLOR] 22[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SO-sLNVuuTiggHw8-HBc6-s1zPDsQRsB/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/original/xLiCGYlW5JykgSBQU7hA2qptkJp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</fanart>
+<genre> [COLOR White][B] Drama, Suspense[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: A série protagonizada por Kiefer Sutherland é centrada em um funcionário do Gabinete da Casa Branca que é indicado para assumir a presidência dos Estados Unidos após um ataque ter deixado mortos todos acima dele na linha sucessória. O título da série vem do termo “sobrevivente designado”, que é utilizado quando algum membro do Gabinete está isolado em um local seguro enquanto todos os outros líderes estão reunidos em um único local. A política é usada para preservar a continuidade do governo no caso de alguma catástrofe. O elenco tem ainda Maggie Q (Nikita, Divergente) e Kal Penn (House), com roteiro produzido por Simon Kinberg (Perdido em Marte, X-Men: Apocalypse) e pela Mark Gordon Company.[/COLOR] IMDb: 7,9/10[/B]</info>
+</item>
