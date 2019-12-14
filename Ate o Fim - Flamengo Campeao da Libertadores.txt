@@ -1,0 +1,23 @@
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]1º Temporada[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/eDMC0lk.jpg</thumbnail>
+<fanart>https://i.imgur.com/mKfF59q.jpg</fanart>
+<info>Bastidores inéditos e a saga até a final. A preparação, as viagens, a tensão e a festa nos vestiários, além de entrevistas exclusivas com os personagens do título.</info>
+
+<item>
+<title>[COLOR lawngreen][B]Episódio 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vR9EysSbpgWR5eECyK6jfWNeURgepCtG/view?usp=sharing</link>
+<thumbnail>https://i.imgur.com/eDMC0lk.jpg</thumbnail>
+<fanart>https://i.imgur.com/mKfF59q.jpg</fanart>
+<info>Bastidores inéditos e a saga até a final. A preparação, as viagens, a tensão e a festa nos vestiários, além de entrevistas exclusivas com os personagens do título.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Episódio 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tB8YhlVvZpZlLxA9KSiE-nzJhfYV1nVb/view?usp=sharing</link>
+<thumbnail>https://i.imgur.com/eDMC0lk.jpg</thumbnail>
+<fanart>https://i.imgur.com/mKfF59q.jpg</fanart>
+<info>Bastidores inéditos e a saga até a final. A preparação, as viagens, a tensão e a festa nos vestiários, além de entrevistas exclusivas com os personagens do título.</info>
+</item>
+
