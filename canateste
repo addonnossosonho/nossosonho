@@ -1,5 +1,7 @@
 ##############################################################################################################
 #EXTM3U
+#EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
+http://
 #EXTINF:-1 tvg-id="ext" group-title="Canais 01",A&E FHD
 http://190.2.143.77/?uid=iptvb4n3&sid=BR: A%26E FHD
 #EXTINF:-1 tvg-id="ext" group-title="Canais 01",A&E HD
