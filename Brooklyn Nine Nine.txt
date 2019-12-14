@@ -1,0 +1,102 @@
+<channels>
+</channels><channel>
+<name>[COLOR yellow][B]6ª Temporada[/B][/COLOR]</name>
+ 
+<item>
+<title>[COLOR orange][B][COLOR lime] Brooklyn Nine-Nine[/COLOR] 01[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1zFk0tdVsfG3LyGYa3BWVi8_ogDuc1D-z</link>
+<thumbnail>https://image.tmdb.org/t/p/original/A3SymGlOHefSKbz1bCOz56moupS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ncC9ZgZuKOdaVm7yXinUn26Qyok.jpg</fanart>
+<genre> [COLOR White][B] Comédia, Crime[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: O brilhante e imaturo detetive Jake Peralta precisa aprender a seguir as regras e trabalhar em equipe quando um capitão exigente assume o comando de seu esquadrão.[/COLOR] IMDb: 8,4/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Brooklyn Nine-Nine[/COLOR] 02[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1PbOGf6Yc6fhoYlmx4A3JP4bihAeCeKjv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/A3SymGlOHefSKbz1bCOz56moupS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ncC9ZgZuKOdaVm7yXinUn26Qyok.jpg</fanart>
+<genre> [COLOR White][B] Comédia, Crime[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: O brilhante e imaturo detetive Jake Peralta precisa aprender a seguir as regras e trabalhar em equipe quando um capitão exigente assume o comando de seu esquadrão.[/COLOR] IMDb: 8,4/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Brooklyn Nine-Nine[/COLOR] 03[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1NOax-m4tjRRIHdWyagdWrtowHLUNPaz2</link>
+<thumbnail>https://image.tmdb.org/t/p/original/A3SymGlOHefSKbz1bCOz56moupS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ncC9ZgZuKOdaVm7yXinUn26Qyok.jpg</fanart>
+<genre> [COLOR White][B] Comédia, Crime[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: O brilhante e imaturo detetive Jake Peralta precisa aprender a seguir as regras e trabalhar em equipe quando um capitão exigente assume o comando de seu esquadrão.[/COLOR] IMDb: 8,4/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Brooklyn Nine-Nine[/COLOR] 04[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=16elfEVSsS-GVtXy1QlRSS3zGbBDSqtk7</link>
+<thumbnail>https://image.tmdb.org/t/p/original/A3SymGlOHefSKbz1bCOz56moupS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ncC9ZgZuKOdaVm7yXinUn26Qyok.jpg</fanart>
+<genre> [COLOR White][B] Comédia, Crime[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: O brilhante e imaturo detetive Jake Peralta precisa aprender a seguir as regras e trabalhar em equipe quando um capitão exigente assume o comando de seu esquadrão.[/COLOR] IMDb: 8,4/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Brooklyn Nine-Nine[/COLOR] 05[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1rcmpcVjiQZnGRera9gT4ufKx2txjWNB9</link>
+<thumbnail>https://image.tmdb.org/t/p/original/A3SymGlOHefSKbz1bCOz56moupS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ncC9ZgZuKOdaVm7yXinUn26Qyok.jpg</fanart>
+<genre> [COLOR White][B] Comédia, Crime[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: O brilhante e imaturo detetive Jake Peralta precisa aprender a seguir as regras e trabalhar em equipe quando um capitão exigente assume o comando de seu esquadrão.[/COLOR] IMDb: 8,4/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Brooklyn Nine-Nine[/COLOR] 06[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1jXTAjMiBMJQ02wmaVjdpRVkraSXE1CUc</link>
+<thumbnail>https://image.tmdb.org/t/p/original/A3SymGlOHefSKbz1bCOz56moupS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ncC9ZgZuKOdaVm7yXinUn26Qyok.jpg</fanart>
+<genre> [COLOR White][B] Comédia, Crime[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: O brilhante e imaturo detetive Jake Peralta precisa aprender a seguir as regras e trabalhar em equipe quando um capitão exigente assume o comando de seu esquadrão.[/COLOR] IMDb: 8,4/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Brooklyn Nine-Nine[/COLOR] 07[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1figNW2mo9VhQhmMhICNIWjIMa8bJkODV</link>
+<thumbnail>https://image.tmdb.org/t/p/original/A3SymGlOHefSKbz1bCOz56moupS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ncC9ZgZuKOdaVm7yXinUn26Qyok.jpg</fanart>
+<genre> [COLOR White][B] Comédia, Crime[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: O brilhante e imaturo detetive Jake Peralta precisa aprender a seguir as regras e trabalhar em equipe quando um capitão exigente assume o comando de seu esquadrão.[/COLOR] IMDb: 8,4/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Brooklyn Nine-Nine[/COLOR] 08[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1RzisRwnUO2pUZ7COy2JftI-_3iF_AaWU</link>
+<thumbnail>https://image.tmdb.org/t/p/original/A3SymGlOHefSKbz1bCOz56moupS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ncC9ZgZuKOdaVm7yXinUn26Qyok.jpg</fanart>
+<genre> [COLOR White][B] Comédia, Crime[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: O brilhante e imaturo detetive Jake Peralta precisa aprender a seguir as regras e trabalhar em equipe quando um capitão exigente assume o comando de seu esquadrão.[/COLOR] IMDb: 8,4/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Brooklyn Nine-Nine[/COLOR] 09[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1qphX7W8s5zZQDbXniDujBSuxFHF59JNw</link>
+<thumbnail>https://image.tmdb.org/t/p/original/A3SymGlOHefSKbz1bCOz56moupS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ncC9ZgZuKOdaVm7yXinUn26Qyok.jpg</fanart>
+<genre> [COLOR White][B] Comédia, Crime[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: O brilhante e imaturo detetive Jake Peralta precisa aprender a seguir as regras e trabalhar em equipe quando um capitão exigente assume o comando de seu esquadrão.[/COLOR] IMDb: 8,4/10[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][COLOR lime] Brooklyn Nine-Nine[/COLOR] 10[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1YC-BljsTOM8e3-OZLSK5DR1Ohncu3u45</link>
+<thumbnail>https://image.tmdb.org/t/p/original/A3SymGlOHefSKbz1bCOz56moupS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ncC9ZgZuKOdaVm7yXinUn26Qyok.jpg</fanart>
+<genre> [COLOR White][B] Comédia, Crime[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: O brilhante e imaturo detetive Jake Peralta precisa aprender a seguir as regras e trabalhar em equipe quando um capitão exigente assume o comando de seu esquadrão.[/COLOR] IMDb: 8,4/10[/B]</info>
+</item>
