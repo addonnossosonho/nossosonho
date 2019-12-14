@@ -199,6 +199,16 @@ Após a morte inesperada de sua esposa, Tony (Ricky Gervais) decide mudar seu mo
 
 <channels>
 <channel>
+<name>[COLOR lime]ANJOS NA AMERICA (2003)[/COLOR]</name>
+<thumbnail>https://ia601409.us.archive.org/17/items/angels_201912/angels.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AnjosnaAmerica</externallink>
+<fanart>https://ia601409.us.archive.org/17/items/angels_201912/angels2.jpg</fanart>
+<info>Deus abandonou o Paraíso. O ano é 1985: os Reagans estão na Casa Branca e a morte ronda o vírus, da AIDS. Em Manhattan, Prior Walter conta para Lou, seu companheiro há quatro anos, que está doente. Enquanto a doença e a solidão invadem Prior, a culpa toma conta de Lou. Junto a um grupo de pessoas que, à primeira vista, não teriam nada em comum, eles compartilham ideologias, experiências e sentimentos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Além da Imaginação (2002)[/COLOR]</name>
 <thumbnail>https://ia601404.us.archive.org/30/items/poster_201912/AlemdaImaginacao.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ALEMDAIMAGINACAO.m3u</externallink>
@@ -425,6 +435,16 @@ Inspirada nos quadrinhos do Arqueiro Verde, esta série acompanha as aventuras d
 
 <channels>
 <channel>
+<name>[COLOR lime]Até o Fim: Flamengo Campeão da Libertadores (2019)[/COLOR]</name>
+<thumbnail>https://ia601504.us.archive.org/8/items/flamengo2/FLAMENGO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/AteoFimFlamengoCampeaodaLibertadores</externallink>
+<fanart>https://archive.org/download/flamengo2/FLAMENGO2.jpg</fanart>
+<info>.....</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Bad Blood (2017)[/COLOR]</name>
 <thumbnail>https://ia601404.us.archive.org/30/items/poster_201912/badblood.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BadBlood</externallink>
@@ -606,6 +626,17 @@ A história de um homem injustamente condenado que luta pela sua sobrevivência 
 <info>
 Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futuro da família, mudando o destino de todos.</info>
 <genre>POLICIAL</genre>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime]Brooklyn Nine-Nine (2013)[/COLOR]</name>
+<thumbnail>https://ia601506.us.archive.org/25/items/nine2_201912/NINE.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/BreakingBad</externallink>
+<fanart>https://ia601506.us.archive.org/25/items/nine2_201912/NINE2.jpg</fanart>
+<info>Uma comédia de câmera única acompanhando a vida de um grupo eclético de detetives em uma delegacia de Nova York, incluindo um preguiçoso que é forçado a se formar quando recebe um novo chefe.</info>
+<genre>COMEDIA</genre>
 </channel>
 </channels>
 
