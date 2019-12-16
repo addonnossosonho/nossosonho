@@ -55,28 +55,28 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1340bEJpi_Fl1jk3YVSKIMwArUWZIiDjI/view?usp=drivesdk
 
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hannibal3.jpg" group-title="HANNIBAL",HANNIBAL S03E01
-http://
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1d1Gc_EGpXG3ylEiUWky5nSnBWdVjb44h/view?usp=drivesdk
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hannibal3.jpg" group-title="HANNIBAL",HANNIBAL S03E02
-http://
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yOylSlrZ_m-zgClBHp73H1ss5-Rw-6Kh/view?usp=drivesdk
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hannibal3.jpg" group-title="HANNIBAL",HANNIBAL S03E03
-http://
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16vEHkzkDpFnE6SccEddCxNrUJZXM0e--/view?usp=drivesdk
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hannibal3.jpg" group-title="HANNIBAL",HANNIBAL S03E04 (LEG)
-http://
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zvEySjHV_NUy1cRhND8zJM_n4jdWSayA/view?usp=drivesdk
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hannibal3.jpg" group-title="HANNIBAL",HANNIBAL S03E05
-http://
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1e2o5HXJe5XleY4JzLaCsvYZKFn6KlH2g/view?usp=drivesdk
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hannibal3.jpg" group-title="HANNIBAL",HANNIBAL S03E06
-http://
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1z4VfopiWPqkyjUnrR1w0ZqHAT6Fd69yV/view?usp=drivesdk
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hannibal3.jpg" group-title="HANNIBAL",HANNIBAL S03E07
-http://
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QHy-cCuxJAStFRR0JJSFWM4r2JBtKmA3/view?usp=drivesdk
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hannibal3.jpg" group-title="HANNIBAL",HANNIBAL S03E08
-http://
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hUHwLJxSA_mDmgNbU7pKx-lOC3KtxoBh/view?usp=drivesdk
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hannibal3.jpg" group-title="HANNIBAL",HANNIBAL S03E09
-http://
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1unFR6k3JVaKd8HWN_sLcmN-8dQou6DK0/view?usp=drivesdk
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hannibal3.jpg" group-title="HANNIBAL",HANNIBAL S03E10
-http://
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1G3Aba_QyG83zNkc64ynMJ6HkzD14n2jt/view?usp=drivesdk
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hannibal3.jpg" group-title="HANNIBAL",HANNIBAL S03E11
-http://
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fmIojLmafI9J-HWPnpUPTbi7Anyly4IZ/view?usp=drivesdk
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hannibal3.jpg" group-title="HANNIBAL",HANNIBAL S03E12 (LEG)
-http://
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fSHpGIOhRch0FK840CoOVXB6TIAEGjZH/view?usp=drivesdk
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hannibal3.jpg" group-title="HANNIBAL",HANNIBAL S03E13 (LEG)
-http://
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1biMuo5dJquznNA9RJ73T2xf-KfhuNPBs/view?usp=drivesdk
