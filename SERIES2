@@ -1353,6 +1353,16 @@ A série é focada nos últimos anos de treinamento de um jovem doutor que revel
 
 <channels>
 <channel>
+<name>[COLOR lime]Os Saqueadores (2020)[/COLOR]</name>
+<thumbnail>https://ia601502.us.archive.org/28/items/ossaqueadores2/OS-SAQUEADORES.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/OSSAQUEADORES</externallink>
+<fanart>https://ia601502.us.archive.org/28/items/ossaqueadores2/OS-SAQUEADORES2.jpg</fanart>
+<info>Na Bélgica do século XVIII, Jan volta de um período traumático e encontra sua comunidade dominada por franceses. Junto a uma gangue de ladrões, o jovem se tornará um herói local.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Os Simpsons (1989)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fSGtPOp3MlFfynLEjYjlOfenbk.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/OsSimpsons.m3u</externallink>
