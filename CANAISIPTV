@@ -2,567 +2,454 @@
 
 #EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
 http://
-#EXTINF:-1 tvg-id="" tvg-name="BR. | A&E HD" tvg-logo="" group-title="BRASIL",BR. | A&E HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3481
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Amc HD" tvg-logo="" group-title="BRASIL",BR. | Amc HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3482
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Arte 1 HD" tvg-logo="" group-title="BRASIL",BR. | Arte 1 HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3483
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Axn HD" tvg-logo="" group-title="BRASIL",BR. | Axn HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3484
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Cinemax HD" tvg-logo="" group-title="BRASIL",BR. | Cinemax HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3485
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Fox HD" tvg-logo="" group-title="BRASIL",BR. | Fox HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3486
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Fox Premium 1 HD" tvg-logo="" group-title="BRASIL",BR. | Fox Premium 1 HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3487
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Fox Premium 2 HD" tvg-logo="" group-title="BRASIL",BR. | Fox Premium 2 HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3488
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Fx HD" tvg-logo="" group-title="BRASIL",BR. | Fx HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3489
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Hbo HD" tvg-logo="" group-title="BRASIL",BR. | Hbo HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3490
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Hbo Family HD" tvg-logo="" group-title="BRASIL",BR. | Hbo Family HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3491
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Hbo 2 HD" tvg-logo="" group-title="BRASIL",BR. | Hbo 2 HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3492
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Hbo Plus HD" tvg-logo="" group-title="BRASIL",BR. | Hbo Plus HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3493
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Hbo Signature HD" tvg-logo="" group-title="BRASIL",BR. | Hbo Signature HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3494
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Max HD" tvg-logo="" group-title="BRASIL",BR. | Max HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3495
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Max Prime HD" tvg-logo="" group-title="BRASIL",BR. | Max Prime HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3496
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Max Up HD" tvg-logo="" group-title="BRASIL",BR. | Max Up HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3497
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Megapix HD" tvg-logo="" group-title="BRASIL",BR. | Megapix HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3498
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Paramount HD" tvg-logo="" group-title="BRASIL",BR. | Paramount HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3499
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Sony Channel HD" tvg-logo="" group-title="BRASIL",BR. | Sony Channel HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3500
-#EXTINF:-1 tvg-id="" tvg-name="BR. | SPace HD" tvg-logo="" group-title="BRASIL",BR. | SPace HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3501
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Studio Universal HD" tvg-logo="" group-title="BRASIL",BR. | Studio Universal HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3502
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Syfy HD" tvg-logo="" group-title="BRASIL",BR. | Syfy HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3503
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Tbs HD" tvg-logo="" group-title="BRASIL",BR. | Tbs HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3504
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Tcm HD" tvg-logo="" group-title="BRASIL",BR. | Tcm HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3505
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Telecine Action HD" tvg-logo="" group-title="BRASIL",BR. | Telecine Action HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3506
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Telecine Cult HD" tvg-logo="" group-title="BRASIL",BR. | Telecine Cult HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3507
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Telecine Fun HD" tvg-logo="" group-title="BRASIL",BR. | Telecine Fun HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3508
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Telecine Pipoca HD" tvg-logo="" group-title="BRASIL",BR. | Telecine Pipoca HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3509
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Telecine Premium HD" tvg-logo="" group-title="BRASIL",BR. | Telecine Premium HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3510
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Telecine Touch HD" tvg-logo="" group-title="BRASIL",BR. | Telecine Touch HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3511
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Tnt HD" tvg-logo="" group-title="BRASIL",BR. | Tnt HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3512
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Tnt Series HD" tvg-logo="" group-title="BRASIL",BR. | Tnt Series HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3513
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Universal HD" tvg-logo="" group-title="BRASIL",BR. | Universal HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3514
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Warner Channel HD" tvg-logo="" group-title="BRASIL",BR. | Warner Channel HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3515
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Globo Brasilia HD" tvg-logo="" group-title="BRASIL",BR. | Globo Brasilia HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3516
-#EXTINF:-1 tvg-id="" tvg-name="BR. | EpTV Ribeirao Preto HD" tvg-logo="" group-title="BRASIL",BR. | EpTV Ribeirao Preto HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3517
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Globo Manaus HD" tvg-logo="" group-title="BRASIL",BR. | Globo Manaus HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3518
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Globo Minas HD" tvg-logo="" group-title="BRASIL",BR. | Globo Minas HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3519
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Globo Nordeste HD" tvg-logo="" group-title="BRASIL",BR. | Globo Nordeste HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3520
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Globo Rbs Porto Alegre HD" tvg-logo="" group-title="BRASIL",BR. | Globo Rbs Porto Alegre HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3521
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Globo RJ HD" tvg-logo="" group-title="BRASIL",BR. | Globo RJ HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3522
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Globo SP HD" tvg-logo="" group-title="BRASIL",BR. | Globo SP HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3523
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Globo TV Sergipe HD" tvg-logo="" group-title="BRASIL",BR. | Globo TV Sergipe HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3525
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Baby HD" tvg-logo="" group-title="BRASIL",BR. | Baby HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3526
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Boomerang HD" tvg-logo="" group-title="BRASIL",BR. | Boomerang HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3527
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Cartoon Network HD" tvg-logo="" group-title="BRASIL",BR. | Cartoon Network HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3528
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Comedy CEntral HD" tvg-logo="" group-title="BRASIL",BR. | Comedy CEntral HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3529
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Discovery Kids HD" tvg-logo="" group-title="BRASIL",BR. | Discovery Kids HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3530
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Disney Channel HD" tvg-logo="" group-title="BRASIL",BR. | Disney Channel HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3531
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Disney Jr HD" tvg-logo="" group-title="BRASIL",BR. | Disney Jr HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3532
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Disney Xd HD" tvg-logo="" group-title="BRASIL",BR. | Disney Xd HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3533
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Gloob HD" tvg-logo="" group-title="BRASIL",BR. | Gloob HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3534
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Gloobinho HD" tvg-logo="" group-title="BRASIL",BR. | Gloobinho HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3535
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Natgeo Kids HD" tvg-logo="" group-title="BRASIL",BR. | Natgeo Kids HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3536
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Nick HD" tvg-logo="" group-title="BRASIL",BR. | Nick HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3537
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Nick Jr HD" tvg-logo="" group-title="BRASIL",BR. | Nick Jr HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3538
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Ra Tim Bum HD" tvg-logo="" group-title="BRASIL",BR. | TV Ra Tim Bum HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3540
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Tooncast HD" tvg-logo="" group-title="BRASIL",BR. | Tooncast HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3541
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Zoomoo HD" tvg-logo="" group-title="BRASIL",BR. | Zoomoo HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3542
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Band News HD" tvg-logo="" group-title="BRASIL",BR. | Band News HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3543
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Globo News HD" tvg-logo="" group-title="BRASIL",BR. | Globo News HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3545
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Record News HD" tvg-logo="" group-title="BRASIL",BR. | Record News HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3546
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Bis HD" tvg-logo="" group-title="BRASIL",BR. | Bis HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3548
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Food Network HD" tvg-logo="" group-title="BRASIL",BR. | Food Network HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3549
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Fox Life HD" tvg-logo="" group-title="BRASIL",BR. | Fox Life HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3550
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Fox Life HD" tvg-logo="" group-title="BRASIL",BR. | Fox Life HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3551
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Gnt HD" tvg-logo="" group-title="BRASIL",BR. | Gnt HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3552
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Lifetime HD" tvg-logo="" group-title="BRASIL",BR. | Lifetime HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3553
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Mais Globosat HD" tvg-logo="" group-title="BRASIL",BR. | Mais Globosat HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3554
-#EXTINF:-1 tvg-id="" tvg-name="BR. | MTV HD" tvg-logo="" group-title="BRASIL",BR. | MTV HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3555
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Multishow HD" tvg-logo="" group-title="BRASIL",BR. | Multishow HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3556
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Tlc HD" tvg-logo="" group-title="BRASIL",BR. | Tlc HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3557
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Viva HD" tvg-logo="" group-title="BRASIL",BR. | Viva HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3558
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Animal Planet HD" tvg-logo="" group-title="BRASIL",BR. | Animal Planet HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3559
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Discovery Channel HD" tvg-logo="" group-title="BRASIL",BR. | Discovery Channel HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3560
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Discovery Civilization HD" tvg-logo="" group-title="BRASIL",BR. | Discovery Civilization HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3561
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Discovery H&H HD" tvg-logo="" group-title="BRASIL",BR. | Discovery H&H HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3562
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Discovery Science HD" tvg-logo="" group-title="BRASIL",BR. | Discovery Science HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3563
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Discovery Theater HD" tvg-logo="" group-title="BRASIL",BR. | Discovery Theater HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3564
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Discovery Turbo HD" tvg-logo="" group-title="BRASIL",BR. | Discovery Turbo HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3565
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Discovery World HD" tvg-logo="" group-title="BRASIL",BR. | Discovery World HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3566
-#EXTINF:-1 tvg-id="" tvg-name="BR. | H2 HD" tvg-logo="" group-title="BRASIL",BR. | H2 HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3567
-#EXTINF:-1 tvg-id="" tvg-name="BR. | History HD" tvg-logo="" group-title="BRASIL",BR. | History HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3568
-#EXTINF:-1 tvg-id="" tvg-name="BR. | ID Discovery HD" tvg-logo="" group-title="BRASIL",BR. | ID Discovery HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3569
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Natgeo HD" tvg-logo="" group-title="BRASIL",BR. | Natgeo HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3570
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Natgeo Wild HD" tvg-logo="" group-title="BRASIL",BR. | Natgeo Wild HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3571
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Canal Brasil SD" tvg-logo="" group-title="BRASIL",BR. | Canal Brasil SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3572
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Canal Rural SD" tvg-logo="" group-title="BRASIL",BR. | Canal Rural SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3573
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Brasil SD" tvg-logo="" group-title="BRASIL",BR. | TV Brasil SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3574
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Camara SD" tvg-logo="" group-title="BRASIL",BR. | TV Camara SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3575
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Climatempo SD" tvg-logo="" group-title="BRASIL",BR. | TV Climatempo SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3576
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Escola SD" tvg-logo="" group-title="BRASIL",BR. | TV Escola SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3578
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Justica SD" tvg-logo="" group-title="BRASIL",BR. | TV Justica SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3580
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Senado SD" tvg-logo="" group-title="BRASIL",BR. | TV Senado SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3581
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Terra Viva SD" tvg-logo="" group-title="BRASIL",BR. | Terra Viva SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3582
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Sic Internacional SD" tvg-logo="" group-title="BRASIL",BR. | Sic Internacional SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3583
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Rede Brasil SD" tvg-logo="" group-title="BRASIL",BR. | Rede Brasil SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3584
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Rede TV SD" tvg-logo="" group-title="BRASIL",BR. | Rede TV SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3585
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Rede Vida SD" tvg-logo="" group-title="BRASIL",BR. | Rede Vida SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3586
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Mar" tvg-logo="" group-title="BRASIL",BR. | TV Mar
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3589
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Maceio" tvg-logo="" group-title="BRASIL",BR. | TV Maceio
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3590
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV J.Sid BA" tvg-logo="" group-title="BRASIL",BR. | TV J.Sid BA
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3596
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV A Cara Da Bahia" tvg-logo="" group-title="BRASIL",BR. | TV A Cara Da Bahia
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3599
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV O Povo CE" tvg-logo="" group-title="BRASIL",BR. | TV O Povo CE
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3605
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Radio Esportes Brasilia" tvg-logo="" group-title="BRASIL",BR. | Radio Esportes Brasilia
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3610
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Brasil Df" tvg-logo="" group-title="BRASIL",BR. | TV Brasil Df
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3611
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TVn Brasil Df" tvg-logo="" group-title="BRASIL",BR. | TVn Brasil Df
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3612
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Serra Dourada (Sbt Go)" tvg-logo="" group-title="BRASIL",BR. | TV Serra Dourada (Sbt Go)
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3622
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Fonte TV Go" tvg-logo="" group-title="BRASIL",BR. | Fonte TV Go
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3623
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Po" tvg-logo="" group-title="BRASIL",BR. | TV Po
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3629
-#EXTINF:-1 tvg-id="" tvg-name="BR. | NTV Patos Mg" tvg-logo="" group-title="BRASIL",BR. | NTV Patos Mg
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3630
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Plan Mg" tvg-logo="" group-title="BRASIL",BR. | TV Plan Mg
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3633
-#EXTINF:-1 tvg-id="" tvg-name="BR. | RbaTV (Band Pa)" tvg-logo="" group-title="BRASIL",BR. | RbaTV (Band Pa)
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3636
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Sol PB" tvg-logo="" group-title="BRASIL",BR. | TV Sol PB
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3640
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Creative TV PB" tvg-logo="" group-title="BRASIL",BR. | Creative TV PB
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3642
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TVci Pr" tvg-logo="" group-title="BRASIL",BR. | TVci Pr
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3645
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Eparana (Cultura Pr)" tvg-logo="" group-title="BRASIL",BR. | TV Eparana (Cultura Pr)
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3646
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Up HD (Futura) Pr" tvg-logo="" group-title="BRASIL",BR. | TV Up HD (Futura) Pr
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3651
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Master TV Pr" tvg-logo="" group-title="BRASIL",BR. | Master TV Pr
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3652
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Jornal (Sbt Pe)" tvg-logo="" group-title="BRASIL",BR. | TV Jornal (Sbt Pe)
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3654
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Jornal Caruaru (Sbt Pe)" tvg-logo="" group-title="BRASIL",BR. | TV Jornal Caruaru (Sbt Pe)
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3655
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Rede Brasil De Comunica" tvg-logo="" group-title="BRASIL",BR. | Rede Brasil De Comunica
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3656
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Caruaru Pe" tvg-logo="" group-title="BRASIL",BR. | TV Caruaru Pe
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3659
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Boa Esperan" tvg-logo="" group-title="BRASIL",BR. | TV Boa Esperan
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3660
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Cidade Verde (Sbt Pi)" tvg-logo="" group-title="BRASIL",BR. | TV Cidade Verde (Sbt Pi)
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3661
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TVc 16 RJ" tvg-logo="" group-title="BRASIL",BR. | TVc 16 RJ
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3667
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Rede TV RJ" tvg-logo="" group-title="BRASIL",BR. | Rede TV RJ
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3668
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Natal Rn" tvg-logo="" group-title="BRASIL",BR. | TV Natal Rn
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3676
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Pampa (Rede TV RS)" tvg-logo="" group-title="BRASIL",BR. | TV Pampa (Rede TV RS)
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3679
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Cachoeira RS" tvg-logo="" group-title="BRASIL",BR. | TV Cachoeira RS
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3683
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Furg TV RS" tvg-logo="" group-title="BRASIL",BR. | Furg TV RS
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3685
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Gide" tvg-logo="" group-title="BRASIL",BR. | TV Gide
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3689
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Canal 24 Horas RS" tvg-logo="" group-title="BRASIL",BR. | Canal 24 Horas RS
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3691
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Rede TV SP" tvg-logo="" group-title="BRASIL",BR. | Rede TV SP
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3692
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Sbt SP" tvg-logo="" group-title="BRASIL",BR. | Sbt SP
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3694
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Sbt Interior SP" tvg-logo="" group-title="BRASIL",BR. | Sbt Interior SP
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3695
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Summer TV SP" tvg-logo="" group-title="BRASIL",BR. | Summer TV SP
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3699
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Capital 777 SP" tvg-logo="" group-title="BRASIL",BR. | TV Capital 777 SP
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3700
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Destak SP" tvg-logo="" group-title="BRASIL",BR. | TV Destak SP
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3702
-#EXTINF:-1 tvg-id="" tvg-name="BR. | ITV - Canal Itu TV SP" tvg-logo="" group-title="BRASIL",BR. | ITV - Canal Itu TV SP
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3703
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Itapetininga SP" tvg-logo="" group-title="BRASIL",BR. | TV Itapetininga SP
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3704
-#EXTINF:-1 tvg-id="" tvg-name="BR. | ConecTV SP" tvg-logo="" group-title="BRASIL",BR. | ConecTV SP
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3708
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV A Caminho Da Luz Espirita SP" tvg-logo="" group-title="BRASIL",BR. | TV A Caminho Da Luz Espirita SP
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3714
-#EXTINF:-1 tvg-id="" tvg-name="BR. | CEak TV Esrita SP" tvg-logo="" group-title="BRASIL",BR. | CEak TV Esrita SP
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3715
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Guarulhos SP" tvg-logo="" group-title="BRASIL",BR. | TV Guarulhos SP
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3716
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Nova TV Vale SP" tvg-logo="" group-title="BRASIL",BR. | Nova TV Vale SP
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3719
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Gostei Gospel TV SP" tvg-logo="" group-title="BRASIL",BR. | Gostei Gospel TV SP
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3721
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Band SD" tvg-logo="" group-title="BRASIL",BR. | Band SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3727
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Sbt SD" tvg-logo="" group-title="BRASIL",BR. | Sbt SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3728
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Record Mg SD" tvg-logo="" group-title="BRASIL",BR. | Record Mg SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3731
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Record RJ SD" tvg-logo="" group-title="BRASIL",BR. | Record RJ SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3732
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Record RS SD" tvg-logo="" group-title="BRASIL",BR. | Record RS SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3733
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Record TV SD" tvg-logo="" group-title="BRASIL",BR. | Record TV SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3734
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Band SPorts SD" tvg-logo="" group-title="BRASIL",BR. | Band SPorts SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3735
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Combate SD" tvg-logo="" group-title="BRASIL",BR. | Combate SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3736
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Espn Brasil SD" tvg-logo="" group-title="BRASIL",BR. | Espn Brasil SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3738
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Espn Extra SD" tvg-logo="" group-title="BRASIL",BR. | Espn Extra SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3739
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Espn SD" tvg-logo="" group-title="BRASIL",BR. | Espn SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3740
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Fish TV SD" tvg-logo="" group-title="BRASIL",BR. | Fish TV SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3741
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Fox SPorts 2 SD" tvg-logo="" group-title="BRASIL",BR. | Fox SPorts 2 SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3742
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Fox SPorts SD" tvg-logo="" group-title="BRASIL",BR. | Fox SPorts SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3743
-#EXTINF:-1 tvg-id="" tvg-name="BR. | SPorTV 2 SD" tvg-logo="" group-title="BRASIL",BR. | SPorTV 2 SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3744
-#EXTINF:-1 tvg-id="" tvg-name="BR. | SPorTV 3 SD" tvg-logo="" group-title="BRASIL",BR. | SPorTV 3 SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3745
-#EXTINF:-1 tvg-id="" tvg-name="BR. | SPorTV SD" tvg-logo="" group-title="BRASIL",BR. | SPorTV SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3746
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Off SD" tvg-logo="" group-title="BRASIL",BR. | Off SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3747
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Woohoo SD" tvg-logo="" group-title="BRASIL",BR. | Woohoo SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3748
-#EXTINF:-1 tvg-id="" tvg-name="BR. | A&E SD" tvg-logo="" group-title="BRASIL",BR. | A&E SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3749
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Arte 1 SD" tvg-logo="" group-title="BRASIL",BR. | Arte 1 SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3751
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Axn SD" tvg-logo="" group-title="BRASIL",BR. | Axn SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3752
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Cine Sky 3 SD" tvg-logo="" group-title="BRASIL",BR. | Cine Sky 3 SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3753
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Cine Sky 4 SD" tvg-logo="" group-title="BRASIL",BR. | Cine Sky 4 SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3754
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Cine Sky 5 SD" tvg-logo="" group-title="BRASIL",BR. | Cine Sky 5 SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3755
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Cinemax SD" tvg-logo="" group-title="BRASIL",BR. | Cinemax SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3756
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Fox SD" tvg-logo="" group-title="BRASIL",BR. | Fox SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3757
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Fx SD" tvg-logo="" group-title="BRASIL",BR. | Fx SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3758
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Hbo 2 SD" tvg-logo="" group-title="BRASIL",BR. | Hbo 2 SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3759
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Hbo Family SD" tvg-logo="" group-title="BRASIL",BR. | Hbo Family SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3760
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Hbo Plus SD" tvg-logo="" group-title="BRASIL",BR. | Hbo Plus SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3761
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Hbo Signature SD" tvg-logo="" group-title="BRASIL",BR. | Hbo Signature SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3762
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Max SD" tvg-logo="" group-title="BRASIL",BR. | Max SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3763
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Max Prime SD" tvg-logo="" group-title="BRASIL",BR. | Max Prime SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3764
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Max Up SD" tvg-logo="" group-title="BRASIL",BR. | Max Up SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3765
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Megapix SD" tvg-logo="" group-title="BRASIL",BR. | Megapix SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3766
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Paramount SD" tvg-logo="" group-title="BRASIL",BR. | Paramount SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3767
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Sony SD" tvg-logo="" group-title="BRASIL",BR. | Sony SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3768
-#EXTINF:-1 tvg-id="" tvg-name="BR. | SPace SD" tvg-logo="" group-title="BRASIL",BR. | SPace SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3769
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Studio Universal SD" tvg-logo="" group-title="BRASIL",BR. | Studio Universal SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3770
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Syfy SD" tvg-logo="" group-title="BRASIL",BR. | Syfy SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3771
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Tbs SD" tvg-logo="" group-title="BRASIL",BR. | Tbs SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3772
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Tcm SD" tvg-logo="" group-title="BRASIL",BR. | Tcm SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3773
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Telecine Action SD" tvg-logo="" group-title="BRASIL",BR. | Telecine Action SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3774
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Telecine Cult SD" tvg-logo="" group-title="BRASIL",BR. | Telecine Cult SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3775
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Telecine Fun SD" tvg-logo="" group-title="BRASIL",BR. | Telecine Fun SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3776
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Telecine Premium SD" tvg-logo="" group-title="BRASIL",BR. | Telecine Premium SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3778
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Telecine Touch SD" tvg-logo="" group-title="BRASIL",BR. | Telecine Touch SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3779
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Tnt SD" tvg-logo="" group-title="BRASIL",BR. | Tnt SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3780
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Tnt Series SD" tvg-logo="" group-title="BRASIL",BR. | Tnt Series SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3781
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Universal Channel SD" tvg-logo="" group-title="BRASIL",BR. | Universal Channel SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3782
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Warner Channel SD" tvg-logo="" group-title="BRASIL",BR. | Warner Channel SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3783
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Baby TV SD" tvg-logo="" group-title="BRASIL",BR. | Baby TV SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3784
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Boomerang SD" tvg-logo="" group-title="BRASIL",BR. | Boomerang SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3785
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Cartoon Network SD" tvg-logo="" group-title="BRASIL",BR. | Cartoon Network SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3786
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Comedy CEntral SD" tvg-logo="" group-title="BRASIL",BR. | Comedy CEntral SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3787
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Discovery Kids SD" tvg-logo="" group-title="BRASIL",BR. | Discovery Kids SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3788
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Disney Channel SD" tvg-logo="" group-title="BRASIL",BR. | Disney Channel SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3789
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Disney Junior SD" tvg-logo="" group-title="BRASIL",BR. | Disney Junior SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3790
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Disney Xd SD" tvg-logo="" group-title="BRASIL",BR. | Disney Xd SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3791
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Gloob SD" tvg-logo="" group-title="BRASIL",BR. | Gloob SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3792
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Gloobinho SD" tvg-logo="" group-title="BRASIL",BR. | Gloobinho SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3793
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Natgeo Kids SD" tvg-logo="" group-title="BRASIL",BR. | Natgeo Kids SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3794
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Nick Jr SD" tvg-logo="" group-title="BRASIL",BR. | Nick Jr SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3795
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Nickelodeon SD" tvg-logo="" group-title="BRASIL",BR. | Nickelodeon SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3796
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Ra Tim Bum SD" tvg-logo="" group-title="BRASIL",BR. | TV Ra Tim Bum SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3797
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Zoomoo SD" tvg-logo="" group-title="BRASIL",BR. | Zoomoo SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3799
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Band News SD" tvg-logo="" group-title="BRASIL",BR. | Band News SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3800
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Cnn Internacional SD" tvg-logo="" group-title="BRASIL",BR. | Cnn Internacional SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3802
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Cnt SD" tvg-logo="" group-title="BRASIL",BR. | Cnt SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3803
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Globo News SD" tvg-logo="" group-title="BRASIL",BR. | Globo News SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3804
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Record News SD" tvg-logo="" group-title="BRASIL",BR. | Record News SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3805
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Aparecida SD" tvg-logo="" group-title="BRASIL",BR. | TV Aparecida SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3806
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Nbr SD" tvg-logo="" group-title="BRASIL",BR. | Nbr SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3811
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Bis SD" tvg-logo="" group-title="BRASIL",BR. | Bis SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3812
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Food Network SD" tvg-logo="" group-title="BRASIL",BR. | Food Network SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3813
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Fox Life SD" tvg-logo="" group-title="BRASIL",BR. | Fox Life SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3814
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Fox Life SD" tvg-logo="" group-title="BRASIL",BR. | Fox Life SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3815
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Gnt SD" tvg-logo="" group-title="BRASIL",BR. | Gnt SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3816
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Lifetime SD" tvg-logo="" group-title="BRASIL",BR. | Lifetime SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3817
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Mais Globosat SD" tvg-logo="" group-title="BRASIL",BR. | Mais Globosat SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3818
-#EXTINF:-1 tvg-id="" tvg-name="BR. | MTV SD" tvg-logo="" group-title="BRASIL",BR. | MTV SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3819
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Multishow SD" tvg-logo="" group-title="BRASIL",BR. | Multishow SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3820
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Polishop TV SD" tvg-logo="" group-title="BRASIL",BR. | Polishop TV SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3821
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Prime Box Brasil SD" tvg-logo="" group-title="BRASIL",BR. | Prime Box Brasil SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3822
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Tlc SD" tvg-logo="" group-title="BRASIL",BR. | Tlc SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3823
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TruTV SD" tvg-logo="" group-title="BRASIL",BR. | TruTV SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3824
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV5 SD" tvg-logo="" group-title="BRASIL",BR. | TV5 SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3825
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Viva SD" tvg-logo="" group-title="BRASIL",BR. | Viva SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3826
-#EXTINF:-1 tvg-id="" tvg-name="BR. | E! SD" tvg-logo="" group-title="BRASIL",BR. | E! SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3827
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Animal Planet SD" tvg-logo="" group-title="BRASIL",BR. | Animal Planet SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3828
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Discovery Channel SD" tvg-logo="" group-title="BRASIL",BR. | Discovery Channel SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3829
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Discovery H&H SD" tvg-logo="" group-title="BRASIL",BR. | Discovery H&H SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3830
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Discovery Turbo SD" tvg-logo="" group-title="BRASIL",BR. | Discovery Turbo SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3831
-#EXTINF:-1 tvg-id="" tvg-name="BR. | H2 SD" tvg-logo="" group-title="BRASIL",BR. | H2 SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3832
-#EXTINF:-1 tvg-id="" tvg-name="BR. | History SD" tvg-logo="" group-title="BRASIL",BR. | History SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3833
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Id Discovery SD" tvg-logo="" group-title="BRASIL",BR. | Id Discovery SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3834
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Natgeo SD" tvg-logo="" group-title="BRASIL",BR. | Natgeo SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3835
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Natgeo Wild SD" tvg-logo="" group-title="BRASIL",BR. | Natgeo Wild SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3836
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Play TV SD" tvg-logo="" group-title="BRASIL",BR. | Play TV SD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3837
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Canal Brasil HD" tvg-logo="" group-title="BRASIL",BR. | Canal Brasil HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3838
-#EXTINF:-1 tvg-id="" tvg-name="BR. | TV Guarulhos HD" tvg-logo="" group-title="BRASIL",BR. | TV Guarulhos HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3839
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Rede TV HD" tvg-logo="" group-title="BRASIL",BR. | Rede TV HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3841
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Band Campinas HD" tvg-logo="" group-title="BRASIL",BR. | Band Campinas HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3844
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Band HD" tvg-logo="" group-title="BRASIL",BR. | Band HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3845
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Band SP HD" tvg-logo="" group-title="BRASIL",BR. | Band SP HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3846
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Sbt Cidade Verde HD" tvg-logo="" group-title="BRASIL",BR. | Sbt Cidade Verde HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3847
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Sbt HD" tvg-logo="" group-title="BRASIL",BR. | Sbt HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3848
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Sbt TV Jornal HD" tvg-logo="" group-title="BRASIL",BR. | Sbt TV Jornal HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3849
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Record Ba HD" tvg-logo="" group-title="BRASIL",BR. | Record Ba HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3850
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Record HD" tvg-logo="" group-title="BRASIL",BR. | Record HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3853
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Record Mg HD" tvg-logo="" group-title="BRASIL",BR. | Record Mg HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3854
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Record RJ HD" tvg-logo="" group-title="BRASIL",BR. | Record RJ HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3855
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Band SPorts HD" tvg-logo="" group-title="BRASIL",BR. | Band SPorts HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3859
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Combate HD" tvg-logo="" group-title="BRASIL",BR. | Combate HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3860
-#EXTINF:-1 tvg-id="" tvg-name="BR. | E! HD" tvg-logo="" group-title="BRASIL",BR. | E! HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3861
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Espn 2 HD" tvg-logo="" group-title="BRASIL",BR. | Espn 2 HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3863
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Espn Brasil HD" tvg-logo="" group-title="BRASIL",BR. | Espn Brasil HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3864
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Espn Extra HD" tvg-logo="" group-title="BRASIL",BR. | Espn Extra HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3865
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Espn HD" tvg-logo="" group-title="BRASIL",BR. | Espn HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3866
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Fox SPorts 2 HD" tvg-logo="" group-title="BRASIL",BR. | Fox SPorts 2 HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3867
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Fox SPorts HD" tvg-logo="" group-title="BRASIL",BR. | Fox SPorts HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3868
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Premiere 2 HD" tvg-logo="" group-title="BRASIL",BR. | Premiere 2 HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3869
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Premiere 3 HD" tvg-logo="" group-title="BRASIL",BR. | Premiere 3 HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3870
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Premiere 4 HD" tvg-logo="" group-title="BRASIL",BR. | Premiere 4 HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3871
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Premiere 5 HD" tvg-logo="" group-title="BRASIL",BR. | Premiere 5 HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3872
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Premiere 6 HD" tvg-logo="" group-title="BRASIL",BR. | Premiere 6 HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3873
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Premiere 7 HD" tvg-logo="" group-title="BRASIL",BR. | Premiere 7 HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3874
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Premiere Clubes HD" tvg-logo="" group-title="BRASIL",BR. | Premiere Clubes HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3876
-#EXTINF:-1 tvg-id="" tvg-name="BR. | SPorTV 2 HD" tvg-logo="" group-title="BRASIL",BR. | SPorTV 2 HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3877
-#EXTINF:-1 tvg-id="" tvg-name="BR. | SPorTV 3 HD" tvg-logo="" group-title="BRASIL",BR. | SPorTV 3 HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3878
-#EXTINF:-1 tvg-id="" tvg-name="BR. | SPorTV HD" tvg-logo="" group-title="BRASIL",BR. | SPorTV HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3879
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Off HD" tvg-logo="" group-title="BRASIL",BR. | Off HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3880
-#EXTINF:-1 tvg-id="" tvg-name="BR. | Woohoo HD" tvg-logo="" group-title="BRASIL",BR. | Woohoo HD
-http://qtvplay.xyz:25461/dubtest/fc8vzpUTgt/3881
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",AMC
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28659
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",AMc
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/5477
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOTuMOs.png" group-title="TELECINES",CINEMAX
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28632
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOTuMOs.png" group-title="TELECINES",Cinemax
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/3751
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",HBO
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/273
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",hBO
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28560
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBO 2
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28563
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBo 2
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/279
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SIGNATURE
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/267
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SignatUre
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28856
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BOzZZ.png" group-title="TELECINES",HBO PLUS
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28857
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BOzZZ.png" group-title="TELECINES",HBO Plus
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/270
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j8Tl1Iy.png" group-title="TELECINES",HBO FAMILY
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28983
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j8Tl1Iy.png" group-title="TELECINES",HBO Family
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/276
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ShjQlkb.png" group-title="TELECINES",MAX
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28975
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ShjQlkb.png" group-title="TELECINES",Max
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/4827
+#EXTINF:-1 tvg-logo="https://imgur.com/RhneMdo.png" group-title="TELECINES",MAX PRIME
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28974
+#EXTINF:-1 tvg-logo="https://imgur.com/RhneMdo.png" group-title="TELECINES",MAX Prime
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/4828
+#EXTINF:-1 tvg-logo="https://imgur.com/teF23NM.png" group-title="TELECINES",MAX UP
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/35301
+#EXTINF:-1 tvg-logo="https://imgur.com/teF23NM.png" group-title="TELECINES",Max UP
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/5043
+#EXTINF:-1 tvg-logo="https://imgur.com/ewHyP3J.png" group-title="TELECINES",MEGAPIX
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28540
+#EXTINF:-1 tvg-logo="https://imgur.com/ewHyP3J.png" group-title="TELECINES",Megapix
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/244
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28847
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT *
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/228
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",Paramount
+http://greencorp.tech:80/diego/diego123/7969
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPACE
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28486
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPAcE
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/4947
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPAcE
+http://tvnanet.xyz:25461/palmeiras/campeao1951/224
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPaCE
+http://clienteworld.com:8080/claudia/123456/8013
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",Space
+http://89.187.173.219:80/eugenio/eugenio123/368
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TNT
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28458
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TNt
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/263
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",tnt
+http://tvnanet.xyz:25461/palmeiras/campeao1951/250
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",tnT
+http://clienteworld.com:8080/claudia/123456/7995
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TnT
+http://89.187.173.219:80/eugenio/eugenio123/361
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",tNT
+http://brazilgroup.xyz:8880/pedro/pedro123/388
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ACTION
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28473
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ActioN
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/296
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ACTIOn
+http://greencorp.tech:80/diego/diego123/7921
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE CULT
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28471
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE Cult
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/4791
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE CulT
+http://greencorp.tech:80/diego/diego123/7919
+#EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE FUN
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28832
+#EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE Fun
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/293
+#EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE FuN
+http://greencorp.tech:80/diego/diego123/7917
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE PIPOCA
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28467
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE Pipoca
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/290
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE PipocA
+http://greencorp.tech:80/diego/diego123/7915
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECiNE PIPOCA
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_a76687d2915e0a3814e7ac481a52fdeb0ddce1c7.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PREMIUM
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28465
+#EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE Premium
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/287
+#EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PremiuM
+http://greencorp.tech:80/diego/diego123/7913
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE TOUCH
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28463
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE Touch
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/284
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE ToucH
+http://greencorp.tech:80/diego/diego123/7911
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",TCM
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28475
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",Tcm
+http://greencorp.tech:80/diego/diego123/42037
+#EXTINF:-1 tvg-logo="https://goo.gl/2ZBWuk.png" group-title="TELECINES",TNT SERIES
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28456
+#EXTINF:-1 tvg-logo="https://imgur.com/dioXXVw.png" group-title="TELECINES",SYFY
+http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28488
+
+--------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NtR5i4D.png" group-title="CANAIS DE SÉRIES",SONY
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28637
+#EXTINF:-1 tvg-logo="https://imgur.com/NtR5i4D.png" group-title="CANAIS DE SÉRIES",Sony
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/210
+#EXTINF:-1 tvg-logo="https://imgur.com/wBVNCbL.png" group-title="CANAIS DE SÉRIES",FOX
+http://greencorp.tech:80/diego/diego123/8070
+#EXTINF:-1 tvg-logo="https://imgur.com/wBVNCbL.png" group-title="CANAIS DE SÉRIES",Fox
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28591
+#EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX LIFE
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28588
+#EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX Life
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/250
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",STUDIO UNIVERSAL
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28479
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",Studio Universal
+http://greencorp.tech:80/diego/diego123/7928
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",UNIVERSAL CHANNEL
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28443
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",Universal Channel
+http://greencorp.tech:80/diego/diego123/7890
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",WARNER CHANNEL
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28435
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",Warner Channel
+http://greencorp.tech:80/diego/diego123/999
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",AXN
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28653
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",Axn
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/231
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",FX
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28576
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",Fx
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/247
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",FoX PREMIUM 1
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28587
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",FOX PREMIUM 1
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/257
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",Fox PREMIUM 1
+http://greencorp.tech:80/diego/diego123/8066
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Wh3INC.png" group-title="CANAIS DE SÉRIES",Fox Premium 1
+http://89.187.173.219:80/eugenio/eugenio123/345
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TBS.png" group-title="CANAIS DE SÉRIES",TBS
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28476
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TBS.png" group-title="CANAIS DE SÉRIES",Tbs
+http://greencorp.tech:80/diego/diego123/6701
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",CINE FAMÍLIA
+http://greencorp.tech:80/diego/diego123/16456
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",CINE SKY
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WuRB4Rm.jpg" group-title="CANAIS DE SÉRIES",FILMES TERROR
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/16705
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WuRB4Rm.jpg" group-title="CANAIS DE SÉRIES",CINE TERROR
+http://greencorp.tech:80/diego/diego123/57195
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",CINE MUNDO
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/9860
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kr5WweR.jpg" group-title="CANAIS DE SÉRIES",CINE RELIGIOSO
+http://greencorp.tech:80/diego/diego123/57686
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",FILMES ACTION
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/16966
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",MUSICA RELAXANTE
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/19444
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",Vagalume Vibe
+http://clienteworld.com:8080/claudia/123456/499
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",Vibe FM
+http://clienteworld.com:8080/claudia/123456/507
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",MUSIC CLIMA
+https://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8?wowzasessionid=853872102
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",TOP CLIPES
+https://5d23bdca513db.streamlock.net:443/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",VH1 Classic
+http://89.187.173.219:80/eugenio/eugenio123/10299
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",MTV Internacional
+http://s.igiptv.com:8000/mohamadxsharefa/r75633/37517
+
+ 
+--------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrHI1FJ.png" group-title="TV ABERTA",TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/atpVyuY.png" group-title="TV ABERTA",AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO RIO
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28340
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO TV CABO BRANCO
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/30741
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO TV CABO BrANCO
+http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/30741
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO SP
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/30937
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo RJ
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/8984
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO RJ
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GLOBOSAT
+https://globolive.akamaized.net/d/c/x2800/s/hls-maisgsat24ha/hls-maisgsat24ha_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GlOBOSAT
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28548
+#EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAiS GlOBOSAT
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/8195
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1846566125_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",Sbt
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SbT
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BAND
+https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer3.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BanD
+http://89.187.173.219:80/eugenio/eugenio123/75
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",Band
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28650
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",bAND
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/4895
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BaND
+http://greencorp.tech:80/diego/diego123/8138
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",RECORD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",RECOrD 
+https://cdn.jmvstream.com/live/hls/lv_712/LV712_Rfjqak3w63.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",REcORD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",RECORD *
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28497
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",Record
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/336
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",ReCORD
+http://clienteworld.com:8080/claudia/123456/12959
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",VIVA
+https://globolive.akamaized.net/d/c/x2800/s/hls-viva24ha/hls-viva24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",Viva
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/79
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",ViVA
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28437
+#EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDE TV
+https://5b7f3c45ab7c2.streamlock.net:443/9010/ngrp:9010_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDe TV 
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDE Tv
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w434091474.m3u8
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/escola.png" group-title="TV ABERTA",TV ESCOLA
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28449
+#EXTINF:-1 tvg-logo="http://logo.streamstv.me/picon/BRCanalDOBoiTV.png" group-title="TV ABERTA",CANAL DO BOI
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/35871
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiksGqK.png" group-title="TV ABERTA",Canal Rural
+http://evpp.mm.uol.com.br:1935/canal_rural/aovivo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psIffwK.png" group-title="TV ABERTA",TV APARECIDA
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28452
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YrVFhaB.png" group-title="TV ABERTA",TV BRASIL
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28903
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YrVFhaB.png" group-title="TV ABERTA",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aByVBGY.png" group-title="TV ABERTA",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1229479860.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aByVBGY.png" group-title="TV ABERTA",CANAL BRASIL
+https://globolive.akamaized.net/d/c/x2800/s/hls-bra24ha/hls-bra24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://goo.gl/ghXOcq" group-title="TV ABERTA",FUTURA
+https://globolive.akamaized.net/d/c/x2800/s/hls-futura24ha/hls-futura24ha_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://goo.gl/ghXOcq" group-title="TV ABERTA",FuTURA
+http://89.187.173.219:80/eugenio/eugenio123/7644
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQA7pwb.png" group-title="TV ABERTA",TV DIARIO
+#EXTINF:-1,TV DIARIO FORTALEZA HD
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28412
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",TV CULTURA
+https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",Tv CULTURA
+http://stream.tvitarare.com.br/hls/site/site.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWrV2C.png" group-title="TV ABERTA",TV CAMARA
+http://stream2.camara.gov.br:80/tv2/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OQ3OMJ.png" group-title="TV ABERTA",TV SENADO
+http://clienteworld.com:8080/claudia/123456/7992
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P7yTVQy.png" group-title="TV ABERTA",GNT
+https://globolive.akamaized.net/d/c/x2800/s/hls-gnt24ha/hls-gnt24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7iMrUX5.png" group-title="TV ABERTA",TV GAZETA
+https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqHKvQa.png" group-title="TV ABERTA",TV A CRÍTICA
+https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BAND NEWS
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/29022
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/5843
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BANd NEWs
+http://greencorp.tech:80/diego/diego123/8136
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BaNd NEWs
+http://clienteworld.com:8080/claudia/123456/8148
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BanD NEWS
+http://89.187.173.219:80/eugenio/eugenio123/531
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWS
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28811
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWs
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/2826
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBo NEWS
+http://greencorp.tech:80/diego/diego123/8046
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo News
+http://clienteworld.com:8080/claudia/123456/8209
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLoBo NEWS
+https://globolive.akamaized.net/d/c/x2800/s/hls-gnews24ha/hls-gnews24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAl
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28628
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAL
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/2861
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY Central
+http://greencorp.tech:80/diego/diego123/8116
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRD54a.png" group-title="TV ABERTA",MULTISHOW
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/93
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRD54a.png" group-title="TV ABERTA",MULtiShow
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28536
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRD54a.png" group-title="TV ABERTA",MULTIshOW
+http://tvnanet.xyz:25461/palmeiras/campeao1951/166
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRD54a.png" group-title="TV ABERTA",MULTISHOw
+http://89.187.173.219:80/eugenio/eugenio123/454
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRD54a.png" group-title="TV ABERTA",MULTiSHOW
+http://clienteworld.com:8080/claudia/123456/8190
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRD54a.png" group-title="TV ABERTA",MULTIsHOW GRAVADO
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28538
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV *
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/4957
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",Mtv
+http://greencorp.tech:80/diego/diego123/7988
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MtV
+http://clienteworld.com:8080/claudia/123456/8050
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV Live
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28429
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEXSiYj.png" group-title="TV ABERTA",CANAL CURTA!
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28626
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P7yTVQy.png" group-title="TV ABERTA",BIS - Clipes MPB ao Rock
+https://globolive.akamaized.net/d/c/x2800/s/hls-bis24ha/hls-bis24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ykTEOd7.png" group-title="SERIADOS",PEGADINHAS SILVIO SANTOS
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/10795
+#EXTINF:-1 tvg-logo="https://imgur.com/ykTEOd7.png" group-title="SERIADOS",PEGADINHAS JOAO KLEBER
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/10796
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8PbTRC.jpg" group-title="SERIADOS",TODO MUNDO ODEIA O CHRIS
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/29740
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPORTV
+http://clienteworld.com:8080/claudia/123456/8012
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPOrTv
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28480
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SpOrTv
+http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28480
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",sPORTv
+http://brazilgroup.xyz:8880/pedro/pedro123/416
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTv 2
+http://clienteworld.com:8080/claudia/123456/8011
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTV 2
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28483
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SporTV 3
+http://clienteworld.com:8080/claudia/123456/12811
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SPORTV 3
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28481
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",Espn
+http://clienteworld.com:8080/claudia/123456/8119
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",ESPN
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28603
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuBBJ9H.png" group-title="ESPORTES",PREMIERE CLUBES
+http://clienteworld.com:8080/claudia/123456/8029
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Fox-Sports.png" group-title="ESPORTES",FOX SPORTS
+http://clienteworld.com:8080/claudia/123456/8101
+
+--------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Animal-Planet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28657
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Channel.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28624
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kys6DSK.png" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION
+http://greencorp.tech:80/diego/diego123/8110
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QIvz01B.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28616
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Theater.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28614
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KrZtaCb.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28610
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",ID: INVESTIGAÇÃO DISCOVERY
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/29011
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/109
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",Id: INVESTIGAÇÃO DISCOVERY
+http://greencorp.tech:80/diego/diego123/8003
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28532
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo-Wild.png" group-title="DOCUMENTÁRIOS",NATGEO WILD
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28849
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/The-History-Channel.png" group-title="DOCUMENTÁRIOS",HISTORY
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28555
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/H2more2history.png" group-title="DOCUMENTÁRIOS",H2
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28566
+
+--------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: 18+ Hot
+https://globolive.akamaized.net/d/c/x2800/s/hls-sexy24ha/hls-sexy24ha_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: 18+ Prive
+https://mj1b2xsspj.singularcdn.net.br/encompass/SexPrive/master_Layer1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: SEXTREME
+http://89.187.173.219:80/eugenio/eugenio123/2203
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: SEXY HOT
+http://89.187.173.219:80/eugenio/eugenio123/11682
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEXYPRIVE
+http://89.187.173.219:80/eugenio/eugenio123/3717
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 1 24Hs
+http://clienteworld.com:8080/claudia/123456/51478
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEX EXTREM
+http://89.187.173.219:80/eugenio/eugenio123/2206
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 2 24Hs
+http://clienteworld.com:8080/claudia/123456/51479
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEX HOT
+http://89.187.173.219:80/eugenio/eugenio123/3716
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 3 24Hs
+http://clienteworld.com:8080/claudia/123456/51480
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",PRIVÊ
+http://89.187.173.219:80/eugenio/eugenio123/2204
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 4 24Hs
+http://clienteworld.com:8080/claudia/123456/51481
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEX EROTIC
+http://89.187.173.219:80/eugenio/eugenio123/2219
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 5 24Hs
+http://clienteworld.com:8080/claudia/123456/52826
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEX REDLIGHT
+http://89.187.173.219:80/eugenio/eugenio123/2210
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 6 24Hs
+http://clienteworld.com:8080/claudia/123456/52827
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEXO VENUS
+http://89.187.173.219:80/eugenio/eugenio123/2212
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 7 24Hs
+http://clienteworld.com:8080/claudia/123456/52828
