@@ -1,18 +1,52 @@
 #EXTINF
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/R5ROBJe.jpg" group-title="Me Chama de Bruna DUB",1x1-DUB Me Chama de Bruna
-http://hele8081.azureedge.net/RCServer11/ondemand/MCHDBRNT01EP01.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/R5ROBJe.jpg" group-title="Me Chama de Bruna DUB",1x2-DUB Me Chama de Bruna
-http://hele8081.azureedge.net/RCServer11/ondemand/MCHDBRNT01EP02.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/R5ROBJe.jpg" group-title="Me Chama de Bruna DUB",1x3-DUB Me Chama de Bruna
-http://hele8081.azureedge.net/RCServer11/ondemand/MCHDBRNT01EP03.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/R5ROBJe.jpg" group-title="Me Chama de Bruna DUB",1x4-DUB Me Chama de Bruna
-http://hele8081.azureedge.net/RCServer11/ondemand/MCHDBRNT01EP04.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/R5ROBJe.jpg" group-title="Me Chama de Bruna DUB",1x5-DUB Me Chama de Bruna
-http://hele8081.azureedge.net/RCServer11/ondemand/MCHDBRNT01EP05.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/R5ROBJe.jpg" group-title="Me Chama de Bruna DUB",1x6-DUB Me Chama de Bruna
-http://hele8081.azureedge.net/RCServer11/ondemand/MCHDBRNT01EP06.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/R5ROBJe.jpg" group-title="Me Chama de Bruna DUB",1x7-DUB Me Chama de Bruna
-http://hele8081.azureedge.net/RCServer11/ondemand/MCHDBRNT01EP07.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/R5ROBJe.jpg" group-title="Me Chama de Bruna DUB",1x8-DUB Me Chama de Bruna
-http://hele8081.azureedge.net/RCServer11/ondemand/MCHDBRNT01EP08.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna1.jpg" group-title="Me Chama de Bruna", 1T-E01
+http://niflheim.lhmtv.gq/play/?contentId=96e7da032a7d68a2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna1.jpg" group-title="Me Chama de Bruna", 1T-E02
+http://niflheim.lhmtv.gq/play/?contentId=203ed0a7a598fdc5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna1.jpg" group-title="Me Chama de Bruna", 1T-E03
+http://niflheim.lhmtv.gq/play/?contentId=e290d7de88e0e58c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna1.jpg" group-title="Me Chama de Bruna", 1T-E04
+http://niflheim.lhmtv.gq/play/?contentId=160531708e65c928&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna1.jpg" group-title="Me Chama de Bruna", 1T-E05
+http://niflheim.lhmtv.gq/play/?contentId=49ee940e847a76c1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna1.jpg" group-title="Me Chama de Bruna", 1T-E06
+http://niflheim.lhmtv.gq/play/?contentId=f424aed8d9f48b87&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna1.jpg" group-title="Me Chama de Bruna", 1T-E07
+http://niflheim.lhmtv.gq/play/?contentId=ff8a7a02dd8a45f1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna1.jpg" group-title="Me Chama de Bruna", 1T-E08
+http://niflheim.lhmtv.gq/play/?contentId=99d8fde1f4f0481b&LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna2.jpg" group-title="Me Chama de Bruna", 2T-E01
+http://niflheim.lhmtv.gq/play/?contentId=9660a369196cc5dd&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna2.jpg" group-title="Me Chama de Bruna", 2T-E02
+http://niflheim.lhmtv.gq/play/?contentId=fc5593a37c6c59ff&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna2.jpg" group-title="Me Chama de Bruna", 2T-E03
+http://niflheim.lhmtv.gq/play/?contentId=ea56e0ba6103866f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna2.jpg" group-title="Me Chama de Bruna", 2T-E04
+http://niflheim.lhmtv.gq/play/?contentId=34966598685668cf&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna2.jpg" group-title="Me Chama de Bruna", 2T-E05
+http://niflheim.lhmtv.gq/play/?contentId=852f711575931d24&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna2.jpg" group-title="Me Chama de Bruna", 2T-E06
+http://niflheim.lhmtv.gq/play/?contentId=8bccb26edc3c70c7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna2.jpg" group-title="Me Chama de Bruna", 2T-E07
+http://niflheim.lhmtv.gq/play/?contentId=1666107f4e107bd6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna2.jpg" group-title="Me Chama de Bruna", 2T-E08
+http://niflheim.lhmtv.gq/play/?contentId=3dc5ebf6e51d14a5&LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna3.jpg" group-title="Me Chama de Bruna", 3T-E01
+http://niflheim.lhmtv.gq/play/?contentId=6be8ad44fc6a5461&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna3.jpg" group-title="Me Chama de Bruna", 3T-E02
+http://niflheim.lhmtv.gq/play/?contentId=764f15e2e72927b4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna3.jpg" group-title="Me Chama de Bruna", 3T-E03
+http://niflheim.lhmtv.gq/play/?contentId=24529d888f14b8de&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna3.jpg" group-title="Me Chama de Bruna", 3T-E04
+http://niflheim.lhmtv.gq/play/?contentId=14b77805f42fc6ee&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna3.jpg" group-title="Me Chama de Bruna", 3T-E05
+http://niflheim.lhmtv.gq/play/?contentId=1be0fad4c5f33e81&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna3.jpg" group-title="Me Chama de Bruna", 3T-E06
+http://niflheim.lhmtv.gq/play/?contentId=49711e9c127c34d0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna3.jpg" group-title="Me Chama de Bruna", 3T-E07
+http://niflheim.lhmtv.gq/play/?contentId=55fae775db18a0ea&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mcdbruna3.jpg" group-title="Me Chama de Bruna", 3T-E08
+http://niflheim.lhmtv.gq/play/?contentId=fa8da89df8500854&LHMTv
