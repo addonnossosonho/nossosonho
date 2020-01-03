@@ -1,49 +1,64 @@
 #EXTINF
 
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",1x1Scream
-http://hele8081.azureedge.net/RCServer09/ondemand/SCRMT01EP01.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",1x2Scream
-http://hele8081.azureedge.net/RCServer09/ondemand/SCRMT01EP02.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",1x3Scream
-http://hele8081.azureedge.net/RCServer09/ondemand/SCRMT01EP03.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",1x4Scream
-http://hele8081.azureedge.net/RCServer09/ondemand/SCRMT01EP04.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",1x5Scream
-http://hele8081.azureedge.net/RCServer09/ondemand/SCRMT01EP05.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",1x6Scream
-http://hele8081.azureedge.net/RCServer09/ondemand/SCRMT01EP06.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",1x7Scream
-http://hele8081.azureedge.net/RCServer09/ondemand/SCRMT01EP07.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",1x8Scream
-http://hele8081.azureedge.net/RCServer09/ondemand/SCRMT01EP08.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",1x9Scream
-http://hele8081.azureedge.net/RCServer09/ondemand/SCRMT01EP09.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",1x10Scream
-http://hele8081.azureedge.net/RCServer09/ondemand/SCRMT01EP10.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream1.jpg" group-title="Scream", 1T-E01
+http://nidavellir.lhmtv.gq/Series/Scream.1/S01E01.Rosas.Vermelhas.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream1.jpg" group-title="Scream", 1T-E02
+http://nidavellir.lhmtv.gq/Series/Scream.1/S01E02.Ola.Emma.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream1.jpg" group-title="Scream", 1T-E03
+http://nidavellir.lhmtv.gq/Series/Scream.1/S01E03.Quer.Brincar.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream1.jpg" group-title="Scream", 1T-E04
+http://nidavellir.lhmtv.gq/Series/Scream.1/S01E04.Seguindo.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream1.jpg" group-title="Scream", 1T-E05
+http://nidavellir.lhmtv.gq/Series/Scream.1/S01E05.Exposta.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream1.jpg" group-title="Scream", 1T-E06
+http://nidavellir.lhmtv.gq/Series/Scream.1/S01E06.Traicao.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream1.jpg" group-title="Scream", 1T-E07
+http://nidavellir.lhmtv.gq/Series/Scream.1/S01E07.Linha.de.Frente.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream1.jpg" group-title="Scream", 1T-E08
+http://nidavellir.lhmtv.gq/Series/Scream.1/S01E08.Fantasmas.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream1.jpg" group-title="Scream", 1T-E09
+http://nidavellir.lhmtv.gq/Series/Scream.1/S01E09.O%20.Baile.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream1.jpg" group-title="Scream", 1T-E10
+http://nidavellir.lhmtv.gq/Series/Scream.1/S01E10.Revelacoes.mp4?LHMTv
 
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",2x1Scream
-http://hele8081.azureedge.net/RCServer10/ondemand/SCRMT02EP01.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",2x2Scream
-http://hele8081.azureedge.net/RCServer10/ondemand/SCRMT02EP02.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",2x3Scream
-http://hele8081.azureedge.net/RCServer10/ondemand/SCRMT02EP03.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",2x4Scream
-http://hele8081.azureedge.net/RCServer10/ondemand/SCRMT02EP04.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",2x5Scream
-http://hele8081.azureedge.net/RCServer10/ondemand/SCRMT02EP05.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",2x6Scream
-http://hele8081.azureedge.net/RCServer10/ondemand/SCRMT02EP06.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",2x7Scream
-http://hele8081.azureedge.net/RCServer11/ondemand/SCRMT02EP07.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",2x8Scream
-http://hele8081.azureedge.net/RCServer11/ondemand/SCRMT02EP08.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",2x9Scream
-http://hele8081.azureedge.net/RCServer11/ondemand/SCRMT02EP09.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",2x10Scream
-http://hele8081.azureedge.net/RCServer11/ondemand/SCRMT02EP10.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",2x11Scream
-http://hele8081.azureedge.net/RCServer11/ondemand/SCRMT02EP11.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",2x12Scream
-http://hele8081.azureedge.net/RCServer11/ondemand/SCRMT02EP12.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/i1bkKx" group-title="Scream DUB",2x13+14Scream
-http://hele8081.azureedge.net/RCServer11/ondemand/SCRMT02EP13-14.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream2.jpg" group-title="Scream", 2T-E01
+http://niflheim.lhmtv.gq/play/?contentId=ed147214b0fce346&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream2.jpg" group-title="Scream", 2T-E02
+http://niflheim.lhmtv.gq/play/?contentId=f2bcc1a49971d9ee&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream2.jpg" group-title="Scream", 2T-E03
+http://niflheim.lhmtv.gq/play/?contentId=77e75eade77576c6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream2.jpg" group-title="Scream", 2T-E04
+http://niflheim.lhmtv.gq/play/?contentId=6f435dd9bb088ab7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream2.jpg" group-title="Scream", 2T-E05
+http://niflheim.lhmtv.gq/play/?contentId=6d793a6437670fb9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream2.jpg" group-title="Scream", 2T-E06
+http://niflheim.lhmtv.gq/play/?contentId=cc0d7062badc5f3a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream2.jpg" group-title="Scream", 2T-E07
+http://niflheim.lhmtv.gq/play/?contentId=1f7e95d30cc8ee07&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream2.jpg" group-title="Scream", 2T-E08
+http://niflheim.lhmtv.gq/play/?contentId=45aa6d10b527c0cd&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream2.jpg" group-title="Scream", 2T-E09
+http://niflheim.lhmtv.gq/play/?contentId=e4a6f0b8af4795ac&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream2.jpg" group-title="Scream", 2T-E10
+http://niflheim.lhmtv.gq/play/?contentId=3b2d0f9534fc02d5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream2.jpg" group-title="Scream", 2T-E11
+http://niflheim.lhmtv.gq/play/?contentId=d19338c5fe178b42&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream2.jpg" group-title="Scream", 2T-E12
+http://niflheim.lhmtv.gq/play/?contentId=d9afe74f56d46f47&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream2.jpg" group-title="Scream", 2TLEG-E13I
+http://niflheim.lhmtv.gq/play/?contentId=b54a8940d7bba575&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream2.jpg" group-title="Scream", 2TLEG-E13II
+http://niflheim.lhmtv.gq/play/?contentId=e8ef1af783bd2ffb&LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream3.jpg" group-title="Scream", 3T-E01
+http://topvod.tk/LHMTvPlay/ScreamT03E01?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream3.jpg" group-title="Scream", 3T-E02
+http://topvod.tk/LHMTvPlay/ScreamT03E02?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream3.jpg" group-title="Scream", 3T-E03
+http://topvod.tk/LHMTvPlay/ScreamT03E03?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream3.jpg" group-title="Scream", 3T-E04
+http://topvod.tk/LHMTvPlay/ScreamT03E04?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream3.jpg" group-title="Scream", 3T-E05
+http://topvod.tk/LHMTvPlay/ScreamT03E05?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/scream3.jpg" group-title="Scream", 3T-E06
+http://topvod.tk/LHMTvPlay/ScreamT03E06?LHMTv
