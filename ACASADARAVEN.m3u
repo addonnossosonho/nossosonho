@@ -2,73 +2,81 @@
 
 #EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
 http://
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T1|EP01
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT01EP01.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T1|EP02
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT01EP02.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T1|EP03
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT01EP03.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T1|EP04
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT01EP04.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T1|EP05
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT01EP05.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T1|EP06
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT01EP06.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T1|EP07 
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT01EP07.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T1|EP08 
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT01EP08.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T1|EP09 
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT01EP09.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T1|EP10 
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT01EP10.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T1|EP11 
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT01EP11.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T1|EP12 
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT01EP12.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T1|EP13 
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT01EP13.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven1.jpg" group-title="A Casa da Raven", 1T-E01 A Raven Esta de Volta!
+http://niflheim.lhmtv.gq/play/?contentId=6f5ee1cd5eebc246&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven1.jpg" group-title="A Casa da Raven", 1T-E02 Um Grande Problema em um Pequeno Apartamento
+http://niflheim.lhmtv.gq/play/?contentId=52a35f2b0d7e7937&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven1.jpg" group-title="A Casa da Raven", 1T-E03 Os Baxters Sao Avisados
+http://niflheim.lhmtv.gq/play/?contentId=61b5b4007b0ebaa5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven1.jpg" group-title="A Casa da Raven", 1T-E04 O Portador de Noticias do Pai
+http://niflheim.lhmtv.gq/play/?contentId=9bc1393fec43ba9d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven1.jpg" group-title="A Casa da Raven", 1T-E05 Voce Vai Ter o que Merece
+http://niflheim.lhmtv.gq/play/?contentId=dafbee661b6230d5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven1.jpg" group-title="A Casa da Raven", 1T-E06 Aventuras Fora de Casa
+http://niflheim.lhmtv.gq/play/?contentId=36e468bf91f625e1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven1.jpg" group-title="A Casa da Raven", 1T-E07 A Danca dos Gemeos
+http://niflheim.lhmtv.gq/play/?contentId=cf80b05277861b51&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven1.jpg" group-title="A Casa da Raven", 1T-E08 Vendendo Regras
+http://niflheim.lhmtv.gq/play/?contentId=6d01cbacfd4e7ce0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven1.jpg" group-title="A Casa da Raven", 1T-E09 Visao de Privacidade
+http://niflheim.lhmtv.gq/play/?contentId=238e2a1fff9be24d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven1.jpg" group-title="A Casa da Raven", 1T-E10 Medo de Palhacos
+http://niflheim.lhmtv.gq/play/?contentId=e1a9ca6b42ca8fe7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven1.jpg" group-title="A Casa da Raven", 1T-E11 O Baxtercismo de Levi Grayson
+http://niflheim.lhmtv.gq/play/?contentId=47c25fc8507d4c35&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven1.jpg" group-title="A Casa da Raven", 1T-E12 Maes de Sonho
+http://niflheim.lhmtv.gq/play/?contentId=15f594378e22cde6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven1.jpg" group-title="A Casa da Raven", 1T-E13 O Melhor Do Show
+http://niflheim.lhmtv.gq/play/?contentId=5f43ceff9cff6660&LHMTv
 
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP01
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT02EP01.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP02
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT02EP02.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP03
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT02EP03.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP04
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT02EP04.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP05
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT02EP05.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP06
-http://helestream8080.azureedge.net/RCServer13/ondemand/ACSDRVNT02EP06.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP07 
-https://d13chitz4bk34t.cloudfront.net/RCServer10/ondemand/ACSDRVNT02EP07.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP08 
-https://d13chitz4bk34t.cloudfront.net/RCServer10/ondemand/ACSDRVNT02EP08.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP09 
-https://d13chitz4bk34t.cloudfront.net/RCServer10/ondemand/ACSDRVNT02EP09.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP10 
-http://helestream8080.azureedge.net/RCServer06/ondemand/ACSDRVNT02EP10.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP11 
-http://helestream8080.azureedge.net/RCServer06/ondemand/ACSDRVNT02EP11.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP12 
-http://helestream8080.azureedge.net/RCServer06/ondemand/ACSDRVNT02EP12.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP13 
-http://helestream8080.azureedge.net/RCServer06/ondemand/ACSDRVNT02EP13.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP14 
-http://helestream8080.azureedge.net/RCServer06/ondemand/ACSDRVNT02EP14.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP15 
-http://helestream8080.azureedge.net/RCServer06/ondemand/ACSDRVNT02EP15.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP16 (em breve)
-https://d13chitz4bk34t.cloudfront.net/RCServer10/ondemand/ACSDRVNT02EP16.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP17 
-http://helestream8080.azureedge.net/RCServer06/ondemand/ACSDRVNT02EP17.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP18 
-http://helestream8080.azureedge.net/RCServer06/ondemand/ACSDRVNT02EP18.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP19 
-http://helestream8080.azureedge.net/RCServer06/ondemand/ACSDRVNT02EP19.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP20 
-http://helestream8080.azureedge.net/RCServer06/ondemand/ACSDRVNT02EP20.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/5qMIWAyyX5btRfxtDeYoXabf3cvcNlq16caIdHYBbVEMUP40PIlhFqXCDlKxy4QuiGw7=w300" group-title="A CASA DA RAVEN - DUB",A CASA DA RAVEN T2|EP21 
-http://helestream8080.azureedge.net/RCServer06/ondemand/ACSDRVNT02EP21.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2T-E01 O Falcao e o Corvo - Parte 1
+http://niflheim.lhmtv.gq/play/?contentId=fbac8e52c0992f94&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2T-E02 O Falcao e o Corvo - Parte 2
+http://niflheim.lhmtv.gq/play/?contentId=16dcdaadc971b238&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2T-E03 Porque
+http://niflheim.lhmtv.gq/play/?contentId=4568ce6a94f92585&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2T-E04 Policial para isso
+http://niflheim.lhmtv.gq/play/?contentId=adc764c47a64e14d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2T-E05 Me tecer sozinho
+http://niflheim.lhmtv.gq/play/?contentId=f6e975803249cffe&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2T-E06 206
+http://niflheim.lhmtv.gq/play/?contentId=4416308b0342d8b5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2T-E07 Tudo Costurado
+http://niflheim.lhmtv.gq/play/?contentId=155a61aba6bd0dfd&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2T-E08 Oh Pai. onde estas tu?
+http://niflheim.lhmtv.gq/play/?contentId=80a89fb59c7cfc4e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2T-E09 Artess
+http://niflheim.lhmtv.gq/play/?contentId=d3a9dcf35c3ca97e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2TLEG-E10 
+http://niflheim.lhmtv.gq/play/?contentId=231eb3001532697b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2TLEG-E11 
+http://niflheim.lhmtv.gq/play/?contentId=38d3fa12cf0f70c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2TLEG-E12 
+http://niflheim.lhmtv.gq/play/?contentId=326be38b8ab8300b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2TLEG-E13 
+http://niflheim.lhmtv.gq/play/?contentId=41489d10b150acb8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2TLEG-E14 
+http://niflheim.lhmtv.gq/play/?contentId=40ba29c948eac456&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2TLEG-E15 
+http://niflheim.lhmtv.gq/play/?contentId=be4b8a51a49aa400&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2TLEG-E16
+http://niflheim.lhmtv.gq/play/?contentId=76be3b04a7d146c2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2TLEG-E17
+http://niflheim.lhmtv.gq/play/?contentId=19c7a3819678ce31&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2TLEG-E18
+http://niflheim.lhmtv.gq/play/?contentId=9c5a90bd8f2bdc4d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2TLEG-E19
+http://niflheim.lhmtv.gq/play/?contentId=ba77e1ac7b15e41b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2TLEG-E20
+http://niflheim.lhmtv.gq/play/?contentId=c72ab35f1adac2ad&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven2.jpg" group-title="A Casa da Raven", 2TLEG-E21
+http://niflheim.lhmtv.gq/play/?contentId=fa43d7f694e939b5&LHMTv
 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven3.jpg" group-title="A Casa da Raven", 3TLEG-E01
+http://niflheim.lhmtv.gq/play/?contentId=f4694046deb8099a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven3.jpg" group-title="A Casa da Raven", 3TLEG-E02
+http://niflheim.lhmtv.gq/play/?contentId=1f3b01a06fd3c6d3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven3.jpg" group-title="A Casa da Raven", 3TLEG-E03
+http://niflheim.lhmtv.gq/play/?contentId=fedde34763e29cb4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/acasadaraven3.jpg" group-title="A Casa da Raven", 3TLEG-E04
+http://niflheim.lhmtv.gq/play/?contentId=7acb37f068a0eca9&LHMTv
