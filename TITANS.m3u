@@ -1,34 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cFvn0w.png" group-title="TITANS LEG.", TEMPORADA 1-EP01
-http://hele8081.azureedge.net/RCServer10/ondemand/TITNSS01EP01.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans1.jpg" group-title="DC Titans", 1T-E01
+http://niflheim.lhmtv.gq/play/?contentId=7e96f2925048e983&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans1.jpg" group-title="DC Titans", 1T-E02
+http://niflheim.lhmtv.gq/play/?contentId=45877cfbc217eb82&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans1.jpg" group-title="DC Titans", 1T-E03
+http://niflheim.lhmtv.gq/play/?contentId=1af215c0eda0e014&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans1.jpg" group-title="DC Titans", 1T-E04
+http://niflheim.lhmtv.gq/play/?contentId=0629e4e15deefc1b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans1.jpg" group-title="DC Titans", 1T-E05
+http://niflheim.lhmtv.gq/play/?contentId=cf7e794fbc210b91&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans1.jpg" group-title="DC Titans", 1T-E06
+http://niflheim.lhmtv.gq/play/?contentId=c76acc9ebce14353&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans1.jpg" group-title="DC Titans", 1T-E07
+http://niflheim.lhmtv.gq/play/?contentId=d5c8d2486e8171a0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans1.jpg" group-title="DC Titans", 1T-E08
+http://niflheim.lhmtv.gq/play/?contentId=b7cdf69100b1a2ef&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans1.jpg" group-title="DC Titans", 1T-E09
+http://niflheim.lhmtv.gq/play/?contentId=1f16815354cf3b4d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans1.jpg" group-title="DC Titans", 1T-E10
+http://niflheim.lhmtv.gq/play/?contentId=86ca0d8d52b0ab8e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans1.jpg" group-title="DC Titans", 1T-E11
+http://niflheim.lhmtv.gq/play/?contentId=7029ba24fa286620&LHMTv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cFvn0w.png" group-title="TITANS LEG.", TEMPORADA 1-EP02
-http://hele8081.azureedge.net/RCServer10/ondemand/TITNSS01EP02.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cFvn0w.png" group-title="TITANS LEG.", TEMPORADA 1-EP03
-http://hele8081.azureedge.net/RCServer10/ondemand/TITNSS01EP03.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cFvn0w.png" group-title="TITANS LEG.", TEMPORADA 1-EP04
-http://hele8081.azureedge.net/RCServer10/ondemand/TITNSS01EP04.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cFvn0w.png" group-title="TITANS LEG.", TEMPORADA 1-EP05
-http://hele8081.azureedge.net/RCServer07/ondemand/TITNSS01EP05.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cFvn0w.png" group-title="TITANS LEG.", TEMPORADA 1-EP06
-http://hele8081.azureedge.net/RCServer08/ondemand/TITNSS01EP06.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cFvn0w.png" group-title="TITANS LEG.", TEMPORADA 1-EP07
-http://hele8081.azureedge.net/RCServer08/ondemand/TITNSS01EP07.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cFvn0w.png" group-title="TITANS LEG.", TEMPORADA 1-EP08
-http://hele8081.azureedge.net/RCServer08/ondemand/TITNSS01EP08.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cFvn0w.png" group-title="TITANS LEG.", TEMPORADA 1-EP09
-http://hele8081.azureedge.net/RCServer08/ondemand/TITNSS01EP09.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cFvn0w.png" group-title="TITANS LEG.", TEMPORADA 1-EP10
-http://hele8081.azureedge.net/RCServer08/ondemand/TITNSS01EP10.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cFvn0w.png" group-title="TITANS LEG.", TEMPORADA 1-EP11
-http://hele8081.azureedge.net/RCServer08/ondemand/TITNSS01EP11.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans2.jpg" group-title="DC Titans", 2T-E01
+http://niflheim.lhmtv.gq/play/?contentId=08fad89e0b66cdc9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans2.jpg" group-title="DC Titans", 2T-E02
+http://niflheim.lhmtv.gq/play/?contentId=db9bd9212382072a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans2.jpg" group-title="DC Titans", 2T-E03
+http://niflheim.lhmtv.gq/play/?contentId=9c473b684a6dd059&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans2.jpg" group-title="DC Titans", 2T-E04
+http://niflheim.lhmtv.gq/play/?contentId=3d1a018bb76d057b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans2.jpg" group-title="DC Titans", 2T-E05
+http://niflheim.lhmtv.gq/play/?contentId=ab68c33a63d3bdae&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans2.jpg" group-title="DC Titans", 2T-E06
+http://niflheim.lhmtv.gq/play/?contentId=0b397d5a34d3a04b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans2.jpg" group-title="DC Titans", 2T-E07
+http://niflheim.lhmtv.gq/play/?contentId=146fa5fc035e30e6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans2.jpg" group-title="DC Titans", 2T-E08
+http://niflheim.lhmtv.gq/play/?contentId=45b4e73eb6f59823&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans2.jpg" group-title="DC Titans", 2T-E09
+http://niflheim.lhmtv.gq/play/?contentId=a370d83d74e610df&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans2.jpg" group-title="DC Titans", 2T-E10
+http://niflheim.lhmtv.gq/play/?contentId=eda97494ead876c0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans2.jpg" group-title="DC Titans", 2T-E11
+http://niflheim.lhmtv.gq/play/?contentId=d2e4b55c8e4826f9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/titans2.jpg" group-title="DC Titans", 2T-E12
+http://niflheim.lhmtv.gq/play/?contentId=3d28dccdeec260df&LHMTv
