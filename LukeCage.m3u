@@ -1,28 +1,55 @@
 #EXTINF
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8hEzp2Q.jpg" group-title="Luke Cage DUB",1x1-DUB Luke Cage
-http://hele8081.azureedge.net/RCServer11/ondemand/LKCGT01P01.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8hEzp2Q.jpg" group-title="Luke Cage DUB",1x2-DUB Luke Cage
-http://hele8081.azureedge.net/RCServer11/ondemand/LKCGT01P02.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8hEzp2Q.jpg" group-title="Luke Cage DUB",1x3-DUB Luke Cage
-http://hele8081.azureedge.net/RCServer11/ondemand/LKCGT01P03.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8hEzp2Q.jpg" group-title="Luke Cage DUB",1x4-DUB Luke Cage
-http://hele8081.azureedge.net/RCServer11/ondemand/LKCGT01P04.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8hEzp2Q.jpg" group-title="Luke Cage DUB",1x5-DUB Luke Cage
-http://hele8081.azureedge.net/RCServer11/ondemand/LKCGT01P05.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8hEzp2Q.jpg" group-title="Luke Cage DUB",1x6-DUB Luke Cage
-http://hele8081.azureedge.net/RCServer11/ondemand/LKCGT01P06.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8hEzp2Q.jpg" group-title="Luke Cage DUB",1x7-DUB Luke Cage
-http://hele8081.azureedge.net/RCServer11/ondemand/LKCGT01P07.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8hEzp2Q.jpg" group-title="Luke Cage DUB",1x8-DUB Luke Cage
-http://hele8081.azureedge.net/RCServer11/ondemand/LKCGT01P08.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8hEzp2Q.jpg" group-title="Luke Cage DUB",1x9-DUB Luke Cage
-http://hele8081.azureedge.net/RCServer11/ondemand/LKCGT01P09.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8hEzp2Q.jpg" group-title="Luke Cage DUB",1x10-DUB Luke Cage
-http://hele8081.azureedge.net/RCServer11/ondemand/LKCGT01P10.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8hEzp2Q.jpg" group-title="Luke Cage DUB",1x11-DUB Luke Cage
-http://hele8081.azureedge.net/RCServer11/ondemand/LKCGT01P11.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8hEzp2Q.jpg" group-title="Luke Cage DUB",1x12-DUB Luke Cage
-http://hele8081.azureedge.net/RCServer11/ondemand/LKCGT01P12.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8hEzp2Q.jpg" group-title="Luke Cage DUB",1x13-DUB Luke Cage
-http://hele8081.azureedge.net/RCServer11/ondemand/LKCGT01P13.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk1.jpg" group-title="Marvel - Luke Cage", 1T-E01
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.1/Luke.Cage.S01E01.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk1.jpg" group-title="Marvel - Luke Cage", 1T-E02
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.1/Luke.Cage.S01E02.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk1.jpg" group-title="Marvel - Luke Cage", 1T-E03
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.1/Luke.Cage.S01E03.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk1.jpg" group-title="Marvel - Luke Cage", 1T-E04
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.1/Luke.Cage.S01E04.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk1.jpg" group-title="Marvel - Luke Cage", 1T-E05
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.1/Luke.Cage.S01E05.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk1.jpg" group-title="Marvel - Luke Cage", 1T-E06
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.1/Luke.Cage.S01E06.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk1.jpg" group-title="Marvel - Luke Cage", 1T-E07
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.1/Luke.Cage.S01E07.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk1.jpg" group-title="Marvel - Luke Cage", 1T-E08
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.1/Luke.Cage.S01E08.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk1.jpg" group-title="Marvel - Luke Cage", 1T-E09
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.1/Luke.Cage.S01E09.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk1.jpg" group-title="Marvel - Luke Cage", 1T-E10
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.1/Luke.Cage.S01E10.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk1.jpg" group-title="Marvel - Luke Cage", 1T-E11
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.1/Luke.Cage.S01E11.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk1.jpg" group-title="Marvel - Luke Cage", 1T-E12
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.1/Luke.Cage.S01E12.mkv?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk1.jpg" group-title="Marvel - Luke Cage", 1T-E13
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.1/Luke.Cage.S01E13.mkv?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk2.jpg" group-title="Marvel - Luke Cage", 2T-E01
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.2/Luke.Cage.S02E01.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk2.jpg" group-title="Marvel - Luke Cage", 2T-E02
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.2/Luke.Cage.S02E02.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk2.jpg" group-title="Marvel - Luke Cage", 2T-E03
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.2/Luke.Cage.S02E03.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk2.jpg" group-title="Marvel - Luke Cage", 2T-E04
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.2/Luke.Cage.S02E04.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk2.jpg" group-title="Marvel - Luke Cage", 2T-E05
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.2/Luke.Cage.S02E05.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk2.jpg" group-title="Marvel - Luke Cage", 2T-E06
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.2/Luke.Cage.S02E06.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk2.jpg" group-title="Marvel - Luke Cage", 2T-E07
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.2/Luke.Cage.S02E07.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk2.jpg" group-title="Marvel - Luke Cage", 2T-E08
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.2/Luke.Cage.S02E08.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk2.jpg" group-title="Marvel - Luke Cage", 2T-E09
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.2/Luke.Cage.S02E09.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk2.jpg" group-title="Marvel - Luke Cage", 2T-E10
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.2/Luke.Cage.S02E10.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk2.jpg" group-title="Marvel - Luke Cage", 2T-E11
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.2/Luke.Cage.S02E11.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk2.jpg" group-title="Marvel - Luke Cage", 2T-E12
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.2/Luke.Cage.S02E12.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/marvellk2.jpg" group-title="Marvel - Luke Cage", 2T-E13
+http://nidavellir.lhmtv.gq/Series/Luke.Cage.2/Luke.Cage.S02E13.mp4?LHMTv
