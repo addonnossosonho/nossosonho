@@ -1,604 +1,455 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
 http://
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil 2020 (24H)" tvg-logo="http://lb1.iptv.movie/logos/bbb20.png" group-title="Canais: 24 Horas",Big Brother Brasil 2020 (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/3975
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://lb1.iptv.movie/logos/ae.jpg" group-title="Canais: Filme e Série",A&E HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1521
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD+" tvg-logo="http://lb1.iptv.movie/logos/ae.jpg" group-title="Canais: Filme e Série",A&E HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/375
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://lb1.iptv.movie/logos/amc.jpg" group-title="Canais: Filme e Série",AMC HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1498
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD+" tvg-logo="http://lb1.iptv.movie/logos/amc.jpg" group-title="Canais: Filme e Série",AMC HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/373
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://lb1.iptv.movie/logos/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1497
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD+" tvg-logo="http://lb1.iptv.movie/logos/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/371
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD+" tvg-logo="http://lb1.iptv.movie/logos/arte1.jpg" group-title="Canais: Variedade e Música",Arte 1 HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/15
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan (24H)" tvg-logo="http://lb1.iptv.movie/logos/jackiechan.jpg" group-title="Canais: 24 Horas",As Aventuras de Jackie Chan (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2326
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://lb1.iptv.movie/logos/axn.jpg" group-title="Canais: Filme e Série",AXN HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1496
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD+" tvg-logo="http://lb1.iptv.movie/logos/axn.jpg" group-title="Canais: Filme e Série",AXN HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/369
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV SD" tvg-logo="http://lb1.iptv.movie/logos/babytv.png" group-title="Canais: Infantil",Baby TV SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/367
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="http://lb1.iptv.movie/logos/band.png" group-title="Canais: Abertos",Band HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/489
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD+" tvg-logo="http://lb1.iptv.movie/logos/band.png" group-title="Canais: Abertos",Band HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/484
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="http://lb1.iptv.movie/logos/bandnews.png" group-title="Canais: Notícia",Band News HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1494
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD+" tvg-logo="http://lb1.iptv.movie/logos/bandnews.png" group-title="Canais: Notícia",Band News HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/363
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://lb1.iptv.movie/logos/bandsports.png" group-title="Canais: Esporte",Band Sports HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1495
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD+" tvg-logo="http://lb1.iptv.movie/logos/bandsports.png" group-title="Canais: Esporte",Band Sports HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/360
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://lb1.iptv.movie/logos/bis.png" group-title="Canais: Variedade e Música",BIS HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1493
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD+" tvg-logo="http://lb1.iptv.movie/logos/bis.png" group-title="Canais: Variedade e Música",BIS HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/358
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja (24H)" tvg-logo="http://lb1.iptv.movie/logos/bobesponja.jpg" group-title="Canais: 24 Horas",Bob Esponja (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2327
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://lb1.iptv.movie/logos/boomerang.png" group-title="Canais: Infantil",Boomerang HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1492
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD+" tvg-logo="http://lb1.iptv.movie/logos/boomerang.png" group-title="Canais: Infantil",Boomerang HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/355
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="http://lb1.iptv.movie/logos/canalbrasil.jpg" group-title="Canais: Filme e Série",Canal Brasil HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/353
-#EXTINF:-1 tvg-id="" tvg-name="Canal Rural SD" tvg-logo="http://lb1.iptv.movie/logos/canalrural.png" group-title="Canais: Abertos",Canal Rural SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/351
-#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Cancao Nova SD" tvg-logo="http://lb1.iptv.movie/logos/cancaonova.png" group-title="Canais: Religião",Cancao Nova SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1519
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://lb1.iptv.movie/logos/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1491
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD+" tvg-logo="http://lb1.iptv.movie/logos/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/349
-#EXTINF:-1 tvg-id="" tvg-name="Chaves (24H)" tvg-logo="http://iptv.movie:8080/images/lQFO5cPoYfKrACayWItroAi1Wdp_small.jpg" group-title="Canais: 24 Horas",Chaves (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2701
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://lb1.iptv.movie/logos/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1490
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD+" tvg-logo="http://lb1.iptv.movie/logos/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/347
-#EXTINF:-1 tvg-id="" tvg-name="Clássicos Walt Disney (24H)" tvg-logo="http://canais.servidor.tv:8080/images/054cb580da77a3a7cf0579d0fc2dcbc0.jpg" group-title="Canais: 24 Horas",Clássicos Walt Disney (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/3970
-#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="CNN Espanhol SD" tvg-logo="http://lb1.iptv.movie/logos/CNN.png" group-title="Canais: Notícia",CNN Espanhol SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/345
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN Internacional SD" tvg-logo="http://lb1.iptv.movie/logos/CNN.png" group-title="Canais: Notícia",CNN Internacional SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/344
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://lb1.iptv.movie/logos/combate.jpg" group-title="Canais: Esporte",Combate HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1489
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD+" tvg-logo="http://lb1.iptv.movie/logos/combate.jpg" group-title="Canais: Esporte",Combate HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/342
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://lb1.iptv.movie/logos/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1488
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD+" tvg-logo="http://lb1.iptv.movie/logos/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/340
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Mundo FIFA 2002: Melhores Momentos (24H)" tvg-logo="http://canais.servidor.tv:8080/images/96744845e691df222da01631aadc7b98.jpg" group-title="Canais: 24 Horas",Copa do Mundo FIFA 2002: Melhores Momentos (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/3971
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura SD" tvg-logo="http://lb1.iptv.movie/logos/cultura.png" group-title="Canais: Variedade e Música",Cultura SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/79
-#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! SD" tvg-logo="http://lb1.iptv.movie/logos/curta.png" group-title="Canais: Variedade e Música",Curta! SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/338
-#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://lb1.iptv.movie/logos/dazn.jpg" group-title="Canais: Esporte",DAZN
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2716
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="http://lb1.iptv.movie/logos/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1487
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/337
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="http://lb1.iptv.movie/logos/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",Discovery Home & Health HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1518
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD+" tvg-logo="http://lb1.iptv.movie/logos/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",Discovery Home & Health HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/334
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://lb1.iptv.movie/logos/discoverykids.jpg" group-title="Canais: Infantil",Discovery Kids HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1483
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD+" tvg-logo="http://lb1.iptv.movie/logos/discoverykids.jpg" group-title="Canais: Infantil",Discovery Kids HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/332
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="http://lb1.iptv.movie/logos/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1482
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD+" tvg-logo="http://lb1.iptv.movie/logos/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/330
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://lb1.iptv.movie/logos/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1486
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD+" tvg-logo="http://lb1.iptv.movie/logos/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/329
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://lb1.iptv.movie/logos/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1481
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD+" tvg-logo="http://lb1.iptv.movie/logos/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/328
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="http://lb1.iptv.movie/logos/discoveryworld.png" group-title="Canais: Documentário",Discovery World HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1485
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD+" tvg-logo="http://lb1.iptv.movie/logos/discoveryworld.png" group-title="Canais: Documentário",Discovery World HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/326
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel HD" tvg-logo="http://lb1.iptv.movie/logos/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1480
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/325
-#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD" tvg-logo="http://lb1.iptv.movie/logos/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1478
-#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD+" tvg-logo="http://lb1.iptv.movie/logos/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/323
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD HD" tvg-logo="http://lb1.iptv.movie/logos/disneyxd.png" group-title="Canais: Infantil",Disney XD HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1517
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD HD+" tvg-logo="http://lb1.iptv.movie/logos/disneyxd.png" group-title="Canais: Infantil",Disney XD HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/683
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super (24H)" tvg-logo="http://canais.servidor.tv:8080/images/412d425881bd5b03aa049f1ba655143c.jpg" group-title="Canais: 24 Horas",Dragon Ball Super (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/3972
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z (24H)" tvg-logo="http://canais.servidor.tv:8080/images/726264f3487200fc4a50d834a7bae713.jpg" group-title="Canais: 24 Horas",Dragon Ball Z (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/3973
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD" tvg-logo="http://lb1.iptv.movie/logos/e.png" group-title="Canais: Variedade e Música",E! HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/318
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="http://lb1.iptv.movie/logos/espn.jpg" group-title="Canais: Esporte",ESPN HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1477
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD+" tvg-logo="http://lb1.iptv.movie/logos/espn.jpg" group-title="Canais: Esporte",ESPN HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/309
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="http://lb1.iptv.movie/logos/espn.jpg" group-title="Canais: Esporte",ESPN 2 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1476
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD+" tvg-logo="http://lb1.iptv.movie/logos/espn.jpg" group-title="Canais: Esporte",ESPN 2 HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/314
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="http://lb1.iptv.movie/logos/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1475
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD+" tvg-logo="http://lb1.iptv.movie/logos/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/313
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD+" tvg-logo="http://lb1.iptv.movie/logos/espnextra.png" group-title="Canais: Esporte",ESPN Extra HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/311
-#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças (24H)" tvg-logo="http://canais.servidor.tv:8080/images/83adf16b5322c408d16b68278723a3f5.jpg" group-title="Canais: 24 Horas",Eu a Patroa e as Crianças (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/3974
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://lb1.iptv.movie/logos/fishtv.jpg" group-title="Canais: Variedade e Música",Fish TV SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/307
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Netword HD" tvg-logo="http://lb1.iptv.movie/logos/foodnetwork.png" group-title="Canais: Variedade e Música",Food Netword HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1474
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD+" tvg-logo="http://lb1.iptv.movie/logos/foodnetwork.png" group-title="Canais: Variedade e Música",Food Network HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/306
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD" tvg-logo="http://lb1.iptv.movie/logos/fox.png" group-title="Canais: Filme e Série",Fox HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1473
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD+" tvg-logo="http://lb1.iptv.movie/logos/fox.png" group-title="Canais: Filme e Série",Fox HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/304
-#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD" tvg-logo="http://lb1.iptv.movie/logos/foxlife.png" group-title="Canais: Variedade e Música",Fox Life HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1472
-#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD+" tvg-logo="http://lb1.iptv.movie/logos/foxlife.png" group-title="Canais: Variedade e Música",Fox Life HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/303
-#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Fox Premium 1 HD" tvg-logo="http://lb1.iptv.movie/logos/foxpremium1.png" group-title="Canais: Filme e Série",Fox Premium 1 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1505
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD" tvg-logo="http://lb1.iptv.movie/logos/foxsports.png" group-title="Canais: Esporte",Fox Sports HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1502
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD+" tvg-logo="http://lb1.iptv.movie/logos/foxsports.png" group-title="Canais: Esporte",Fox Sports HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/298
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="http://lb1.iptv.movie/logos/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1501
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD+" tvg-logo="http://lb1.iptv.movie/logos/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/300
-#EXTINF:-1 tvg-id="fox.br" tvg-name="FX HD" tvg-logo="http://lb1.iptv.movie/logos/fx.jpg" group-title="Canais: Filme e Série",FX HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1469
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD+" tvg-logo="http://lb1.iptv.movie/logos/fx.jpg" group-title="Canais: Filme e Série",FX HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/294
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bahia HD+" tvg-logo="http://lb1.iptv.movie/logos/globotvbahia.jpg" group-title="Canais: Abertos",Globo Bahia HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2707
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bahia SD" tvg-logo="http://lb1.iptv.movie/logos/globotvbahia.jpg" group-title="Canais: Abertos",Globo Bahia SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/260
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Brasilia HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Brasilia HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/291
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Centro America HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Centro America HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2712
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://lb1.iptv.movie/logos/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Campinas HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/289
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo EPTV Campinas HD+" tvg-logo="http://lb1.iptv.movie/logos/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Campinas HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2711
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="http://lb1.iptv.movie/logos/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Ribeirão Preto HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/287
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Ribeirão Preto HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo EPTV Ribeirão Preto HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2952
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV São Carlos HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo EPTV São Carlos HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2941
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV São Carlos HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo EPTV São Carlos HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2940
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Goiânia SD" tvg-logo="http://lb1.iptv.movie/logos/globotvanhanguera.jpg" group-title="Canais: Abertos",Globo Goiânia SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/262
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Manaus HD" tvg-logo="http://lb1.iptv.movie/logos/globoredeamazonica.png" group-title="Canais: Abertos",Globo Manaus HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/19
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Minas HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Minas HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/279
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Minas HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Minas HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2713
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="http://lb1.iptv.movie/logos/globonews.png" group-title="Canais: Notícia",Globo News HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1468
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD+" tvg-logo="http://lb1.iptv.movie/logos/globonews.png" group-title="Canais: Notícia",Globo News HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/277
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Nordeste HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Nordeste HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/275
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Nordeste HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Nordeste HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2714
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo NSC Floripa HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo NSC Floripa HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2710
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Poa HD" tvg-logo="http://lb1.iptv.movie/logos/globorbs.png" group-title="Canais: Abertos",Globo Poa HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1467
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Poa HD+" tvg-logo="http://lb1.iptv.movie/logos/globorbs.png" group-title="Canais: Abertos",Globo Poa HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/271
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo RJ HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1504
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo RJ HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/268
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RPC Paranaense HD+" tvg-logo="http://lb1.iptv.movie/logos/globorpc.png" group-title="Canais: Abertos",Globo RPC Paranaense HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2709
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RPC SD" tvg-logo="http://lb1.iptv.movie/logos/globorpc.png" group-title="Canais: Abertos",Globo RPC SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/266
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo S.J Rio Preto HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo S.J Rio Preto HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2945
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo S.J Rio Preto HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo S.J Rio Preto HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2944
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Sergipe HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Sergipe HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/250
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo São Paulo HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1466
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo São Paulo HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/265
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Anhanguera HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV Anhanguera HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2708
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV DIÁRIO HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV DIÁRIO HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2947
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV DIÁRIO HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV DIÁRIO HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2946
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Fronteira HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV Fronteira HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2943
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Fronteira HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV Fronteira HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2942
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Liberal HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV Liberal HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2706
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Mirante HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV Mirante HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2705
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Morena HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV Morena HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2704
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TEM Sorocaba HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV TEM Sorocaba HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2949
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TEM Sorocaba HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV TEM Sorocaba HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2948
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TRIBUNA HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV TRIBUNA HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2954
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TRIBUNA HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV TRIBUNA HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2953
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV VANGUARDA HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV VANGUARDA HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2951
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV VANGUARDA HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV VANGUARDA HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2950
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Verdes Mares HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV Verdes Mares HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2703
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="http://lb1.iptv.movie/logos/gloob.jpg" group-title="Canais: Infantil",Gloob HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1499
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD+" tvg-logo="http://lb1.iptv.movie/logos/gloob.jpg" group-title="Canais: Infantil",Gloob HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/686
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="Gloobinho HD" tvg-logo="http://lb1.iptv.movie/logos/gloobinho.png" group-title="Canais: Infantil",Gloobinho HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/237
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="Gloobinho SD" tvg-logo="http://lb1.iptv.movie/logos/gloobinho.png" group-title="Canais: Infantil",Gloobinho SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1515
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://lb1.iptv.movie/logos/gnt.jpg" group-title="Canais: Variedade e Música",GNT HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/235
-#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="http://lb1.iptv.movie/logos/h2.png" group-title="Canais: Documentário",H2 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1465
-#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD+" tvg-logo="http://lb1.iptv.movie/logos/h2.png" group-title="Canais: Documentário",H2 HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/233
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://lb1.iptv.movie/logos/hbo.png" group-title="Canais: Filme e Série",HBO HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1463
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD+" tvg-logo="http://lb1.iptv.movie/logos/hbo.png" group-title="Canais: Filme e Série",HBO HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/227
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 HD" tvg-logo="http://lb1.iptv.movie/logos/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1460
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 HD+" tvg-logo="http://lb1.iptv.movie/logos/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/231
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://lb1.iptv.movie/logos/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1464
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD+" tvg-logo="http://lb1.iptv.movie/logos/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/229
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="http://lb1.iptv.movie/logos/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1462
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD+" tvg-logo="http://lb1.iptv.movie/logos/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/226
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature HD" tvg-logo="http://lb1.iptv.movie/logos/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1461
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature HD+" tvg-logo="http://lb1.iptv.movie/logos/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/224
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD" tvg-logo="http://lb1.iptv.movie/logos/thehistorychannel.png" group-title="Canais: Documentário",History Channel HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1459
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/thehistorychannel.png" group-title="Canais: Documentário",History Channel HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/95
-#EXTINF:-1 tvg-id="" tvg-name="Hit TV HD" tvg-logo="http://lb1.iptv.movie/logos/hittv.jpg" group-title="Canais: Variedade e Música",Hit TV HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/221
-#EXTINF:-1 tvg-id="idealtv.br" tvg-name="Ideal TV SD" tvg-logo="http://lb1.iptv.movie/logos/idealtv.png" group-title="Canais: Abertos",Ideal TV SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/219
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigacao Discovery SD" tvg-logo="http://lb1.iptv.movie/logos/investigacaodiscovery.jpg" group-title="Canais: Documentário",Investigacao Discovery SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1514
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery HD+" tvg-logo="http://lb1.iptv.movie/logos/investigacaodiscovery.jpg" group-title="Canais: Documentário",Investigação Discovery HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/218
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="http://lb1.iptv.movie/logos/lifetime.png" group-title="Canais: Filme e Série",Lifetime HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1458
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD+" tvg-logo="http://lb1.iptv.movie/logos/lifetime.png" group-title="Canais: Filme e Série",Lifetime HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/216
-#EXTINF:-1 tvg-id="" tvg-name="Luluzinha (24H)" tvg-logo="http://lb1.iptv.movie/logos/luluzinha.jpg" group-title="Canais: 24 Horas",Luluzinha (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2609
-#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="Mais Globosat HD" tvg-logo="http://lb1.iptv.movie/logos/maisglobosat.png" group-title="Canais: Variedade e Música",Mais Globosat HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/213
-#EXTINF:-1 tvg-id="maxbrasil.br" tvg-name="Max HD" tvg-logo="http://lb1.iptv.movie/logos/max.png" group-title="Canais: Filme e Série",Max HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1457
-#EXTINF:-1 tvg-id="maxbrasil.br" tvg-name="Max HD+" tvg-logo="http://lb1.iptv.movie/logos/max.png" group-title="Canais: Filme e Série",Max HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/211
-#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="Max Prime HD" tvg-logo="http://lb1.iptv.movie/logos/maxprime.jpg" group-title="Canais: Filme e Série",Max Prime HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1456
-#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="Max Prime HD+" tvg-logo="http://lb1.iptv.movie/logos/maxprime.jpg" group-title="Canais: Filme e Série",Max Prime HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/209
-#EXTINF:-1 tvg-id="maxup.br" tvg-name="Max UP HD" tvg-logo="http://lb1.iptv.movie/logos/maxup.png" group-title="Canais: Filme e Série",Max UP HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1455
-#EXTINF:-1 tvg-id="maxup.br" tvg-name="Max UP HD+" tvg-logo="http://lb1.iptv.movie/logos/maxup.png" group-title="Canais: Filme e Série",Max UP HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/207
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="http://lb1.iptv.movie/logos/megapix.png" group-title="Canais: Filme e Série",Megapix HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1454
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD+" tvg-logo="http://lb1.iptv.movie/logos/megapix.png" group-title="Canais: Filme e Série",Megapix HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/204
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://lb1.iptv.movie/logos/mtv.jpg" group-title="Canais: Variedade e Música",MTV HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1453
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD+" tvg-logo="http://lb1.iptv.movie/logos/mtv.jpg" group-title="Canais: Variedade e Música",MTV HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/202
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="http://lb1.iptv.movie/logos/multishow.png" group-title="Canais: Variedade e Música",Multishow HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1452
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD+" tvg-logo="http://lb1.iptv.movie/logos/multishow.png" group-title="Canais: Variedade e Música",Multishow HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/199
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD" tvg-logo="http://lb1.iptv.movie/logos/natgeokids.png" group-title="Canais: Infantil",Nat Geo Kids HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1451
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD+" tvg-logo="http://lb1.iptv.movie/logos/natgeokids.png" group-title="Canais: Infantil",Nat Geo Kids HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/195
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD" tvg-logo="http://lb1.iptv.movie/logos/natgeowild.png" group-title="Canais: Documentário",Nat Geo Wild HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1450
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD+" tvg-logo="http://lb1.iptv.movie/logos/natgeowild.png" group-title="Canais: Documentário",Nat Geo Wild HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/193
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic HD+" tvg-logo="http://lb1.iptv.movie/logos/nationalgeographic.jpg" group-title="Canais: Documentário",National Geographic HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/196
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR HD" tvg-logo="http://lb1.iptv.movie/logos/nickjr.png" group-title="Canais: Infantil",Nick JR HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1503
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR HD+" tvg-logo="http://lb1.iptv.movie/logos/nickjr.png" group-title="Canais: Infantil",Nick JR HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/187
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="http://lb1.iptv.movie/logos/nick.jpg" group-title="Canais: Infantil",Nickelodeon HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1449
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD+" tvg-logo="http://lb1.iptv.movie/logos/nick.jpg" group-title="Canais: Infantil",Nickelodeon HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/188
-#EXTINF:-1 tvg-id="novotempo.br" tvg-name="Novo Tempo SD" tvg-logo="http://lb1.iptv.movie/logos/novotempo.jpg" group-title="Canais: Religião",Novo Tempo SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/184
-#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Urso (24H)" tvg-logo="http://lb1.iptv.movie/logos/opequenourso.jpg" group-title="Canais: 24 Horas",O Pequeno Urso (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2607
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://lb1.iptv.movie/logos/off.png" group-title="Canais: Variedade e Música",OFF HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/183
-#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons (24H)" tvg-logo="http://lb1.iptv.movie/logos/ossimpsons.jpg" group-title="Canais: 24 Horas",Os Simpsons (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2328
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="http://lb1.iptv.movie/logos/paramount.png" group-title="Canais: Filme e Série",Paramount Channel HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1448
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/paramount.png" group-title="Canais: Filme e Série",Paramount Channel HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/181
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig (24H)" tvg-logo="http://lb1.iptv.movie/logos/peppapig.jpg" group-title="Canais: 24 Horas",Peppa Pig (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2329
-#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau (24H)" tvg-logo="http://lb1.iptv.movie/logos/picapau.jpg" group-title="Canais: 24 Horas",Pica-Pau (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2325
-#EXTINF:-1 tvg-id="playtv.br" tvg-name="Play TV SD" tvg-logo="http://lb1.iptv.movie/logos/playtv.png" group-title="Canais: Variedade e Música",Play TV SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/179
-#EXTINF:-1 tvg-id="philos.br" tvg-name="Polishop TV SD" tvg-logo="http://lb1.iptv.movie/logos/polishoptv.png" group-title="Canais: Variedade e Música",Polishop TV SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/178
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1511
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/172
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1510
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/170
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1509
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/168
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1508
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/166
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1507
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/164
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1506
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/162
-#EXTINF:-1 tvg-id="premiere8.br" tvg-name="Premiere 8 SD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 8 SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/160
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://canais.servidor.tv:8080/images/naW7ToJkl7nQQtwiZM9Sf0wKrxPrLeVa.jpg" group-title="Canais: Esporte",Premiere Clubes HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1447
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD+" tvg-logo="http://canais.servidor.tv:8080/images/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/159
-#EXTINF:-1 tvg-id="primeboxbrasil.br" tvg-name="Prime Box Brasil SD" tvg-logo="http://lb1.iptv.movie/logos/primeboxbrasil.png" group-title="Canais: Filme e Série",Prime Box Brasil SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/157
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record HD+" tvg-logo="http://lb1.iptv.movie/logos/record.png" group-title="Canais: Abertos",Record HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/148
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="http://lb1.iptv.movie/logos/recordnews.png" group-title="Canais: Notícia",Record News HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1513
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD+" tvg-logo="http://lb1.iptv.movie/logos/recordnews.png" group-title="Canais: Notícia",Record News HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/405
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record SP HD" tvg-logo="http://lb1.iptv.movie/logos/record.png" group-title="Canais: Abertos",Record SP HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/403
-#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="Rede Brasil SD" tvg-logo="http://lb1.iptv.movie/logos/redebrasil.jpg" group-title="Canais: Abertos",Rede Brasil SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/137
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV HD" tvg-logo="http://lb1.iptv.movie/logos/redetv.png" group-title="Canais: Abertos",Rede TV HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/136
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida SD" tvg-logo="http://lb1.iptv.movie/logos/redevida.jpg" group-title="Canais: Religião",Rede Vida SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/134
-#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV SD" tvg-logo="http://lb1.iptv.movie/logos/rittv.png" group-title="Canais: Religião",RIT TV SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/133
-#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="Rá Tim Bum HD" tvg-logo="http://lb1.iptv.movie/logos/tvratimbum.png" group-title="Canais: Infantil",Rá Tim Bum HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/72
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="http://lb1.iptv.movie/logos/sbt.png" group-title="Canais: Abertos",SBT HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1512
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD+" tvg-logo="http://lb1.iptv.movie/logos/sbt.png" group-title="Canais: Abertos",SBT HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/402
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD" tvg-logo="http://lb1.iptv.movie/logos/sony.png" group-title="Canais: Filme e Série",Sony HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1446
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD+" tvg-logo="http://lb1.iptv.movie/logos/sony.png" group-title="Canais: Filme e Série",Sony HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/127
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="http://lb1.iptv.movie/logos/space.png" group-title="Canais: Filme e Série",Space HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1445
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD+" tvg-logo="http://lb1.iptv.movie/logos/space.png" group-title="Canais: Filme e Série",Space HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/125
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://lb1.iptv.movie/logos/sportv.png" group-title="Canais: Esporte",SporTV HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1444
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD+" tvg-logo="http://lb1.iptv.movie/logos/sportv.png" group-title="Canais: Esporte",SporTV HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/119
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://lb1.iptv.movie/logos/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1443
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD+" tvg-logo="http://lb1.iptv.movie/logos/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/123
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://lb1.iptv.movie/logos/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1442
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD+" tvg-logo="http://lb1.iptv.movie/logos/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/121
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://lb1.iptv.movie/logos/studiouniversal.png" group-title="Canais: Filme e Série",Studio Universal HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1441
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD+" tvg-logo="http://lb1.iptv.movie/logos/studiouniversal.png" group-title="Canais: Filme e Série",Studio Universal HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/117
-#EXTINF:-1 tvg-id="" tvg-name="Super Choque (24H)" tvg-logo="http://lb1.iptv.movie/logos/superchoque.jpg" group-title="Canais: 24 Horas",Super Choque (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2679
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD" tvg-logo="http://lb1.iptv.movie/logos/syfy.png" group-title="Canais: Filme e Série",Syfy HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1440
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD+" tvg-logo="http://lb1.iptv.movie/logos/syfy.png" group-title="Canais: Filme e Série",Syfy HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/115
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://lb1.iptv.movie/logos/tbs.png" group-title="Canais: Filme e Série",TBS HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/113
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://lb1.iptv.movie/logos/tcm.png" group-title="Canais: Filme e Série",TCM HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/99
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD" tvg-logo="http://lb1.iptv.movie/logos/telecineaction.png" group-title="Canais: Filme e Série",Telecine Action HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1438
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD+" tvg-logo="http://lb1.iptv.movie/logos/telecineaction.png" group-title="Canais: Filme e Série",Telecine Action HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/111
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="http://lb1.iptv.movie/logos/telecinecult.jpg" group-title="Canais: Filme e Série",Telecine Cult HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1437
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD+" tvg-logo="http://lb1.iptv.movie/logos/telecinecult.jpg" group-title="Canais: Filme e Série",Telecine Cult HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/109
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="http://lb1.iptv.movie/logos/telecinefun.png" group-title="Canais: Filme e Série",Telecine Fun HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1436
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD+" tvg-logo="http://lb1.iptv.movie/logos/telecinefun.png" group-title="Canais: Filme e Série",Telecine Fun HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/107
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://lb1.iptv.movie/logos/telecinepipoca.png" group-title="Canais: Filme e Série",Telecine Pipoca HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1435
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD+" tvg-logo="http://lb1.iptv.movie/logos/telecinepipoca.png" group-title="Canais: Filme e Série",Telecine Pipoca HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/105
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://lb1.iptv.movie/logos/telecinepremium.png" group-title="Canais: Filme e Série",Telecine Premium HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1434
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD+" tvg-logo="http://lb1.iptv.movie/logos/telecinepremium.png" group-title="Canais: Filme e Série",Telecine Premium HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/103
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://lb1.iptv.movie/logos/telecinetouch.png" group-title="Canais: Filme e Série",Telecine Touch HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1439
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD+" tvg-logo="http://lb1.iptv.movie/logos/telecinetouch.png" group-title="Canais: Filme e Série",Telecine Touch HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/101
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="http://lb1.iptv.movie/logos/tlc.png" group-title="Canais: Variedade e Música",TLC HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/94
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://lb1.iptv.movie/logos/tnt.png" group-title="Canais: Filme e Série",TNT HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1433
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD+" tvg-logo="http://lb1.iptv.movie/logos/tnt.png" group-title="Canais: Filme e Série",TNT HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/92
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series HD" tvg-logo="http://lb1.iptv.movie/logos/tntseries.png" group-title="Canais: Filme e Série",TNT Series HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1432
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries HD+" tvg-logo="http://lb1.iptv.movie/logos/tntseries.png" group-title="Canais: Filme e Série",TNT Séries HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/90
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris (24H)" tvg-logo="http://lb1.iptv.movie/logos/todomundoodeiaochris.jpg" group-title="Canais: 24 Horas",Todo Mundo Odeia o Chris (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2702
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="Tru TV SD" tvg-logo="http://lb1.iptv.movie/logos/trutv.png" group-title="Canais: Variedade e Música",Tru TV SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/85
-#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida SD" tvg-logo="http://lb1.iptv.movie/logos/aparecida.jpg" group-title="Canais: Religião",TV Aparecida SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/84
-#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil SD" tvg-logo="http://lb1.iptv.movie/logos/tvbrasil.jpg" group-title="Canais: Abertos",TV Brasil SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/83
-#EXTINF:-1 tvg-id="" tvg-name="TV Climatempo SD" tvg-logo="http://lb1.iptv.movie/logos/tvclimatempo.jpg" group-title="Canais: Notícia",TV Climatempo SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/80
-#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV Câmara SD" tvg-logo="http://lb1.iptv.movie/logos/tvcamara.png" group-title="Canais: Abertos",TV Câmara SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/82
-#EXTINF:-1 tvg-id="tvescola.br" tvg-name="TV Escola HD+" tvg-logo="http://lb1.iptv.movie/logos/tvescola.jpg" group-title="Canais: Variedade e Música",TV Escola HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/77
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta HD" tvg-logo="http://lb1.iptv.movie/logos/tvgazeta.jpg" group-title="Canais: Abertos",TV Gazeta HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/75
-#EXTINF:-1 tvg-id="tvjustica.br" tvg-name="TV Justiça SD" tvg-logo="http://lb1.iptv.movie/logos/tvjustica.jpg" group-title="Canais: Abertos",TV Justiça SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/73
-#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV Senado SD" tvg-logo="http://lb1.iptv.movie/logos/tvsenado.png" group-title="Canais: Abertos",TV Senado SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/70
-#EXTINF:-1 tvg-id="tv5monde.us" tvg-name="TV5 SD" tvg-logo="http://lb1.iptv.movie/logos/tv5.png" group-title="Canais: Variedade e Música",TV5 SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/69
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Universal Channel HD" tvg-logo="http://lb1.iptv.movie/logos/universalchannel.png" group-title="Canais: Filme e Série",Universal Channel HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1431
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Universal Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/universalchannel.png" group-title="Canais: Filme e Série",Universal Channel HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/67
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 HD" tvg-logo="http://lb1.iptv.movie/logos/vh1.png" group-title="Canais: Variedade e Música",VH1 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/65
-#EXTINF:-1 tvg-id="vh1megahits.br" tvg-name="VH1 Mega Hits SD" tvg-logo="http://lb1.iptv.movie/logos/vh1.png" group-title="Canais: Variedade e Música",VH1 Mega Hits SD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/64
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="http://lb1.iptv.movie/logos/viva.jpg" group-title="Canais: Variedade e Música",Viva HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2680
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD+" tvg-logo="http://lb1.iptv.movie/logos/viva.jpg" group-title="Canais: Variedade e Música",Viva HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/10
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://lb1.iptv.movie/logos/warnerchannel.png" group-title="Canais: Filme e Série",Warner Channel HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/1430
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/warnerchannel.png" group-title="Canais: Filme e Série",Warner Channel HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/61
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WooHoo HD" tvg-logo="http://lb1.iptv.movie/logos/woohoo.jpg" group-title="Canais: Variedade e Música",WooHoo HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/59
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: Evolution (24H)" tvg-logo="http://lb1.iptv.movie/logos/xmenevolution.jpg" group-title="Canais: 24 Horas",X-Men: Evolution (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/2678
-#EXTINF:-1 tvg-id="" tvg-name="xxx Bangbros 4K" tvg-logo="http://lb1.iptv.movie/logos/bang.png" group-title="Canais: Adulto",xxx Bangbros 4K
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4048
-#EXTINF:-1 tvg-id="" tvg-name="xxx BangBros 1 4k++" tvg-logo="http://canais.servidor.tv:8080/images/7b750d8eacfee224ab8f1a92759b4094.png" group-title="Canais: Adulto",xxx BangBros 1 4k++
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4157
-#EXTINF:-1 tvg-id="" tvg-name="xxx BangBros 2 4k++" tvg-logo="http://canais.servidor.tv:8080/images/7b750d8eacfee224ab8f1a92759b4094.png" group-title="Canais: Adulto",xxx BangBros 2 4k++
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4158
-#EXTINF:-1 tvg-id="" tvg-name="xxx BangBros 1 HD" tvg-logo="http://canais.servidor.tv:8080/images/7b750d8eacfee224ab8f1a92759b4094.png" group-title="Canais: Adulto",xxx BangBros 1 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4159
-#EXTINF:-1 tvg-id="" tvg-name="xxx BangBros 2 HD" tvg-logo="http://canais.servidor.tv:8080/images/7b750d8eacfee224ab8f1a92759b4094.png" group-title="Canais: Adulto",xxx BangBros 2 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4160
-#EXTINF:-1 tvg-id="" tvg-name="xxx BangBros 3 HD" tvg-logo="http://canais.servidor.tv:8080/images/7b750d8eacfee224ab8f1a92759b4094.png" group-title="Canais: Adulto",xxx BangBros 3 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4161
-#EXTINF:-1 tvg-id="" tvg-name="xxx BangBros 4 HD" tvg-logo="http://canais.servidor.tv:8080/images/7b750d8eacfee224ab8f1a92759b4094.png" group-title="Canais: Adulto",xxx BangBros 4 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4162
-#EXTINF:-1 tvg-id="" tvg-name="xxx Bangers HD" tvg-logo="http://lb1.iptv.movie/logos/bangers.png" group-title="Canais: Adulto",xxx Bangers HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4049
-#EXTINF:-1 tvg-id="" tvg-name="xxx Brasileirinhas (24H)" tvg-logo="http://canais.servidor.tv:8080/images/70f49be285e6b555bd14a63db8545d88.jpg" group-title="Canais: Adulto",xxx Brasileirinhas (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/3977
-#EXTINF:-1 tvg-id="" tvg-name="xxx DDF Network 1 4K" tvg-logo="http://lb1.iptv.movie/logos/ddf.png" group-title="Canais: Adulto",xxx DDF Network 1 4K
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4050
-#EXTINF:-1 tvg-id="" tvg-name="xxx DDF Network 2 4K" tvg-logo="http://lb1.iptv.movie/logos/ddf.png" group-title="Canais: Adulto",xxx DDF Network 2 4K
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4051
-#EXTINF:-1 tvg-id="" tvg-name="xxx Eroxxx HD" tvg-logo="http://lb1.iptv.movie/logos/eroxxx.png" group-title="Canais: Adulto",xxx Eroxxx HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4046
-#EXTINF:-1 tvg-id="" tvg-name="xxx Hustler HD" tvg-logo="http://lb1.iptv.movie/logos/hustler.png" group-title="Canais: Adulto",xxx Hustler HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4043
-#EXTINF:-1 tvg-id="" tvg-name="xxx Mens 1 HD" tvg-logo="http://canais.servidor.tv:8080/images/826b5dfb7301552b44e555677318a0cd.jpg" group-title="Canais: Adulto",xxx Mens 1 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4141
-#EXTINF:-1 tvg-id="" tvg-name="xxx Mens 2 HD" tvg-logo="http://canais.servidor.tv:8080/images/826b5dfb7301552b44e555677318a0cd.jpg" group-title="Canais: Adulto",xxx Mens 2 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4142
-#EXTINF:-1 tvg-id="" tvg-name="xxx Mia Khalifa (24H)" tvg-logo="http://canais.servidor.tv:8080/images/b6f29ba075ec1d26b95310e15394fb3a.jpg" group-title="Canais: Adulto",xxx Mia Khalifa (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/3969
-#EXTINF:-1 tvg-id="" tvg-name="xxx Mia Linz (24H)" tvg-logo="http://canais.servidor.tv:8080/images/61f7c85e7db94c5d3d6c9e28cc94b2c3.jpg" group-title="Canais: Adulto",xxx Mia Linz (24H)
-http://canais.servidor.tv:8080/vhmrga/ek75z7/3976
-#EXTINF:-1 tvg-id="" tvg-name="xxx Penthouse HD" tvg-logo="http://lb1.iptv.movie/logos/pent.png" group-title="Canais: Adulto",xxx Penthouse HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4047
-#EXTINF:-1 tvg-id="" tvg-name="xxx Petite 4K" tvg-logo="http://lb1.iptv.movie/logos/petite.png" group-title="Canais: Adulto",xxx Petite 4K
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4045
-#EXTINF:-1 tvg-id="playboytv.pt" tvg-name="xxx Playboy TV HD" tvg-logo="http://lb1.iptv.movie/logos/playboytv.png" group-title="Canais: Adulto",xxx Playboy TV HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/57
-#EXTINF:-1 tvg-id="" tvg-name="xxx RedLight HD" tvg-logo="http://lb1.iptv.movie/logos/red.jpg" group-title="Canais: Adulto",xxx RedLight HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4044
-#EXTINF:-1 tvg-id="hot.pt" tvg-name="xxx Sex Privê HD" tvg-logo="http://lb1.iptv.movie/logos/sexprive.jpg" group-title="Canais: Adulto",xxx Sex Privê HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/257
-#EXTINF:-1 tvg-id="sextreme.pt" tvg-name="xxx Sextreme HD" tvg-logo="http://lb1.iptv.movie/logos/sextreme.jpg" group-title="Canais: Adulto",xxx Sextreme HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/54
-#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="xxx Sexy Hot HD" tvg-logo="http://lb1.iptv.movie/logos/sexyhot.png" group-title="Canais: Adulto",xxx Sexy Hot HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/49
-#EXTINF:-1 tvg-id="" tvg-name="xxx SuperOne HD" tvg-logo="http://lb1.iptv.movie/logos/superone.png" group-title="Canais: Adulto",xxx SuperOne HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4052
-#EXTINF:-1 tvg-id="" tvg-name="xxx Tiny4k 1 HD" tvg-logo="http://canais.servidor.tv:8080/images/ffd2a4ab5c8476a527069d263784ea43.jpg" group-title="Canais: Adulto",xxx Tiny4k 1 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4176
-#EXTINF:-1 tvg-id="" tvg-name="xxx Tiny4k 2 HD" tvg-logo="http://canais.servidor.tv:8080/images/ffd2a4ab5c8476a527069d263784ea43.jpg" group-title="Canais: Adulto",xxx Tiny4k 2 HD
-http://canais.servidor.tv:8080/vhmrga/ek75z7/4177
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo HD+" tvg-logo="http://lb1.iptv.movie/logos/zoomoo.png" group-title="Canais: Infantil",ZooMoo HD+
-http://canais.servidor.tv:8080/vhmrga/ek75z7/377
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",AMC
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28659
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",AMc
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/5477
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOTuMOs.png" group-title="TELECINES",CINEMAX
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28632
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOTuMOs.png" group-title="TELECINES",Cinemax
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/3751
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",HBO
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/273
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",hBO
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28560
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBO 2
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28563
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBo 2
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/279
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SIGNATURE
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/267
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SignatUre
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28856
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BOzZZ.png" group-title="TELECINES",HBO PLUS
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28857
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BOzZZ.png" group-title="TELECINES",HBO Plus
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/270
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j8Tl1Iy.png" group-title="TELECINES",HBO FAMILY
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28983
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j8Tl1Iy.png" group-title="TELECINES",HBO Family
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/276
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ShjQlkb.png" group-title="TELECINES",MAX
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28975
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ShjQlkb.png" group-title="TELECINES",Max
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/4827
+#EXTINF:-1 tvg-logo="https://imgur.com/RhneMdo.png" group-title="TELECINES",MAX PRIME
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28974
+#EXTINF:-1 tvg-logo="https://imgur.com/RhneMdo.png" group-title="TELECINES",MAX Prime
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/4828
+#EXTINF:-1 tvg-logo="https://imgur.com/teF23NM.png" group-title="TELECINES",MAX UP
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/35301
+#EXTINF:-1 tvg-logo="https://imgur.com/teF23NM.png" group-title="TELECINES",Max UP
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/5043
+#EXTINF:-1 tvg-logo="https://imgur.com/ewHyP3J.png" group-title="TELECINES",MEGAPIX
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28540
+#EXTINF:-1 tvg-logo="https://imgur.com/ewHyP3J.png" group-title="TELECINES",Megapix
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/244
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28847
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT *
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/228
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",Paramount
+http://greencorp.tech:80/diego/diego123/7969
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPACE
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28486
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPAcE
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/4947
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPAcE
+http://tvnanet.xyz:25461/palmeiras/campeao1951/224
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPaCE
+http://clienteworld.com:8080/claudia/123456/8013
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",Space
+http://89.187.173.219:80/eugenio/eugenio123/368
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TNT
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28458
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TNt
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/263
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",tnt
+http://tvnanet.xyz:25461/palmeiras/campeao1951/250
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",tnT
+http://clienteworld.com:8080/claudia/123456/7995
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TnT
+http://89.187.173.219:80/eugenio/eugenio123/361
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",tNT
+http://brazilgroup.xyz:8880/pedro/pedro123/388
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ACTION
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28473
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ActioN
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/296
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ACTIOn
+http://greencorp.tech:80/diego/diego123/7921
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE CULT
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28471
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE Cult
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/4791
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE CulT
+http://greencorp.tech:80/diego/diego123/7919
+#EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE FUN
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28832
+#EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE Fun
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/293
+#EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE FuN
+http://greencorp.tech:80/diego/diego123/7917
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE PIPOCA
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28467
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE Pipoca
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/290
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE PipocA
+http://greencorp.tech:80/diego/diego123/7915
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECiNE PIPOCA
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_a76687d2915e0a3814e7ac481a52fdeb0ddce1c7.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PREMIUM
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28465
+#EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE Premium
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/287
+#EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PremiuM
+http://greencorp.tech:80/diego/diego123/7913
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE TOUCH
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28463
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE Touch
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/284
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE ToucH
+http://greencorp.tech:80/diego/diego123/7911
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",TCM
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28475
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",Tcm
+http://greencorp.tech:80/diego/diego123/42037
+#EXTINF:-1 tvg-logo="https://goo.gl/2ZBWuk.png" group-title="TELECINES",TNT SERIES
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28456
+#EXTINF:-1 tvg-logo="https://imgur.com/dioXXVw.png" group-title="TELECINES",SYFY
+http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28488
+
+--------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NtR5i4D.png" group-title="CANAIS DE SÉRIES",SONY
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28637
+#EXTINF:-1 tvg-logo="https://imgur.com/NtR5i4D.png" group-title="CANAIS DE SÉRIES",Sony
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/210
+#EXTINF:-1 tvg-logo="https://imgur.com/wBVNCbL.png" group-title="CANAIS DE SÉRIES",FOX
+http://greencorp.tech:80/diego/diego123/8070
+#EXTINF:-1 tvg-logo="https://imgur.com/wBVNCbL.png" group-title="CANAIS DE SÉRIES",Fox
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28591
+#EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX LIFE
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28588
+#EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX Life
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/250
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",STUDIO UNIVERSAL
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28479
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",Studio Universal
+http://greencorp.tech:80/diego/diego123/7928
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",UNIVERSAL CHANNEL
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28443
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",Universal Channel
+http://greencorp.tech:80/diego/diego123/7890
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",WARNER CHANNEL
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28435
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",Warner Channel
+http://greencorp.tech:80/diego/diego123/999
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",AXN
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28653
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",Axn
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/231
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",FX
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28576
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",Fx
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/247
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",FoX PREMIUM 1
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28587
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",FOX PREMIUM 1
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/257
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",Fox PREMIUM 1
+http://greencorp.tech:80/diego/diego123/8066
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Wh3INC.png" group-title="CANAIS DE SÉRIES",Fox Premium 1
+http://89.187.173.219:80/eugenio/eugenio123/345
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TBS.png" group-title="CANAIS DE SÉRIES",TBS
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28476
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TBS.png" group-title="CANAIS DE SÉRIES",Tbs
+http://greencorp.tech:80/diego/diego123/6701
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",CINE FAMÍLIA
+http://greencorp.tech:80/diego/diego123/16456
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",CINE SKY
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WuRB4Rm.jpg" group-title="CANAIS DE SÉRIES",FILMES TERROR
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/16705
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WuRB4Rm.jpg" group-title="CANAIS DE SÉRIES",CINE TERROR
+http://greencorp.tech:80/diego/diego123/57195
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",CINE MUNDO
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/9860
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kr5WweR.jpg" group-title="CANAIS DE SÉRIES",CINE RELIGIOSO
+http://greencorp.tech:80/diego/diego123/57686
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",FILMES ACTION
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/16966
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",MUSICA RELAXANTE
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/19444
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",Vagalume Vibe
+http://clienteworld.com:8080/claudia/123456/499
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",Vibe FM
+http://clienteworld.com:8080/claudia/123456/507
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",MUSIC CLIMA
+https://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8?wowzasessionid=853872102
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",TOP CLIPES
+https://5d23bdca513db.streamlock.net:443/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",VH1 Classic
+http://89.187.173.219:80/eugenio/eugenio123/10299
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",MTV Internacional
+http://s.igiptv.com:8000/mohamadxsharefa/r75633/37517
+
+ 
+--------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrHI1FJ.png" group-title="TV ABERTA",TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/atpVyuY.png" group-title="TV ABERTA",AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO RIO
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28340
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO TV CABO BRANCO
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/30741
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO TV CABO BrANCO
+http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/30741
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO SP
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/30937
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",Globo RJ
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/8984
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO RJ
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GLOBOSAT
+https://globolive.akamaized.net/d/c/x2800/s/hls-maisgsat24ha/hls-maisgsat24ha_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GlOBOSAT
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28548
+#EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAiS GlOBOSAT
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/8195
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1846566125_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",Sbt
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SbT
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BAND
+https://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer3.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BanD
+http://89.187.173.219:80/eugenio/eugenio123/75
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",Band
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28650
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",bAND
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/4895
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BaND
+http://greencorp.tech:80/diego/diego123/8138
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",RECORD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",RECOrD 
+https://cdn.jmvstream.com/live/hls/lv_712/LV712_Rfjqak3w63.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",REcORD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",RECORD *
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28497
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",Record
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/336
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",ReCORD
+http://clienteworld.com:8080/claudia/123456/12959
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",VIVA
+https://globolive.akamaized.net/d/c/x2800/s/hls-viva24ha/hls-viva24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",Viva
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/79
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",ViVA
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28437
+#EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDE TV
+https://5b7f3c45ab7c2.streamlock.net:443/9010/ngrp:9010_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDe TV 
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDE Tv
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w434091474.m3u8
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/escola.png" group-title="TV ABERTA",TV ESCOLA
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28449
+#EXTINF:-1 tvg-logo="http://logo.streamstv.me/picon/BRCanalDOBoiTV.png" group-title="TV ABERTA",CANAL DO BOI
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/35871
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiksGqK.png" group-title="TV ABERTA",Canal Rural
+http://evpp.mm.uol.com.br:1935/canal_rural/aovivo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psIffwK.png" group-title="TV ABERTA",TV APARECIDA
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28452
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YrVFhaB.png" group-title="TV ABERTA",TV BRASIL
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28903
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YrVFhaB.png" group-title="TV ABERTA",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aByVBGY.png" group-title="TV ABERTA",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1229479860.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aByVBGY.png" group-title="TV ABERTA",CANAL BRASIL
+https://globolive.akamaized.net/d/c/x2800/s/hls-bra24ha/hls-bra24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://goo.gl/ghXOcq" group-title="TV ABERTA",FUTURA
+https://globolive.akamaized.net/d/c/x2800/s/hls-futura24ha/hls-futura24ha_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://goo.gl/ghXOcq" group-title="TV ABERTA",FuTURA
+http://89.187.173.219:80/eugenio/eugenio123/7644
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQA7pwb.png" group-title="TV ABERTA",TV DIARIO
+#EXTINF:-1,TV DIARIO FORTALEZA HD
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28412
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",TV CULTURA
+https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",Tv CULTURA
+http://stream.tvitarare.com.br/hls/site/site.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWrV2C.png" group-title="TV ABERTA",TV CAMARA
+http://stream2.camara.gov.br:80/tv2/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OQ3OMJ.png" group-title="TV ABERTA",TV SENADO
+http://clienteworld.com:8080/claudia/123456/7992
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P7yTVQy.png" group-title="TV ABERTA",GNT
+https://globolive.akamaized.net/d/c/x2800/s/hls-gnt24ha/hls-gnt24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7iMrUX5.png" group-title="TV ABERTA",TV GAZETA
+https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqHKvQa.png" group-title="TV ABERTA",TV A CRÍTICA
+https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BAND NEWS
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/29022
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/5843
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BANd NEWs
+http://greencorp.tech:80/diego/diego123/8136
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BaNd NEWs
+http://clienteworld.com:8080/claudia/123456/8148
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BanD NEWS
+http://89.187.173.219:80/eugenio/eugenio123/531
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWS
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28811
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWs
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/2826
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBo NEWS
+http://greencorp.tech:80/diego/diego123/8046
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo News
+http://clienteworld.com:8080/claudia/123456/8209
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLoBo NEWS
+https://globolive.akamaized.net/d/c/x2800/s/hls-gnews24ha/hls-gnews24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAl
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28628
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAL
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/2861
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY Central
+http://greencorp.tech:80/diego/diego123/8116
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRD54a.png" group-title="TV ABERTA",MULTISHOW
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/93
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRD54a.png" group-title="TV ABERTA",MULtiShow
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28536
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRD54a.png" group-title="TV ABERTA",MULTIshOW
+http://tvnanet.xyz:25461/palmeiras/campeao1951/166
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRD54a.png" group-title="TV ABERTA",MULTISHOw
+http://89.187.173.219:80/eugenio/eugenio123/454
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRD54a.png" group-title="TV ABERTA",MULTiSHOW
+http://clienteworld.com:8080/claudia/123456/8190
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRD54a.png" group-title="TV ABERTA",MULTIsHOW GRAVADO
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28538
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV *
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/4957
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",Mtv
+http://greencorp.tech:80/diego/diego123/7988
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MtV
+http://clienteworld.com:8080/claudia/123456/8050
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV Live
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28429
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEXSiYj.png" group-title="TV ABERTA",CANAL CURTA!
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28626
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P7yTVQy.png" group-title="TV ABERTA",BIS - Clipes MPB ao Rock
+https://globolive.akamaized.net/d/c/x2800/s/hls-bis24ha/hls-bis24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ykTEOd7.png" group-title="SERIADOS",PEGADINHAS SILVIO SANTOS
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/10795
+#EXTINF:-1 tvg-logo="https://imgur.com/ykTEOd7.png" group-title="SERIADOS",PEGADINHAS JOAO KLEBER
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/10796
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8PbTRC.jpg" group-title="SERIADOS",TODO MUNDO ODEIA O CHRIS
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/29740
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPORTV
+http://clienteworld.com:8080/claudia/123456/8012
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPOrTv
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28480
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SpOrTv
+http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28480
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",sPORTv
+http://brazilgroup.xyz:8880/pedro/pedro123/416
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTv 2
+http://clienteworld.com:8080/claudia/123456/8011
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTV 2
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28483
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SporTV 3
+http://clienteworld.com:8080/claudia/123456/12811
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SPORTV 3
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28481
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",Espn
+http://clienteworld.com:8080/claudia/123456/8119
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",ESPN
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28603
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuBBJ9H.png" group-title="ESPORTES",PREMIERE CLUBES
+http://clienteworld.com:8080/claudia/123456/8029
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Fox-Sports.png" group-title="ESPORTES",FOX SPORTS
+http://clienteworld.com:8080/claudia/123456/8101
+
+--------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Animal-Planet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28657
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Channel.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28624
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kys6DSK.png" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION
+http://greencorp.tech:80/diego/diego123/8110
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QIvz01B.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28616
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Theater.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28614
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KrZtaCb.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28610
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",ID: INVESTIGAÇÃO DISCOVERY
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/29011
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/109
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",Id: INVESTIGAÇÃO DISCOVERY
+http://greencorp.tech:80/diego/diego123/8003
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28532
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo-Wild.png" group-title="DOCUMENTÁRIOS",NATGEO WILD
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28849
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/The-History-Channel.png" group-title="DOCUMENTÁRIOS",HISTORY
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28555
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/H2more2history.png" group-title="DOCUMENTÁRIOS",H2
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28566
+
+--------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: 18+ Hot
+https://globolive.akamaized.net/d/c/x2800/s/hls-sexy24ha/hls-sexy24ha_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: 18+ Prive
+https://mj1b2xsspj.singularcdn.net.br/encompass/SexPrive/master_Layer1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: SEXTREME
+http://89.187.173.219:80/eugenio/eugenio123/2203
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: SEXY HOT
+http://89.187.173.219:80/eugenio/eugenio123/11682
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEXYPRIVE
+http://89.187.173.219:80/eugenio/eugenio123/3717
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 1 24Hs
+http://clienteworld.com:8080/claudia/123456/51478
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEX EXTREM
+http://89.187.173.219:80/eugenio/eugenio123/2206
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 2 24Hs
+http://clienteworld.com:8080/claudia/123456/51479
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEX HOT
+http://89.187.173.219:80/eugenio/eugenio123/3716
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 3 24Hs
+http://clienteworld.com:8080/claudia/123456/51480
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",PRIVÊ
+http://89.187.173.219:80/eugenio/eugenio123/2204
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 4 24Hs
+http://clienteworld.com:8080/claudia/123456/51481
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEX EROTIC
+http://89.187.173.219:80/eugenio/eugenio123/2219
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 5 24Hs
+http://clienteworld.com:8080/claudia/123456/52826
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEX REDLIGHT
+http://89.187.173.219:80/eugenio/eugenio123/2210
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 6 24Hs
+http://clienteworld.com:8080/claudia/123456/52827
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEXO VENUS
+http://89.187.173.219:80/eugenio/eugenio123/2212
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 7 24Hs
+http://clienteworld.com:8080/claudia/123456/52828
 
