@@ -682,6 +682,16 @@ Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futur
 
 <channels>
 <channel>
+<name>[COLOR lime]Chicago P.D. (2014)[/COLOR]</name>
+<thumbnail>https://ia601400.us.archive.org/7/items/chicagopd2/CHICAGOPD.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/ChicagoPD.m3u</externallink>
+<fanart>https://archive.org/download/chicagopd2/CHICAGOPD2.jpg</fanart>
+<info>Um drama policial fascinante sobre os homens e mulheres do Distrito 21 do Departamento de Polícia de Chicago que colocaram tudo em risco para servir e proteger sua comunidade. O Distrito 21 é formado por dois grupos distintos: os policiais uniformizados que patrulham o ritmo e enfrentam os crimes de rua da cidade e a Unidade de Inteligência que combate os principais crimes da cidade - crime organizado, tráfico de drogas, assassinatos de alto nível e além.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Chuck (2007)[/COLOR]</name>
 <thumbnail>https://ia601504.us.archive.org/18/items/dark_20191218/CHUCK.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/Chuck.m3u</externallink>
