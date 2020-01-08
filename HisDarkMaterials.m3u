@@ -19,3 +19,8 @@ http://hele8081.azureedge.net/RCServer08/ondemand/FRTSDUNVRSOT01EP05.mp4
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4SoJ4swNrvhlwG3nOc7KJ08juw.jpg" group-title="His Dark Materials - Fronteiras do Universo", "01x06 - "
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oDwTjgKJ22KGBjE1ra_eG8dn3WWP9Ui9/view?usp=drivesdk
 
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4SoJ4swNrvhlwG3nOc7KJ08juw.jpg" group-title="His Dark Materials - Fronteiras do Universo", "01x07 - "
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Z0WZs9pRxhVE7ftVf8Ah6EGimjV9j_mb/view?usp=drivesdk
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4SoJ4swNrvhlwG3nOc7KJ08juw.jpg" group-title="His Dark Materials - Fronteiras do Universo", "01x08 - "
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jlwdJIQiUhBzizU_x6d5W6v5V86Ih8k6/view?usp=drivesdk
