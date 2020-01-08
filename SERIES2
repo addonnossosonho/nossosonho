@@ -807,6 +807,16 @@ Uma equipe inexperiente de submarinos tem que sobreviver a uma missão secreta e
 
 <channels>
 <channel>
+<name>[COLOR lime]Drácula (2020)[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/16/items/sMunuJo2lTZKQyKL0DgmMhazYno/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/DRACULA2020</externallink>
+<fanart>https://archive.org/download/sMunuJo2lTZKQyKL0DgmMhazYno/sMunuJo2lTZKQyKL0DgmMhazYno.jpg</fanart>
+<info>A lenda do Conde Drácula se transforma com novas histórias, que dissecam os crimes sangrentos do vampiro e revelam as suas maiores fraquezas.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Dr. House (2004)[/COLOR]</name>
 <thumbnail>https://ia601504.us.archive.org/18/items/dark_20191218/DR-HOUSE.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/DrHouse.m3u</externallink>
