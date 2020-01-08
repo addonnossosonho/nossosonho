@@ -1,3 +1,7 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
+http://
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved1.jpg" group-title="Ash vs Evil Dead", 1T-E01 
 http://niflheim.lhmtv.gq/play/?contentId=828eacd3e6966fe7&LHMTv
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved1.jpg" group-title="Ash vs Evil Dead", 1T-E02
