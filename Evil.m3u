@@ -1,3 +1,7 @@
+#EXTM3U size="Medium"
+
+#EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
+http://
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mal1.jpg" group-title="Evil - Contatos Sobrenaturais", 1T-E01
 http://niflheim.lhmtv.gq/play/?contentId=aa30e40a88deeda6&LHMTv
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mal1.jpg" group-title="Evil - Contatos Sobrenaturais", 1T-E02
