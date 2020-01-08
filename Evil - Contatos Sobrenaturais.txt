@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mal1.jpg" group-title="Evil - Contatos Sobrenaturais", 1T-E01
+http://niflheim.lhmtv.gq/play/?contentId=aa30e40a88deeda6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mal1.jpg" group-title="Evil - Contatos Sobrenaturais", 1T-E02
+http://niflheim.lhmtv.gq/play/?contentId=1d64fef16221552d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mal1.jpg" group-title="Evil - Contatos Sobrenaturais", 1T-E03
+http://niflheim.lhmtv.gq/play/?contentId=3beb625d784a0863&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mal1.jpg" group-title="Evil - Contatos Sobrenaturais", 1T-E04
+http://niflheim.lhmtv.gq/play/?contentId=73f0927ab7d8c04d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mal1.jpg" group-title="Evil - Contatos Sobrenaturais", 1T-E05
+http://niflheim.lhmtv.gq/play/?contentId=fb97cbec754be124&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mal1.jpg" group-title="Evil - Contatos Sobrenaturais", 1T-E06
+http://niflheim.lhmtv.gq/play/?contentId=a68f942fc02380b0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/mal1.jpg" group-title="Evil - Contatos Sobrenaturais", 1T-E07
+http://niflheim.lhmtv.gq/play/?contentId=3cb2443f8cb9f723&LHMTv

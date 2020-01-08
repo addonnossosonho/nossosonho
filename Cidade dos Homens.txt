@@ -1,0 +1,41 @@
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens1.jpg" group-title="Cidade dos Homens", 1T-E01
+http://vod.topvod.tk/Series/CidadeDosHomens/1_Temporada/Cidade.dos.Homens.Cap.01.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens1.jpg" group-title="Cidade dos Homens", 1T-E02
+http://vod.topvod.tk/Series/CidadeDosHomens/1_Temporada/Cidade.dos.Homens.Cap.02.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens1.jpg" group-title="Cidade dos Homens", 1T-E03
+http://vod.topvod.tk/Series/CidadeDosHomens/1_Temporada/Cidade.dos.Homens.Cap.03.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens1.jpg" group-title="Cidade dos Homens", 1T-E04
+http://vod.topvod.tk/Series/CidadeDosHomens/1_Temporada/Cidade.dos.Homens.Cap.04.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens2.jpg" group-title="Cidade dos Homens", 2T-E01
+http://vod.topvod.tk/Series/CidadeDosHomens/Temporada2/Cidade%20dos%20Homens%2005.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens2.jpg" group-title="Cidade dos Homens", 2T-E02
+http://vod.topvod.tk/Series/CidadeDosHomens/Temporada2/Cidade%20dos%20Homens%2006.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens2.jpg" group-title="Cidade dos Homens", 2T-E03
+http://vod.topvod.tk/Series/CidadeDosHomens/Temporada2/Cidade%20dos%20Homens%2007.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens2.jpg" group-title="Cidade dos Homens", 2T-E04
+http://vod.topvod.tk/Series/CidadeDosHomens/Temporada2/Cidade%20dos%20Homens%2008.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens2.jpg" group-title="Cidade dos Homens", 2T-E05
+http://vod.topvod.tk/Series/CidadeDosHomens/Temporada2/Cidade%20dos%20Homens%2009.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens3.jpg" group-title="Cidade dos Homens", 3T-E01
+http://vod.topvod.tk/Series/CidadeDosHomens/Temporada3/Cidade%20dos%20Homens%2010.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens3.jpg" group-title="Cidade dos Homens", 3T-E02
+http://vod.topvod.tk/Series/CidadeDosHomens/Temporada3/Cidade%20dos%20Homens%2011.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens3.jpg" group-title="Cidade dos Homens", 3T-E03
+http://vod.topvod.tk/Series/CidadeDosHomens/Temporada3/Cidade%20dos%20Homens%2012.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens3.jpg" group-title="Cidade dos Homens", 3T-E04
+http://vod.topvod.tk/Series/CidadeDosHomens/Temporada3/Cidade%20dos%20Homens%2013.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens3.jpg" group-title="Cidade dos Homens", 3T-E05
+http://vod.topvod.tk/Series/CidadeDosHomens/Temporada3/Cidade%20dos%20Homens%2014.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens4.jpg" group-title="Cidade dos Homens", 4T-E01
+http://vod.topvod.tk/Series/CidadeDosHomens/Temporada4/Cidade%20dos%20Homens%2015.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens4.jpg" group-title="Cidade dos Homens", 4T-E02
+http://vod.topvod.tk/Series/CidadeDosHomens/Temporada4/Cidade%20dos%20Homens%2016.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens4.jpg" group-title="Cidade dos Homens", 4T-E03
+http://vod.topvod.tk/Series/CidadeDosHomens/Temporada4/Cidade%20dos%20Homens%2017.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens4.jpg" group-title="Cidade dos Homens", 4T-E04
+http://vod.topvod.tk/Series/CidadeDosHomens/Temporada4/Cidade%20dos%20Homens%2018.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/cdhomens4.jpg" group-title="Cidade dos Homens", 4T-E05
+http://vod.topvod.tk/Series/CidadeDosHomens/Temporada4/Cidade%20dos%20Homens%2019.mp4?LHMTv

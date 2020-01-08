@@ -1,0 +1,131 @@
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale1.jpg" group-title="Riverdale", 1T-E01 Capitulo Um: A Beira do Rio
+http://asgard.lhmtv.gq/series/riverdale/s01e01-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale1.jpg" group-title="Riverdale", 1T-E02 Capitulo Dois: Um Toque de Maldade
+http://asgard.lhmtv.gq/series/riverdale/s01e02-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale1.jpg" group-title="Riverdale", 1T-E03 Capitulo Tres: Corpo Duplo
+http://asgard.lhmtv.gq/series/riverdale/s01e03-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale1.jpg" group-title="Riverdale", 1T-E04 Capitulo Quatro: A Revelacao da ultima foto
+http://asgard.lhmtv.gq/series/riverdale/s01e04-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale1.jpg" group-title="Riverdale", 1T-E05 Capitulo Cinco: Coracao da Escuridao
+http://asgard.lhmtv.gq/series/riverdale/s01e05-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale1.jpg" group-title="Riverdale", 1T-E06 Capitulo Seis: Mais Rapido. Gatinhas! Matem! Matem!
+http://asgard.lhmtv.gq/series/riverdale/s01e06-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale1.jpg" group-title="Riverdale", 1T-E07 Capitulo Sete: Em um Lugar Solitario
+http://asgard.lhmtv.gq/series/riverdale/s01e07-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale1.jpg" group-title="Riverdale", 1T-E08 Capitulo Oito: Os Estranhos
+http://asgard.lhmtv.gq/series/riverdale/s01e08-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale1.jpg" group-title="Riverdale", 1T-E09 Capitulo Nove: La Grande Illusion
+http://asgard.lhmtv.gq/series/riverdale/s01e09-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale1.jpg" group-title="Riverdale", 1T-E10 Capitulo Dez: O Fim de Semana Perdido
+http://asgard.lhmtv.gq/series/riverdale/s01e10-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale1.jpg" group-title="Riverdale", 1T-E11 Capitulo Onze: Para Riverdale e de Volta Novamente
+http://asgard.lhmtv.gq/series/riverdale/s01e11-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale1.jpg" group-title="Riverdale", 1T-E12 Capitulo Doze: Anatomia de um Assassinato
+http://asgard.lhmtv.gq/series/riverdale/s01e12-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale1.jpg" group-title="Riverdale", 1T-E13 Capitulo Treze: O Doce Futuro
+http://asgard.lhmtv.gq/series/riverdale/s01e13-dub-720p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E01 Capitulo Quatorze: Um Beijo Antes de Morrer
+http://asgard.lhmtv.gq/series/riverdale/s02e01-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E02 Capitulo Quinze: Falcoes Noturnos
+http://asgard.lhmtv.gq/series/riverdale/s02e02-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E03 Capitulo Dezesseis: O Observador da Floresta
+http://asgard.lhmtv.gq/series/riverdale/s02e03-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E04 Capitulo Dezessete: A Cidade Que Temia o Por-do-Sol
+http://asgard.lhmtv.gq/series/riverdale/s02e04-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E05 Capitulo Dezoito: Quando um Estranho Liga
+http://asgard.lhmtv.gq/series/riverdale/s02e05-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E06 Capitulo Dezenove: Prova de Morte
+http://asgard.lhmtv.gq/series/riverdale/s02e06-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E07 Capitulo Vinte: Contos do Lado Obscuro
+http://asgard.lhmtv.gq/series/riverdale/s02e07-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E08 Capitulo Vinte e Um: A Casa do Diabo
+http://asgard.lhmtv.gq/series/riverdale/s02e08-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E09 Capitulo Vinte e Dois: Noite Silenciosa. Noite Mortal
+http://asgard.lhmtv.gq/series/riverdale/s02e09-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E10 Capitulo Vinte e Tres: A Selva do Quadro-Negro
+http://asgard.lhmtv.gq/series/riverdale/s02e10-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E11 Capitulo Vinte e Quatro: O Lutador
+http://asgard.lhmtv.gq/series/riverdale/s02e11-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E12 Capitulo Vinte e Cinco: O Malvado e o Divino
+http://asgard.lhmtv.gq/series/riverdale/s02e12-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E13 Capitulo Vinte e Seis: O Coracao Revelador
+http://asgard.lhmtv.gq/series/riverdale/s02e13-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E14 Capitulo Vinte e Sete: As Colinas Tem Olhos
+http://asgard.lhmtv.gq/series/riverdale/s02e14-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E15 Capitulo Vinte e Oito: Havera sangue
+http://asgard.lhmtv.gq/series/riverdale/s02e15-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E16 Capitulo Vinte e Nove: Cores Primarias
+http://asgard.lhmtv.gq/series/riverdale/s02e16-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E17 Capitulo Trinta: O Noose Aperta
+http://asgard.lhmtv.gq/series/riverdale/s02e17-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E18 Capitulo Trinta e Um: 
+http://asgard.lhmtv.gq/series/riverdale/s02e18-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E19 Capitulo Trinta e Dois: 
+http://asgard.lhmtv.gq/series/riverdale/s02e19-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E20 Capitulo Trinta e Tres: 
+http://asgard.lhmtv.gq/series/riverdale/s02e20-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E21 Capitulo Trinta e Quatro: 
+http://asgard.lhmtv.gq/series/riverdale/s02e21-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale2.jpg" group-title="Riverdale", 2T-E22 Capitulo Trinta e Cinco: 
+http://asgard.lhmtv.gq/series/riverdale/s02e22-dub-720p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E01 Capitulo Trinta e Seis
+http://asgard.lhmtv.gq/series/riverdale/s03e01-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E02 Capitulo Trinta e Sete
+http://asgard.lhmtv.gq/series/riverdale/s03e02-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E03 Capitulo Trinta e Oito
+http://asgard.lhmtv.gq/series/riverdale/s03e03-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E04 Capitulo Trinta e Nove
+http://asgard.lhmtv.gq/series/riverdale/s03e04-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E05 Capitulo Quarenta
+http://niflheim.lhmtv.gq/play/?contentId=0cfa4dfdd55071da&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E06 Capitulo Quarenta Um
+http://niflheim.lhmtv.gq/play/?contentId=29446d98d8b3d4fb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E07 Capitulo Quarenta Dois
+http://niflheim.lhmtv.gq/play/?contentId=61e468038b82f9ed&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E08 Capitulo Quarenta Tres
+http://niflheim.lhmtv.gq/play/?contentId=3dddd6a4aa39f0e9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E09 Capitulo Quarenta Quatro
+http://niflheim.lhmtv.gq/play/?contentId=4f859304735b6b4c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E10 Capitulo Quarenta Cinco
+http://niflheim.lhmtv.gq/play/?contentId=e67e52093b633fa1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E11 Capitulo Quarenta Seis
+http://niflheim.lhmtv.gq/play/?contentId=51556b386f434f3e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E12 Capitulo Quarenta Sete
+http://niflheim.lhmtv.gq/play/?contentId=9487eb6559bc3551&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E13 Capitulo Quarenta Oito
+http://niflheim.lhmtv.gq/play/?contentId=850b2ef2bf1c706e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E14 Capitulo Quarenta Nove
+http://niflheim.lhmtv.gq/play/?contentId=f7f044258b906f90&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E15 Capitulo Cinquenta
+http://niflheim.lhmtv.gq/play/?contentId=592056ad5ebe4178&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E16 Capitulo Cinquenta Um
+http://niflheim.lhmtv.gq/play/?contentId=b55732a481f6b2ac&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E17 Capitulo Cinquenta Dois
+http://niflheim.lhmtv.gq/play/?contentId=d4bbc17eae2f005b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E18 Capitulo Cinquenta Tres
+http://niflheim.lhmtv.gq/play/?contentId=0a865ff74bea9e29&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E19 Capitulo Cinquenta Quatro
+http://niflheim.lhmtv.gq/play/?contentId=4caad44c400d45ec&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E20 Capitulo Cinquenta Cinco
+http://niflheim.lhmtv.gq/play/?contentId=c1d263b06a4d4d29&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E21 Capitulo Cinquenta Seis
+http://niflheim.lhmtv.gq/play/?contentId=36e5bb78184bcded&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale3.jpg" group-title="Riverdale", 3T-E22 Capitulo Cinquenta Sete
+http://niflheim.lhmtv.gq/play/?contentId=4bdac74c62269112&LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale4.jpg" group-title="Riverdale", 4T-E01
+http://niflheim.lhmtv.gq/play/?contentId=7344ba57961cd5cf&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale4.jpg" group-title="Riverdale", 4T-E02
+http://niflheim.lhmtv.gq/play/?contentId=53a902412db3d4f6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale4.jpg" group-title="Riverdale", 4T-E03
+http://niflheim.lhmtv.gq/play/?contentId=828bfcbb18042a20&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale4.jpg" group-title="Riverdale", 4T-E04
+http://niflheim.lhmtv.gq/play/?contentId=30008b7a0ddc8190&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale4.jpg" group-title="Riverdale", 4T-E05
+http://niflheim.lhmtv.gq/play/?contentId=cc23423373e5cc5d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale4.jpg" group-title="Riverdale", 4T-E06
+http://niflheim.lhmtv.gq/play/?contentId=8a7d3c215d536445&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/riverdale4.jpg" group-title="Riverdale", 4T-E07
+http://niflheim.lhmtv.gq/play/?contentId=5591913257e2ec65&LHMTv

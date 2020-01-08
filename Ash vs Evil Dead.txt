@@ -1,0 +1,62 @@
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved1.jpg" group-title="Ash vs Evil Dead", 1T-E01 
+http://niflheim.lhmtv.gq/play/?contentId=828eacd3e6966fe7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved1.jpg" group-title="Ash vs Evil Dead", 1T-E02
+http://niflheim.lhmtv.gq/play/?contentId=c0023b9c89753e82&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved1.jpg" group-title="Ash vs Evil Dead", 1T-E03
+http://niflheim.lhmtv.gq/play/?contentId=31172c59edffe356&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved1.jpg" group-title="Ash vs Evil Dead", 1T-E04
+http://niflheim.lhmtv.gq/play/?contentId=1dd06b3ee300e9e1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved1.jpg" group-title="Ash vs Evil Dead", 1T-E05
+http://niflheim.lhmtv.gq/play/?contentId=1ff9bda999650eed&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved1.jpg" group-title="Ash vs Evil Dead", 1T-E06
+http://niflheim.lhmtv.gq/play/?contentId=928e3e87c13857b4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved1.jpg" group-title="Ash vs Evil Dead", 1T-E07
+http://niflheim.lhmtv.gq/play/?contentId=73a69cb79bc695aa&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved1.jpg" group-title="Ash vs Evil Dead", 1T-E08
+http://niflheim.lhmtv.gq/play/?contentId=d1407c7ad08c0a4c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved1.jpg" group-title="Ash vs Evil Dead", 1T-E09
+http://niflheim.lhmtv.gq/play/?contentId=1e10db3cbe5dc5d1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved1.jpg" group-title="Ash vs Evil Dead", 1T-E10
+http://niflheim.lhmtv.gq/play/?contentId=897f5a00f6abb6d4&LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved2.jpg" group-title="Ash vs Evil Dead", 2T-E01
+http://niflheim.lhmtv.gq/play/?contentId=ec64dd313883d320&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved2.jpg" group-title="Ash vs Evil Dead", 2T-E02
+http://niflheim.lhmtv.gq/play/?contentId=e949da9e5ea118a2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved2.jpg" group-title="Ash vs Evil Dead", 2T-E03
+http://niflheim.lhmtv.gq/play/?contentId=812e5151591d3173&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved2.jpg" group-title="Ash vs Evil Dead", 2T-E04
+http://niflheim.lhmtv.gq/play/?contentId=d98de013b7ba7bf0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved2.jpg" group-title="Ash vs Evil Dead", 2T-E05
+http://niflheim.lhmtv.gq/play/?contentId=84e6351fbdc4b266&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved2.jpg" group-title="Ash vs Evil Dead", 2T-E06
+http://niflheim.lhmtv.gq/play/?contentId=3fd9c9c4bd9f0166&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved2.jpg" group-title="Ash vs Evil Dead", 2T-E07
+http://niflheim.lhmtv.gq/play/?contentId=38fe4d665ba4f0f7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved2.jpg" group-title="Ash vs Evil Dead", 2T-E08
+http://niflheim.lhmtv.gq/play/?contentId=eea15143911145e1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved2.jpg" group-title="Ash vs Evil Dead", 2T-E09
+http://niflheim.lhmtv.gq/play/?contentId=d81182fa14da2209&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved2.jpg" group-title="Ash vs Evil Dead", 2T-E10
+http://niflheim.lhmtv.gq/play/?contentId=360700d28759b3ee&LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved3.jpg" group-title="Ash vs Evil Dead", 3T-E01
+http://niflheim.lhmtv.gq/play/?contentId=2a1ac4d249df9b12&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved3.jpg" group-title="Ash vs Evil Dead", 3T-E02
+http://niflheim.lhmtv.gq/play/?contentId=3986f44863a1d1a5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved3.jpg" group-title="Ash vs Evil Dead", 3T-E03
+http://niflheim.lhmtv.gq/play/?contentId=3c87104d6f1b5465&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved3.jpg" group-title="Ash vs Evil Dead", 3T-E04
+http://niflheim.lhmtv.gq/play/?contentId=eb8d9797b526351f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved3.jpg" group-title="Ash vs Evil Dead", 3T-E05
+http://niflheim.lhmtv.gq/play/?contentId=314cad8665e51ca3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved3.jpg" group-title="Ash vs Evil Dead", 3T-E06
+http://niflheim.lhmtv.gq/play/?contentId=1d8e517b635a8126&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved3.jpg" group-title="Ash vs Evil Dead", 3T-E07
+http://niflheim.lhmtv.gq/play/?contentId=ba0357f46fe819a9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved3.jpg" group-title="Ash vs Evil Dead", 3T-E08
+http://niflheim.lhmtv.gq/play/?contentId=3f89632c006169b6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved3.jpg" group-title="Ash vs Evil Dead", 3T-E09
+http://niflheim.lhmtv.gq/play/?contentId=a01b701608ff81d5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/asved3.jpg" group-title="Ash vs Evil Dead", 3T-E10
+http://niflheim.lhmtv.gq/play/?contentId=d82522004f7aa969&LHMTv
