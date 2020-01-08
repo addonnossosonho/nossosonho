@@ -1801,6 +1801,18 @@ Em Londres, durante a era Eduardiana, a tentativa de George e Amy de começar um
 
 <channels>
 <channel>
+<name>[COLOR lime]The Witcher (2019)[/COLOR]</name>
+<thumbnail>https://ia601408.us.archive.org/1/items/thewitcher2_202001/THE-WITCHER.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TheWaroftheWorlds</externallink>
+<fanart>https://ia601408.us.archive.org/1/items/thewitcher2_202001/THE-WITCHER2.jpg</fanart>
+<info>
+O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar num mundo onde as pessoas muitas vezes são mais perversas que as criaturas selvagens.</info>
+<genre>FANTASIA</genre>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Tô de Graça (2017)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkD4qoMU1NuqUg1RzBiL6Gzs0Sd.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/todegraca</externallink>
