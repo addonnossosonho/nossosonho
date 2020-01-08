@@ -1,0 +1,280 @@
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd1.jpg" group-title="Chicago PD", 1T-E01 Stepping Stone
+http://niflheim.lhmtv.gq/play/?contentId=60f7278f0383a3ff&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd1.jpg" group-title="Chicago PD", 1T-E02 Lado errado das barras
+http://niflheim.lhmtv.gq/play/?contentId=6cd24c4541951ab4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd1.jpg" group-title="Chicago PD", 1T-E03 Chin Check
+http://niflheim.lhmtv.gq/play/?contentId=d9acf38d5fe6e1bf&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd1.jpg" group-title="Chicago PD", 1T-E04 Agora e sempre temporario
+http://niflheim.lhmtv.gq/play/?contentId=b298c3761a3a6388&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd1.jpg" group-title="Chicago PD", 1T-E05 Trinta Baloes
+http://niflheim.lhmtv.gq/play/?contentId=98a82d4b4cceb4ae&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd1.jpg" group-title="Chicago PD", 1T-E06 Convencoes
+http://niflheim.lhmtv.gq/play/?contentId=416c931f43f74510&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd1.jpg" group-title="Chicago PD", 1T-E07 O preco que pagamos
+http://niflheim.lhmtv.gq/play/?contentId=64606302e1c5e7e5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd1.jpg" group-title="Chicago PD", 1T-E08 Diferentes erros
+http://niflheim.lhmtv.gq/play/?contentId=8dfe73d3ac4c9af7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd1.jpg" group-title="Chicago PD", 1T-E09 Uma testemunha material
+http://niflheim.lhmtv.gq/play/?contentId=913869a4496ed160&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd1.jpg" group-title="Chicago PD", 1T-E10 Pelo menos e justica
+http://niflheim.lhmtv.gq/play/?contentId=f19dc70b7eece1d3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd1.jpg" group-title="Chicago PD", 1T-E11 Apague a luz
+http://niflheim.lhmtv.gq/play/?contentId=9de6c609df3cd147&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd1.jpg" group-title="Chicago PD", 1T-E12 20:30
+http://niflheim.lhmtv.gq/play/?contentId=e1302ab42a21cedd&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd1.jpg" group-title="Chicago PD", 1T-E13 O meu caminho
+http://niflheim.lhmtv.gq/play/?contentId=58d8da83a85fcee0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd1.jpg" group-title="Chicago PD", 1T-E14 As docas
+http://niflheim.lhmtv.gq/play/?contentId=9ea1a8f8c7b59d6a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd1.jpg" group-title="Chicago PD", 1T-E15 Uma linda amizade
+http://niflheim.lhmtv.gq/play/?contentId=d8badfb227df09ad&LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E01 Call It Macaroni
+http://niflheim.lhmtv.gq/play/?contentId=d9373d7819e34d60&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E02 Get My Cigarettes
+http://niflheim.lhmtv.gq/play/?contentId=997d56763d46f915&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E03 The Weigh Station
+http://niflheim.lhmtv.gq/play/?contentId=f6dafaaaf632c953&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E04 Frango. dinamite. motosserra
+http://niflheim.lhmtv.gq/play/?contentId=6528e45146cae37b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E05 Uma mulher honesta
+http://niflheim.lhmtv.gq/play/?contentId=e6bacabe685f0d6b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E06 Prison Ball
+http://niflheim.lhmtv.gq/play/?contentId=99bc5e203dfb698e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E07 Eles terao que passar por mim
+http://niflheim.lhmtv.gq/play/?contentId=314c4b5dfe8cec3c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E08 Atribuicao do Ano
+http://niflheim.lhmtv.gq/play/?contentId=dc4c915a132e8ad1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E09 Chamado em Dead
+http://niflheim.lhmtv.gq/play/?contentId=1a4ec259e69c9e14&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E10 Nao deveria ter ficado sozinho
+http://niflheim.lhmtv.gq/play/?contentId=884a1ef82e297bf7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E11 Nos nao trabalhamos juntos mais
+http://niflheim.lhmtv.gq/play/?contentId=becfb75ff4a121ed&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E12 Disco Bob
+http://niflheim.lhmtv.gq/play/?contentId=66087fadff8a99df&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E13 Um pequeno complexo do diabo
+http://niflheim.lhmtv.gq/play/?contentId=7d45abf6f8aa5d1c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E14 Erin's Mom
+http://niflheim.lhmtv.gq/play/?contentId=38af9cd23dc300ed&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E15 O que voce faz
+http://niflheim.lhmtv.gq/play/?contentId=987903fe1dc89856&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E16 O que o coloca naquela borda
+http://niflheim.lhmtv.gq/play/?contentId=185db980f0e3e28f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E17 Diga seu nome real
+http://niflheim.lhmtv.gq/play/?contentId=b35e862399eac78b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E18 Volte para Even
+http://niflheim.lhmtv.gq/play/?contentId=89f49ad22584db6f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E19 Os Tres Gs
+http://niflheim.lhmtv.gq/play/?contentId=9504d51078a9bc68&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E20 O numero de ratos
+http://niflheim.lhmtv.gq/play/?contentId=d3c5fdadb3fb486&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E21 Ha minha garota
+http://niflheim.lhmtv.gq/play/?contentId=bf168694f10b938e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E22 Empurre a dor para longe
+http://niflheim.lhmtv.gq/play/?contentId=c076961e738ec4d4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd2.jpg" group-title="Chicago PD", 2T-E23 Nascido em Bad News
+http://niflheim.lhmtv.gq/play/?contentId=fd4279da2c6f05a4&LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E01 A vida e fluida
+http://niflheim.lhmtv.gq/play/?contentId=dafe835e45210664&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E02 Narrador natural nascido
+http://niflheim.lhmtv.gq/play/?contentId=f6cba4c2b586fae7&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E03 Violencia fisica real
+http://niflheim.lhmtv.gq/play/?contentId=6e08cb7f6774a3dc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E04 Dividas do passado
+http://niflheim.lhmtv.gq/play/?contentId=992e5298cac779cb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E05 Escalando na cama
+http://niflheim.lhmtv.gq/play/?contentId=93ce94db5541d522&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E06 Voce nunca sabe quem e quem
+http://niflheim.lhmtv.gq/play/?contentId=5fc98a2f7c50340f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E07 A Dead Kid. Um caderno e muitos Maybes
+http://niflheim.lhmtv.gq/play/?contentId=684f49a2865c1ebb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E08 Esqueca meu nome
+http://niflheim.lhmtv.gq/play/?contentId=9259156cb5b2cf95&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E09 Nunca esqueca eu te amo
+http://niflheim.lhmtv.gq/play/?contentId=3c22a7eb2c98c00b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E10 Agora eu sou Deus
+http://niflheim.lhmtv.gq/play/?contentId=d09c71b590daab58&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E11 Knocked The Family Right Out
+http://niflheim.lhmtv.gq/play/?contentId=98ef0a7cd1f36945&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E12 Looking Out For Stateville
+http://niflheim.lhmtv.gq/play/?contentId=98ef0a7cd1f36945&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E13 Bata em mim
+http://niflheim.lhmtv.gq/play/?contentId=e4b6f6da7fe51255&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E14 A Cancao de Gregory Williams Yates
+http://niflheim.lhmtv.gq/play/?contentId=1f3b948fa4cd5124&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E15 Uma coruja noturna
+http://niflheim.lhmtv.gq/play/?contentId=b1ba3a6da5a054ad&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E16 Os casos que precisam ser resolvidos
+http://niflheim.lhmtv.gq/play/?contentId=2770cde7cfe3a348&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E17 Crumb de pao de quarenta calibres
+http://niflheim.lhmtv.gq/play/?contentId=adbdcc6184a4db1b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E18 Kasual com um K
+http://niflheim.lhmtv.gq/play/?contentId=d910a1dcd1066634&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E19 Se esmos Normal
+http://niflheim.lhmtv.gq/play/?contentId=1beaab2127e6eb8f&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E20 Em um saco de duffel
+http://niflheim.lhmtv.gq/play/?contentId=4084c5f4b59e6b36&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E21 Justica
+http://niflheim.lhmtv.gq/play/?contentId=ae0924d947aa9296&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E22 Ela nos pegou
+http://niflheim.lhmtv.gq/play/?contentId=3cf8aa5b99fc0293&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd3.jpg" group-title="Chicago PD", 3T-E23 Comece a cavar
+http://niflheim.lhmtv.gq/play/?contentId=d107308cbbc6eced&LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E01 Os Silos
+http://niflheim.lhmtv.gq/play/?contentId=f90d44e5dde559bc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E02 Fez uma Volta errada
+http://niflheim.lhmtv.gq/play/?contentId=e9aa5257507db30&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E03 All Cylinders Firing
+http://niflheim.lhmtv.gq/play/?contentId=753208cda48eae1e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E04 Grandes amigos. Grandes inimigos
+http://niflheim.lhmtv.gq/play/?contentId=150d8ac419790822&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E05 A War Zone
+http://niflheim.lhmtv.gq/play/?contentId=987daffdb5e6ddc9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E06 Some Friend
+http://niflheim.lhmtv.gq/play/?contentId=411290bb2146611b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E07 300.000 gostos
+http://niflheim.lhmtv.gq/play/?contentId=4ba006045ba716ea&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E08 Um tiro ouvido ao redor do mundo
+http://niflheim.lhmtv.gq/play/?contentId=b1ff1075800aac48&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E09 Nao enterre este caso
+http://niflheim.lhmtv.gq/play/?contentId=461b7ddd6a25ec1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E10 Nao leia as noticias
+http://niflheim.lhmtv.gq/play/?contentId=d6033ce7408223d5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E11 Voce deseja
+http://niflheim.lhmtv.gq/play/?contentId=bdca16b2566edec6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E12 Santuario
+http://niflheim.lhmtv.gq/play/?contentId=7bab0637a941495c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E13 Eu lembro dela agora
+http://niflheim.lhmtv.gq/play/?contentId=58795f331150a933&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E14 Sete acusacoes
+http://niflheim.lhmtv.gq/play/?contentId=c40adc14662e7283&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E15 Favor. carinho. malicia ou maldade
+http://niflheim.lhmtv.gq/play/?contentId=ae1c05c89b63c1d1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E16 Proximidade Emocional
+http://niflheim.lhmtv.gq/play/?contentId=8fdcda061560eac4&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E17 Lembre-se do Diabo
+http://niflheim.lhmtv.gq/play/?contentId=c0cc8bc6c7510985&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E18 Pouco de luz
+http://niflheim.lhmtv.gq/play/?contentId=2457f5e2854e56e6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E19 Resistencia de ultimo minuto
+http://niflheim.lhmtv.gq/play/?contentId=6ff1af7a2531df40&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E20 Agarrando a Salvacao
+http://niflheim.lhmtv.gq/play/?contentId=4f5aac8583414285&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E21 Fagin
+http://niflheim.lhmtv.gq/play/?contentId=d82bd61a116aa631&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E22 Exercito de um
+http://niflheim.lhmtv.gq/play/?contentId=113844293fce958d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd4.jpg" group-title="Chicago PD", 4TLEG-E23 Bifurcacao na estrada
+http://niflheim.lhmtv.gq/play/?contentId=cf0557915c385d55&LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E01 Reforma
+http://niflheim.lhmtv.gq/play/?contentId=87f6b9f62051d705&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E02 A coisa sobre os herois
+http://niflheim.lhmtv.gq/play/?contentId=f8603636dc541e0c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E03 Promessa
+http://niflheim.lhmtv.gq/play/?contentId=449fb485c4d60200&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E04 Dedo duro
+http://niflheim.lhmtv.gq/play/?contentId=3c6d364bb6e55c08&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E05 Casa
+http://niflheim.lhmtv.gq/play/?contentId=ee20cc2c01ec80f0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E06 Caido
+http://niflheim.lhmtv.gq/play/?contentId=786e563f34bdc910&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E07 Care Under Fire
+http://niflheim.lhmtv.gq/play/?contentId=e4a6aa89f866eb16&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E08 Politica
+http://niflheim.lhmtv.gq/play/?contentId=6957547f2dcd1bbb&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E09 Monstro
+http://niflheim.lhmtv.gq/play/?contentId=551af3a3149413&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E10 Toca do Coelho
+http://niflheim.lhmtv.gq/play/?contentId=d54001fa3823e3d6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E11 Confidencial
+http://niflheim.lhmtv.gq/play/?contentId=a7b72052f2bbf28c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E12 Cativo
+http://niflheim.lhmtv.gq/play/?contentId=7f38a2c895ae4996&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E13 Perseguindo Monstros
+http://niflheim.lhmtv.gq/play/?contentId=f7e4538157c0eb40&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E14 Hino
+http://niflheim.lhmtv.gq/play/?contentId=869ce7fc7fb06caf&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E15 Irmandade
+http://niflheim.lhmtv.gq/play/?contentId=a8f4d87372e63daa&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E16 Perfis
+http://niflheim.lhmtv.gq/play/?contentId=202822f615e7603e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E17 Ponto de partida
+http://niflheim.lhmtv.gq/play/?contentId=c4c7ff48afc7e2e0&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E18 Fantasmas
+http://niflheim.lhmtv.gq/play/?contentId=c77abc2c7bb9fde9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E19 Retorno
+http://niflheim.lhmtv.gq/play/?contentId=5f132b8058db3042&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E20 Salvou
+http://niflheim.lhmtv.gq/play/?contentId=5ec5f65d0502fe77&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E21 Fidelidade
+http://niflheim.lhmtv.gq/play/?contentId=8d93426b7f0d5467&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd5.jpg" group-title="Chicago PD", 5T-E22 De volta ao lar
+http://niflheim.lhmtv.gq/play/?contentId=58e9908dc93d18f3&LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E01 
+http://niflheim.lhmtv.gq/play/?contentId=ac0ef9946efafc73&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E02 
+http://niflheim.lhmtv.gq/play/?contentId=c8780ebc81194347&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E03
+http://niflheim.lhmtv.gq/play/?contentId=f3a2b8bafc2bd99d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E04
+http://niflheim.lhmtv.gq/play/?contentId=3a9ad4e4e0f485d8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E05
+http://niflheim.lhmtv.gq/play/?contentId=4ec28163f7f418e5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E06
+http://niflheim.lhmtv.gq/play/?contentId=36fca74a822fde01&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E07
+http://niflheim.lhmtv.gq/play/?contentId=8aa666f369a23d03&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E08
+http://niflheim.lhmtv.gq/play/?contentId=04d3c21b7ebbbf6d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E09
+http://niflheim.lhmtv.gq/play/?contentId=4c288e439acb89a6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E10
+http://niflheim.lhmtv.gq/play/?contentId=99dc93ee0d12c52b&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E11
+http://niflheim.lhmtv.gq/play/?contentId=cbd18aacb5280e89&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E12
+http://niflheim.lhmtv.gq/play/?contentId=384a69109f3017aa&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E13
+http://niflheim.lhmtv.gq/play/?contentId=0e1ec9d56d135e5e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E14
+http://niflheim.lhmtv.gq/play/?contentId=e31771091ef5b1db&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E15
+http://niflheim.lhmtv.gq/play/?contentId=d46aafe0ef166f24&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E16
+http://niflheim.lhmtv.gq/play/?contentId=3050131c531a7490&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E17
+http://niflheim.lhmtv.gq/play/?contentId=28a9aa974f200e5c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E18
+http://niflheim.lhmtv.gq/play/?contentId=9f23062ca3611d43&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E19
+http://niflheim.lhmtv.gq/play/?contentId=3b8ff675e7bd87f2&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E20
+http://niflheim.lhmtv.gq/play/?contentId=bd14ee06b2efcdcc&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E21
+http://niflheim.lhmtv.gq/play/?contentId=25cbed4b7a962b4e&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd6.jpg" group-title="Chicago PD", 6T-E22
+http://niflheim.lhmtv.gq/play/?contentId=76f385d6fa9270b0&LHMTv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd7.jpg" group-title="Chicago PD", 7T-E01
+http://niflheim.lhmtv.gq/play/?contentId=0f5584ef3431fd8c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd7.jpg" group-title="Chicago PD", 7T-E02
+http://niflheim.lhmtv.gq/play/?contentId=265f22d5dc641576&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd7.jpg" group-title="Chicago PD", 7TLEG-E03
+http://niflheim.lhmtv.gq/play/?contentId=77724882e8433a53&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd7.jpg" group-title="Chicago PD", 7TLEG-E04
+http://niflheim.lhmtv.gq/play/?contentId=116d851f8f914fa6&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd7.jpg" group-title="Chicago PD", 7TLEG-E05
+http://niflheim.lhmtv.gq/play/?contentId=036135c9be1e941c&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd7.jpg" group-title="Chicago PD", 7TLEG-E06
+http://niflheim.lhmtv.gq/play/?contentId=7e2a1c7ce8daf388&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd7.jpg" group-title="Chicago PD", 7TLEG-E07
+http://niflheim.lhmtv.gq/play/?contentId=c810b5dbadc358a3&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd7.jpg" group-title="Chicago PD", 7TLEG-E08
+http://niflheim.lhmtv.gq/play/?contentId=ac2ae89fea65ae7d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/chicagopd7.jpg" group-title="Chicago PD", 7TLEG-E09
+http://niflheim.lhmtv.gq/play/?contentId=1eb0431b79242e2c&LHMTv
