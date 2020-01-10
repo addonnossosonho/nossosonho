@@ -1914,6 +1914,17 @@ O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar se
 
 <channels>
 <channel>
+<name>[COLOR lime]Todo Mundo Odeia o Chris (2005)[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYfvhUtbqMGtd5iV9sj2fdEFN5p.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TodoMundoOdeiaoChris.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/wTlk9eiV1ebPaQpXB8ZqtiKY77l.jpg</fanart>
+<info>Um adolescente negro do Brooklyn durante a década de 80 que frequenta uma escola onde a maioria dos alunos são brancos.</info>
+<genre>Comedia</genre>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]Tom Clancy's Jack Ryan (2018)[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonnossosonho/nossosonho/master/TomClancysJackRyan</externallink>
