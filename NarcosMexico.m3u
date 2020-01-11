@@ -1,31 +1,22 @@
 #EXTM3U size="Medium"
 
-#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Narcos%20-%20M%C3%A9xico%201.jpg" group-title="Narcos: México", "01x01 - Camelot"
-http://hele8081.azureedge.net/RCServer08/ondemand/NRCSMXCT01EP01.mp4
-
-#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Narcos%20-%20M%C3%A9xico%201.jpg" group-title="Narcos: México", "01x02 - O Sistema de Praça"
-http://hele8081.azureedge.net/RCServer08/ondemand/NRCSMXCT01EP02.mp4
-
-#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Narcos%20-%20M%C3%A9xico%201.jpg" group-title="Narcos: México", "01x03 - O Padrinho"
-http://hele8081.azureedge.net/RCServer08/ondemand/NRCSMXCT01EP03.mp4
-
-#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Narcos%20-%20M%C3%A9xico%201.jpg" group-title="Narcos: México", "01x04 - Rafa, Rafa, Rafa!"
-http://hele8081.azureedge.net/RCServer08/ondemand/NRCSMXCT01EP04.mp4
-
-#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Narcos%20-%20M%C3%A9xico%201.jpg" group-title="Narcos: México", "01x05 - A Conexão Colombiana"
-http://hele8081.azureedge.net/RCServer08/ondemand/NRCSMXCT01EP05.mp4
-
-#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Narcos%20-%20M%C3%A9xico%201.jpg" group-title="Narcos: México", "01x06 - A Última Travessia"
-http://hele8081.azureedge.net/RCServer08/ondemand/NRCSMXCT01EP06.mp4
-
-#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Narcos%20-%20M%C3%A9xico%201.jpg" group-title="Narcos: México", "01x07 - Chefe dos Chefes"
-http://hele8081.azureedge.net/RCServer08/ondemand/NRCSMXCT01EP07.mp4
-
-#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Narcos%20-%20M%C3%A9xico%201.jpg" group-title="Narcos: México", "01x08 - Basta Dizer Não"
-http://hele8081.azureedge.net/RCServer08/ondemand/NRCSMXCT01EP08.mp4
-
-#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Narcos%20-%20M%C3%A9xico%201.jpg" group-title="Narcos: México", "01x09 - Lope de Vega, 881"
-http://hele8081.azureedge.net/RCServer08/ondemand/NRCSMXCT01EP09.mp4
-
-#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Narcos%20-%20M%C3%A9xico%201.jpg" group-title="Narcos: México", "01x10 - Operação Leyenda"
-http://hele8081.azureedge.net/RCServer08/ondemand/NRCSMXCT01EP10.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Narcos.Mexico.S01e10" tvg-logo="" group-title="",Narcos.Mexico.S01e10
+https://video.fr34you.live:8443/movie/Pi4yY6u4oi/c0CevbxSue/493.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Narcos.Mexico.S01e09" tvg-logo="" group-title="",Narcos.Mexico.S01e09
+https://video.fr34you.live:8443/movie/Pi4yY6u4oi/c0CevbxSue/492.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Narcos.Mexico.S01e08" tvg-logo="" group-title="",Narcos.Mexico.S01e08
+https://video.fr34you.live:8443/movie/Pi4yY6u4oi/c0CevbxSue/491.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Narcos.Mexico.S01e07" tvg-logo="" group-title="",Narcos.Mexico.S01e07
+https://video.fr34you.live:8443/movie/Pi4yY6u4oi/c0CevbxSue/490.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Narcos.Mexico.S01e06" tvg-logo="" group-title="",Narcos.Mexico.S01e06
+https://video.fr34you.live:8443/movie/Pi4yY6u4oi/c0CevbxSue/489.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Narcos.Mexico.S01e05" tvg-logo="" group-title="",Narcos.Mexico.S01e05
+https://video.fr34you.live:8443/movie/Pi4yY6u4oi/c0CevbxSue/488.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Narcos.Mexico.S01e04" tvg-logo="" group-title="",Narcos.Mexico.S01e04
+https://video.fr34you.live:8443/movie/Pi4yY6u4oi/c0CevbxSue/487.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Narcos.Mexico.S01e03" tvg-logo="" group-title="",Narcos.Mexico.S01e03
+https://video.fr34you.live:8443/movie/Pi4yY6u4oi/c0CevbxSue/486.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Narcos.Mexico.S01e02" tvg-logo="" group-title="",Narcos.Mexico.S01e02
+https://video.fr34you.live:8443/movie/Pi4yY6u4oi/c0CevbxSue/485.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Narcos.Mexico.S01e01" tvg-logo="" group-title="",Narcos.Mexico.S01e01
+https://video.fr34you.live:8443/movie/Pi4yY6u4oi/c0CevbxSue/484.mkv
