@@ -1,590 +1,445 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://archive.org/download/piratesnews/piratesnews.png" group-title="ADDON PIRATES", "[B][COLOR red]ADDON - PIRATES[/COLOR][/B]"
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD 2" tvg-logo="" group-title="SERVIDOR 1",FOX SPORTS HD 2
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3882
-#EXTINF:-1 tvg-id="" tvg-name="Band Sports FHD" tvg-logo="" group-title="SERVIDOR 1",Band Sports FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3883
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD" tvg-logo="" group-title="SERVIDOR 1",COMBATE FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3884
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY FHD" tvg-logo="" group-title="SERVIDOR 1",COMEDY FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3885
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports FHD" tvg-logo="" group-title="SERVIDOR 1",Fox Sports FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3886
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports FHD 2" tvg-logo="" group-title="SERVIDOR 1",Fox Sports FHD 2
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3887
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV FHD" tvg-logo="" group-title="SERVIDOR 1",SPORTV FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3888
-#EXTINF:-1 tvg-id="" tvg-name="Sportv FHD 2" tvg-logo="" group-title="SERVIDOR 1",Sportv FHD 2
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3889
-#EXTINF:-1 tvg-id="" tvg-name="Sportv FHD 3" tvg-logo="" group-title="SERVIDOR 1",Sportv FHD 3
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3890
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER FHD 1" tvg-logo="" group-title="SERVIDOR 1",PREMIER FHD 1
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3891
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER 2 FHD" tvg-logo="" group-title="SERVIDOR 1",PREMIER 2 FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3892
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER 3 FHD" tvg-logo="" group-title="SERVIDOR 1",PREMIER 3 FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3893
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER 4 FHD" tvg-logo="" group-title="SERVIDOR 1",PREMIER 4 FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3894
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA FHD" tvg-logo="" group-title="SERVIDOR 1",ESPN EXTRA FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3895
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER FHD 5" tvg-logo="" group-title="SERVIDOR 1",PREMIER FHD 5
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3896
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER FHD 6" tvg-logo="" group-title="SERVIDOR 1",PREMIER FHD 6
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3897
-#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV  FHD" tvg-logo="" group-title="SERVIDOR 1",RED BULL TV  FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3898
-#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="" group-title="SERVIDOR 1",ESPN FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3899
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports SD" tvg-logo="" group-title="SERVIDOR 1",Fox Sports SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3900
-#EXTINF:-1 tvg-id="" tvg-name="Combate SD" tvg-logo="" group-title="SERVIDOR 1",Combate SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3901
-#EXTINF:-1 tvg-id="" tvg-name="sportv 2 sd" tvg-logo="" group-title="SERVIDOR 1",sportv 2 sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3902
-#EXTINF:-1 tvg-id="" tvg-name="band sports sd" tvg-logo="" group-title="SERVIDOR 1",band sports sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3903
-#EXTINF:-1 tvg-id="" tvg-name="sportv 3 sd" tvg-logo="" group-title="SERVIDOR 1",sportv 3 sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3904
-#EXTINF:-1 tvg-id="" tvg-name="premier 4 sd" tvg-logo="" group-title="SERVIDOR 1",premier 4 sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3906
-#EXTINF:-1 tvg-id="" tvg-name="premier 7 sd" tvg-logo="" group-title="SERVIDOR 1",premier 7 sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3907
-#EXTINF:-1 tvg-id="" tvg-name="premier 1 sd" tvg-logo="" group-title="SERVIDOR 1",premier 1 sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3909
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD" tvg-logo="" group-title="SERVIDOR 1",ESPN BRASIL HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3910
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="SERVIDOR 1",ESPN 2 HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3911
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD" tvg-logo="" group-title="SERVIDOR 1",ESPN EXTRA HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3912
-#EXTINF:-1 tvg-id="" tvg-name="EL PLUS HD  1" tvg-logo="" group-title="SERVIDOR 1",EL PLUS HD  1
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3913
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER HD 1" tvg-logo="" group-title="SERVIDOR 1",PREMIER HD 1
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3914
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER HD 4" tvg-logo="" group-title="SERVIDOR 1",PREMIER HD 4
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3915
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER HD 2" tvg-logo="" group-title="SERVIDOR 1",PREMIER HD 2
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3916
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER HD 3" tvg-logo="" group-title="SERVIDOR 1",PREMIER HD 3
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3917
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER HD 5" tvg-logo="" group-title="SERVIDOR 1",PREMIER HD 5
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3918
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER HD 6" tvg-logo="" group-title="SERVIDOR 1",PREMIER HD 6
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3919
-#EXTINF:-1 tvg-id="" tvg-name="Sportv HD" tvg-logo="" group-title="SERVIDOR 1",Sportv HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3920
-#EXTINF:-1 tvg-id="" tvg-name="Sportv HD 2" tvg-logo="" group-title="SERVIDOR 1",Sportv HD 2
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3921
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD 3" tvg-logo="" group-title="SERVIDOR 1",SPORTV HD 3
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3922
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD" tvg-logo="" group-title="SERVIDOR 1",BAND SPORTS HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3923
-#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS HD" tvg-logo="" group-title="SERVIDOR 1",ALL SPORTS HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3924
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="SERVIDOR 1",Fox Sports 2 HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3925
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD" tvg-logo="" group-title="SERVIDOR 1",BAND SPORTS HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3926
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="SERVIDOR 1",ESPN HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3927
-#EXTINF:-1 tvg-id="" tvg-name="BAND FHD" tvg-logo="" group-title="SERVIDOR 1",BAND FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3928
-#EXTINF:-1 tvg-id="" tvg-name="Band News FHD" tvg-logo="" group-title="SERVIDOR 1",Band News FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3929
-#EXTINF:-1 tvg-id="" tvg-name="Record FHD" tvg-logo="" group-title="SERVIDOR 1",Record FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3930
-#EXTINF:-1 tvg-id="" tvg-name="Record News FHD" tvg-logo="" group-title="SERVIDOR 1",Record News FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3931
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB FHD" tvg-logo="" group-title="SERVIDOR 1",GLOOB FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3932
-#EXTINF:-1 tvg-id="" tvg-name="Sbt  sp FHD" tvg-logo="" group-title="SERVIDOR 1",Sbt  sp FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3933
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBO SAT FHD" tvg-logo="" group-title="SERVIDOR 1",MAIS GLOBO SAT FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3934
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO HD 2 RJ" tvg-logo="" group-title="SERVIDOR 1",GLOBO HD 2 RJ
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3936
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO tv cambugi" tvg-logo="" group-title="SERVIDOR 1",GLOBO tv cambugi
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3937
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VERDES MARES HD" tvg-logo="" group-title="SERVIDOR 1",GLOBO VERDES MARES HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3938
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="" group-title="SERVIDOR 1",GLOBO MINAS HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3939
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO MINAS SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3940
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE FHD" tvg-logo="" group-title="SERVIDOR 1",GLOBO NORDESTE FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3941
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO FHD  sp" tvg-logo="" group-title="SERVIDOR 1",GLOBO FHD  sp
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3942
-#EXTINF:-1 tvg-id="" tvg-name="GLOBOASILIA SD" tvg-logo="" group-title="SERVIDOR 1",GLOBOASILIA SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3943
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO EPTV CAMPINAS SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3944
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO EPTV RIBEIRAO PRETO SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3945
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO EPTV SAO CARLOS SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3946
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO HD SP" tvg-logo="" group-title="SERVIDOR 1",GLOBO HD SP
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3947
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO INTER TV CABUGI SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3948
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FHD" tvg-logo="" group-title="SERVIDOR 1",GLOBO NEWS FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3949
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO NORDESTE SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3950
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA MANAUS SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO REDE AMAZONICA MANAUS SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3951
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO RJ SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3952
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC TV CURITIBA HD" tvg-logo="" group-title="SERVIDOR 1",GLOBO RPC TV CURITIBA HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3953
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO TV ANHANGUERA GOIANIA SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3954
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO TV BAHIA SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3955
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMERICA CUIABA SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO TV CENTRO AMERICA CUIABA SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3956
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO TV LIBERAL BELEM SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3957
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO TV TEM BAURU SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3958
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO TV TEM SOROCABA SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3959
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SANTOS SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO TV TRIBUNA SANTOS SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3960
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO TV VANGUARDA S. J. DOS CAMPOS SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3961
-#EXTINF:-1 tvg-id="" tvg-name="GLOBOASILIA HDBR" tvg-logo="" group-title="SERVIDOR 1",GLOBOASILIA HDBR
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3962
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES SD" tvg-logo="" group-title="SERVIDOR 1",GLOBO TV VERDES MARES SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3963
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO FHD GOIAS" tvg-logo="" group-title="SERVIDOR 1",GLOBO FHD GOIAS
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3964
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="" group-title="SERVIDOR 1",GLOBO RJ HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3965
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VERDES FHD" tvg-logo="" group-title="SERVIDOR 1",GLOBO VERDES FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3966
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VERDES MARES HD" tvg-logo="" group-title="SERVIDOR 1",GLOBO VERDES MARES HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3967
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC FLORIANOPOLIS FHD" tvg-logo="" group-title="SERVIDOR 1",GLOBO NSC FLORIANOPOLIS FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3968
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="" group-title="SERVIDOR 1",GLOBO NSC FLORIANOPOLIS HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3969
-#EXTINF:-1 tvg-id="" tvg-name="globo rbs porto alegre sd" tvg-logo="" group-title="SERVIDOR 1",globo rbs porto alegre sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3970
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS FHD" tvg-logo="" group-title="SERVIDOR 1",GLOBO RBS FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3971
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS HD" tvg-logo="" group-title="SERVIDOR 1",GLOBO RBS HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3972
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV SD" tvg-logo="" group-title="SERVIDOR 1",REDE TV SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3973
-#EXTINF:-1 tvg-id="" tvg-name="sbt parana sd" tvg-logo="" group-title="SERVIDOR 1",sbt parana sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3974
-#EXTINF:-1 tvg-id="" tvg-name="RECORD HD" tvg-logo="" group-title="SERVIDOR 1",RECORD HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3975
-#EXTINF:-1 tvg-id="" tvg-name="Sbt sp HD" tvg-logo="" group-title="SERVIDOR 1",Sbt sp HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3976
-#EXTINF:-1 tvg-id="" tvg-name="sbt sp sd" tvg-logo="" group-title="SERVIDOR 1",sbt sp sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3979
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="" group-title="SERVIDOR 1",BAND NEWS HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3980
-#EXTINF:-1 tvg-id="" tvg-name="A&E FHD" tvg-logo="" group-title="SERVIDOR 1",A&E FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3981
-#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="" group-title="SERVIDOR 1",AXN FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3982
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY FHD" tvg-logo="" group-title="SERVIDOR 1",COMEDY FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3983
-#EXTINF:-1 tvg-id="" tvg-name="FOX FHD" tvg-logo="" group-title="SERVIDOR 1",FOX FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3984
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE FHD" tvg-logo="" group-title="SERVIDOR 1",FOX LIFE FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3985
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium FHD 1" tvg-logo="" group-title="SERVIDOR 1",Fox Premium FHD 1
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3986
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM FHD 2" tvg-logo="" group-title="SERVIDOR 1",FOX PREMIUM FHD 2
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3987
-#EXTINF:-1 tvg-id="" tvg-name="Hbo 2 FHD" tvg-logo="" group-title="SERVIDOR 1",Hbo 2 FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3988
-#EXTINF:-1 tvg-id="" tvg-name="Hbo FHD" tvg-logo="" group-title="SERVIDOR 1",Hbo FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3989
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS FHD" tvg-logo="" group-title="SERVIDOR 1",HBO PLUS FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3990
-#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME FHD" tvg-logo="" group-title="SERVIDOR 1",MAX PRIME FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3991
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL FHD" tvg-logo="" group-title="SERVIDOR 1",WARNER CHANNEL FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3992
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="" group-title="SERVIDOR 1",STUDIO UNIVERSAL FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3993
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES FHD" tvg-logo="" group-title="SERVIDOR 1",TNT SERIES FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3994
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch FHD" tvg-logo="" group-title="SERVIDOR 1",Telecine Touch FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3995
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium FHD" tvg-logo="" group-title="SERVIDOR 1",Telecine Premium FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3996
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca  FHD" tvg-logo="" group-title="SERVIDOR 1",Telecine Pipoca  FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3997
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun FHD" tvg-logo="" group-title="SERVIDOR 1",Telecine Fun FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3998
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD" tvg-logo="" group-title="SERVIDOR 1",Telecine Action FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/3999
-#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 FHD" tvg-logo="" group-title="SERVIDOR 1",ARTE 1 FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4000
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX FHD" tvg-logo="" group-title="SERVIDOR 1",CINEMAX FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4001
-#EXTINF:-1 tvg-id="" tvg-name="FX FHD" tvg-logo="" group-title="SERVIDOR 1",FX FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4002
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE FHD" tvg-logo="" group-title="SERVIDOR 1",HBO SIGNATURE FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4003
-#EXTINF:-1 tvg-id="" tvg-name="MAX FHD" tvg-logo="" group-title="SERVIDOR 1",MAX FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4004
-#EXTINF:-1 tvg-id="" tvg-name="MAX FHD" tvg-logo="" group-title="SERVIDOR 1",MAX FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4005
-#EXTINF:-1 tvg-id="" tvg-name="FILM ARTS FHD" tvg-logo="" group-title="SERVIDOR 1",FILM ARTS FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4006
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY FHD" tvg-logo="" group-title="SERVIDOR 1",HBO FAMILY FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4007
-#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="" group-title="SERVIDOR 1",TNT FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4008
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP FHD" tvg-logo="" group-title="SERVIDOR 1",MAX UP FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4009
-#EXTINF:-1 tvg-id="" tvg-name="MEGA PIX FHD" tvg-logo="" group-title="SERVIDOR 1",MEGA PIX FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4010
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT FHD" tvg-logo="" group-title="SERVIDOR 1",TELECINE CULT FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4011
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="" group-title="SERVIDOR 1",UNIVERSAL CHANNEL FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4012
-#EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="" group-title="SERVIDOR 1",AMC SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4013
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY SD" tvg-logo="" group-title="SERVIDOR 1",COMEDY SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4014
-#EXTINF:-1 tvg-id="" tvg-name="MAX SD" tvg-logo="" group-title="SERVIDOR 1",MAX SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4015
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV SD" tvg-logo="" group-title="SERVIDOR 1",FISH TV SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4016
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE SD" tvg-logo="" group-title="SERVIDOR 1",FOX LIFE SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4017
-#EXTINF:-1 tvg-id="" tvg-name="FX SD" tvg-logo="" group-title="SERVIDOR 1",FX SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4018
-#EXTINF:-1 tvg-id="" tvg-name="studio universal sd" tvg-logo="" group-title="SERVIDOR 1",studio universal sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4019
-#EXTINF:-1 tvg-id="" tvg-name="a&e sd" tvg-logo="" group-title="SERVIDOR 1",a&e sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4020
-#EXTINF:-1 tvg-id="" tvg-name="axn sd" tvg-logo="" group-title="SERVIDOR 1",axn sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4021
-#EXTINF:-1 tvg-id="" tvg-name="tcm sd" tvg-logo="" group-title="SERVIDOR 1",tcm sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4022
-#EXTINF:-1 tvg-id="" tvg-name="telecine action sd" tvg-logo="" group-title="SERVIDOR 1",telecine action sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4023
-#EXTINF:-1 tvg-id="" tvg-name="cinemax sd" tvg-logo="" group-title="SERVIDOR 1",cinemax sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4024
-#EXTINF:-1 tvg-id="" tvg-name="gnt sd" tvg-logo="" group-title="SERVIDOR 1",gnt sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4025
-#EXTINF:-1 tvg-id="" tvg-name="hbo 2 sd" tvg-logo="" group-title="SERVIDOR 1",hbo 2 sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4026
-#EXTINF:-1 tvg-id="" tvg-name="hbo plus sd" tvg-logo="" group-title="SERVIDOR 1",hbo plus sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4027
-#EXTINF:-1 tvg-id="" tvg-name="paramount sd" tvg-logo="" group-title="SERVIDOR 1",paramount sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4028
-#EXTINF:-1 tvg-id="" tvg-name="gnt sd" tvg-logo="" group-title="SERVIDOR 1",gnt sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4029
-#EXTINF:-1 tvg-id="" tvg-name="hbo 2 sd" tvg-logo="" group-title="SERVIDOR 1",hbo 2 sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4030
-#EXTINF:-1 tvg-id="" tvg-name="hbo plus sd" tvg-logo="" group-title="SERVIDOR 1",hbo plus sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4031
-#EXTINF:-1 tvg-id="" tvg-name="paramount sd" tvg-logo="" group-title="SERVIDOR 1",paramount sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4032
-#EXTINF:-1 tvg-id="" tvg-name="hbo sd" tvg-logo="" group-title="SERVIDOR 1",hbo sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4033
-#EXTINF:-1 tvg-id="" tvg-name="nhk sd" tvg-logo="" group-title="SERVIDOR 1",nhk sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4034
-#EXTINF:-1 tvg-id="" tvg-name="filmes artes sd" tvg-logo="" group-title="SERVIDOR 1",filmes artes sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4035
-#EXTINF:-1 tvg-id="" tvg-name="food network sd" tvg-logo="" group-title="SERVIDOR 1",food network sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4036
-#EXTINF:-1 tvg-id="" tvg-name="life time sd" tvg-logo="" group-title="SERVIDOR 1",life time sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4039
-#EXTINF:-1 tvg-id="" tvg-name="max prime sd" tvg-logo="" group-title="SERVIDOR 1",max prime sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4040
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="SERVIDOR 1",FOX LIFE HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4041
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 HD" tvg-logo="" group-title="SERVIDOR 1",Fox Premium 2 HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4042
-#EXTINF:-1 tvg-id="" tvg-name="HBO  HD" tvg-logo="" group-title="SERVIDOR 1",HBO  HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4043
-#EXTINF:-1 tvg-id="" tvg-name="Hbo 2 HD" tvg-logo="" group-title="SERVIDOR 1",Hbo 2 HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4044
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="" group-title="SERVIDOR 1",HBO PLUS HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4045
-#EXTINF:-1 tvg-id="" tvg-name="MAXPRIME HD" tvg-logo="" group-title="SERVIDOR 1",MAXPRIME HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4046
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="" group-title="SERVIDOR 1",Telecine Action HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4047
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="" group-title="SERVIDOR 1",Telecine Fun HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4048
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="" group-title="SERVIDOR 1",Telecine Pipoca HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4049
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="" group-title="SERVIDOR 1",Telecine Premium HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4050
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="" group-title="SERVIDOR 1",Telecine Touch HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4051
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="SERVIDOR 1",TLC HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4052
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="" group-title="SERVIDOR 1",TNT SERIES HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4053
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="SERVIDOR 1",AXN HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4054
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="SERVIDOR 1",AMC HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4055
-#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="SERVIDOR 1",A&E HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4056
-#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 HD" tvg-logo="" group-title="SERVIDOR 1",ARTE 1 HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4057
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY HD" tvg-logo="" group-title="SERVIDOR 1",CANAL SONY HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4058
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="" group-title="SERVIDOR 1",CINEMAX HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4059
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY HD" tvg-logo="" group-title="SERVIDOR 1",COMEDY HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4060
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="SERVIDOR 1",TNT HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4061
-#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME HD" tvg-logo="" group-title="SERVIDOR 1",MAX PRIME HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4062
-#EXTINF:-1 tvg-id="" tvg-name="MEGA PIX HD" tvg-logo="" group-title="SERVIDOR 1",MEGA PIX HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4063
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD" tvg-logo="" group-title="SERVIDOR 1",TELECINE CULT HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4064
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="" group-title="SERVIDOR 1",HBO SIGNATURE HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4065
-#EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="" group-title="SERVIDOR 1",AMC SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4066
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="" group-title="SERVIDOR 1",ANIMAL PLANET FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4067
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo FHD" tvg-logo="" group-title="SERVIDOR 1",Discovery Turbo FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4068
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER FHD" tvg-logo="" group-title="SERVIDOR 1",DISCOVERY THEATER FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4069
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS FHD" tvg-logo="" group-title="SERVIDOR 1",DISCOVERY KIDS FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4070
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD FHD" tvg-logo="" group-title="SERVIDOR 1",DISCOVERY WORLD FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4071
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL FHD" tvg-logo="" group-title="SERVIDOR 1",DISNEY CHANNEL FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4072
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK FHD" tvg-logo="" group-title="SERVIDOR 1",FOOD NETWORK FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4073
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="" group-title="SERVIDOR 1",DISCOVERY CHANNEL FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4074
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV FHD" tvg-logo="" group-title="SERVIDOR 1",FISH TV FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4075
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA FHD sp" tvg-logo="" group-title="SERVIDOR 1",TV GAZETA FHD sp
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4076
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD" tvg-logo="" group-title="SERVIDOR 1",ANIMAL PLANET SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4077
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY SD" tvg-logo="" group-title="SERVIDOR 1",HISTORY SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4078
-#EXTINF:-1 tvg-id="" tvg-name="discovery channel sd" tvg-logo="" group-title="SERVIDOR 1",discovery channel sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4081
-#EXTINF:-1 tvg-id="" tvg-name="discovery h&h sd" tvg-logo="" group-title="SERVIDOR 1",discovery h&h sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4082
-#EXTINF:-1 tvg-id="" tvg-name="natgeo wild sd" tvg-logo="" group-title="SERVIDOR 1",natgeo wild sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4083
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="" group-title="SERVIDOR 1",DISCOVERY TURBO HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4084
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="" group-title="SERVIDOR 1",HISTORY HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4085
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="" group-title="SERVIDOR 1",DISCOVERY CHANNEL HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4086
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD" tvg-logo="" group-title="SERVIDOR 1",DISCOVERY H&H HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4087
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="" group-title="SERVIDOR 1",DISCOVERY SCIENCE HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4088
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD" tvg-logo="" group-title="SERVIDOR 1",DISCOVERY THEATER HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4089
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="" group-title="SERVIDOR 1",DISCOVERY WORLD HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4090
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="SERVIDOR 1",DISNEY CHANNEL HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4091
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD" tvg-logo="" group-title="SERVIDOR 1",Cartoon Network FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4092
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS FHD" tvg-logo="" group-title="SERVIDOR 1",NATGEO KIDS FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4093
-#EXTINF:-1 tvg-id="" tvg-name="BOOMBERANG FHD" tvg-logo="" group-title="SERVIDOR 1",BOOMBERANG FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4094
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR FHD" tvg-logo="" group-title="SERVIDOR 1",DISNEY JR FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4095
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD FHD" tvg-logo="" group-title="SERVIDOR 1",DISNEY XD FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4096
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD FHD" tvg-logo="" group-title="SERVIDOR 1",NATGEO WILD FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4097
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR FHD" tvg-logo="" group-title="SERVIDOR 1",NICK JR FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4098
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT FHD" tvg-logo="" group-title="SERVIDOR 1",PARAMOUNT FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4099
-#EXTINF:-1 tvg-id="" tvg-name="NICKLODEON FHD" tvg-logo="" group-title="SERVIDOR 1",NICKLODEON FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4100
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV SD" tvg-logo="" group-title="SERVIDOR 1",BABY TV SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4101
-#EXTINF:-1 tvg-id="" tvg-name="boomberang sd" tvg-logo="" group-title="SERVIDOR 1",boomberang sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4102
-#EXTINF:-1 tvg-id="" tvg-name="cartoon network sd" tvg-logo="" group-title="SERVIDOR 1",cartoon network sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4103
-#EXTINF:-1 tvg-id="" tvg-name="disney sd" tvg-logo="" group-title="SERVIDOR 1",disney sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4104
-#EXTINF:-1 tvg-id="" tvg-name="nick jr sd" tvg-logo="" group-title="SERVIDOR 1",nick jr sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4105
-#EXTINF:-1 tvg-id="" tvg-name="tooncast sd" tvg-logo="" group-title="SERVIDOR 1",tooncast sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4106
-#EXTINF:-1 tvg-id="" tvg-name="BOOMBERANG HD" tvg-logo="" group-title="SERVIDOR 1",BOOMBERANG HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4107
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD" tvg-logo="" group-title="SERVIDOR 1",DISCOVERY KIDS HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4108
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD" tvg-logo="" group-title="SERVIDOR 1",DISNEY JR HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4109
-#EXTINF:-1 tvg-id="" tvg-name="NICK  JR HD" tvg-logo="" group-title="SERVIDOR 1",NICK  JR HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4110
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS HD" tvg-logo="" group-title="SERVIDOR 1",NATGEO KIDS HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4111
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD" tvg-logo="" group-title="SERVIDOR 1",DISNEY XD HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4112
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST HD" tvg-logo="" group-title="SERVIDOR 1",TOONCAST HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4113
-#EXTINF:-1 tvg-id="" tvg-name="NICK HD" tvg-logo="" group-title="SERVIDOR 1",NICK HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4114
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="" group-title="SERVIDOR 1",FOOD NETWORK HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4115
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="" group-title="SERVIDOR 1",NATGEO WILD HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4116
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE FHD" tvg-logo="" group-title="SERVIDOR 1",MTV LIVE FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4117
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV FHD" tvg-logo="" group-title="SERVIDOR 1",DOG TV FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4118
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL FHD" tvg-logo="" group-title="SERVIDOR 1",CANAL BRASIL FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4119
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY FHD" tvg-logo="" group-title="SERVIDOR 1",HISTORY FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4120
-#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME FHD" tvg-logo="" group-title="SERVIDOR 1",LIFE TIME FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4121
-#EXTINF:-1 tvg-id="" tvg-name="MTV FHD" tvg-logo="" group-title="SERVIDOR 1",MTV FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4122
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW  FHD" tvg-logo="" group-title="SERVIDOR 1",MULTISHOW  FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4123
-#EXTINF:-1 tvg-id="" tvg-name="SYFY FHD" tvg-logo="" group-title="SERVIDOR 1",SYFY FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4124
-#EXTINF:-1 tvg-id="" tvg-name="TBS FHD" tvg-logo="" group-title="SERVIDOR 1",TBS FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4125
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA FHD" tvg-logo="" group-title="SERVIDOR 1",TV CULTURA FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4126
-#EXTINF:-1 tvg-id="" tvg-name="VH1 FHD" tvg-logo="" group-title="SERVIDOR 1",VH1 FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4127
-#EXTINF:-1 tvg-id="" tvg-name="GNT FHD" tvg-logo="" group-title="SERVIDOR 1",GNT FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4128
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURAL FHD" tvg-logo="" group-title="SERVIDOR 1",LOVE NATURAL FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4129
-#EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="" group-title="SERVIDOR 1",TLC FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4130
-#EXTINF:-1 tvg-id="" tvg-name="VIVA FHD" tvg-logo="" group-title="SERVIDOR 1",VIVA FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4131
-#EXTINF:-1 tvg-id="" tvg-name="WOHOO FHD" tvg-logo="" group-title="SERVIDOR 1",WOHOO FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4132
-#EXTINF:-1 tvg-id="" tvg-name="BIS FHD" tvg-logo="" group-title="SERVIDOR 1",BIS FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4133
-#EXTINF:-1 tvg-id="" tvg-name="OFF FHD" tvg-logo="" group-title="SERVIDOR 1",OFF FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4135
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMO FHD" tvg-logo="" group-title="SERVIDOR 1",ZOOMO FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4136
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX FHD" tvg-logo="" group-title="SERVIDOR 1",TRAVEL BOX FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4137
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO FHD" tvg-logo="" group-title="SERVIDOR 1",TV NOVO TEMPO FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4138
-#EXTINF:-1 tvg-id="" tvg-name="TV RATIMBUM FHD" tvg-logo="" group-title="SERVIDOR 1",TV RATIMBUM FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4139
-#EXTINF:-1 tvg-id="" tvg-name="GUIA FUTEBOL FHD" tvg-logo="" group-title="SERVIDOR 1",GUIA FUTEBOL FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4140
-#EXTINF:-1 tvg-id="" tvg-name="IDEAL TV FHD" tvg-logo="" group-title="SERVIDOR 1",IDEAL TV FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4141
-#EXTINF:-1 tvg-id="" tvg-name="MEGA TV FHD" tvg-logo="" group-title="SERVIDOR 1",MEGA TV FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4142
-#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL FHD" tvg-logo="" group-title="SERVIDOR 1",REDE GOSPEL FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4143
-#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN FHD" tvg-logo="" group-title="SERVIDOR 1",SMITHSONIAN FHD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4144
-#EXTINF:-1 tvg-id="" tvg-name="BIS SD" tvg-logo="" group-title="SERVIDOR 1",BIS SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4145
-#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE TV SD" tvg-logo="" group-title="SERVIDOR 1",BOA VONTADE TV SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4146
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL SD" tvg-logo="" group-title="SERVIDOR 1",CNN INTERNACIONAL SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4147
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL SD" tvg-logo="" group-title="SERVIDOR 1",CANAL BRASIL SD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4148
-#EXTINF:-1 tvg-id="" tvg-name="play tv sd" tvg-logo="" group-title="SERVIDOR 1",play tv sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4149
-#EXTINF:-1 tvg-id="" tvg-name="CAN" tvg-logo="" group-title="SERVIDOR 1",CAN
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4150
-#EXTINF:-1 tvg-id="" tvg-name="prime box sd" tvg-logo="" group-title="SERVIDOR 1",prime box sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4151
-#EXTINF:-1 tvg-id="" tvg-name="sic sd" tvg-logo="" group-title="SERVIDOR 1",sic sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4153
-#EXTINF:-1 tvg-id="" tvg-name="sic sd" tvg-logo="" group-title="SERVIDOR 1",sic sd
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4154
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD" tvg-logo="" group-title="SERVIDOR 1",DOG TV HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4157
-#EXTINF:-1 tvg-id="" tvg-name="EL PLUS HD  1" tvg-logo="" group-title="SERVIDOR 1",EL PLUS HD  1
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4159
-#EXTINF:-1 tvg-id="" tvg-name="MIAMI TV HD" tvg-logo="" group-title="SERVIDOR 1",MIAMI TV HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4160
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="SERVIDOR 1",MTV HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4161
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="" group-title="SERVIDOR 1",MTV LIVE HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4162
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA HD*" tvg-logo="" group-title="SERVIDOR 1",TV CULTURA HD*
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4164
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA HD" tvg-logo="" group-title="SERVIDOR 1",TV GAZETA HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4165
-#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES HD" tvg-logo="" group-title="SERVIDOR 1",TV VITORIA ES HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4167
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA HD **" tvg-logo="" group-title="SERVIDOR 1",TV CULTURA HD **
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4168
-#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="" group-title="SERVIDOR 1",BIS HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4172
-#EXTINF:-1 tvg-id="" tvg-name="RECORD PARANA HD" tvg-logo="" group-title="SERVIDOR 1",RECORD PARANA HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4173
-#EXTINF:-1 tvg-id="" tvg-name="ID HD" tvg-logo="" group-title="SERVIDOR 1",ID HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4174
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA HD" tvg-logo="" group-title="SERVIDOR 1",A FAZENDA HD
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4176
-#EXTINF:-1 tvg-id="" tvg-name="BAND 4K" tvg-logo="" group-title="SERVIDOR 1",BAND 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4177
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE 4K" tvg-logo="" group-title="SERVIDOR 1",COMBATE 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4178
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO 4K" tvg-logo="" group-title="SERVIDOR 1",GLOBO 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4179
-#EXTINF:-1 tvg-id="" tvg-name="REDETV 4K" tvg-logo="" group-title="SERVIDOR 1",REDETV 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4181
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER 4K" tvg-logo="" group-title="SERVIDOR 1",PREMIER 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4182
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="" group-title="SERVIDOR 1",DISCOVERY CHANNEL 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4183
-#EXTINF:-1 tvg-id="" tvg-name="TNT 4K" tvg-logo="" group-title="SERVIDOR 1",TNT 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4184
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 4K" tvg-logo="" group-title="SERVIDOR 1",FOX SPORTS 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4185
-#EXTINF:-1 tvg-id="" tvg-name="SBT 4K" tvg-logo="" group-title="SERVIDOR 1",SBT 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4186
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET 4K" tvg-logo="" group-title="SERVIDOR 1",ANIMAL PLANET 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4187
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4K" tvg-logo="" group-title="SERVIDOR 1",SPORTV 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4188
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW 4K" tvg-logo="" group-title="SERVIDOR 1",MULTISHOW 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4189
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON 4K" tvg-logo="" group-title="SERVIDOR 1",CARTOON 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4190
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX 4K" tvg-logo="" group-title="SERVIDOR 1",MEGAPIX 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4191
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 4K" tvg-logo="" group-title="SERVIDOR 1",FOX SPORTS 2 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4192
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO 4K" tvg-logo="" group-title="SERVIDOR 1",NATGEO 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4193
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES 4K" tvg-logo="" group-title="SERVIDOR 1",TNT SERIES 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4194
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="" group-title="SERVIDOR 1",ESPN 4K
-http://qtvplay.xyz:25461/b8UYGCZykt/i8ulNHMHeN/4195
+http://
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",AMC
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28659
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84VP3kM.jpg" group-title="TELECINES",AMc
+http://elitex.me:8880/lourdes/lourdes123/5477
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOTuMOs.png" group-title="TELECINES",CINEMAX
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28632
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOTuMOs.png" group-title="TELECINES",Cinemax
+http://elitex.me:8880/lourdes/lourdes123/3751
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",HBO
+http://elitex.me:8880/lourdes/lourdes123/273
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbohd.png" group-title="TELECINES",hBO
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28560
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBO 2
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28563
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/hbo2hd.png" group-title="TELECINES",HBo 2
+http://elitex.me:8880/lourdes/lourdes123/279
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SIGNATURE
+http://elitex.me:8880/lourdes/lourdes123/267
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icgs8ai.png" group-title="TELECINES",HBO SignatUre
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28856
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BOzZZ.png" group-title="TELECINES",HBO PLUS
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28857
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BOzZZ.png" group-title="TELECINES",HBO Plus
+http://elitex.me:8880/lourdes/lourdes123/270
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j8Tl1Iy.png" group-title="TELECINES",HBO FAMILY
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28983
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j8Tl1Iy.png" group-title="TELECINES",HBO Family
+http://elitex.me:8880/lourdes/lourdes123/276
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ShjQlkb.png" group-title="TELECINES",MAX
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28975
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ShjQlkb.png" group-title="TELECINES",Max
+http://elitex.me:8880/lourdes/lourdes123/4827
+#EXTINF:-1 tvg-logo="https://imgur.com/RhneMdo.png" group-title="TELECINES",MAX PRIME
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28974
+#EXTINF:-1 tvg-logo="https://imgur.com/RhneMdo.png" group-title="TELECINES",MAX Prime
+http://elitex.me:8880/lourdes/lourdes123/4828
+#EXTINF:-1 tvg-logo="https://imgur.com/teF23NM.png" group-title="TELECINES",MAX UP
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/35301
+#EXTINF:-1 tvg-logo="https://imgur.com/teF23NM.png" group-title="TELECINES",Max UP
+http://elitex.me:8880/lourdes/lourdes123/5043
+#EXTINF:-1 tvg-logo="https://imgur.com/ewHyP3J.png" group-title="TELECINES",MEGAPIX
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28540
+#EXTINF:-1 tvg-logo="https://imgur.com/ewHyP3J.png" group-title="TELECINES",Megapix
+http://elitex.me:8880/lourdes/lourdes123/244
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT
+http://elitex.me:8880/lourdes/lourdes123/228
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",PARAMOUNT *
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28847
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p44PXwF.png" group-title="TELECINES",Paramount
+http://psrv.io:80/laercio/laercio123/18596
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPACE
+http://elitex.me:8880/lourdes/lourdes123/4947
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPAcE
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28486
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPAce
+http://clienteworld.com:8080/jhonny/123456/8013
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",SPaCE
+http://psrv.io:80/laercio/laercio123/18564
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqvug0y.png" group-title="TELECINES",Space
+http://89.187.173.219:80/eugenio/eugenio123/368
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TNT
+http://elitex.me:8880/lourdes/lourdes123/263
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TNt
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28458
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",tnt
+http://clienteworld.com:8080/jhonny/123456/7995
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",tnT
+http://psrv.io:80/laercio/laercio123/18536
+#EXTINF:-1 tvg-logo="https://imgur.com/wZMS70a.png" group-title="TELECINES",TnT
+http://89.187.173.219:80/eugenio/eugenio123/361
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ACTION
+http://elitex.me:8880/lourdes/lourdes123/296
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ActioN
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28473
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ijged34.png" group-title="TELECINES",TELECINE ACTIOn
+http://clienteworld.com:8080/jhonny/123456/8171
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE CULT
+http://elitex.me:8880/lourdes/lourdes123/4791
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE Cult
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28471
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB8w8tL.png" group-title="TELECINES",TELECINE CulT
+http://clienteworld.com:8080/jhonny/123456/8170
+#EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE FUN
+http://elitex.me:8880/lourdes/lourdes123/293
+#EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE Fun
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28832
+#EXTINF:-1 tvg-logo="https://imgur.com/UBWGdLY.png" group-title="TELECINES",TELECINE FuN
+http://clienteworld.com:8080/jhonny/123456/8169
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE PIPOCA
+http://elitex.me:8880/lourdes/lourdes123/290
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE Pipoca
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28467
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECINE PipocA
+http://clienteworld.com:8080/jhonny/123456/8168
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkdydlA.png" group-title="TELECINES",TELECiNE PIPOCA
+http://psrv.io:80/laercio/laercio123/18545
+#EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PREMIUM
+http://elitex.me:8880/lourdes/lourdes123/287
+#EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE Premium
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28465
+#EXTINF:-1 tvg-logo="https://imgur.com/Q3ztKGU.png" group-title="TELECINES",TELECINE PremiuM
+http://clienteworld.com:8080/jhonny/123456/8167
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE TOUCH
+http://elitex.me:8880/lourdes/lourdes123/284
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE Touch
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28463
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE ToucH
+http://clienteworld.com:8080/jhonny/123456/8166
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lra98G6.png" group-title="TELECINES",TELECINE TouCH
+http://psrv.io:80/laercio/laercio123/18541
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",TCM
+http://clienteworld.com:8080/jhonny/123456/8004
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tF5UaMZ.png" group-title="TELECINES",Tcm
+http://clienteworld.com:8080/gilberto/gilberto123/8004
+#EXTINF:-1 tvg-logo="https://goo.gl/2ZBWuk.png" group-title="TELECINES",TNT SERIES
+http://clienteworld.com:8080/gilberto/gilberto123/8163
+#EXTINF:-1 tvg-logo="https://imgur.com/dioXXVw.png" group-title="TELECINES",SYFY
+http://clienteworld.com:8080/gilberto/gilberto123/8177
+
+--------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NtR5i4D.png" group-title="CANAIS DE SÉRIES",SONY
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28637
+#EXTINF:-1 tvg-logo="https://imgur.com/NtR5i4D.png" group-title="CANAIS DE SÉRIES",Sony
+http://elitex.me:8880/lourdes/lourdes123/210
+#EXTINF:-1 tvg-logo="https://imgur.com/wBVNCbL.png" group-title="CANAIS DE SÉRIES",FOX
+http://clienteworld.com:8080/jhonny/123456/8217
+#EXTINF:-1 tvg-logo="https://imgur.com/wBVNCbL.png" group-title="CANAIS DE SÉRIES",Fox
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28591
+#EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX LIFE
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28588
+#EXTINF:-1 tvg-logo="http://igorlista.at.ua/Logos/thumbnail/Fox_Life.png" group-title="CANAIS DE SÉRIES",FOX Life
+http://elitex.me:8880/lourdes/lourdes123/250
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",STUDIO UNIVERSAL
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28479
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Studio-Universal.png" group-title="CANAIS DE SÉRIES",Studio Universal
+http://clienteworld.com:8080/jhonny/123456/8172
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",UNIVERSAL CHANNEL
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28443
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Universal-Channel.png" group-title="CANAIS DE SÉRIES",Universal Channel
+http://clienteworld.com:8080/jhonny/123456/8161
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",WARNER CHANNEL
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28435
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Warner.png" group-title="CANAIS DE SÉRIES",Warner Channel
+http://clienteworld.com:8080/jhonny/123456/8158
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",AXN
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28653
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/AXN.png" group-title="CANAIS DE SÉRIES",Axn
+http://elitex.me:8880/lourdes/lourdes123/231
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",FX
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28576
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/FX.png" group-title="CANAIS DE SÉRIES",Fx
+http://elitex.me:8880/lourdes/lourdes123/247
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",FoX PREMIUM 1
+http://elitex.me:8880/lourdes/lourdes123/257
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",FOX PREMIUM 1
+http://clienteworld.com:8080/jhonny/123456/8215
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIQJNWE.png" group-title="CANAIS DE SÉRIES",Fox PREMIUM 1
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28587
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Wh3INC.png" group-title="CANAIS DE SÉRIES",Fox Premium 1
+http://89.187.173.219:80/eugenio/eugenio123/345
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TBS.png" group-title="CANAIS DE SÉRIES",TBS
+http://clienteworld.com:8080/jhonny/123456/8005
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/TBS.png" group-title="CANAIS DE SÉRIES",Tbs
+http://clienteworld.com:8080/gilberto/gilberto123/8005
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KsBJ9fP.png" group-title="CANAIS DE SÉRIES",CINE FAMÍLIA
+http://greencorp.tech:80/diego/diego123/16456
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",CINE SKY
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WuRB4Rm.jpg" group-title="CANAIS DE SÉRIES",FILMES TERROR
+http://elitex.me:8880/lourdes/lourdes123/16705
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WuRB4Rm.jpg" group-title="CANAIS DE SÉRIES",CINE TERROR
+http://greencorp.tech:80/diego/diego123/57195
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",CINE MUNDO
+http://elitex.me:8880/lourdes/lourdes123/9860
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kr5WweR.jpg" group-title="CANAIS DE SÉRIES",CINE RELIGIOSO
+http://greencorp.tech:80/diego/diego123/57686
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",FILMES ACTION
+http://elitex.me:8880/lourdes/lourdes123/16966
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",MUSICA RELAXANTE
+http://elitex.me:8880/lourdes/lourdes123/19444
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",Vagalume Vibe
+http://clienteworld.com:8080/jhonny/123456/499
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",Vibe FM
+http://clienteworld.com:8080/jhonny/123456/507
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",MUSIC CLIMA
+https://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8?wowzasessionid=853872102
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",TOP CLIPES
+https://5d23bdca513db.streamlock.net:443/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",VH1 Classic
+http://89.187.173.219:80/eugenio/eugenio123/10299
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlrUwOh.jpg" group-title="CANAIS DE SÉRIES",MTV Internacional
+http://s.igiptv.com:8000/Tamim/tamim123/37517
+
+ 
+--------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTISHOW
+http://clienteworld.com:8080/jhonny/123456/8190
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULtiShow
+http://elitex.me:8880/lourdes/lourdes123/93
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTIshOW
+http://clienteworld.com:8080/gilberto/gilberto123/8190
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTY9sGU.png" group-title="TV ABERTA",MULTiSHOW
+http://psrv.io:80/laercio/laercio123/18613
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRD54a.png" group-title="TV ABERTA",MULTIsHOW GRAVADO
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/atpVyuY.png" group-title="TV ABERTA",AGRO BRASIL
+http://89.187.173.219:80/everton/everton123/4234
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO RIO
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28340
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO TV CABO BRANCO
+http://clienteworld.com:8080/gilberto/gilberto123/45025
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO TV CABO BrANCO
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/30741
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO SP
+http://clienteworld.com:8080/gilberto/gilberto123/8205
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLobo RJ
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_964/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+#EXTINF:-1 tvg-logo="http://img.brgo.xyz/img/globo.png" group-title="TV ABERTA",GLOBO RJ
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GLOBOSAT
+https://globolive.akamaized.net/d/c/x2800/s/hls-maisgsat24ha/hls-maisgsat24ha_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAIS GlOBOSAT
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28548
+#EXTINF:-1 tvg-logo="https://i.imgur.com/isMvrrE.png" group-title="TV ABERTA",MAiS GlOBOSAT
+http://psrv.io:80/laercio/laercio123/18625
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1846566125_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",Sbt
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwaBGDp.png" group-title="TV ABERTA",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BAND
+http://psrv.io:80/laercio/laercio123/18727
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",BanD
+http://89.187.173.219:80/eugenio/eugenio123/4096
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",Band
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28650
+#EXTINF:-1 tvg-logo="http://goo.gl/SZ94lw?Band-SP.png" group-title="TV ABERTA",bAND
+http://elitex.me:8880/lourdes/lourdes123/4895
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",RECORD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",Record
+http://elitex.me:8880/lourdes/lourdes123/336
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png" group-title="TV ABERTA",ReCORD
+http://clienteworld.com:8080/jhonny/123456/12959
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",VIVA
+https://globolive.akamaized.net/d/c/x2800/s/hls-viva24ha/hls-viva24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",Viva
+http://elitex.me:8880/lourdes/lourdes123/79
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnTrdFf.png" group-title="TV ABERTA",ViVA
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28437
+#EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDE TV
+https://5b7f3c45ab7c2.streamlock.net:443/9010/ngrp:9010_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png" group-title="TV ABERTA",REDe TV
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/escola.png" group-title="TV ABERTA",TV ESCOLA
+http://89.187.173.219:80/eugenio/eugenio123/95
+#EXTINF:-1 tvg-logo="http://logo.streamstv.me/picon/BRCanalDOBoiTV.png" group-title="TV ABERTA",CANAL DO BOI
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/35871
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiksGqK.png" group-title="TV ABERTA",Canal Rural
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28925
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psIffwK.png" group-title="TV ABERTA",TV APARECIDA
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28452
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YrVFhaB.png" group-title="TV ABERTA",TV BRASIL
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YrVFhaB.png" group-title="TV ABERTA",REDE BRASIL
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28496
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aByVBGY.png" group-title="TV ABERTA",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1229479860.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aByVBGY.png" group-title="TV ABERTA",CANAL BRASIL
+https://globolive.akamaized.net/d/c/x2800/s/hls-bra24ha/hls-bra24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aByVBGY.png" group-title="TV ABERTA",CANAl BRASIL
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/30933
+#EXTINF:-1 tvg-logo="http://goo.gl/ghXOcq" group-title="TV ABERTA",FUTURA
+https://globolive.akamaized.net/d/c/x2800/s/hls-futura24ha/hls-futura24ha_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="http://goo.gl/ghXOcq" group-title="TV ABERTA",FuTURA
+http://89.187.173.219:80/eugenio/eugenio123/7644
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQA7pwb.png" group-title="TV ABERTA",TV DIARIO
+#EXTINF:-1,TV DIARIO FORTALEZA HD
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28412
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",TV CULTURA
+https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlU6aiN.png" group-title="TV ABERTA",Tv CULTURA
+http://psrv.io:80/laercio/laercio123/18505
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWrV2C.png" group-title="TV ABERTA",TV CAMARA
+http://clienteworld.com:8080/jhonny/123456/7989
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEWrV2C.png" group-title="TV ABERTA",TV CaMARA
+http://89.187.173.219:80/eugenio/eugenio123/6258
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OQ3OMJ.png" group-title="TV ABERTA",TV SENADO
+http://clienteworld.com:8080/gilberto/gilberto123/7992
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P7yTVQy.png" group-title="TV ABERTA",GNT
+https://globolive.akamaized.net/d/c/x2800/s/hls-gnt24ha/hls-gnt24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7iMrUX5.png" group-title="TV ABERTA",TV GAZETA
+https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqHKvQa.png" group-title="TV ABERTA",TV A CRÍTICA
+https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BAND NEWS
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/29022
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",Band News
+http://elitex.me:8880/lourdes/lourdes123/5843
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BANd NEWs
+http://psrv.io:80/laercio/laercio123/18725
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w6eynwg.png" group-title="TV ABERTA",BaNd NEWs
+http://clienteworld.com:8080/gilberto/gilberto123/8148
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPmWoI8.png" group-title="TV ABERTA",BanD NEWS
+http://89.187.173.219:80/eugenio/eugenio123/531
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWS
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28811
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBO NEWs
+http://elitex.me:8880/lourdes/lourdes123/2826
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLOBo NEWS
+http://psrv.io:80/laercio/laercio123/18651
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLobo News
+http://clienteworld.com:8080/gilberto/gilberto123/8209
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foDpGyk.png" group-title="TV ABERTA",GLoBo NEWS
+https://globolive.akamaized.net/d/c/x2800/s/hls-gnews24ha/hls-gnews24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y8UUAoz.png" group-title="TV ABERTA",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAl
+http://fsrv.me:80/2021/123/1873
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY CENTRAL
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28628
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G449zP7.png" group-title="TV ABERTA",COMEDY Central
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/2861
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/4957
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV *
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28538
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",Mtv
+http://fsrv.me:80/2021/123/1783
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MtV
+http://clienteworld.com:8080/gilberto/gilberto123/8050
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogdt0vW.png" group-title="TV ABERTA",MTV Live
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28429
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEXSiYj.png" group-title="TV ABERTA",CANAL CURTA!
+http://psrv.io:80/laercio/laercio123/18703
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P7yTVQy.png" group-title="TV ABERTA",BIS - Clipes MPB ao Rock
+https://globolive.akamaized.net/d/c/x2800/s/hls-bis24ha/hls-bis24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+ 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/21w4wLR.jpg" group-title="SERIADOS",DOIS HOMENS E MEIO
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/5463
+#EXTINF:-1 tvg-logo="https://i.imgur.com/21w4wLR.jpg" group-title="SERIADOS",DOIS HOMENS & MEIO
+http://89.187.173.219:80/eugenio/eugenio123/6293
+#EXTINF:-1 tvg-logo="https://imgur.com/ykTEOd7.png" group-title="SERIADOS",PEGADINHAS SILVIO SANTOS
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/10795
+#EXTINF:-1 tvg-logo="https://imgur.com/ykTEOd7.png" group-title="SERIADOS",PEGADINHAS JOAO KLEBER
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/10796
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8PbTRC.jpg" group-title="SERIADOS",TODO MUNDO ODEIA O CHRIS
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/29740
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPORTV
+http://clienteworld.com:8080/jhonny/123456/8012
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SPOrTv
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28480
+#EXTINF:-1 tvg-logo="https://i.imgur.com/joDqDdl.png" group-title="ESPORTES",SpOrTv
+http://89.187.173.219:80/eugenio/eugenio123/115
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTv 2
+http://clienteworld.com:8080/jhonny/123456/8011
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Sportv2.png" group-title="ESPORTES",SPORTV 2
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28483
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SporTV 3
+http://clienteworld.com:8080/jhonny/123456/12811
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJZq5IK.png" group-title="ESPORTES",SPORTV 3
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/28481
+XTINF:-1 tvg-logo="https://i.imgur.com/SeY7Nc8.png" group-title="ESPORTES",BANDSPORTS
+http://clienteworld.com:8080/jhonny/123456/8236
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",Espn
+http://clienteworld.com:8080/jhonny/123456/8119
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgtoi20.png" group-title="ESPORTES",ESPN
+http://srv.mtvs.me:8880/Danielgatis/bjansksnsjjsnsns/28603
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PSadGNe.png" group-title="ESPORTES",ESPN Extra
+http://clienteworld.com:8080/jhonny/123456/8116
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuBBJ9H.png" group-title="ESPORTES",PREMIERE CLUBES
+http://clienteworld.com:8080/jhonny/123456/8029
+#EXTINF:-1 tvg-logo="http://logosigor.at.ua/Fox-Sports.png" group-title="ESPORTES",FOX SPORTS
+http://clienteworld.com:8080/jhonny/123456/8101
+
+--------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Animal-Planet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET
+http://clienteworld.com:8080/jhonny/123456/8239
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Channel.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL
+http://clienteworld.com:8080/jhonny/123456/8228
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kys6DSK.png" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION
+http://clienteworld.com:8080/jhonny/123456/8227
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QIvz01B.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE
+http://clienteworld.com:8080/gilberto/gilberto123/8129
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Discovery-Theater.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER
+http://clienteworld.com:8080/gilberto/gilberto123/8224
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KrZtaCb.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD
+http://clienteworld.com:8080/jhonny/123456/8222
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",ID: INVESTIGAÇÃO DISCOVERY
+http://srv.mtvs.me:8880/90UA8veh39/6brnYFg1Lt/29011
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY
+http://elitex.me:8880/nmQnRmfICe/RLUrNqnMrQ/109
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/investigacao-discovery.png" group-title="DOCUMENTÁRIOS",Id: INVESTIGAÇÃO DISCOVERY
+http://clienteworld.com:8080/jhonny/123456/8197
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC
+http://clienteworld.com:8080/jhonny/123456/8189
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Nat-Geo-Wild.png" group-title="DOCUMENTÁRIOS",NATGEO WILD
+http://clienteworld.com:8080/jhonny/123456/8187
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/The-History-Channel.png" group-title="DOCUMENTÁRIOS",HISTORY
+http://clienteworld.com:8080/jhonny/123456/8060
+#EXTINF:-1 tvg-logo="http://logos3.ucoz.com/H2more2history.png" group-title="DOCUMENTÁRIOS",H2
+http://clienteworld.com:8080/gilberto/gilberto123/8203
+
+--------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: 18+ Hot
+https://globolive.akamaized.net/d/c/x2800/s/hls-sexy24ha/hls-sexy24ha_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO: 18+ Prive
+http://clienteworld.com:8080/jhonny/123456/4148
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 1 24Hs
+http://clienteworld.com:8080/jhonny/123456/51478
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEX EXTREM
+http://89.187.173.219:80/eugenio/eugenio123/2206
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 2 24Hs
+http://clienteworld.com:8080/jhonny/123456/51479
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEX HOT
+http://89.187.173.219:80/eugenio/eugenio123/3716
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 3 24Hs
+http://clienteworld.com:8080/jhonny/123456/51480
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",PRIVÊ
+http://89.187.173.219:80/eugenio/eugenio123/2204
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 4 24Hs
+http://clienteworld.com:8080/jhonny/123456/51481
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEX EROTIC
+http://89.187.173.219:80/eugenio/eugenio123/2219
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 5 24Hs
+http://clienteworld.com:8080/jhonny/123456/52826
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEX REDLIGHT
+http://89.187.173.219:80/eugenio/eugenio123/2210
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 6 24Hs
+http://clienteworld.com:8080/jhonny/123456/52827
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",SEXO VENUS
+http://89.187.173.219:80/eugenio/eugenio123/2212
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgxFi0t.png" group-title="TV ABERTA",ADULTO 7 24Hs
+http://clienteworld.com:8080/jhonny/123456/52828
 
 
